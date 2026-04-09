@@ -467,7 +467,7 @@ SV Grödig                   0-3 LASK Linz
 SKN St. Pölten              1-3 SK Rapid Wien
   [Wöber (og) 90+6;  Wöber 17, Pavelic 73, Schwab 83]
 FC Red Bull Salzburg        2-1 Kapfenberger SV             [aet]
-  [Radosevic 20, Haidara 110; Joăo Victor 8]
+  [Radosevic 20, Haidara 110; João Victor 8]
 FK Austria Wien             1-2 FC Admira/Wacker Mödling
   [Friesenbichler 34; Knasmüllner 6, Monschein 14]
 
