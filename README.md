@@ -1,6 +1,6 @@
-# Europe (incl. Germany, Austria, etc.) 
+# Clubs  (Leagues & Cups)
 
-football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for Europe incl. Germany (Deutschland), Austria (Österreich), etc.
+football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) archive data for football club leagues & cups from around the world incl. England, Spain, Germany, Austria, Brazil & more
 
 
 
