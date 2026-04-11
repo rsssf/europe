@@ -386,7 +386,7 @@ West Ham U      2 Sunderland       0    Bilic 34, Raducioiu 90    24,077
 Dec 29
 Southampton     0 Liverpool        1    Barnes 76   15,222
 
-Jan 01 1997
+_ Jan 01 1997 _
 Arsenal         2 Middlesbro       0    Bergkamp 15, Wright 44   37,573
 Chelsea         1 Liverpool        0    Di Matteo 43 - 27,291
 Coventry C      2 Sunderland       2    Dublin 10, Diash 28 - Bridges 6,
@@ -874,7 +874,7 @@ West Ham United         0-1    Wrexham                   16,763
 Wimbledon               2-0    Crewe Alexandra            4,951
 Woking                  1-2    Coventry City              6,000
 
-Fourth Round
+▪ Fourth Round ▪
 Arsenal                 0-1    Leeds United              38,115
 Birmingham City         3-1    Stockport County          18,487
 Blackburn Rovers        1-2    Coventry City             21,123
@@ -892,10 +892,10 @@ Peterborough United     2-4    Wrexham                    8,734
 Portsmouth              3-0    Reading                   15,0 3.
 Queens Park Rangers     3-2    Barnsley                  14,317
 
-Replay
+▪ Replay ▪
 Wimbledon               1-0    Manchester United         25,6 1.
 
-Fifth Round
+▪ Fifth Round ▪
 Birmingham City         1-3    Wrexham                   21,511
 Bradford City           0-1    Sheffield Wednesday       17,830
 Chesterfield            1-0    Nottingham Forest          8,890
@@ -905,7 +905,7 @@ Leicester City          2-2    Chelsea                   19,125
 Manchester City         0-1    Middlesbrough             30,462
 Wimbledon               2-1    Queens Park Rangers       22,395
 
-Replay
+▪ Replay ▪
 Chelsea                 1-0    Leicester City            26,053  (aet)
 
 ▪ Quarterfinals ▪
@@ -918,7 +918,7 @@ Sheffield Wednesday     0-2    Wimbledon                 25,032
 Chelsea                 3-0    Wimbledon                 36,674
 Chesterfield            3-3    Middlesbrough             49,640
 
-Replay
+▪ Replay ▪
 Chesterfield            0-3    Middlesbrough             30,339
 
 ▪ Final ▪
@@ -1024,7 +1024,7 @@ Liverpool               4-1 Charlton Athletic
 Coventry City           0-1 Gillingham
 Arsenal                 5-2 Stoke City
 
-Fourth Round
+▪ Fourth Round ▪
 _ Nov 26 _
 Wimbledon               1-0 Aston Villa
 Oxford United           1-1 Southampton
@@ -1041,7 +1041,7 @@ _ Dec 18 _
 Southampton             3-2 Oxford United
 Stockport County        2-1 West Ham United
 
-Fifth Round
+▪ Fifth Round ▪
 _ Jan 8 _
 Bolton Wanderers        0-2 Wimbledon
 Middlesbrough           2-1 Liverpool
@@ -1050,7 +1050,7 @@ Ipswich Town            0-1 Leicester City
 _ Jan 22 _
 Stockport County        2-2 Southampton
 
-Replay
+▪ Replay ▪
 _ Jan 29 _
 Southampton             1-2 Stockport County
 
@@ -1068,10 +1068,10 @@ Wimbledon               1-1 Leicester City
 _ Mar 12 _
 Middlesbrough           0-1 Stockport County
 
-Final [London, Apr 6]
+▪ Final ▪  Apr 6, London
 Leicester City          1-1 Middlesbrough            (aet)
 
-Replay [Sheffield, Apr 16]
+▪ Replay ▪  Apr 16, Sheffield
 Leicester City          1-0 Middlesbrough            (aet)
 
 

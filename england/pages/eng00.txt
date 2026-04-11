@@ -987,7 +987,7 @@ Forest Green             0-3 Torquay
 Hereford                 1-0 Hartlepool
 [*] Darlington qualified as lucky losers (due to withdrawal Manchester United)
 
-Second Round Replays
+▪ Second Round Replays ▪
 _ Nov 30 _
 Lincoln City             0-1 Luton Town
 Cardiff City             1-0 Bury
@@ -1066,7 +1066,7 @@ _ Dec 21 _
 Bolton                   1-0 Cardiff
   (Eidur Gudjohnsen 29)
 
-Third Round Replays
+▪ Third Round Replays ▪
 _ Dec 21 _
 Everton                  1-0 Exeter
   (Nick Barmby 85)
@@ -1091,7 +1091,7 @@ Gillingham               2-1 Walsall                  (aet)
 Oxford                   1-3 Nottingham Forest
   (Paul Powell 72; Chris Bart-Williams 81, 84pen, Alan Rogers 89)
 
-Fourth Round
+▪ Fourth Round ▪
 _ Jan 8 _
 Grimsby                  0-2 Bolton
   (Eidur Gudjohnsen 33, Bo Hansen 54)
@@ -1129,13 +1129,13 @@ _ Jan 19 _
 Chelsea                  2-0 Nottingham Forest
   (Frank Leboeuf 57, Dennis Wise 86)
 
-Fourth Round Replays
+▪ Fourth Round Replays ▪
 _ Jan 18 _
 Wolverhampton            0-0 Sheffield Wednesday      (aet, 3-4 pen)
 _ Jan 19 _
 Leicester City           0-0 Arsenal                  (aet, 6-5 pen)
 
-Fifth Round
+▪ Fifth Round ▪
 _ Jan 29 _
 Gillingham               3-1 Sheffield Wednesday
 Everton                  2-0 Preston North End
@@ -1286,7 +1286,7 @@ Tottenham (P)           3-1  Crewe (1)
 West Ham (P)            2-0  Bournemouth (2)
 
 
-Fourth Round
+▪ Fourth Round ▪
 
 _ Nov 30 _
 Birmingham              2-3  West Ham
@@ -1325,7 +1325,7 @@ Leicester               3-3  Fulham                      (aet, 3-0 pen)
   (Ian Marshall 85, 111, Steve Walsh 87; Paul Peschisolido 57,
    Geoff Horsfield 75, Chris Coleman 92)
 
-Replay
+▪ Replay ▪
 _ Jan 11 _
 West Ham                1-3  Aston Villa                 (aet)
   (Frank Lampard 47; Ian Taylor 80, 118, Julian Joachim 94)
@@ -1349,7 +1349,7 @@ Leicester City          1-0  Aston Villa
   (Matt Elliott 45)
 
 
-Final [London, Feb 27]
+▪ Final ▪  Feb 27, London
 Leicester City          2-1 Tranmere Rovers
   (Matt Elliott 29, 81; David Kelly 78)
   (red card: Clint Hill (Tranmere) 64)
@@ -1369,7 +1369,7 @@ First Division
 <!-- $table3$ -->
 
 
-Aug 7 1999
+_ Aug 7 1999 _
 
 Birmingham City           2-2   Fulham
 Blackburn Rovers          0-0   Port Vale
@@ -1383,15 +1383,15 @@ Tranmere Rovers           0-0   Bolton Wanderers
 Walsall                   0-0   Swindon Town
 West Bromwich Albion      1-1   Norwich City
 
-Aug 8 1999
+_ Aug 8 1999 _
 
 Manchester City           0-1   Wolverhampton Wanderers
 
-Aug 13 1999
+_ Aug 13 1999 _
 
 Huddersfield Town         3-2   Blackburn Rovers
 
-Aug 14 1999
+_ Aug 14 1999 _
 
 Barnsley                  2-3   Crystal Palace
 Bolton Wanderers          2-1   Queens Park Rangers
@@ -1403,19 +1403,19 @@ Sheffield United          1-1   Walsall
 Stockport County          2-1   Tranmere Rovers
 Wolverhampton Wanderers   1-1   Portsmouth
 
-Aug 15 1999
+_ Aug 15 1999 _
 
 Swindon Town              1-4   Ipswich Town
 
-Aug 18 1999
+_ Aug 18 1999 _
 
 Barnsley                  6-0   Portsmouth
 
-Aug 20 1999
+_ Aug 20 1999 _
 
 West Bromwich Albion      1-1   Nottingham Forest
 
-Aug 21 1999
+_ Aug 21 1999 _
 
 Birmingham City           4-2   Port Vale
 Blackburn Rovers          1-2   Barnsley
@@ -1429,12 +1429,12 @@ Queens Park Rangers       1-1   Wolverhampton Wanderers
 Tranmere Rovers           1-0   Huddersfield Town
 Walsall                   1-4   Crewe Alexandra
 
-Aug 27 1999
+_ Aug 27 1999 _
 
 Stockport County          2-0   Birmingham City
 Crewe Alexandra           1-1   Grimsby Town
 
-Aug 28 1999
+_ Aug 28 1999 _
 
 Bolton Wanderers          0-1   Manchester City
 Fulham                    2-1   Charlton Athletic
@@ -1446,7 +1446,7 @@ Sheffield United          2-2   Ipswich Town
 Swindon Town              1-2   West Bromwich Albion
 Wolverhampton Wanderers   1-2   Walsall
 
-Aug 30 1999
+_ Aug 30 1999 _
 
 Birmingham City           5-1   Crewe Alexandra
 Grimsby Town              1-0   Swindon Town
@@ -1457,25 +1457,25 @@ Tranmere Rovers           1-3   Sheffield United
 Walsall                   2-2   Norwich City
 West Bromwich Albion      0-0   Fulham
 
-Aug 31 1999
+_ Aug 31 1999 _
 
 Queens Park Rangers       3-2   Port Vale
 
-Sep 3 1999
+_ Sep 3 1999 _
 
 Barnsley                  3-0   Tranmere Rovers
 
-Sep 4 1999
+_ Sep 4 1999 _
 
 Nottingham Forest         4-1   Walsall
 Sheffield United          3-1   Crystal Palace
 
-Sep 5 1999
+_ Sep 5 1999 _
 
 Bolton Wanderers          3-3   Birmingham City
 Port Vale                 3-1   Grimsby Town
 
-Sep 11 1999
+_ Sep 11 1999 _
 
 Barnsley                  2-1   Stockport County
 Birmingham City           1-1   West Bromwich Albion
@@ -1489,7 +1489,7 @@ Portsmouth                1-1   Ipswich Town
 Swindon Town              0-0   Nottingham Forest
 Wolverhampton Wanderers   0-1   Huddersfield Town
 
-Sep 18 1999
+_ Sep 18 1999 _
 
 Bolton Wanderers          2-2   Barnsley
 Crewe Alexandra           2-1   Swindon Town
@@ -1503,11 +1503,11 @@ Tranmere Rovers           2-4   Portsmouth
 Walsall                   0-1   Manchester City
 West Bromwich Albion      2-2   Blackburn Rovers
 
-Sep 19 1999
+_ Sep 19 1999 _
 
 Nottingham Forest         1-1   Wolverhampton Wanderers
 
-Sep 25 1999
+_ Sep 25 1999 _
 
 Barnsley                  4-2   Huddersfield Town
 Birmingham City           2-0   Queens Park Rangers
@@ -1521,22 +1521,22 @@ Stockport County          2-2   Norwich City
 Tranmere Rovers           2-2   Charlton Athletic
 West Bromwich Albion      0-0   Crystal Palace
 
-Sep 26 1999
+_ Sep 26 1999 _
 
 Ipswich Town              2-1   Manchester City
 
-Sep 28 1999
+_ Sep 28 1999 _
 
 Charlton Athletic         4-0   Stockport County
 Crystal Palace            1-1   Wolverhampton Wanderers
 Norwich City              1-0   Manchester City
 Swindon Town              2-1   Blackburn Rovers
 
-Oct 1 1999
+_ Oct 1 1999 _
 
 Nottingham Forest         3-0   Barnsley
 
-Oct 3 1999
+_ Oct 3 1999 _
 
 Charlton Athletic         1-0   Birmingham City
 Crystal Palace            4-0   Portsmouth
@@ -1550,11 +1550,11 @@ Walsall                   1-2   Stockport County
 Crewe Alexandra           0-2   Tranmere Rovers
 Wolverhampton Wanderers   1-1   West Bromwich Albion
 
-Oct 8 1999
+_ Oct 8 1999 _
 
 Walsall                   1-0   Birmingham City
 
-Oct 9 1999
+_ Oct 9 1999 _
 
 Crewe Alexandra           1-0   Sheffield United
 Huddersfield Town         2-2   Port Vale
@@ -1562,7 +1562,7 @@ Queens Park Rangers       2-1   Tranmere Rovers
 Swindon Town              1-1   Stockport County
 Wolverhampton Wanderers   1-0   Bolton Wanderers
 
-Oct 16 1999
+_ Oct 16 1999 _
 
 Barnsley                  1-2   Wolverhampton Wanderers
 Birmingham City           2-0   Crystal Palace
@@ -1577,7 +1577,7 @@ Stockport County          2-1   Crewe Alexandra
 Tranmere Rovers           1-1   Manchester City
 West Bromwich Albion      0-1   Walsall
 
-Oct 19 1999
+_ Oct 19 1999 _
 
 Barnsley                  1-0   Swindon Town
 Birmingham City           0-1   Manchester City
@@ -1591,11 +1591,11 @@ Stockport County          1-1   Huddersfield Town
 Tranmere Rovers           3-2   Grimsby Town
 West Bromwich Albion      0-1   Queens Park Rangers
 
-Oct 20 1999
+_ Oct 20 1999 _
 
 Blackburn Rovers          1-1   Crystal Palace
 
-Oct 23 1999
+_ Oct 23 1999 _
 
 Charlton Athletic         0-0   West Bromwich Albion
 Crewe Alexandra           0-1   Barnsley
@@ -1609,11 +1609,11 @@ Swindon Town              2-2   Sheffield United
 Walsall                   0-1   Ipswich Town
 Wolverhampton Wanderers   2-2   Port Vale
 
-Oct 24 1999
+_ Oct 24 1999 _
 
 Norwich City              2-1   Bolton Wanderers
 
-Oct 26 1999
+_ Oct 26 1999 _
 
 Charlton Athletic         3-2   Tranmere Rovers
 Crewe Alexandra           1-1   Fulham
@@ -1625,13 +1625,13 @@ Swindon Town              2-1   Port Vale
 Walsall                   1-1   Blackburn Rovers
 Wolverhampton Wanderers   1-0   Sheffield United
 
-Oct 27 1999
+_ Oct 27 1999 _
 
 Manchester City           1-0   Ipswich Town
 Queens Park Rangers       2-2   Birmingham City
 Nottingham Forest         1-1   Bolton Wanderers
 
-Oct 30 1999
+_ Oct 30 1999 _
 
 Barnsley                  1-0   Nottingham Forest
 Birmingham City           1-0   Charlton Athletic
@@ -1645,21 +1645,21 @@ Sheffield United          0-1   Huddersfield Town
 Stockport County          1-1   Walsall
 Tranmere Rovers           2-0   Crewe Alexandra
 
-Oct 31 1999
+_ Oct 31 1999 _
 
 West Bromwich Albion      1-1   Wolverhampton Wanderers
 
-Nov 2 1999
+_ Nov 2 1999 _
 
 Crewe Alexandra           0-2   Charlton Athletic
 Huddersfield Town         3-1   Ipswich Town
 Stockport County          3-3   Queens Park Rangers
 
-Nov 3 1999
+_ Nov 3 1999 _
 
 Manchester City           4-2   Portsmouth
 
-Nov 6 1999
+_ Nov 6 1999 _
 
 Barnsley                  2-0   Sheffield United
 Blackburn Rovers          2-2   Ipswich Town
@@ -1674,29 +1674,29 @@ Stockport County          2-1   Fulham
 Tranmere Rovers           3-0   West Bromwich Albion
 Wolverhampton Wanderers   3-0   Grimsby Town
 
-Nov 9 1999
+_ Nov 9 1999 _
 
 Fulham                    1-0   Portsmouth
 
-Nov 12 1999
+_ Nov 12 1999 _
 
 Grimsby Town              2-5   Charlton Athletic
 Ipswich Town              0-0   Tranmere Rovers
 Swindon Town              0-0   Norwich City
 Walsall                   0-0   Port Vale
 
-Nov 13 1999
+_ Nov 13 1999 _
 
 Fulham                    1-3   Barnsley
 
-Nov 14 1999
+_ Nov 14 1999 _
 
 Crystal Palace            3-0   Queens Park Rangers
 Nottingham Forest         1-3   Huddersfield Town
 Sheffield United          1-2   Bolton Wanderers
 West Bromwich Albion      3-2   Portsmouth
 
-Nov 20 1999
+_ Nov 20 1999 _
 
 Barnsley                  2-1   Birmingham City
 Blackburn Rovers          2-0   Fulham
@@ -1710,11 +1710,11 @@ Stockport County          1-1   Sheffield United
 Tranmere Rovers           3-0   Nottingham Forest
 Wolverhampton Wanderers   1-1   Swindon Town
 
-Nov 21 1999
+_ Nov 21 1999 _
 
 Norwich City              0-0   Ipswich Town
 
-Nov 23 1999
+_ Nov 23 1999 _
 
 Birmingham City           3-1   Tranmere Rovers
 Crewe Alexandra           0-0   Blackburn Rovers
@@ -1726,17 +1726,17 @@ Swindon Town              1-2   Charlton Athletic
 Walsall                   2-0   Huddersfield Town
 West Bromwich Albion      2-0   Stockport County
 
-Nov 24 1999
+_ Nov 24 1999 _
 
 Ipswich Town              1-0   Wolverhampton Wanderers
 Manchester City           3-1   Barnsley
 Nottingham Forest         2-0   Portsmouth
 
-Nov 26 1999
+_ Nov 26 1999 _
 
 Walsall                   1-3   Fulham
 
-Nov 27 1999
+_ Nov 27 1999 _
 
 Birmingham City           1-1   Swindon Town
 Blackburn Rovers          2-0   Stockport County
@@ -1749,20 +1749,20 @@ Queens Park Rangers       2-2   Barnsley
 Tranmere Rovers           1-0   Wolverhampton Wanderers
 West Bromwich Albion      2-2   Sheffield United
 
-Nov 28 1999
+_ Nov 28 1999 _
 
 Grimsby Town              2-1   Norwich City
 
-Nov 30 1999
+_ Nov 30 1999 _
 
 Charlton Athletic         1-2   Blackburn Rovers
 Queens Park Rangers       3-1   Sheffield United
 
-Dec 3 1999
+_ Dec 3 1999 _
 
 Wolverhampton Wanderers   4-1   Manchester City
 
-Dec 4 1999
+_ Dec 4 1999 _
 
 Barnsley                  1-1   Charlton Athletic
 Bolton Wanderers          2-3   Tranmere Rovers
@@ -1775,32 +1775,32 @@ Sheffield United          1-0   Portsmouth
 Stockport County          2-1   Grimsby Town
 Swindon Town              1-1   Walsall
 
-Dec 5 1999
+_ Dec 5 1999 _
 
 Nottingham Forest         0-1   Ipswich Town
 
-Dec 8 1999
+_ Dec 8 1999 _
 
 Blackburn Rovers          3-1   Bolton Wanderers
 Crewe Alexandra           2-0   West Bromwich Albion
 Crystal Palace            2-2   Ipswich Town
 Manchester City           1-2   Stockport County
 
-Dec 14 1999
+_ Dec 14 1999 _
 
 Crewe Alexandra           1-0   Wolverhampton Wanderers
 Grimsby Town              1-1   West Bromwich Albion
 
-Dec 15 1999
+_ Dec 15 1999 _
 
 Nottingham Forest         0-0   Fulham
 
-Dec 17 1999
+_ Dec 17 1999 _
 
 Tranmere Rovers           1-2   Norwich City
 Wolverhampton Wanderers   2-1   Birmingham City
 
-Dec 18 1999
+_ Dec 18 1999 _
 
 Barnsley                  3-2   Walsall
 Bolton Wanderers          0-1   Stockport County
@@ -1812,11 +1812,11 @@ Nottingham Forest         1-0   Crewe Alexandra
 Portsmouth                0-0   Port Vale
 Queens Park Rangers       0-0   Charlton Athletic
 
-Dec 19 1999
+_ Dec 19 1999 _
 
 Sheffield United          2-1   Blackburn Rovers
 
-Dec 26 1999
+_ Dec 26 1999 _
 
 Birmingham City           0-2   Sheffield United
 Blackburn Rovers          2-1   Nottingham Forest
@@ -1830,7 +1830,7 @@ Swindon Town              1-1   Portsmouth
 Walsall                   1-2   Tranmere Rovers
 West Bromwich Albion      0-2   Manchester City
 
-Dec 28 1999
+_ Dec 28 1999 _
 
 Barnsley                  3-1   Port Vale
 Bolton Wanderers          1-1   West Bromwich Albion
@@ -1845,7 +1845,7 @@ Sheffield United          2-0   Fulham
 Tranmere Rovers           3-1   Swindon Town
 Wolverhampton Wanderers   1-0   Norwich City
 
-Jan 3 2000
+_ Jan 3 2000 _
 
 Birmingham City           1-0   Huddersfield Town
 Blackburn Rovers          1-1   Wolverhampton Wanderers
@@ -1860,15 +1860,15 @@ Swindon Town              0-1   Queens Park Rangers
 Walsall                   2-0   Bolton Wanderers
 West Bromwich Albion      0-2   Barnsley
 
-Jan 8 2000
+_ Jan 8 2000 _
 
 Norwich City              2-2   Barnsley
 
-Jan 11 2000
+_ Jan 11 2000 _
 
 Wolverhampton Wanderers   2-3   Charlton Athletic
 
-Jan 15 2000
+_ Jan 15 2000 _
 
 Birmingham City           2-0   Norwich City
 Blackburn Rovers          2-0   Huddersfield Town
@@ -1882,15 +1882,15 @@ Tranmere Rovers           0-0   Stockport County
 Walsall                   2-1   Sheffield United
 West Bromwich Albion      0-0   Port Vale
 
-Jan 16 2000
+_ Jan 16 2000 _
 
 Manchester City           4-0   Fulham
 
-Jan 21 2000
+_ Jan 21 2000 _
 
 Swindon Town              2-4   Crystal Palace
 
-Jan 22 2000
+_ Jan 22 2000 _
 
 Barnsley                  5-1   Blackburn Rovers
 Bolton Wanderers          1-1   Ipswich Town
@@ -1904,7 +1904,7 @@ Sheffield United          1-0   Manchester City
 Stockport County          1-1   Portsmouth
 Wolverhampton Wanderers   3-2   Queens Park Rangers
 
-Jan 29 2000
+_ Jan 29 2000 _
 
 Birmingham City           2-1   Stockport County
 Crystal Palace            2-2   Huddersfield Town
@@ -1915,7 +1915,7 @@ Queens Park Rangers       1-1   Nottingham Forest
 Walsall                   1-1   Wolverhampton Wanderers
 West Bromwich Albion      1-1   Swindon Town
 
-Feb 6 2000
+_ Feb 6 2000 _
 
 Barnsley                  0-2   Ipswich Town
 Bolton Wanderers          3-1   Blackburn Rovers
@@ -1930,15 +1930,15 @@ Stockport County          1-3   Charlton Athletic
 Swindon Town              0-1   Grimsby Town
 Wolverhampton Wanderers   2-1   Crystal Palace
 
-Feb 8 2000
+_ Feb 8 2000 _
 
 Port Vale                 0-1   Bolton Wanderers
 
-Feb 11 2000
+_ Feb 11 2000 _
 
 Tranmere Rovers           2-2   Barnsley
 
-Feb 12 2000
+_ Feb 12 2000 _
 
 Birmingham City           2-1   Bolton Wanderers
 Blackburn Rovers          0-0   Swindon Town
@@ -1952,20 +1952,20 @@ Queens Park Rangers       1-1   Stockport County
 Walsall                   0-2   Nottingham Forest
 West Bromwich Albion      1-0   Crewe Alexandra
 
-Feb 15 2000
+_ Feb 15 2000 _
 
 Birmingham City           1-0   Blackburn Rovers
 Charlton Athletic         1-0   Fulham
 
-Feb 16 2000
+_ Feb 16 2000 _
 
 Wolverhampton Wanderers   4-0   Tranmere Rovers
 
-Feb 18 2000
+_ Feb 18 2000 _
 
 Huddersfield Town         1-1   Manchester City
 
-Feb 19 2000
+_ Feb 19 2000 _
 
 Barnsley                  1-1   Queens Park Rangers
 Crewe Alexandra           1-2   Ipswich Town
@@ -1976,11 +1976,11 @@ Sheffield United          6-0   West Bromwich Albion
 Stockport County          0-1   Blackburn Rovers
 Swindon Town              1-4   Birmingham City
 
-Feb 22 2000
+_ Feb 22 2000 _
 
 Bolton Wanderers          3-0   Portsmouth
 
-Feb 26 2000
+_ Feb 26 2000 _
 
 Barnsley                  1-1   Bolton Wanderers
 Blackburn Rovers          2-1   West Bromwich Albion
@@ -1992,27 +1992,27 @@ Port Vale                 1-1   Stockport County
 Swindon Town              0-1   Crewe Alexandra
 Wolverhampton Wanderers   3-0   Nottingham Forest
 
-Feb 27 2000
+_ Feb 27 2000 _
 
 Birmingham City           1-1   Ipswich Town
 
-Feb 28 2000
+_ Feb 28 2000 _
 
 Queens Park Rangers       0-0   Fulham
 
-Feb 29 2000
+_ Feb 29 2000 _
 
 Blackburn Rovers          1-1   Norwich City
 
-Mar 1 2000
+_ Mar 1 2000 _
 
 Portsmouth                1-2   Tranmere Rovers
 
-Mar 3 2000
+_ Mar 3 2000 _
 
 Stockport County          1-3   Barnsley
 
-Mar 4 2000
+_ Mar 4 2000 _
 
 Bolton Wanderers          0-2   Charlton Athletic
 Crewe Alexandra           1-0   Norwich City
@@ -2025,11 +2025,11 @@ Tranmere Rovers           2-1   Blackburn Rovers
 Walsall                   1-0   Grimsby Town
 West Bromwich Albion      0-3   Birmingham City
 
-Mar 5 2000
+_ Mar 5 2000 _
 
 Sheffield United          1-1   Queens Park Rangers
 
-Mar 7 2000
+_ Mar 7 2000 _
 
 Birmingham City           1-0   Portsmouth
 Crewe Alexandra           2-1   Port Vale
@@ -2042,12 +2042,12 @@ Swindon Town              2-0   Huddersfield Town
 Walsall                   2-4   Charlton Athletic
 West Bromwich Albion      2-0   Tranmere Rovers
 
-Mar 8 2000
+_ Mar 8 2000 _
 
 Manchester City           1-3   Queens Park Rangers
 Nottingham Forest         1-1   Norwich City
 
-Mar 11 2000
+_ Mar 11 2000 _
 
 Barnsley                  2-1   Manchester City
 Bolton Wanderers          3-1   Fulham
@@ -2061,15 +2061,15 @@ Stockport County          0-1   West Bromwich Albion
 Tranmere Rovers           2-1   Birmingham City
 Wolverhampton Wanderers   2-1   Ipswich Town
 
-Mar 12 2000
+_ Mar 12 2000 _
 
 Blackburn Rovers          0-1   Crewe Alexandra
 
-Mar 14 2000
+_ Mar 14 2000 _
 
 Stockport County          0-0   Bolton Wanderers
 
-Mar 18 2000
+_ Mar 18 2000 _
 
 Birmingham City           3-1   Barnsley
 Crewe Alexandra           1-3   Portsmouth
@@ -2082,12 +2082,12 @@ Swindon Town              1-2   Wolverhampton Wanderers
 Walsall                   2-3   Queens Park Rangers
 West Bromwich Albion      0-1   Huddersfield Town
 
-Mar 19 2000
+_ Mar 19 2000 _
 
 Ipswich Town              0-2   Norwich City
 Manchester City           1-1   Charlton Athletic
 
-Mar 21 2000
+_ Mar 21 2000 _
 
 Barnsley                  1-0   Fulham
 Bolton Wanderers          2-0   Sheffield United
@@ -2097,7 +2097,7 @@ Portsmouth                2-0   West Bromwich Albion
 Stockport County          2-2   Manchester City
 Wolverhampton Wanderers   2-0   Crewe Alexandra
 
-Mar 22 2000
+_ Mar 22 2000 _
 
 Blackburn Rovers          1-0   Birmingham City
 Charlton Athletic         4-0   Grimsby Town
@@ -2105,7 +2105,7 @@ Norwich City              0-2   Swindon Town
 Queens Park Rangers       0-1   Crystal Palace
 Tranmere Rovers           0-2   Ipswich Town
 
-Mar 25 2000
+_ Mar 25 2000 _
 
 Bolton Wanderers          2-1   Port Vale
 Crystal Palace            0-1   Charlton Athletic
@@ -2119,15 +2119,15 @@ Sheffield United          1-2   Birmingham City
 Tranmere Rovers           1-1   Walsall
 Wolverhampton Wanderers   2-2   Stockport County
 
-Mar 27 2000
+_ Mar 27 2000 _
 
 Barnsley                  3-0   Grimsby Town
 
-Mar 31 2000
+_ Mar 31 2000 _
 
 Charlton Athletic         2-1   Queens Park Rangers
 
-Apr 1 2000
+_ Apr 1 2000 _
 
 Birmingham City           1-0   Wolverhampton Wanderers
 Blackburn Rovers          5-0   Sheffield United
@@ -2139,16 +2139,16 @@ Port Vale                 2-0   Portsmouth
 Swindon Town              0-2   Manchester City
 Walsall                   1-4   Barnsley
 
-Apr 4 2000
+_ Apr 4 2000 _
 
 Port Vale                 2-2   Charlton Athletic
 West Bromwich Albion      1-1   Ipswich Town
 
-Apr 5 2000
+_ Apr 5 2000 _
 
 Manchester City           2-0   Bolton Wanderers
 
-Apr 8 2000
+_ Apr 8 2000 _
 
 Barnsley                  2-2   West Bromwich Albion
 Bolton Wanderers          4-3   Walsall
@@ -2162,15 +2162,15 @@ Queens Park Rangers       2-1   Swindon Town
 Sheffield United          0-0   Grimsby Town
 Wolverhampton Wanderers   2-1   Blackburn Rovers
 
-Apr 9 2000
+_ Apr 9 2000 _
 
 Tranmere Rovers           1-1   Fulham
 
-Apr 14 2000
+_ Apr 14 2000 _
 
 Charlton Athletic         0-1   Huddersfield Town
 
-Apr 15 2000
+_ Apr 15 2000 _
 
 Birmingham City           0-1   Nottingham Forest
 Blackburn Rovers          1-1   Portsmouth
@@ -2184,15 +2184,15 @@ Swindon Town              3-1   Tranmere Rovers
 Walsall                   2-2   Crystal Palace
 West Bromwich Albion      4-4   Bolton Wanderers
 
-Apr 18 2000
+_ Apr 18 2000 _
 
 Tranmere Rovers           2-1   Port Vale
 
-Apr 21 2000
+_ Apr 21 2000 _
 
 Charlton Athletic         1-1   Portsmouth
 
-Apr 22 2000
+_ Apr 22 2000 _
 
 Crewe Alexandra           3-2   Stockport County
 Crystal Palace            0-2   Birmingham City
@@ -2206,7 +2206,7 @@ Swindon Town              1-0   Fulham
 Walsall                   2-1   West Bromwich Albion
 Wolverhampton Wanderers   2-0   Barnsley
 
-Apr 24 2000
+_ Apr 24 2000 _
 
 Barnsley                  2-1   Norwich City
 Birmingham City           2-0   Walsall
@@ -2219,15 +2219,15 @@ Stockport County          3-0   Swindon Town
 Tranmere Rovers           1-1   Queens Park Rangers
 West Bromwich Albion      2-1   Grimsby Town
 
-Apr 25 2000
+_ Apr 25 2000 _
 
 Ipswich Town              1-0   Crystal Palace
 
-Apr 28 2000
+_ Apr 28 2000 _
 
 Manchester City           1-0   Birmingham City
 
-Apr 29 2000
+_ Apr 29 2000 _
 
 Charlton Athletic         1-3   Ipswich Town
 
@@ -2241,15 +2241,15 @@ Queens Park Rangers       0-0   West Bromwich Albion
 Swindon Town              1-2   Barnsley
 Walsall                   1-0   Portsmouth
 
-Apr 30 2000
+_ Apr 30 2000 _
 
 Wolverhampton Wanderers   3-0   Fulham
 
-May 3 2000
+_ May 3 2000 _
 
 Bolton Wanderers          2-1   Wolverhampton Wanderers
 
-May 7 2000
+_ May 7 2000 _
 
 Barnsley                  0-2   Crewe Alexandra
 Birmingham City           0-0   Grimsby Town
@@ -2293,7 +2293,7 @@ Second Division
 <!-- $table5$ -->
 
 
-Aug 7 1999
+_ Aug 7 1999 _
 
 Blackpool           2-1   Wrexham
 Bournemouth         2-1   Cambridge United
@@ -2308,7 +2308,7 @@ Stoke City          1-2   Oxford United
 Wigan Athletic      3-0   Scunthorpe United
 Wycombe Wanderers   1-1   Burnley
 
-Aug 14 1999
+_ Aug 14 1999 _
 
 Brentford           2-0   Oldham Athletic
 Bristol City        3-1   Bournemouth
@@ -2323,11 +2323,11 @@ Preston North End   2-1   Stoke City
 Scunthorpe United   0-1   Wycombe Wanderers
 Wrexham             1-0   Bury
 
-Aug 20 1999
+_ Aug 20 1999 _
 
 Cardiff City        1-1   Wrexham
 
-Aug 21 1999
+_ Aug 21 1999 _
 
 Blackpool           1-1   Gillingham
 Bournemouth         4-0   Colchester United
@@ -2340,11 +2340,11 @@ Reading             1-2   Luton Town
 Wigan Athletic      2-1   Bristol City
 Wycombe Wanderers   1-1   Preston North End
 
-Aug 22 1999
+_ Aug 22 1999 _
 
 Stoke City          3-1   Millwall
 
-Aug 28 1999
+_ Aug 28 1999 _
 
 Brentford           2-0   Blackpool
 Bristol City        1-1   Bury
@@ -2359,7 +2359,7 @@ Preston North End   1-4   Wigan Athletic
 Scunthorpe United   3-1   Bournemouth
 Wrexham             2-1   Bristol Rovers
 
-Aug 30 1999
+_ Aug 30 1999 _
 
 Blackpool           1-1   Oxford United
 Bristol Rovers      1-0   Burnley
@@ -2368,21 +2368,21 @@ Cardiff City        1-1   Scunthorpe United
 Stoke City          1-1   Gillingham
 Wigan Athletic      1-1   Cambridge United
 
-Aug 31 1999
+_ Aug 31 1999 _
 
 Wycombe Wanderers   0-1   Wrexham
 Bournemouth         1-0   Luton Town
 
-Sep 1 1999
+_ Sep 1 1999 _
 
 Reading             2-2   Preston North End
 
-Sep 3 1999
+_ Sep 3 1999 _
 
 Burnley             2-1   Bournemouth
 Wrexham             2-3   Notts County
 
-Sep 4 1999
+_ Sep 4 1999 _
 
 Bristol City        5-2   Blackpool
 Cambridge United    1-3   Stoke City
@@ -2392,7 +2392,7 @@ Oxford United       0-0   Wycombe Wanderers
 Preston North End   0-2   Chesterfield
 Scunthorpe United   0-2   Bristol Rovers
 
-Sep 11 1999
+_ Sep 11 1999 _
 
 Bournemouth         3-1   Reading
 Bristol City        0-0   Millwall
@@ -2407,7 +2407,7 @@ Preston North End   0-0   Burnley
 Wigan Athletic      3-1   Bristol Rovers
 Wycombe Wanderers   3-1   Cardiff City
 
-Sep 18 1999
+_ Sep 18 1999 _
 
 Blackpool           0-0   Bournemouth
 Brentford           2-0   Luton Town
@@ -2422,7 +2422,7 @@ Scunthorpe United   1-2   Bristol City
 Stoke City          1-1   Wigan Athletic
 Wrexham             1-0   Oxford United
 
-Sep 25 1999
+_ Sep 25 1999 _
 
 Blackpool           1-2   Wycombe Wanderers
 Bournemouth         1-1   Bury
@@ -2437,15 +2437,15 @@ Reading             1-1   Oldham Athletic
 Scunthorpe United   0-0   Chesterfield
 Wrexham             2-3   Stoke City
 
-Sep 28 1999
+_ Sep 28 1999 _
 
 Brentford           2-1   Cardiff City
 
-Oct 1 1999
+_ Oct 1 1999 _
 
 Colchester United   2-2   Wrexham
 
-Oct 3 1999
+_ Oct 3 1999 _
 
 Bristol Rovers      3-1   Blackpool
 Burnley             2-2   Brentford
@@ -2459,7 +2459,7 @@ Stoke City          1-0   Scunthorpe United
 Wigan Athletic      1-0   Luton Town
 Wycombe Wanderers   5-3   Reading
 
-Oct 9 1999
+_ Oct 9 1999 _
 
 Bristol Rovers      1-1   Cardiff City
 Bury                1-3   Notts County
@@ -2471,15 +2471,15 @@ Preston North End   1-0   Bristol City
 Stoke City          2-1   Reading
 Wycombe Wanderers   1-0   Cambridge United
 
-Oct 10 1999
+_ Oct 10 1999 _
 
 Burnley             1-2   Scunthorpe United
 
-Oct 15 1999
+_ Oct 15 1999 _
 
 Cambridge United    5-2   Colchester United
 
-Oct 16 1999
+_ Oct 16 1999 _
 
 Bournemouth         1-1   Stoke City
 Blackpool           0-5   Bury
@@ -2492,11 +2492,11 @@ Reading             0-2   Wigan Athletic
 Scunthorpe United   1-1   Preston North End
 Wrexham             1-1   Chesterfield
 
-Oct 17 1999
+_ Oct 17 1999 _
 
 Bristol City        0-0   Bristol Rovers
 
-Oct 19 1999
+_ Oct 19 1999 _
 
 Blackpool           1-2   Oldham Athletic
 Bournemouth         0-1   Bristol Rovers
@@ -2510,11 +2510,11 @@ Notts County        1-0   Chesterfield
 Scunthorpe United   1-0   Oxford United
 Wrexham             1-1   Wigan Athletic
 
-Oct 20 1999
+_ Oct 20 1999 _
 
 Reading             2-0   Bury
 
-Oct 23 1999
+_ Oct 23 1999 _
 
 Bristol Rovers      0-1   Notts County
 Burnley             2-0   Bristol City
@@ -2529,12 +2529,12 @@ Stoke City          2-0   Wrexham
 Wigan Athletic      2-0   Cardiff City
 Wycombe Wanderers   0-2   Blackpool
 
-Oct 26 1999
+_ Oct 26 1999 _
 
 Colchester United   2-2   Wigan Athletic
 Notts County        0-1   Brentford
 
-Nov 2 1999
+_ Nov 2 1999 _
 
 Brentford           1-1   Reading
 Bristol Rovers      0-0   Bury
@@ -2547,12 +2547,12 @@ Oldham Athletic     2-2   Wycombe Wanderers
 Oxford United       1-1   Colchester United
 Wigan Athletic      3-0   Chesterfield
 
-Nov 3 1999
+_ Nov 3 1999 _
 
 Preston North End   3-0   Bournemouth
 Stoke City          0-1   Notts County
 
-Nov 6 1999
+_ Nov 6 1999 _
 
 Blackpool           2-2   Wigan Athletic
 Bournemouth         1-0   Cardiff City
@@ -2566,15 +2566,15 @@ Scunthorpe United   1-4   Millwall
 Wrexham             0-1   Brentford
 Wycombe Wanderers   1-1   Bristol Rovers
 
-Nov 7 1999
+_ Nov 7 1999 _
 
 Reading             1-2   Oxford United
 
-Nov 9 1999
+_ Nov 9 1999 _
 
 Oldham Athletic     2-1   Millwall
 
-Nov 12 1999
+_ Nov 12 1999 _
 
 Brentford           4-3   Scunthorpe United
 Cambridge United    3-1   Luton Town
@@ -2584,30 +2584,30 @@ Millwall            0-0   Wrexham
 Preston North End   2-0   Notts County
 Wigan Athletic      2-1   Wycombe Wanderers
 
-Nov 13 1999
+_ Nov 13 1999 _
 
 Oxford United       1-1   Bury
 
-Nov 14 1999
+_ Nov 14 1999 _
 
 Burnley             1-0   Blackpool
 Oldham Athletic     1-2   Colchester United
 Stoke City          1-1   Bristol City
 
-Nov 16 1999
+_ Nov 16 1999 _
 
 Millwall            5-0   Reading
 Wigan Athletic      3-1   Bournemouth
 
-Nov 19 1999
+_ Nov 19 1999 _
 
 Colchester United   0-3   Brentford
 
-Nov 20 1999
+_ Nov 20 1999 _
 
 Chesterfield        0-1   Bristol Rovers
 
-Nov 23 1999
+_ Nov 23 1999 _
 
 Blackpool           1-2   Millwall
 Bournemouth         4-1   Brentford
@@ -2620,11 +2620,11 @@ Scunthorpe United   1-4   Gillingham
 Wrexham             1-1   Cambridge United
 Wycombe Wanderers   0-4   Stoke City
 
-Nov 25 1999
+_ Nov 25 1999 _
 
 Reading             0-0   Burnley
 
-Nov 28 1999
+_ Nov 28 1999 _
 
 Blackpool           2-1   Cambridge United
 Bournemouth         1-2   Millwall
@@ -2639,11 +2639,11 @@ Stoke City          1-1   Colchester United
 Wigan Athletic      1-1   Burnley
 Wycombe Wanderers   2-0   Brentford
 
-Dec 3 1999
+_ Dec 3 1999 _
 
 Colchester United   1-0   Chesterfield
 
-Dec 4 1999
+_ Dec 4 1999 _
 
 Brentford           0-3   Bristol Rovers
 Bristol City        3-1   Reading
@@ -2657,26 +2657,26 @@ Preston North End   2-0   Oldham Athletic
 Scunthorpe United   1-2   Wigan Athletic
 Wrexham             1-1   Blackpool
 
-Dec 7 1999
+_ Dec 7 1999 _
 
 Chesterfield        0-2   Bristol City
 
-Dec 10 1999
+_ Dec 10 1999 _
 
 Brentford           1-1   Chesterfield
 
-Dec 11 1999
+_ Dec 11 1999 _
 
 Bristol Rovers      2-1   Colchester United
 Notts County        5-1   Bournemouth
 Wycombe Wanderers   1-2   Millwall
 
-Dec 17 1999
+_ Dec 17 1999 _
 
 Bristol City        0-0   Wycombe Wanderers
 Colchester United   3-0   Luton Town
 
-Dec 18 1999
+_ Dec 18 1999 _
 
 Bournemouth         4-0   Oxford United
 Burnley             2-1   Cardiff City
@@ -2688,7 +2688,7 @@ Scunthorpe United   0-2   Bury
 Stoke City          1-2   Bristol Rovers
 Wigan Athletic      1-0   Brentford
 
-Dec 26 1999
+_ Dec 26 1999 _
 
 Blackpool           1-2   Stoke City
 Brentford           2-1   Bristol City
@@ -2703,7 +2703,7 @@ Oxford United       1-0   Cambridge United
 Wrexham             0-0   Preston North End
 Wycombe Wanderers   2-1   Bournemouth
 
-Dec 28 1999
+_ Dec 28 1999 _
 
 Bournemouth         1-0   Wrexham
 Bristol City        0-0   Luton Town
@@ -2716,7 +2716,7 @@ Scunthorpe United   1-0   Blackpool
 Stoke City          0-0   Oldham Athletic
 Wigan Athletic      2-0   Gillingham
 
-Jan 3 2000
+_ Jan 3 2000 _
 
 Blackpool           1-1   Colchester United
 Brentford           0-1   Stoke City
@@ -2730,15 +2730,15 @@ Oxford United       1-2   Wigan Athletic
 Wrexham             0-1   Bristol City
 Wycombe Wanderers   3-0   Chesterfield
 
-Jan 4 2000
+_ Jan 4 2000 _
 
 Bury                2-2   Millwall
 
-Jan 7 2000
+_ Jan 7 2000 _
 
 Wigan Athletic      0-1   Oldham Athletic
 
-Jan 8 2000
+_ Jan 8 2000 _
 
 Bournemouth         1-1   Notts County
 Chesterfield        1-0   Brentford
@@ -2747,15 +2747,15 @@ Millwall            1-1   Wycombe Wanderers
 Reading             1-1   Blackpool
 Stoke City          2-1   Luton Town
 
-Jan 9 2000
+_ Jan 9 2000 _
 
 Bristol City        0-0   Cardiff City
 
-Jan 14 2000
+_ Jan 14 2000 _
 
 Stoke City          2-1   Preston North End
 
-Jan 15 2000
+_ Jan 15 2000 _
 
 Blackpool           3-3   Luton Town
 Bournemouth         2-3   Bristol City
@@ -2769,11 +2769,11 @@ Reading             0-0   Cambridge United
 Wigan Athletic      1-1   Millwall
 Wycombe Wanderers   2-1   Scunthorpe United
 
-Jan 18 2000
+_ Jan 18 2000 _
 
 Colchester United   1-0   Wycombe Wanderers
 
-Jan 22 2000
+_ Jan 22 2000 _
 
 Brentford           2-1   Bury
 Bristol City        0-0   Wigan Athletic
@@ -2788,7 +2788,7 @@ Preston North End   3-2   Wycombe Wanderers
 Scunthorpe United   1-0   Notts County
 Wrexham             2-1   Cardiff City
 
-Jan 29 2000
+_ Jan 29 2000 _
 
 Blackpool           0-1   Brentford
 Bournemouth         1-1   Scunthorpe United
@@ -2799,17 +2799,17 @@ Oldham Athletic     2-0   Oxford United
 Reading             2-0   Colchester United
 Stoke City          2-2   Burnley
 
-Jan 30 2000
+_ Jan 30 2000 _
 
 Cardiff City        1-3   Luton Town
 
-Feb 1 2000
+_ Feb 1 2000 _
 
 Chesterfield        0-0   Gillingham
 Oxford United       0-4   Preston North End
 Scunthorpe United   0-2   Wrexham
 
-Feb 5 2000
+_ Feb 5 2000 _
 
 Brentford           0-2   Notts County
 Bristol City        3-0   Chesterfield
@@ -2824,12 +2824,12 @@ Preston North End   2-2   Reading
 Scunthorpe United   0-0   Cardiff City
 Wrexham             1-3   Wycombe Wanderers
 
-Feb 8 2000
+_ Feb 8 2000 _
 
 Blackpool           0-2   Reading
 Luton Town          2-1   Stoke City
 
-Feb 12 2000
+_ Feb 12 2000 _
 
 Blackpool           1-2   Bristol City
 Bournemouth         0-1   Burnley
@@ -2844,11 +2844,11 @@ Stoke City          1-0   Cambridge United
 Wigan Athletic      0-1   Colchester United
 Wycombe Wanderers   0-1   Oxford United
 
-Feb 15 2000
+_ Feb 15 2000 _
 
 Notts County        2-3   Cambridge United
 
-Feb 19 2000
+_ Feb 19 2000 _
 
 Brentford           0-0   Wycombe Wanderers
 Bristol City        2-2   Notts County
@@ -2862,12 +2862,12 @@ Preston North End   1-1   Bury
 Scunthorpe United   2-2   Reading
 Wrexham             0-3   Oldham Athletic
 
-Feb 22 2000
+_ Feb 22 2000 _
 
 Bury                0-2   Cambridge United
 Cardiff City        0-0   Bristol City
 
-Mar 2 2000
+_ Mar 2 2000 _
 
 Bournemouth         2-0   Blackpool
 Bristol City        2-1   Scunthorpe United
@@ -2882,11 +2882,11 @@ Preston North End   0-2   Gillingham
 Wigan Athletic      1-2   Stoke City
 Wycombe Wanderers   3-0   Bury
 
-Mar 3 2000
+_ Mar 3 2000 _
 
 Cardiff City        2-2   Wycombe Wanderers
 
-Mar 4 2000
+_ Mar 4 2000 _
 
 Blackpool           2-1   Notts County
 Brentford           1-1   Cambridge United
@@ -2900,7 +2900,7 @@ Scunthorpe United   0-0   Colchester United
 Stoke City          5-1   Chesterfield
 Wrexham             1-0   Luton Town
 
-Mar 7 2000
+_ Mar 7 2000 _
 
 Brentford           0-2   Wrexham
 Bristol Rovers      1-0   Wycombe Wanderers
@@ -2913,7 +2913,7 @@ Oxford United       1-3   Reading
 Preston North End   2-3   Colchester United
 Wigan Athletic      5-1   Blackpool
 
-Mar 11 2000
+_ Mar 11 2000 _
 
 Bournemouth         0-1   Preston North End
 Blackpool           2-2   Cardiff City
@@ -2928,16 +2928,16 @@ Scunthorpe United   0-3   Cambridge United
 Wrexham             0-1   Burnley
 Wycombe Wanderers   0-0   Oldham Athletic
 
-Mar 14 2000
+_ Mar 14 2000 _
 
 Gillingham          2-2   Burnley
 Preston North End   3-1   Oxford United
 
-Mar 17 2000
+_ Mar 17 2000 _
 
 Cardiff City        3-2   Colchester United
 
-Mar 18 2000
+_ Mar 18 2000 _
 
 Brentford           0-2   Bournemouth
 Bristol Rovers      3-1   Chesterfield
@@ -2951,7 +2951,7 @@ Preston North End   1-0   Luton Town
 Stoke City          1-1   Wycombe Wanderers
 Wigan Athletic      1-0   Bury
 
-Mar 21 2000
+_ Mar 21 2000 _
 
 Blackpool           1-1   Burnley
 Bournemouth         0-1   Gillingham
@@ -2964,11 +2964,11 @@ Scunthorpe United   0-0   Brentford
 Wrexham             1-1   Millwall
 Wycombe Wanderers   0-2   Wigan Athletic
 
-Mar 22 2000
+_ Mar 22 2000 _
 
 Reading             2-0   Bristol Rovers
 
-Mar 25 2000
+_ Mar 25 2000 _
 
 Bournemouth         2-0   Wycombe Wanderers
 Bristol City        1-0   Brentford
@@ -2983,14 +2983,14 @@ Scunthorpe United   1-2   Oldham Athletic
 Stoke City          3-0   Blackpool
 Wigan Athletic      2-0   Notts County
 
-Mar 28 2000
+_ Mar 28 2000 _
 
 Bristol City        2-2   Stoke City
 Chesterfield        0-1   Bury
 Wrexham             3-1   Scunthorpe United
 Wycombe Wanderers   1-0   Gillingham
 
-Apr 1 2000
+_ Apr 1 2000 _
 
 Blackpool           0-0   Preston North End
 Brentford           0-2   Wigan Athletic
@@ -3005,18 +3005,18 @@ Oxford United       1-0   Bournemouth
 Wrexham             0-1   Reading
 Wycombe Wanderers   1-2   Bristol City
 
-Apr 4 2000
+_ Apr 4 2000 _
 
 Bristol Rovers      0-1   Reading
 Cambridge United    3-0   Bury
 Oldham Athletic     0-1   Stoke City
 Wigan Athletic      0-1   Preston North End
 
-Apr 7 2000
+_ Apr 7 2000 _
 
 Reading             2-2   Gillingham
 
-Apr 8 2000
+_ Apr 8 2000 _
 
 Bournemouth         3-0   Oldham Athletic
 Bristol City        4-0   Wrexham
@@ -3030,11 +3030,11 @@ Scunthorpe United   1-2   Luton Town
 Stoke City          1-0   Brentford
 Wigan Athletic      2-0   Oxford United
 
-Apr 11 2000
+_ Apr 11 2000 _
 
 Oldham Athletic     2-1   Wigan Athletic
 
-Apr 15 2000
+_ Apr 15 2000 _
 
 Blackpool           0-2   Scunthorpe United
 Brentford           1-3   Millwall
@@ -3047,17 +3047,17 @@ Oxford United       1-2   Burnley
 Wrexham             1-0   Bournemouth
 Wycombe Wanderers   3-0   Colchester United
 
-Apr 18 2000
+_ Apr 18 2000 _
 
 Burnley             0-3   Gillingham
 Luton Town          1-2   Bristol City
 Oldham Athletic     1-2   Chesterfield
 
-Apr 21 2000
+_ Apr 21 2000 _
 
 Wycombe Wanderers   2-0   Notts County
 
-Apr 22 2000
+_ Apr 22 2000 _
 
 Bristol Rovers      2-0   Bristol City
 Burnley             4-3   Millwall
@@ -3071,7 +3071,7 @@ Preston North End   1-0   Scunthorpe United
 Stoke City          1-0   Bournemouth
 Wigan Athletic      1-0   Reading
 
-Apr 24 2000
+_ Apr 24 2000 _
 
 Blackpool           2-1   Bristol Rovers
 Brentford           2-3   Burnley
@@ -3085,11 +3085,11 @@ Reading             2-1   Wycombe Wanderers
 Scunthorpe United   0-2   Stoke City
 Wrexham             1-0   Colchester United
 
-Apr 25 2000
+_ Apr 25 2000 _
 
 Bournemouth         1-1   Chesterfield
 
-Apr 29 2000
+_ Apr 29 2000 _
 
 Bristol Rovers      2-2   Bournemouth
 Burnley             2-0   Cambridge United
@@ -3103,19 +3103,19 @@ Preston North End   3-2   Millwall
 Wigan Athletic      0-1   Wrexham
 Wycombe Wanderers   0-1   Luton Town
 
-Apr 30 2000
+_ Apr 30 2000 _
 
 Stoke City          2-1   Cardiff City
 
-May 2 2000
+_ May 2 2000 _
 
 Gillingham          4-1   Cardiff City
 
-May 3 2000
+_ May 3 2000 _
 
 Stoke City          3-0   Bury
 
-May 6 2000
+_ May 6 2000 _
 
 Blackpool           2-2   Chesterfield
 Bournemouth         2-2   Wigan Athletic
@@ -3152,7 +3152,7 @@ Third Division
 <!-- $table7$ -->
 
 
-Aug 7 1999
+_ Aug 7 1999 _
 
 Brighton and Hove Albion   6-0   Mansfield Town
 Carlisle United            2-1   Leyton Orient
@@ -3167,7 +3167,7 @@ Shrewsbury Town            1-2   Torquay United
 Southend United            2-1   Plymouth Argyle
 York City                  1-0   Swansea City
 
-Aug 14 1999
+_ Aug 14 1999 _
 
 Barnet                     2-2   Exeter City
 Darlington                 3-0   Macclesfield Town
@@ -3182,11 +3182,11 @@ Rotherham United           4-0   Chester City
 Swansea City               1-0   Carlisle United
 Torquay United             0-0   York City
 
-Aug 18 1999
+_ Aug 18 1999 _
 
 Chester City               0-2   Northampton Town
 
-Aug 21 1999
+_ Aug 21 1999 _
 
 Brighton and Hove Albion   0-1   Torquay United
 Carlisle United            0-3   Hartlepool United
@@ -3200,11 +3200,11 @@ Shrewsbury Town            0-1   Darlington
 Southend United            1-0   Mansfield Town
 York City                  0-3   Rochdale
 
-Aug 27 1999
+_ Aug 27 1999 _
 
 Northampton Town           1-0   Lincoln City
 
-Aug 28 1999
+_ Aug 28 1999 _
 
 Barnet                     6-3   York City
 Darlington                 1-1   Brighton and Hove Albion
@@ -3218,7 +3218,7 @@ Rotherham United           4-0   Shrewsbury Town
 Swansea City               3-1   Southend United
 Torquay United             2-2   Chester City
 
-Aug 30 1999
+_ Aug 30 1999 _
 
 Carlisle United            4-2   Plymouth Argyle
 Cheltenham Town            1-2   Barnet
@@ -3230,20 +3230,20 @@ Peterborough United        4-2   Darlington
 Southend United            1-1   Leyton Orient
 York City                  0-1   Northampton Town
 
-Aug 31 1999
+_ Aug 31 1999 _
 
 Halifax Town               2-0   Torquay United
 Shrewsbury Town            0-0   Hartlepool United
 Brighton and Hove Albion   3-0   Hull City
 
-Sep 3 1999
+_ Sep 3 1999 _
 
 Hull City                  2-1   Chester City
 Leyton Orient              1-2   Shrewsbury Town
 Mansfield Town             3-1   Peterborough United
 Rochdale                   0-1   Halifax Town
 
-Sep 4 1999
+_ Sep 4 1999 _
 
 Darlington                 1-0   Exeter City
 Hartlepool United          1-2   Southend United
@@ -3251,12 +3251,12 @@ Northampton Town           0-0   Carlisle United
 Rotherham United           1-0   York City
 Torquay United             5-2   Lincoln City
 
-Sep 5 1999
+_ Sep 5 1999 _
 
 Barnet                     2-1   Macclesfield Town
 Plymouth Argyle            3-3   Brighton and Hove Albion
 
-Sep 11 1999
+_ Sep 11 1999 _
 
 Carlisle United            1-0   Lincoln City
 Chester City               1-1   Exeter City
@@ -3270,11 +3270,11 @@ Swansea City               1-2   Barnet
 Torquay United             0-1   Hull City
 York City                  0-0   Peterborough United
 
-Sep 12 1999
+_ Sep 12 1999 _
 
 Cheltenham Town            0-1   Shrewsbury Town
 
-Sep 18 1999
+_ Sep 18 1999 _
 
 Barnet                     2-1   Northampton Town
 Brighton and Hove Albion   2-3   Chester City
@@ -3289,11 +3289,11 @@ Rotherham United           0-1   Rochdale
 Shrewsbury Town            4-1   Carlisle United
 Southend United            4-1   Halifax Town
 
-Sep 24 1999
+_ Sep 24 1999 _
 
 Mansfield Town             4-0   Shrewsbury Town
 
-Sep 25 1999
+_ Sep 25 1999 _
 
 Brighton and Hove Albion   1-0   Cheltenham Town
 Chester City               1-3   Lincoln City
@@ -3307,7 +3307,7 @@ Rotherham United           3-0   Northampton Town
 Southend United            0-1   Peterborough United
 Torquay United             0-1   Barnet
 
-Oct 2 1999
+_ Oct 2 1999 _
 
 Barnet                     0-0   Hull City
 Carlisle United            1-1   Southend United
@@ -3322,7 +3322,7 @@ Shrewsbury Town            0-0   Halifax Town
 Swansea City               0-1   Mansfield Town
 York City                  2-2   Chester City
 
-Oct 9 1999
+_ Oct 9 1999 _
 
 Barnet                     1-0   Rochdale
 Carlisle United            0-1   Brighton and Hove Albion
@@ -3336,11 +3336,11 @@ Plymouth Argyle            2-1   Mansfield Town
 Shrewsbury Town            1-4   Exeter City
 York City                  2-1   Leyton Orient
 
-Oct 12 1999
+_ Oct 12 1999 _
 
 Swansea City               2-0   Rotherham United
 
-Oct 16 1999
+_ Oct 16 1999 _
 
 Brighton and Hove Albion   0-1   York City
 Chester City               1-2   Macclesfield Town
@@ -3355,7 +3355,7 @@ Rotherham United           2-0   Barnet
 Southend United            3-2   Shrewsbury Town
 Torquay United             1-0   Swansea City
 
-Oct 21 1999
+_ Oct 21 1999 _
 
 Brighton and Hove Albion   1-0   Shrewsbury Town
 Chester City               2-1   Cheltenham Town
@@ -3370,11 +3370,11 @@ Rotherham United           3-0   Hartlepool United
 Southend United            2-2   Lincoln City
 Torquay United             2-1   Peterborough United
 
-Oct 22 1999
+_ Oct 22 1999 _
 
 Swansea City               1-0   Rochdale
 
-Oct 23 1999
+_ Oct 23 1999 _
 
 Barnet                     1-2   Torquay United
 Carlisle United            1-1   Halifax Town
@@ -3388,7 +3388,7 @@ Plymouth Argyle            0-0   Darlington
 Shrewsbury Town            1-2   Mansfield Town
 York City                  1-1   Hull City
 
-Nov 2 1999
+_ Nov 2 1999 _
 
 Carlisle United            0-1   York City
 Darlington                 3-1   Leyton Orient
@@ -3403,11 +3403,11 @@ Rotherham United           1-0   Torquay United
 Shrewsbury Town            0-1   Chester City
 Southend United            2-1   Brighton and Hove Albion
 
-Nov 5 1999
+_ Nov 5 1999 _
 
 Swansea City               3-1   Halifax Town
 
-Nov 6 1999
+_ Nov 6 1999 _
 
 Barnet                     1-0   Darlington
 Brighton and Hove Albion   1-0   Hartlepool United
@@ -3421,7 +3421,7 @@ Peterborough United        4-1   Shrewsbury Town
 Torquay United             1-0   Rochdale
 York City                  0-2   Macclesfield Town
 
-Nov 12 1999
+_ Nov 12 1999 _
 
 Carlisle United            1-1   Peterborough United
 Darlington                 1-1   Torquay United
@@ -3432,25 +3432,25 @@ Rotherham United           0-1   Leyton Orient
 Shrewsbury Town            1-1   Swansea City
 Southend United            1-2   Hull City
 
-Nov 13 1999
+_ Nov 13 1999 _
 
 Hartlepool United          1-0   Chester City
 
-Nov 14 1999
+_ Nov 14 1999 _
 
 Macclesfield Town          1-1   Brighton and Hove Albion
 Plymouth Argyle            4-1   Barnet
 Rochdale                   2-1   Mansfield Town
 
-Nov 16 1999
+_ Nov 16 1999 _
 
 Swansea City               0-0   Cheltenham Town
 
-Nov 20 1999
+_ Nov 20 1999 _
 
 Peterborough United        2-2   Macclesfield Town
 
-Nov 23 1999
+_ Nov 23 1999 _
 
 Barnet                     3-0   Carlisle United
 Brighton and Hove Albion   2-2   Lincoln City
@@ -3464,7 +3464,7 @@ Swansea City               0-0   Darlington
 Torquay United             0-0   Hartlepool United
 York City                  1-0   Shrewsbury Town
 
-Nov 27 1999
+_ Nov 27 1999 _
 
 Brighton and Hove Albion   1-3   Northampton Town
 Carlisle United            0-1   Rotherham United
@@ -3479,7 +3479,7 @@ Shrewsbury Town            3-0   Hull City
 Southend United            1-2   Darlington
 York City                  0-0   Plymouth Argyle
 
-Dec 4 1999
+_ Dec 4 1999 _
 
 Barnet                     2-0   Chester City
 Darlington                 4-0   Halifax Town
@@ -3493,32 +3493,32 @@ Rotherham United           1-1   Lincoln City
 Swansea City               1-0   York City
 Torquay United             3-1   Shrewsbury Town
 
-Dec 10 1999
+_ Dec 10 1999 _
 
 Brighton and Hove Albion   3-4   Rochdale
 Southend United            1-3   Barnet
 
-Dec 11 1999
+_ Dec 11 1999 _
 
 Cheltenham Town            1-1   Macclesfield Town
 Halifax Town               0-0   Rotherham United
 Hartlepool United          0-1   Swansea City
 Shrewsbury Town            1-0   Northampton Town
 
-Dec 14 1999
+_ Dec 14 1999 _
 
 Carlisle United            0-0   Torquay United
 
-Dec 15 1999
+_ Dec 15 1999 _
 
 Darlington                 3-1   Chester City
 
-Dec 17 1999
+_ Dec 17 1999 _
 
 Northampton Town           1-1   Plymouth Argyle
 York City                  2-2   Southend United
 
-Dec 18 1999
+_ Dec 18 1999 _
 
 Barnet                     0-0   Mansfield Town
 Chester City               2-1   Halifax Town
@@ -3529,7 +3529,7 @@ Macclesfield Town          1-0   Leyton Orient
 Rotherham United           2-1   Darlington
 Swansea City               2-0   Brighton and Hove Albion
 
-Dec 26 1999
+_ Dec 26 1999 _
 
 Brighton and Hove Albion   1-1   Barnet
 Carlisle United            1-2   Rochdale
@@ -3544,7 +3544,7 @@ Plymouth Argyle            2-2   Torquay United
 Shrewsbury Town            0-1   Macclesfield Town
 Southend United            2-2   Northampton Town
 
-Jan 13 2000
+_ Jan 13 2000 _
 
 Barnet                     0-1   Halifax Town
 Chester City               1-5   Leyton Orient
@@ -3559,7 +3559,7 @@ Swansea City               1-0   Plymouth Argyle
 Torquay United             0-1   Southend United
 York City                  1-2   Cheltenham Town
 
-Jan 3 2000
+_ Jan 3 2000 _
 
 Brighton and Hove Albion   4-2   Exeter City
 Carlisle United            4-1   Chester City
@@ -3573,7 +3573,7 @@ Plymouth Argyle            3-2   Macclesfield Town
 Shrewsbury Town            1-1   Barnet
 Southend United            1-2   Rotherham United
 
-Jan 8 2000
+_ Jan 8 2000 _
 
 Barnet                     2-1   Southend United
 Chester City               1-2   Darlington
@@ -3587,7 +3587,7 @@ Swansea City               2-1   Hartlepool United
 Torquay United             4-1   Carlisle United
 York City                  0-1   Mansfield Town
 
-Jan 15 2000
+_ Jan 15 2000 _
 
 Brighton and Hove Albion   0-1   Leyton Orient
 Cheltenham Town            1-0   Mansfield Town
@@ -3601,11 +3601,11 @@ Shrewsbury Town            0-0   Plymouth Argyle
 Southend United            3-3   Rochdale
 York City                  2-2   Torquay United
 
-Jan 18 2000
+_ Jan 18 2000 _
 
 Darlington                 2-2   York City
 
-Jan 22 2000
+_ Jan 22 2000 _
 
 Barnet                     5-3   Lincoln City
 Hartlepool United          1-0   Carlisle United
@@ -3619,7 +3619,7 @@ Rotherham United           5-0   Exeter City
 Swansea City               1-0   Macclesfield Town
 Torquay United             0-0   Brighton and Hove Albion
 
-Jan 29 2000
+_ Jan 29 2000 _
 
 Brighton and Hove Albion   1-1   Darlington
 Carlisle United            0-2   Mansfield Town
@@ -3634,16 +3634,16 @@ Shrewsbury Town            0-0   Rotherham United
 Southend United            2-1   Swansea City
 York City                  1-0   Barnet
 
-Feb 1 2000
+_ Feb 1 2000 _
 
 Mansfield Town             1-0   Brighton and Hove Albion
 
-Feb 4 2000
+_ Feb 4 2000 _
 
 Mansfield Town             1-1   Exeter City
 Swansea City               2-1   Lincoln City
 
-Feb 5 2000
+_ Feb 5 2000 _
 
 Barnet                     3-2   Cheltenham Town
 Hartlepool United          1-0   Shrewsbury Town
@@ -3655,16 +3655,16 @@ Rochdale                   2-1   Chester City
 Rotherham United           2-1   Macclesfield Town
 Torquay United             4-0   Halifax Town
 
-Feb 6 2000
+_ Feb 6 2000 _
 
 Darlington                 2-0   Peterborough United
 
-Feb 8 2000
+_ Feb 8 2000 _
 
 Leyton Orient              4-1   Exeter City
 Mansfield Town             1-0   York City
 
-Feb 12 2000
+_ Feb 12 2000 _
 
 Brighton and Hove Albion   1-1   Plymouth Argyle
 Chester City               0-0   Hull City
@@ -3677,15 +3677,15 @@ Shrewsbury Town            1-0   Leyton Orient
 Southend United            2-1   Hartlepool United
 York City                  1-2   Rotherham United
 
-Feb 13 2000
+_ Feb 13 2000 _
 
 Cheltenham Town            0-0   Swansea City
 
-Feb 18 2000
+_ Feb 18 2000 _
 
 Swansea City               2-1   Chester City
 
-Feb 19 2000
+_ Feb 19 2000 _
 
 Barnet                     0-2   Peterborough United
 Darlington                 1-0   Southend United
@@ -3699,12 +3699,12 @@ Rochdale                   1-1   Lincoln City
 Rotherham United           4-2   Carlisle United
 Torquay United             1-0   Exeter City
 
-Feb 22 2000
+_ Feb 22 2000 _
 
 Lincoln City               3-0   Plymouth Argyle
 Peterborough United        2-1   Hull City
 
-Feb 26 2000
+_ Feb 26 2000 _
 
 Carlisle United            1-1   Shrewsbury Town
 Cheltenham Town            2-1   Peterborough United
@@ -3719,11 +3719,11 @@ Swansea City               0-0   Hull City
 Torquay United             0-0   Leyton Orient
 York City                  0-0   Exeter City
 
-Mar 3 2000
+_ Mar 3 2000 _
 
 Southend United            1-0   Macclesfield Town
 
-Mar 4 2000
+_ Mar 4 2000 _
 
 Barnet                     0-1   Swansea City
 Brighton and Hove Albion   2-1   Halifax Town
@@ -3737,7 +3737,7 @@ Peterborough United        2-0   York City
 Rotherham United           1-1   Plymouth Argyle
 Shrewsbury Town            0-2   Cheltenham Town
 
-Mar 7 2000
+_ Mar 7 2000 _
 
 Darlington                 4-0   Barnet
 Halifax Town               0-1   Swansea City
@@ -3750,11 +3750,11 @@ Rotherham United           3-0   Hull City
 Shrewsbury Town            0-1   Peterborough United
 Southend United            1-2   Exeter City
 
-Mar 10 2000
+_ Mar 10 2000 _
 
 Swansea City               4-1   Northampton Town
 
-Mar 11 2000
+_ Mar 11 2000 _
 
 Barnet                     1-1   Hartlepool United
 Brighton and Hove Albion   1-0   Southend United
@@ -3768,16 +3768,16 @@ Peterborough United        2-2   Lincoln City
 Torquay United             2-1   Rotherham United
 York City                  1-1   Carlisle United
 
-Mar 14 2000
+_ Mar 14 2000 _
 
 Plymouth Argyle            1-1   Lincoln City
 Torquay United             1-1   Cheltenham Town
 
-Mar 17 2000
+_ Mar 17 2000 _
 
 Rotherham United           2-3   Mansfield Town
 
-Mar 18 2000
+_ Mar 18 2000 _
 
 Carlisle United            3-1   Barnet
 Darlington                 1-1   Swansea City
@@ -3791,7 +3791,7 @@ Rochdale                   1-4   Leyton Orient
 Shrewsbury Town            0-1   York City
 Southend United            3-1   Chester City
 
-Mar 21 2000
+_ Mar 21 2000 _
 
 Barnet                     1-0   Plymouth Argyle
 Brighton and Hove Albion   5-2   Macclesfield Town
@@ -3805,7 +3805,7 @@ Swansea City               1-1   Shrewsbury Town
 Torquay United             1-0   Darlington
 York City                  2-0   Lincoln City
 
-Mar 25 2000
+_ Mar 25 2000 _
 
 Barnet                     0-1   Brighton and Hove Albion
 Chester City               5-0   Mansfield Town
@@ -3820,12 +3820,12 @@ Swansea City               0-0   Leyton Orient
 Torquay United             0-4   Plymouth Argyle
 York City                  2-1   Hartlepool United
 
-Mar 28 2000
+_ Mar 28 2000 _
 
 Carlisle United            2-0   Swansea City
 Mansfield Town             0-0   Rochdale
 
-Apr 1 2000
+_ Apr 1 2000 _
 
 Brighton and Hove Albion   1-1   Swansea City
 Carlisle United            0-4   Hull City
@@ -3840,16 +3840,16 @@ Plymouth Argyle            2-1   Northampton Town
 Shrewsbury Town            1-2   Lincoln City
 Southend United            0-0   York City
 
-Apr 4 2000
+_ Apr 4 2000 _
 
 Carlisle United            1-1   Cheltenham Town
 
-Apr 5 2000
+_ Apr 5 2000 _
 
 Darlington                 2-2   Shrewsbury Town
 Rochdale                   1-1   Torquay United
 
-Apr 8 2000
+_ Apr 8 2000 _
 
 Barnet                     1-1   Shrewsbury Town
 Chester City               0-1   Carlisle United
@@ -3864,11 +3864,11 @@ Swansea City               0-0   Peterborough United
 Torquay United             4-0   Mansfield Town
 York City                  0-0   Darlington
 
-Apr 11 2000
+_ Apr 11 2000 _
 
 Carlisle United            0-1   Northampton Town
 
-Apr 15 2000
+_ Apr 15 2000 _
 
 Brighton and Hove Albion   1-1   Rotherham United
 Carlisle United            0-1   Macclesfield Town
@@ -3882,15 +3882,15 @@ Peterborough United        3-1   Exeter City
 Plymouth Argyle            1-0   Swansea City
 Shrewsbury Town            2-4   Rochdale
 
-Apr 18 2000
+_ Apr 18 2000 _
 
 Rochdale                   1-2   Peterborough United
 
-Apr 21 2000
+_ Apr 21 2000 _
 
 Northampton Town           1-0   Hull City
 
-Apr 22 2000
+_ Apr 22 2000 _
 
 Barnet                     1-0   Rotherham United
 Carlisle United            0-0   Exeter City
@@ -3904,7 +3904,7 @@ Shrewsbury Town            2-1   Southend United
 Swansea City               2-1   Torquay United
 York City                  0-0   Brighton and Hove Albion
 
-Apr 24 2000
+_ Apr 24 2000 _
 
 Chester City               2-0   York City
 Darlington                 1-1   Hartlepool United
@@ -3918,11 +3918,11 @@ Rotherham United           2-0   Cheltenham Town
 Southend United            2-0   Carlisle United
 Torquay United             3-2   Macclesfield Town
 
-Apr 26 2000
+_ Apr 26 2000 _
 
 Brighton and Hove Albion   0-0   Peterborough United
 
-Apr 29 2000
+_ Apr 29 2000 _
 
 Barnet                     2-2   Leyton Orient
 Carlisle United            1-1   Darlington
@@ -3937,11 +3937,11 @@ Shrewsbury Town            1-2   Brighton and Hove Albion
 Swansea City               3-0   Exeter City
 York City                  2-0   Halifax Town
 
-May 2 2000
+_ May 2 2000 _
 
 Southend United            0-2   Torquay United
 
-May 6 2000
+_ May 6 2000 _
 
 Brighton and Hove Albion   1-0   Carlisle United
 Chester City               0-1   Peterborough United
@@ -3978,7 +3978,7 @@ Conference
 <!-- $table9$ -->
 
 
-Aug 14 1999
+_ Aug 14 1999 _
 
 Altrincham               0-1   Stevenage Borough
 Doncaster Rovers         3-2   Forest Green Rovers
@@ -3992,11 +3992,11 @@ Sutton United            1-1   Hereford United
 Telford United           1-0   Kingstonian
 Welling United           1-2   Hednesford Town
 
-Aug 16 1999
+_ Aug 16 1999 _
 
 Stevenage Borough        3-0   Doncaster Rovers
 
-Aug 17 1999
+_ Aug 17 1999 _
 
 Altrincham               0-1   Hednesford Town
 Hayes                    1-0   Welling United
@@ -4007,11 +4007,11 @@ Southport                2-2   Scarborough
 Woking                   1-1   Kettering Town
 Yeovil Town              1-0   Kidderminster Harriers
 
-Aug 18 1999
+_ Aug 18 1999 _
 
 Kingstonian              4-1   Dover Athletic
 
-Aug 21 1999
+_ Aug 21 1999 _
 
 Dover Athletic           3-1   Nuneaton Borough
 Forest Green Rovers      0-1   Scarborough
@@ -4025,7 +4025,7 @@ Stevenage Borough        2-0   Telford United
 Woking                   1-3   Doncaster Rovers
 Yeovil Town              3-0   Altrincham
 
-Aug 24 1999
+_ Aug 24 1999 _
 
 Doncaster Rovers         1-1   Southport
 Dover Athletic           2-2   Hayes
@@ -4037,7 +4037,7 @@ Sutton United            0-2   Stevenage Borough
 Telford United           2-0   Forest Green Rovers
 Welling United           1-2   Woking
 
-Aug 28 1999
+_ Aug 28 1999 _
 
 Doncaster Rovers         0-0   Hayes
 Hednesford Town          1-3   Morecambe
@@ -4051,7 +4051,7 @@ Telford United           1-1   Dover Athletic
 Welling United           3-1   Hereford United
 Yeovil Town              2-0   Kettering Town
 
-Aug 30 1999
+_ Aug 30 1999 _
 
 Altrincham               3-0   Southport
 Dover Athletic           1-1   Sutton United
@@ -4065,7 +4065,7 @@ Rushden & Diamonds       2-0   Welling United
 Stevenage Borough        3-0   Kettering Town
 Woking                   2-0   Yeovil Town
 
-Sep 4 1999
+_ Sep 4 1999 _
 
 Altrincham               3-0   Dover Athletic
 Forest Green Rovers      1-2   Nuneaton Borough
@@ -4079,17 +4079,17 @@ Stevenage Borough        0-2   Kidderminster Harriers
 Welling United           2-5   Yeovil Town
 Woking                   0-1   Hednesford Town
 
-Sep 6 1999
+_ Sep 6 1999 _
 
 Hednesford Town          1-1   Kettering Town
 
-Sep 7 1999
+_ Sep 7 1999 _
 
 Doncaster Rovers         0-1   Altrincham
 Rushden & Diamonds       1-0   Hayes
 Yeovil Town              1-0   Hereford United
 
-Sep 11 1999
+_ Sep 11 1999 _
 
 Dover Athletic           1-3   Doncaster Rovers
 Hednesford Town          2-2   Stevenage Borough
@@ -4103,11 +4103,11 @@ Sutton United            3-0   Altrincham
 Telford United           1-2   Hayes
 Yeovil Town              2-0   Morecambe
 
-Sep 13 1999
+_ Sep 13 1999 _
 
 Kidderminster Harriers   1-2   Nuneaton Borough
 
-Sep 14 1999
+_ Sep 14 1999 _
 
 Doncaster Rovers         2-1   Hednesford Town
 Hayes                    2-3   Yeovil Town
@@ -4115,7 +4115,7 @@ Hereford United          1-0   Forest Green Rovers
 Kettering Town           1-1   Rushden & Diamonds
 Northwich Victoria       2-0   Scarborough
 
-Sep 18 1999
+_ Sep 18 1999 _
 
 Altrincham               1-1   Woking
 Doncaster Rovers         2-1   Kettering Town
@@ -4129,11 +4129,11 @@ Scarborough              1-1   Nuneaton Borough
 Welling United           2-0   Telford United
 Yeovil Town              1-2   Sutton United
 
-Sep 21 1999
+_ Sep 21 1999 _
 
 Sutton United            2-3   Welling United
 
-Sep 25 1999
+_ Sep 25 1999 _
 
 Dover Athletic           2-0   Hereford United
 Hednesford Town          1-2   Rushden & Diamonds
@@ -4146,16 +4146,16 @@ Stevenage Borough        0-1   Kingstonian
 Telford United           3-1   Yeovil Town
 Welling United           1-1   Forest Green Rovers
 
-Sep 28 1999
+_ Sep 28 1999 _
 
 Hereford United          4-0   Rushden & Diamonds
 Welling United           0-1   Kingstonian
 
-Sep 29 1999
+_ Sep 29 1999 _
 
 Forest Green Rovers      5-1   Northwich Victoria
 
-Oct 2 1999
+_ Oct 2 1999 _
 
 Altrincham               1-2   Rushden & Diamonds
 Doncaster Rovers         1-1   Welling United
@@ -4169,7 +4169,7 @@ Nuneaton Borough         0-2   Southport
 Sutton United            2-1   Telford United
 Yeovil Town              1-1   Dover Athletic
 
-Oct 9 1999
+_ Oct 9 1999 _
 
 Doncaster Rovers         0-1   Nuneaton Borough
 Dover Athletic           1-1   Scarborough
@@ -4183,15 +4183,15 @@ Sutton United            2-2   Northwich Victoria
 Telford United           0-1   Altrincham
 Woking                   0-2   Hereford United
 
-Oct 16 1999
+_ Oct 16 1999 _
 
 Kingstonian              0-1   Yeovil Town
 
-Oct 22 1999
+_ Oct 22 1999 _
 
 Telford United           0-2   Doncaster Rovers
 
-Oct 23 1999
+_ Oct 23 1999 _
 
 Dover Athletic           4-1   Hednesford Town
 Hereford United          0-2   Hayes
@@ -4204,23 +4204,23 @@ Welling United           2-2   Altrincham
 Woking                   2-1   Forest Green Rovers
 Yeovil Town              1-1   Southport
 
-Oct 30 1999
+_ Oct 30 1999 _
 
 Dover Athletic           4-2   Stevenage Borough
 Telford United           1-0   Nuneaton Borough
 Woking                   1-1   Northwich Victoria
 
-Nov 1 1999
+_ Nov 1 1999 _
 
 Hednesford Town          0-2   Kidderminster Harriers
 
-Nov 2 1999
+_ Nov 2 1999 _
 
 Kettering Town           2-1   Welling United
 Nuneaton Borough         1-1   Rushden & Diamonds
 Sutton United            2-2   Kingstonian
 
-Nov 6 1999
+_ Nov 6 1999 _
 
 Altrincham               2-1   Hereford United
 Forest Green Rovers      1-2   Morecambe
@@ -4234,19 +4234,19 @@ Sutton United            1-0   Doncaster Rovers
 Telford United           3-2   Kidderminster Harriers
 Woking                   1-1   Nuneaton Borough
 
-Nov 12 1999
+_ Nov 12 1999 _
 
 Nuneaton Borough         2-0   Kingstonian
 Scarborough              2-0   Telford United
 Welling United           2-3   Sutton United
 
-Nov 13 1999
+_ Nov 13 1999 _
 
 Doncaster Rovers         0-0   Woking
 Kidderminster Harriers   5-0   Southport
 Yeovil Town              5-1   Rushden & Diamonds
 
-Nov 14 1999
+_ Nov 14 1999 _
 
 Dover Athletic           4-0   Forest Green Rovers
 Hayes                    1-2   Stevenage Borough
@@ -4254,7 +4254,7 @@ Hereford United          3-0   Northwich Victoria
 Kettering Town           0-0   Altrincham
 Morecambe                4-0   Hednesford Town
 
-Nov 20 1999
+_ Nov 20 1999 _
 
 Altrincham               2-2   Morecambe
 Kingstonian              0-1   Doncaster Rovers
@@ -4265,11 +4265,11 @@ Southport                1-2   Dover Athletic
 Sutton United            0-1   Yeovil Town
 Woking                   2-3   Welling United
 
-Dec 1 1999
+_ Dec 1 1999 _
 
 Altrincham               2-2   Nuneaton Borough
 
-Dec 5 1999
+_ Dec 5 1999 _
 
 Doncaster Rovers         1-2   Stevenage Borough
 Dover Athletic           2-2   Altrincham
@@ -4283,7 +4283,7 @@ Nuneaton Borough         2-3   Forest Green Rovers
 Welling United           2-1   Scarborough
 Yeovil Town              3-2   Northwich Victoria
 
-Dec 11 1999
+_ Dec 11 1999 _
 
 Forest Green Rovers      3-0   Hednesford Town
 Northwich Victoria       3-1   Nuneaton Borough
@@ -4293,11 +4293,11 @@ Sutton United            1-1   Kettering Town
 Telford United           2-1   Welling United
 Woking                   0-0   Morecambe
 
-Dec 15 1999
+_ Dec 15 1999 _
 
 Forest Green Rovers      1-2   Sutton United
 
-Dec 18 1999
+_ Dec 18 1999 _
 
 Altrincham               1-1   Forest Green Rovers
 Kettering Town           1-2   Dover Athletic
@@ -4311,7 +4311,7 @@ Telford United           1-1   Rushden & Diamonds
 Welling United           0-1   Doncaster Rovers
 Yeovil Town              2-4   Hayes
 
-Dec 27 1999
+_ Dec 27 1999 _
 
 Doncaster Rovers         0-1   Scarborough
 Dover Athletic           2-1   Welling United
@@ -4325,7 +4325,7 @@ Nuneaton Borough         0-1   Kettering Town
 Rushden & Diamonds       2-1   Stevenage Borough
 Woking                   1-1   Kingstonian
 
-Jan 3 2000
+_ Jan 3 2000 _
 
 Altrincham               2-0   Northwich Victoria
 Kettering Town           1-1   Nuneaton Borough
@@ -4339,7 +4339,7 @@ Telford United           6-2   Hednesford Town
 Welling United           1-1   Dover Athletic
 Yeovil Town              1-0   Forest Green Rovers
 
-Jan 8 2000
+_ Jan 8 2000 _
 
 Doncaster Rovers         1-0   Sutton United
 Dover Athletic           3-0   Yeovil Town
@@ -4352,15 +4352,15 @@ Nuneaton Borough         2-3   Kidderminster Harriers
 Welling United           1-3   Northwich Victoria
 Woking                   0-0   Southport
 
-Jan 15 2000
+_ Jan 15 2000 _
 
 Kidderminster Harriers   2-1   Hayes
 
-Jan 18 2000
+_ Jan 18 2000 _
 
 Telford United           3-2   Morecambe
 
-Jan 22 2000
+_ Jan 22 2000 _
 
 Doncaster Rovers         1-0   Kingstonian
 Forest Green Rovers      1-0   Rushden & Diamonds
@@ -4374,15 +4374,15 @@ Southport                2-0   Hednesford Town
 Welling United           2-1   Stevenage Borough
 Yeovil Town              2-1   Telford United
 
-Jan 25 2000
+_ Jan 25 2000 _
 
 Telford United           0-0   Southport
 
-Jan 26 2000
+_ Jan 26 2000 _
 
 Forest Green Rovers      0-1   Hayes
 
-Jan 29 2000
+_ Jan 29 2000 _
 
 Dover Athletic           3-1   Morecambe
 Hayes                    3-4   Doncaster Rovers
@@ -4395,17 +4395,17 @@ Sutton United            1-1   Southport
 Telford United           1-0   Scarborough
 Welling United           0-0   Nuneaton Borough
 
-Feb 1 2000
+_ Feb 1 2000 _
 
 Altrincham               3-3   Telford United
 
-Feb 5 2000
+_ Feb 5 2000 _
 
 Hednesford Town          5-0   Altrincham
 Northwich Victoria       0-0   Hereford United
 Stevenage Borough        2-1   Nuneaton Borough
 
-Feb 12 2000
+_ Feb 12 2000 _
 
 Altrincham               0-1   Welling United
 Doncaster Rovers         2-2   Hereford United
@@ -4419,15 +4419,15 @@ Nuneaton Borough         1-1   Morecambe
 Southport                1-1   Yeovil Town
 Woking                   0-2   Stevenage Borough
 
-Feb 15 2000
+_ Feb 15 2000 _
 
 Rushden & Diamonds       3-2   Forest Green Rovers
 
-Feb 16 2000
+_ Feb 16 2000 _
 
 Kingstonian              1-0   Stevenage Borough
 
-Feb 19 2000
+_ Feb 19 2000 _
 
 Doncaster Rovers         0-1   Rushden & Diamonds
 Forest Green Rovers      1-0   Southport
@@ -4440,27 +4440,27 @@ Welling United           0-0   Morecambe
 Woking                   0-1   Altrincham
 Yeovil Town              1-3   Nuneaton Borough
 
-Feb 22 2000
+_ Feb 22 2000 _
 
 Altrincham               2-1   Scarborough
 Rushden & Diamonds       1-1   Hednesford Town
 
-Feb 26 2000
+_ Feb 26 2000 _
 
 Hayes                    0-0   Hereford United
 Kidderminster Harriers   4-1   Welling United
 Morecambe                3-3   Altrincham
 Northwich Victoria       0-0   Forest Green Rovers
 
-Feb 28 2000
+_ Feb 28 2000 _
 
 Stevenage Borough        0-3   Hereford United
 
-Feb 29 2000
+_ Feb 29 2000 _
 
 Scarborough              3-0   Southport
 
-Mar 4 2000
+_ Mar 4 2000 _
 
 Altrincham               3-0   Sutton United
 Hednesford Town          2-1   Doncaster Rovers
@@ -4474,12 +4474,12 @@ Southport                4-1   Hayes
 Telford United           1-2   Woking
 Welling United           1-0   Kettering Town
 
-Mar 7 2000
+_ Mar 7 2000 _
 
 Doncaster Rovers         1-2   Kidderminster Harriers
 Rushden & Diamonds       1-1   Yeovil Town
 
-Mar 11 2000
+_ Mar 11 2000 _
 
 Forest Green Rovers      3-1   Dover Athletic
 Hereford United          3-0   Hednesford Town
@@ -4489,11 +4489,11 @@ Stevenage Borough        0-1   Welling United
 Woking                   0-3   Hayes
 Yeovil Town              1-3   Doncaster Rovers
 
-Mar 14 2000
+_ Mar 14 2000 _
 
 Hereford United          2-4   Woking
 
-Mar 18 2000
+_ Mar 18 2000 _
 
 Doncaster Rovers         0-3   Yeovil Town
 Forest Green Rovers      0-1   Hereford United
@@ -4507,12 +4507,12 @@ Stevenage Borough        0-1   Hednesford Town
 Telford United           0-1   Northwich Victoria
 Welling United           1-2   Kidderminster Harriers
 
-Mar 21 2000
+_ Mar 21 2000 _
 
 Hayes                    1-2   Dover Athletic
 Southport                1-0   Doncaster Rovers
 
-Mar 25 2000
+_ Mar 25 2000 _
 
 Altrincham               1-1   Kettering Town
 Dover Athletic           0-1   Kingstonian
@@ -4526,13 +4526,13 @@ Southport                2-1   Stevenage Borough
 Woking                   1-2   Sutton United
 Yeovil Town              1-2   Scarborough
 
-Mar 28 2000
+_ Mar 28 2000 _
 
 Dover Athletic           2-2   Woking
 Rushden & Diamonds       2-0   Kettering Town
 Sutton United            0-0   Hednesford Town
 
-Apr 1 2000
+_ Apr 1 2000 _
 
 Forest Green Rovers      0-0   Woking
 Hednesford Town          1-0   Dover Athletic
@@ -4542,19 +4542,19 @@ Rushden & Diamonds       1-1   Nuneaton Borough
 Scarborough              0-0   Welling United
 Stevenage Borough        3-0   Hayes
 
-Apr 4 2000
+_ Apr 4 2000 _
 
 Rushden & Diamonds       0-2   Morecambe
 Southport                2-0   Nuneaton Borough
 Telford United           3-1   Kettering Town
 Yeovil Town              2-2   Stevenage Borough
 
-Apr 6 2000
+_ Apr 6 2000 _
 
 Kingstonian              0-0   Hereford United
 Sutton United            1-1   Woking
 
-Apr 8 2000
+_ Apr 8 2000 _
 
 Doncaster Rovers         0-1   Morecambe
 Dover Athletic           4-1   Northwich Victoria
@@ -4567,7 +4567,7 @@ Stevenage Borough        1-1   Forest Green Rovers
 Telford United           2-0   Sutton United
 Welling United           4-1   Southport
 
-Apr 11 2000
+_ Apr 11 2000 _
 
 Hayes                    0-1   Scarborough
 Kettering Town           2-2   Doncaster Rovers
@@ -4577,7 +4577,7 @@ Sutton United            3-2   Forest Green Rovers
 Woking                   1-3   Rushden & Diamonds
 Yeovil Town              3-2   Kingstonian
 
-Apr 15 2000
+_ Apr 15 2000 _
 
 Morecambe                2-1   Doncaster Rovers
 Rushden & Diamonds       1-0   Altrincham
@@ -4585,22 +4585,22 @@ Scarborough              5-0   Forest Green Rovers
 Southport                0-1   Kidderminster Harriers
 Yeovil Town              1-1   Welling United
 
-Apr 17 2000
+_ Apr 17 2000 _
 
 Stevenage Borough        0-0   Yeovil Town
 
-Apr 18 2000
+_ Apr 18 2000 _
 
 Altrincham               1-2   Hayes
 Dover Athletic           1-1   Kettering Town
 Northwich Victoria       3-1   Woking
 
-Apr 20 2000
+_ Apr 20 2000 _
 
 Sutton United            1-2   Scarborough
 Telford United           1-1   Hereford United
 
-Apr 22 2000
+_ Apr 22 2000 _
 
 Doncaster Rovers         0-1   Dover Athletic
 Kettering Town           2-0   Hereford United
@@ -4613,7 +4613,7 @@ Telford United           2-1   Stevenage Borough
 Welling United           1-2   Hayes
 Yeovil Town              3-0   Hednesford Town
 
-Apr 24 2000
+_ Apr 24 2000 _
 
 Altrincham               1-2   Doncaster Rovers
 Dover Athletic           0-1   Kidderminster Harriers
@@ -4625,13 +4625,13 @@ Northwich Victoria       2-6   Kettering Town
 Stevenage Borough        1-0   Sutton United
 Woking                   1-0   Telford United
 
-Apr 26 2000
+_ Apr 26 2000 _
 
 Doncaster Rovers         2-0   Telford United
 Kingstonian              0-0   Morecambe
 Scarborough              1-0   Altrincham
 
-Apr 29 2000
+_ Apr 29 2000 _
 
 Altrincham               2-2   Yeovil Town
 Dover Athletic           1-1   Southport
@@ -4645,7 +4645,7 @@ Nuneaton Borough         0-1   Stevenage Borough
 Rushden & Diamonds       0-0   Scarborough
 Woking                   1-0   Kidderminster Harriers
 
-May 1 2000
+_ May 1 2000 _
 
 Doncaster Rovers         2-0   Northwich Victoria
 Kettering Town           1-0   Stevenage Borough
@@ -4658,18 +4658,18 @@ Sutton United            0-1   Dover Athletic
 Welling United           0-3   Rushden & Diamonds
 Yeovil Town              0-3   Woking
 
-May 3 2000
+_ May 3 2000 _
 
 Altrincham               1-3   Kingstonian
 Northwich Victoria       2-1   Telford United
 Sutton United            0-3   Kidderminster Harriers
 Woking                   2-0   Dover Athletic
 
-May 4 2000
+_ May 4 2000 _
 
 Southport                0-0   Kingstonian
 
-May 6 2000
+_ May 6 2000 _
 
 Altrincham               0-0   Kidderminster Harriers
 Dover Athletic           3-0   Telford United

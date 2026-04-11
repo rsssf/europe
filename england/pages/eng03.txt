@@ -1070,7 +1070,7 @@ Forest Green(FC)       0-0 Exeter City(3) [2,147]
 (Tue Nov 26)
 York City              2-1 Swansea City [Duffield 21,88; Murphy 80 - 2,948]
 
-1st Round Replays
+▪ 1st Round Replays ▪
 (Tue Nov 26)
 Cambridge Utd          2-1 Scarborough [aet: Wanless 31, Hotte og 97; Jordan 90 - 3,373]
 Cardiff                2-1 Tranmere [Campbell 60,Collins 68; Mellon 45 - 6,583]
@@ -1108,7 +1108,7 @@ Crewe                  3-0 Mansfield [Rix 6,Brammer 63p,Ashton 78 - 4,563]
 Harrogate Railway      1-3 Bristol C [Davy 78; Walker og 20,Murray 53,Roberts 90 - 3,500]
 Oxford                 1-0 Swindon [Louis 65 - 11,645]
 
-2nd Round Replays
+▪ 2nd Round Replays ▪
 (Tue Dec 17)
 Northampton            0-1 Cambridge [Riza 79 - 4,591]
 Rochdale               3-2 Bristol R [Platt 35,Connor 48,McCourt 80; Barrett 19,Tait 51 - 2,206]
@@ -1154,7 +1154,7 @@ Gillingham(1)          4-1 Sheffield Wednesday(1) [King 12, 18pen, Ipoua 41, Hop
 (Tue Jan 14)
 Norwich City(1)        3-1 Brighton HA(1) [Mulryne 57, 81, McVeigh 71; Pethick 49 - 17,205]
 
-Third Round Replays
+▪ Third Round Replays ▪
 (Tue Jan 14)
 Burnley                4-0 Grimsby Town [I Moore 25, 90, Little 79, Blake 86p - 5,436]
 Crewe Alex             2-2 Bournemouth [aet 1-3 pens: Jones 29, Sodje 120; Hayter 38, Fletcher 98 - 4,540]
@@ -1165,7 +1165,7 @@ Sunderland             2-0 Bolton Wand [aet: Arca 99, Proctor 100 - 14,550]
 (Wed Jan 15)
 Coventry City          3-0 Cardiff City [Fowler 21, Holdsworth 57, Bothroyd 89 - 11,997]
 
-Fourth Round
+▪ Fourth Round ▪
 (Sat Jan 25)
 Blackburn Rov          3-3 Sunderland [Cole 14,73,Yorke 90; Stewart 2,Proctor 52,Phillips 70 - 14,315]
 Brentford              0-3 Burnley [Blake 52, Cook 86, Little 89 - 9,563]
@@ -1187,7 +1187,7 @@ Manchester Utd         6-0 West Ham [Giggs 8, 29, Van Nistelrooy 49, 58, P Nevil
 Shrewsbury             0-4 Chelsea [Zola 40, 75, Cole 53, Morris 80 - 7,950]
 Stoke City             3-0 Bournemouth [Iwelumo 45pen, 51, Hoekstra 84 - 12,004]
 
-Fourth Round Replays
+▪ Fourth Round Replays ▪
 (Tue Feb 4)
 Leeds United           2-1 Gillingham [Viduka 11,Bakke 58; Ipoua 86 - 29,355]
 (Wed Feb 5)
@@ -1195,7 +1195,7 @@ Liverpool              0-2 Crystal Palace [Gray 55,Henchoz og 79 - 35,109]
 Millwall               1-2 Southampton [aet: Reid 37; Oakley 21,102 - 10,197]
 Sunderland             2-2 Blackburn [aet 3-0 pens: Phillips 10,McCann 79; Flitcroft 50,90 - 15,745]
 
-Fifth Round
+▪ Fifth Round ▪
 (Sat Feb 15)
 Manchester Utd    0-2 Arsenal [Edu 34,Wiltord 52 - 67,209]
 Sheffield Utd    2-0 Walsall [Mooney 37,Ndlovu 56 - 17,510]
@@ -1208,13 +1208,13 @@ Stoke City    0-2 Chelsea [Hasselbaink 52,Gronkjaer 76 - 26,615]
 Wolverhampton    3-1 Rochdale [Ndah 32,Miller 79,Proudlock 90; Melaugh 52 - 23,921]
 
 5th Rnd Replay
-(Wed 26 Feb)
+_ Wed 26 Feb _
 Burnley      3-0 Fulham [Taylor 27,I Moore 35,Diallo 52 - 11,635]
 
 ▪ Quarter Finals ▪
-(Sat 8 Mar)
+_ Sat 8 Mar _
 Arsenal      2-2 Chelsea [Jeffers 37,Henry 45; Terry 3,Lampard 84 - 38,104]
-(Sun 9 Mar)
+_ Sun 9 Mar _
 Sheffield Utd    1-0 Leeds [Kabba 78 - 24,633]
 Watford      2-0 Burnley [Marsden 56,Butler og 81 - 31,715]
 Southampton    2-0 Wolves [Smith 74,Glass 80 - 20,336]
@@ -1224,7 +1224,7 @@ Quarter Final Replay
 Chelsea                1-3 Arsenal [Terry 79; Terry og 25,Wiltord 33,Lauren 82 - 41,456]
 
 ▪ Semi Finals ▪
-(Sun 13 Apr)
+_ Sun 13 Apr _
 Sheffield Utd          0-1 Arsenal [Ljungberg 34 - 59,170; at Old Trafford]
 Southampton            2-1 Watford [Ormerod 43,Robinson og 80; Gayle 88 - 42,603; at Villa Park]
 
@@ -1243,7 +1243,7 @@ Southampton qualify for 2003/04 UEFA Cup as Arsenal have already qualified for C
 League Cup 2002/03
 
 
-Preliminary Round [Aug 20]
+▪ Preliminary Round ▪  Aug 20
 Bristol Rovers    0-2 Boston Utd
    (Burton 52, Weatherstone 72)
 
@@ -1413,7 +1413,7 @@ Sheffield Utd     2-1 Leeds Utd
 West Ham          0-1 Oldham Ath
    (Corazzin 42)
 
-Fourth Round
+▪ Fourth Round ▪
 _ Dec 3 _
 Burnley           0-2 Manchester Utd
    (Forlan 35, Solskjaer 65)
@@ -2870,12 +2870,12 @@ Port Vale      0-0 Barnsley [4,033]
 QPR            1-2 Tranmere [Palmer 60; M Robinson 80,Haworth 90 - 12,249]
 Swindon        2-1 Wigan [Invincibile 24,Gurney 35; McCulloch 55 - 5,238]
 
-(Tue 28 Jan)
+_ Tue 28 Jan _
 Mansfield      1-2 Wigan [Christie 50; Ellington 39,Liddell 43 - 5,524]
 
-(Fri 31 Jan)
+_ Fri 31 Jan _
 Cardiff         1-1 Oldham [Bowen 35; Eyres 87 - 12,579]
-(Sat 1 Feb)
+_ Sat 1 Feb _
 Barnsley       1-1 Swindon [Fallon 14; Invincibile 34 - 8,661]
 Blackpool      0-0 Bristol C [7,290]
 Brentford      P-P Huddersfield [safety concerns arising from bad weather, played 25/2]
@@ -2886,17 +2886,17 @@ Stockport      1-1 Colchester [Beckett 36; Keith 68 - 4,011]
 Tranmere       1-0 Port Vale [McClare og 31 - 7,461]
 Wigan          0-0 Cheltenham [6,171]
 Wycombe        3-1 Notts C [Harris 15,18,Roberts 59; Stallard 70 - 5,690]
-(Sun 2 Feb)
+_ Sun 2 Feb _
 Chesterfield   2-4 QPR [Hurst 11,Brandon 90; Pacquette 13,Shittu 22,Furlong 83,Thomson 89 - 4,395]
 
-(Tue 4 Feb)
+_ Tue 4 Feb _
 Cheltenham     3-1 Tranmere [Brown 8,Naylor 64,Devaney 72; Sharps 50 - 3,936]
 Huddersfield   1-0 Plymouth [Smith 82p - 7,294]
 Mansfield      0-0 Brentford [3,735]
 Northampton    0-1 Cardiff [Earnshaw 58 - 4,553]
 Notts C        2-2 Crewe [Caskey 61p,Allsopp 87; Jones 2,Hulse 13 - 3,875]
 
-(Sat 8 Feb)
+_ Sat 8 Feb _
 Brentford      1-2 Crewe [Hunt 11; Lunt 52,64p - 5,424]
 Bristol C      1-2 Colchester [Fagan 51; McGleish 12,Pinault 82 - 11,107]
 Cardiff        1-1 Barnsley [Gordon 90; Dyer 52p - 12,759]
@@ -2910,14 +2910,14 @@ Tranmere       0-1 Swindon [Gurney 50 - 7,181]
 Wigan          1-1 Blackpool [Liddell 1; Taylor 85 - 10,546]
 Wycombe        0-0 Huddersfield [5,886]
 
-(Tue 11 Feb)
+_ Tue 11 Feb _
 Bristol C      0-0 Brentford [9,048]
 Luton          1-3 Blackpool [Thorpe 48; Murphy 10,52,72 - 6,563]
 Port Vale      5-2 Chesterfield [McPhee 2,Boyd 10,66,Armstrong 14,Brooker 18; Edwards 34,Ebdon 45 - 3,039]
 
-(Fri 14 Feb)
+_ Fri 14 Feb _
 Colchester     1-0 Mansfield [McGleish 88 - 3,247]
-(Sat 15 Feb)
+_ Sat 15 Feb _
 Barnsley       2-1 Chesterfield [Fallon 20,Dyer 33; Brandon 18 - 9,373]
 Blackpool      1-0 Brentford [Murphy 27 - 6,203]
 Huddersfield   3-3 Cheltenham [Irons 54,Smith 56,59; McCann 37,71,Alsop 40 - 9,309]
@@ -2929,13 +2929,13 @@ Stockport      1-2 Oldham [Daly 46; Murray 9,Eyres 89 - 8,168]
 Swindon        0-3 Wycombe [Ryan 25,Bulman 57,Faulconbridge 73 - 6,239]
 (other games postponed due to frozen pitches)
 
-(Tue 18 Feb)
+_ Tue 18 Feb _
 Brentford      A-A Colchester [abandoned at HT due to weather, played 11/3 - 4,080]
 Cheltenham     1-3 Barnsley [Naylor 2; Sheron 18,Dyer 63,Jones 90 - 3,568]
 
-(Fri 21 Feb)
+_ Fri 21 Feb _
 Cardiff        1-1 Plymouth [Earnshaw 42,Wotton 86 - 14,006]
-(Sat 22 Feb)
+_ Sat 22 Feb _
 Barnsley       0-1 Huddersfield [Booth 26 - 12,474]
 Cheltenham     1-1 Colchester [Alsop 2; Williams 44 - 3,607]
 Chesterfield   0-2 Crewe [Wright 33,Jack 85 - 3,956]
@@ -2948,13 +2948,13 @@ QPR            2-2 Mansfield [Furlong 20,Gallen 90; Christie 25,50 - 11,942]
 Tranmere       2-1 Blackpool [Hume 14,70; Evans 59 - 9,111]
 Wycombe        0-2 Wigan [McCulloch 9,Liddell 89p - 6,052]
 
-(Tue 25 Feb)
+_ Tue 25 Feb _
 Brentford      1-0 Huddersfield [McCammon 56 - 4,366]
 Crewe          0-1 Wigan [Ellington 38 - 8,917]
 Luton          1-0 Plymouth [Thorpe 50 - 7,589]
 Port Vale      0-2 Cardiff [Gordon 35,Thorne 64 - 3,831]
 
-(Sat 1 Mar)
+_ Sat 1 Mar _
 Blackpool      1-0 Wycombe [Murphy 20 - 7,266]
 Brentford      1-2 Tranmere [Sonko 90; Hume 20,Sharps 48 - 5,396]
 Bristol C      3-1 Cheltenham [Robins 2,Brown 20,Rosenior 90; McCann 45 - 11,711]
@@ -2968,7 +2968,7 @@ Stockport      1-1 Cardiff [Clark 26; Thorne 81 - 5,385]
 Swindon        3-1 QPR [Robinson 18,Parkin 64,Heywood 68; Shittu 15 - 7,716]
 Wigan          3-1 Chesterfield [Teale 25,Dinning 40,Liddell 74p; Reeves 66p - 6,384]
 
-(Tue 4 Mar)
+_ Tue 4 Mar _
 Blackpool      1-2 Barnsley [Murphy 56; Sheron 41,62 - 6,827]
 Brentford      0-2 Cardiff [Young 52,Earnshaw 78 - 5,727]
 Bristol C      2-0 Oldham [Murray 54,Roberts 90 - 11,194]
@@ -2980,10 +2980,10 @@ Notts C        1-0 Port Vale [Stallard 59 - 6,302]
 Plymouth       6-1 Peterborough [Keith 9,Burton og 25,Gill og 42,Wotton 45,Friio 62,Bent 72; McKenzie 70 - 6,931]
 Stockport      2-1 Chesterfield [Beckett 40,Daly 84; Reeves 6 - 4,428]
 Wigan          0-0 Tranmere [9,021]
-(Wed 5 Mar)
+_ Wed 5 Mar _
 Swindon        P-P Cheltenham [waterlogged pitch, played 12/3]
 
-(Sat 8 Mar)
+_ Sat 8 Mar _
 Barnsley       1-0 Stockport [Dyer 10 - 9,177]
 Cardiff        0-2 Notts C [Stallard 62p,80 - 11,389]
 Cheltenham     3-1 Mansfield [Devaney 2,Brown 38,Spencer 90; Lawrence 83 - 3,881]
@@ -2997,14 +2997,14 @@ QPR            1-0 Bristol C [Gallen 19p - 14,681]
 Tranmere       2-1 Crewe [Price 43,Sharps 88; Hulse 47 - 8,670]
 Wycombe        4-0 Brentford [Dixon 16,Senda 17,Holligan 80,Currie 87 - 5,930]
 
-(Tue 11 Mar)
+_ Tue 11 Mar _
 Brentford      1-1 Colchester [McCammon 37; Keith 84p - 3,990]
-(Wed 12 Mar)
+_ Wed 12 Mar _
 Swindon        0-3 Cheltenham [Devaney 32,Brough 40,Spencer 90 - 5,583]
 
-(Fri 14 Mar)
+_ Fri 14 Mar _
 Tranmere       3-3 Cardiff [Haworth 47,Hurne 78,Jones 89; Earnshaw 35,68,90 - 9,637]
-(Sat 15 Mar)
+_ Sat 15 Mar _
 Blackpool      1-1 Plymouth [Taylor 40; Keith 29 - 8,772]
 Brentford      1-2 Stockport [Antoine-Curier 39; Beckett 51,54 - 4,790]
 Bristol C      1-0 Peterborough [Robins 12 - 11.231]
@@ -3017,7 +3017,7 @@ Oldham         0-0 QPR [7,242]
 Wigan          1-1 Luton [Roberts 75; Howard 57 - 7,087]
 Wycombe        2-2 Barnsley [McSporran 34,Johnson 82; Sheron 76,Dyer 86 - 5,931]
 
-(Tue 18 Mar)
+_ Tue 18 Mar _
 Barnsley       1-1 Tranmere [Dyer 8; Nicholson 49p - 8,786]
 Cardiff        2-1 Blackpool [Earnshaw 44,Mahon 51; Taylor 37 - 11,788]
 Chesterfield   0-4 Colchester [Izzet 43,Williams 48,Payne og 68,Morgan 81 - 3,226]
@@ -3029,12 +3029,12 @@ Plymouth       1-3 Crewe [Stonebridge 47; Jack 4,Ashton 13,68 - 7,777]
 Port Vale      1-0 Brentford [Collins 36 - 3,241]
 QPR            4-1 Cheltenham [Gallen 40,Duff og 45,Cook 55,Furlong 63; Devaney 5 - 11,370]
 Stockport      1-1 Wigan [Welsh 70; De Vos 63 - 6,719]
-(Wed 19 Mar)
+_ Wed 19 Mar _
 Swindon        1-1 Bristol C [Parkin 66; Robins 48 - 8,629]
 
-(Fri 21 Mar)
+_ Fri 21 Mar _
 Cardiff        1-0 Mansfield [Earnshaw 62 - 13,009]
-(Sat 22 Mar)
+_ Sat 22 Mar _
 Barnsley       1-1 Colchester [Betsy 36; McGleish 38 - 9,154]
 Chesterfield   4-0 Wycombe [Close 28,Reeves 53,Brandon 67,Hudson 86 - 3,081]
 Huddersfield   1-2 Bristol C [Smith 20p; Hill 17,Peacock 36 - 9,477]
@@ -3047,7 +3047,7 @@ QPR            0-1 Wigan [Ellington 47 - 14,703]
 Stockport      2-2 Blackpool [Lambert 45,Beckett 77; Murphy 32,Grayson 42 - 6,599]
 Swindon        5-0 Notts C [Parkin 43,61,89,Gurney 59,Duke 69 - 4,246]
 
-(Sat 29 Mar)
+_ Sat 29 Mar _
 Blackpool      1-3 QPR [Taylor 90; Langley 35,65,85 - 8,162]
 Brentford      3-0 Northampton [Somner 52,Rowlands 77,Hunt 90 - 5,354]
 Bristol C      2-0 Barnsley [Murray 6,Roberts 63 - 10,232]
@@ -3061,9 +3061,9 @@ Tranmere       2-1 Chesterfield [Anderson 30,Hume 51; Reeves 78 - 8,238]
 Wigan          0-1 Plymouth [Keith 35 - 7,203]
 Wycombe        P-P Cardiff [due to Cardiff international call-ups; played 8/4]
 
-(Fri 4 Apr)
+_ Fri 4 Apr _
 Northampton    0-2 Wigan [Ellington 9,Liddell 43p - 5,822]
-(Sat 5 Apr)
+_ Sat 5 Apr _
 Brentford      2-2 Cheltenham [Dobson 63,O'Connor 78; McCann 23p,Devaney 29 - 5,011]
 Cardiff        1-2 QPR [Thorne 78; Furlong 64,Langley 89 - 15,245]
 Crewe          P-P Bristol C [due to LDV Trophy Final, played 15/4]
@@ -3076,11 +3076,11 @@ Peterborough   1-1 Swindon [Shields 35; Invincibile 71 - 4,310]
 Plymouth       0-0 Colchester [7,122]
 Wycombe        1-4 Stockport [Simpson 65; Beckett 78,Greer 85,Wilbraham 88,90 - 5,632]
 
-(Tue 8 Apr)
+_ Tue 8 Apr _
 Cheltenham     2-2 Luton [McCann 27p,Alsop 81; Hughes 12,Forbes 38 - 3,762]
 Wycombe        0-4 Cardiff [Thorne 5,81,Mahon 68,Legg 84 - 5,889]
 
-(Sat 12 Apr)
+_ Sat 12 Apr _
 Barnsley       1-2 Peterborough [Dyer 15p; Arber 60p,Crooks og 77 - 8,862]
 Blackpool      0-1 Crewe [Lunt 69 - 7,623]
 Bristol C      5-2 Mansfield [Peacock 13,Murray 32,51,80,Carey 70; Disley 37,Butler og 61 - 12,013]
@@ -3092,17 +3092,17 @@ Stockport      2-1 Plymouth [Wilbraham 40,Daly 86p; Keith 72 - 5,484]
 Swindon        0-1 Huddersfield [Smith 87 - 4,760]
 Tranmere       1-0 Wycombe [Jones 90 - 6,814]
 Wigan          2-0 Brentford [Ellington 57,McCulloch 90 - 7,204]
-(Sun 13 Apr)
+_ Sun 13 Apr _
 Chesterfield   0-3 Cardiff [Kavanagh 24,Thorne 35,82 - 4,398]
 
-(Tue 15 Apr)
+_ Tue 15 Apr _
 Crewe          1-1 Bristol C [Lunt 15p; Roberts 62 - 7,901]
-(Wed 16 Apr)
+_ Wed 16 Apr _
 Peterborough   2-0 Cardiff [Gill 38,McKenzie 70 - 4,984]
 
-(Fri 18 Apr)
+_ Fri 18 Apr _
 Northampton    0-3 Stockport [Wilbraham 7,24,Goodwin 14 - 5,873]
-(Sat 19 Apr)
+_ Sat 19 Apr _
 Brentford      1-2 QPR [Peters 81; Shittu 8,Bircham 90 - 9,168]
 Cardiff        0-3 Colchester [Duguid 4,Izzet 61,Morgan 73 - 12,633]
 Crewe          0-1 Swindon [Miglioranzi 75 - 6,384]
@@ -3115,7 +3115,7 @@ Peterborough   1-0 Blackpool [Farrell 12 - 4,587]
 Plymouth       3-0 Port Vale [Coughlan 56,Norris 67,Wotton 77 - 7,775]
 Wycombe        1-1 Cheltenham [Brown 4p; Naylor 89 - 6,070]
 
-(Mon 21 Apr)
+_ Mon 21 Apr _
 Barnsley       1-2 Crewe [Ince og 33; Sorvel 34,Hulse 62 - 9,396]
 Blackpool      3-3 Mansfield [Blinkhorn 30,43,Taylor 90; Clarke 13,Larkin 46,White 86 - 6,173]
 Cheltenham     1-1 Peterborough [Duff 86; Clarke 64 - 4,809]
@@ -3126,12 +3126,12 @@ QPR            2-0 Notts C [Furlong 16,Langley 90 - 13,585]
 Stockport      2-1 Huddersfield [Daly 79,Wilbraham 81; Booth 3 - 7,159]
 Tranmere       4-0 Northampton [Nicholson 59p,Haworth 60,Hay 90,Anderson 90 - 7,348]
 Wigan          3-1 Oldham [Roberts 9,80,Bullard 71; Andrews 1 - 12,783]
-(Tue 22 Apr)
+_ Tue 22 Apr _
 Bristol C      2-0 Cardiff [Tinnion 55p,Roberts 73 - 15,615]
-(Wed 23 Apr)
+_ Wed 23 Apr _
 Swindon        2-0 Plymouth [Invincibile 38,Parkin 68 - 5,057]
 
-(Sat 26 Apr)
+_ Sat 26 Apr _
 Barnsley       1-0 Brentford [Rankin 90 - 9,065]
 Cardiff        0-0 Wigan [14,702]
 Cheltenham     3-0 Blackpool [Victory 37,M Duff 40,Naylor 65 - 5,150]
@@ -3146,10 +3146,10 @@ Tranmere       A-A Mansfield [abandoned at HT on police advice resulting from sa
  climbed onto the floodlight/roof - Hume 16,Haworth 31; 7,000+, played 29/4]
 Wycombe        0-0 Colchester [6,283]
 
-(Tue 29 Apr)
+_ Tue 29 Apr _
 Tranmere       3-1 Mansfield [Jones 15,Haworth 81,Price 90; Lawrence 54p - 10,418]
 
-(Sat 3 May)
+_ Sat 3 May _
 Blackpool      1-1 Chesterfield [Taylor 64; Douglas 39 - 7,999]
 Brentford      1-1 Peterborough [Evans 67; A Clarke 57 - 6,687]
 Bristol C      2-0 Port Vale [Murray 31,Peacock 43 - 12,410]
@@ -3200,14 +3200,14 @@ Promotion Play Offs
 ▪ Semi Finals ▪
 
 1st Legs
-(Sat 10 May)
+_ Sat 10 May _
 Cardiff        1-0 Bristol C [Thorne 74 - 19,146]
 Oldham         1-1 QPR [Eyres 28; Langley 47 - 12,152]
 
 2nd Legs
-(Tue 13 May)
+_ Tue 13 May _
 Bristol C      0-0 Cardiff [16,307, Cardiff win 1-0 on agg]
-(Wed 14 May)
+_ Wed 14 May _
 QPR            1-0 Oldham [Furlong 82 - 17,201, QPR win 2-1 on agg]
 
 ▪ Final ▪

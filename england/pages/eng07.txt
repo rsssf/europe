@@ -834,7 +834,7 @@ Havant and Waterlooville   1-2 Millwall        [at Portsmouth]
   (Baptiste 57; May 6, Dunne 71)
 Macclesfield Town          0-0 Walsall
 
-First Round Replays
+▪ First Round Replays ▪
 _ Nov 20 _
 Hartlepool United          0-0 Rochdale        (aet, 4-2 pen)
 _ Nov 21 _
@@ -897,7 +897,7 @@ Bristol City               4-3 Gillingham
 Sailsbury                  1-1 Nottingham Forest
   (Tubbs 61; Tyson 27)
 
-Second Round Replays [Dec 12]
+▪ Second Round Replays ▪  Dec 12
 Basingstoke Town           1-3 Aldershot Town
   (Roach 4; Soares 14, 30 Barnard 51)
 Bournemouth                0-1 Bristol Rovers
@@ -955,7 +955,7 @@ Barnet                     2-1 Colchester United
 Reading                    3-2 Burnley
   (Lita 27, Long 37, Sodje 55; Akinbiyi 69, O'Connor 90)
 
-Third Round Replays
+▪ Third Round Replays ▪
 _ Jan 16 _
 Ipswich Town               1-0 Chester City
   (Richards 84)
@@ -984,7 +984,7 @@ _ Jan 23 _
 Luton Town                 1-0 Queens Park Rangers
   (Rehman 80og)
 
-Fourth Round
+▪ Fourth Round ▪
 _ Jan 27 _
 West Ham United            0-1 Watford
   (McNamee 42)
@@ -1020,7 +1020,7 @@ Manchester City            3-1 Southampton
 Wolverhampton Wanderers    0-3 West Bromwich Albion
   (Kamara 44, Phillips 49, Gore 78)
 
-Fourth Round Replays
+▪ Fourth Round Replays ▪
 _ Feb 13 _
 Norwich City               3-2 Blackpool         (aet)
   (Huckerby 78, 95, Martin 112; Jackson 37, Barker 108)
@@ -1030,7 +1030,7 @@ _ Feb 14 _
 Bolton Wanderers           1-3 Arsenal           (aet)
   (Meite 90; Adebayor 13, 120, Ljungberg 108)
 
-Fifth Round
+▪ Fifth Round ▪
 _ Feb 17 _
 Chelsea                    4-0 Norwich City
   (Wright-Phillips 39, Drogba 51, Essien 90, Shevchenko 90)
@@ -1049,7 +1049,7 @@ Preston North End          1-3 Manchester City
 Fulham                     0-4 Tottenham Hotspur
   (Keane 6, 68, Berbatov 77, 90)
 
-Fifth Round Replays
+▪ Fifth Round Replays ▪
 _ Feb 27 _
 Reading                    2-3 Manchester United
   (Kitson 23, Lita 84; Heinze 2, Saha 4, Solskjaer 6)
@@ -1273,7 +1273,7 @@ Milton Keynes Dons      0-5 Tottenham Hotspur
 Newcastle United        3-0 Portsmouth
   (Rossi 48, Solano 53, 90)
 
-Fourth Round
+▪ Fourth Round ▪
 _ Nov 7 _
 Chesterfield            3-3 Charlton Athletic  (aet, 3-4 pen)
 Notts County            0-1 Wycombe Wanderers

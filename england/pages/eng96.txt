@@ -1075,7 +1075,7 @@ Torquay United             1  Leyton Orient              0
 York City                  0  Notts County               1
 Wycombe Wanderers          1  Gillingham                 1
 
-First Round Replays
+▪ First Round Replays ▪
 Ashford Town               0  Bognor Regis Town          1
 Brighton & Hove Albion     4  Canvey Island              1
 Bristol City               0  AFC Bournemouth            1
@@ -1110,7 +1110,7 @@ Telford United             0  Notts County               2
 Torquay United             1  Walsall                    1
 Wrexham                    3  Chesterfield               2
 
-Second Round Replays
+▪ Second Round Replays ▪
 Brighton & Hove Albion     0  Fulham                     0 (aet, 1-4 pen)
 Darlington                 0  Rochdale                   1
 Gravesend & Northfleet     3  Cinderford Town            0
@@ -1153,7 +1153,7 @@ Walsall                    1  Wigan Athletic             0
 Watford                    1  Wimbledon                  1
 West Ham United            2  Southend United            0
 
-Third Round Replays
+▪ Third Round Replays ▪
 Blackburn Rovers           0  Ipswich Town               1 (aet)
 Manchester City            5  Leicester City             0
 Newcastle United           2  Chelsea                    2 [aet, Chelsea on pen]
@@ -1187,7 +1187,7 @@ Southampton                1  Crewe Alexandra            1
 Tottenham Hotspur          1  Wolverhampton Wanderers    1
 West Ham United            1  Grimsby Town               1
 
-Fourth Round Replays
+▪ Fourth Round Replays ▪
 Crewe Alexandra            2  Southampton                3
 Grimsby Town               3  West Ham United            0
 Manchester City            2  Coventry City              1
@@ -1207,7 +1207,7 @@ Manchester United          2  Manchester City            1
 Nottingham Forest          2  Tottenham Hotspur          2
 Swindon Town               1  Southampton                1
 
-Fifth Round Replays
+▪ Fifth Round Replays ▪
 Chelsea                    4  Grimsby Town               1
 Port Vale                  1  Leeds United               2
 Southampton                2  Swindon Town               0
@@ -1256,7 +1256,7 @@ Southampton                2  West Ham United            1
 Stoke City                 0  Newcastle United           4
 Wolverhampton Wanderers    0  Charlton Athletic          0
 
-Third Round Replays
+▪ Third Round Replays ▪
 Bradford City              3  Norwich City               5 (aet)
 Charlton Athletic          1  Wolverhampton Wanderers    2 (aet)
 Leicester City             2  Bolton Wanderers           3
@@ -1274,7 +1274,7 @@ Norwich City               0  Bolton Wanderers           0
 Reading                    2  Southampton                1
 Wolverhampton Wanderers    2  Coventry City              1
 
-Fourth Round Replays
+▪ Fourth Round Replays ▪
 Birmingham City            2  Middlesbrough              0
 Bolton Wanderers           0  Norwich City               0 (aet, 2-3 pen)
 
@@ -1285,7 +1285,7 @@ Aston Villa                1  Wolverhampton Wanderers    0
 Leeds United               2  Reading                    1
 Norwich City               1  Birmingham City            1
 
-Fifth Round Replay
+▪ Fifth Round Replay ▪
 Birmingham City            2  Norwich City               1
 
 

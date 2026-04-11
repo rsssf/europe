@@ -1029,7 +1029,7 @@ Sheffield Wednesday(2) 4-0 Salisbury City(DE) [Proudlock 32p,47,64,Owusu 70 - 11
 Southend United(3)     1-1 Canvey Island(RP) [Gower 2; Chenery 7 - 9,234]
 York City(3)           1-2 Barnsley(2) [Nogan 36; Rankin 38,Betsy 82 - 5,658]
 
-1st Round Replays
+▪ 1st Round Replays ▪
 (Tue Nov 18)
 Luton                  3-1 Thurrock [Forbes 39,76,87p; Akurang 49 - 3,667]
 Stalybridge C          0-2 Barnet [Grazioli 27,84 - 1,549]
@@ -1062,7 +1062,7 @@ Swansea                2-1 Stevenage [Nugent 23,Trundle 51 - 6,125]
 Burton Albion          0-1 Hartlepool [Porter 70 - 3,132]
 Port Vale              0-1 Scarborough [Sestanovich 80 - 4,651]
 
-2nd Round Replays
+▪ 2nd Round Replays ▪
 (Mon Dec 15)
 Accrington             0-0 Bournemouth [aet 5-3 pens: 2,585]
 (Tue Dec 16)
@@ -1108,7 +1108,7 @@ Yeovil                 0-2 Liverpool(P) [Heskey 70,Murphy 77p - 9,348]
 Fulham(P)              2-1 Cheltenham [Saha 13,90; McCann 5 - 10,303]
 Leeds Utd(P)           1-4 Arsenal(P) [Viduka 8; Henry 26,Edu 33,Pires 87,Toure 90 - 31,207]
 
-3rd Round Replays
+▪ 3rd Round Replays ▪
 (Tue Jan 13)
 Bolton                 1-2 Tranmere [aet 1-1 90 mins: Shakes 90; Dadi 82,Hume 91 - 8,759]
 Colchester             2-1 Accrington [Keith 11,84; Mullin 89 - 5,611]
@@ -1122,7 +1122,7 @@ Chelsea                4-0 Watford [Mutu 7,76,Hasselbaink 34,Gudjohnsen 84 - 38,
 Leicester              1-3 Man City [Ferdinand 73; Sibierski 12,Macken 90,Anelka 90 - 18,916]
 Scarborough            1-0 Southend [Quayle 83 - 4,859]
 
-4th Round
+▪ 4th Round ▪
 (Sat Jan 24)
 Swansea                2-1 Preston [Robinson 80,Trundle 82; Etuhu 58 - 10,200]
 Arsenal                4-1 Middlesbrough [Bergkamp 19,Ljungberg 28,68,Bentley 90; Job 23 - 37,256]
@@ -1144,7 +1144,7 @@ Northampton            0-3 Man Utd [Silvestre 34,Hargreaves og 47,Forlan 68 - 7,
 (Wed Feb 11)
 Telford                0-2 Millwall [Ifill 37,Wise 83 - 5,589]
 
-4th Round Replays
+▪ 4th Round Replays ▪
 (Tue Feb 3)
 Colchester             3-1 Coventry [Vine 12,43,57; Joachim 25 - 5,530]
 (Wed Feb 4)
@@ -1152,7 +1152,7 @@ Fulham                 2-1 Everton [aet: Inamoto 57,Malbranque 102; Jeffers 90 -
 Tottenham              3-4 Man City
  (King 2,Keane 19,Ziege 43; Distin 48,Bosvelt 61,Wright-Phillips 80,Macken 90 - 30,400)
 
-5th Round
+▪ 5th Round ▪
 (Sat Feb 14)
 Man Utd                4-2 Man City [Scholes 34,van Nistelrooy 71,80,Ronaldo 74; Tarnat 78,Fowler 86 - 67,228]
 Tranmere               2-1 Swansea Taylor 24p,Hume 59; Robinson 16 - 12,215]
@@ -1164,7 +1164,7 @@ Sheff Utd              1-0 Colchester [Peschisolido 61 - 17,074]
 Arsenal                2-1 Chelsea [Reyes 56,61; Mutu 40 - 38,136]
 Liverpool              1-1 Portsmouth [Owen 2; Taylor 77 - 34,669]
 
-5th Round Replays
+▪ 5th Round Replays ▪
 (Sun Feb 22)
 Portsmouth             1-0 Liverpool [Hughes 72 - 19,529]
 (Tue Feb 24)
@@ -1380,7 +1380,7 @@ Tottenham          1-0 West Ham                 (aet)
 Wigan              1-2 Middlesborough
   (Bullard 75; Maccarone 36, Mendieta 66)
 
-Fourth Round
+▪ Fourth Round ▪
 _ Dec 2 _
 Arsenal            5-1 Wolverhampton W
   (Aliadere 24, 71, Kanu 68, Wilford 79, Fabregas 88; Rae 61)

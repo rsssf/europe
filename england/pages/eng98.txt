@@ -563,7 +563,7 @@ Premiership
 England Cup 1997/98
 
 ▪ Third Round ▪
-(Jan 3-5)
+_ Jan 3-5 _
 Liverpool               1-3 Coventry City
 Derby County            2-0 Southampton
 Barnsley                1-0 Bolton Wanderers
@@ -589,7 +589,7 @@ Charlton Athletic       4-1 Nottingham Forest
 Everton                 0-1 Newcastle United
 Chelsea                 3-5 Manchester United
 Tottenham Hotspur       3-1 Fulham
-(Jan 13,14)
+_ Jan 13,14 _
 Hereford United         0-3 Tranmere Rovers
 Peterborough            0-2 Walsall
 West Bromwich Albion    3-1 Stoke City
@@ -598,8 +598,8 @@ Cheltenham              1-1 Reading
 Darlington              0-4 Wolverhampton Wanderers
 Wrexham                 2-3 Wimbledon
 
-Third Round Replays
-(Jan 13,14)
+▪ Third Round Replays ▪
+_ Jan 13,14 _
 Aston Villa             1-0 Portsmouth
 Port Vale               1-1 Arsenal               (aet, 3-4 pen)
 Sheffield Wednesday     0-0 Watford               (aet, 5-3 pen)
@@ -609,7 +609,7 @@ Ipswich Town            1-0 Bristol Rovers
 _ Jan 20 _
 Reading                 2-1 Cheltenham
 
-Fourth Round [Jan 24-26]
+▪ Fourth Round ▪  Jan 24-26
 Huddersfield Town       0-2 Wimbledon
 Birmingham City         2-1 Stockport County
 Ipswich Town            1-1 Sheffield United
@@ -627,14 +627,14 @@ Manchester City         1-2 West Ham United
 Stevenage Borough       1-1 Newcastle United
 Sheffield Wednesday     0-3 Blackburn Rovers
 
-Fourth Round Replays [Feb 3,4]
+▪ Fourth Round Replays ▪  Feb 3,4
 Sheffield United        1-0 Ipswich Town
 Reading                 1-1 Cardiff City          (aet, 4-3 pen)
 Wolverhampton Wanderers 3-0 Charlton Athletic
 Barnsley                3-1 Tottenham Hotspur
 Newcastle United        2-1 Stevenage Borough
 
-1/8 Finals [Feb 13-15]
+▪ 1/8 Finals ▪  Feb 13-15
 Sheffield United        1-0 Reading
 Aston Villa             0-1 Coventry City
 West Ham United         2-2 Blackburn Rovers
@@ -650,7 +650,7 @@ Blackburn Rovers        1-1 West Ham United       (aet, 4-5 pen)
 Crystal Palace          1-2 Arsenal
 Wolverhampton Wanderers 2-1 Wimbledon
 
-Quarterfinals [Mar 7-8]
+▪ Quarterfinals ▪  Mar 7-8
 Coventry City           1-1 Sheffield United
 Leeds United            0-1 Wolverhampton Wanderers
 Arsenal                 1-1 West Ham United
@@ -671,7 +671,7 @@ Arsenal                 2-0 Newcastle United
 
 England League Cup 1997/98
 
-▪ Quarterfinals ▪  Jan 6, 7
+▪ Quarterfinals ▪  Jan 6,7
 West Ham United         1-2 Arsenal
 Raeding                 0-1 Middlesbrough
 Ipswich Town            2-2 Chelsea            (aet, 2-4 pen)

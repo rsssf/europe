@@ -992,7 +992,7 @@ Radcliffe            1-4 York                     (played at Bury)
 _ Dec 8 _
 Gravesend/Northfleet 1-2 Notts County             (played at Gillingham)
 
-First Round Replays
+▪ First Round Replays ▪
 _ Nov 21 _
 Nuneaton             1-0 Stoke
 _ Nov 28 _
@@ -1030,7 +1030,7 @@ Peterborough         1-1 Oldham
 _ Dec 12 _
 Wigan                1-1 Notts County
 
-Second Round Replays
+▪ Second Round Replays ▪
 _ Dec 19 _
 Luton                2-0 Darlington
 Reading              1-3 York
@@ -1077,7 +1077,7 @@ Nottingham Forest    0-1 Wolverhampton
 _ Jan 8 _
 Bradford City        0-1 Middlesbrough
 
-Third Round Replays
+▪ Third Round Replays ▪
 _ Jan 16 _
 Crewe                2-1 Cardiff
 Notts County         abd Wimbledon                [abandoned at 1-1 in 51' due to fog]
@@ -1092,7 +1092,7 @@ _ Jan 27 _
 Dagenham & Redbridge 0-1 Charlton Athletic        (aet)
 Notts County         0-1 Wimbledon                (aet)
 
-Fourth Round
+▪ Fourth Round ▪
 _ Jan 27 _
 Sunderland           1-0 Ipswich Town
 Bristol City         1-1 Kingstonian
@@ -1114,14 +1114,14 @@ Middlesbrough        0-0 Wimbledon
 _ Feb 7 _
 Charlton Athletic    2-4 Tottenham Hotspur
 
-Fourth Round Replays
+▪ Fourth Round Replays ▪
 _ Feb 7 _
 Derby County         2-5 Blackburn Rovers
 Kingstonian          0-1 Bristol City
 _ Feb 13 _
 Wimbledon            3-1 Middlesbrough            (aet)
 
-Fifth Round
+▪ Fifth Round ▪
 _ Feb 17 _
 Leicester City       3-0 Bristol City
   (Dean Sturridge 10, Matthew Hill 15og, Muzzy Izzet 83pen)
@@ -1139,7 +1139,7 @@ Liverpool            4-2 Manchester City
 Arsenal              3-1 Chelsea
   (Thierry Henry 52pen, Sylvain Wiltord 74, 84; Jimmy Floyd Hasselbaink 62)
 
-Fifth Round Replays
+▪ Fifth Round Replays ▪
 _ Feb 20 _
 Tranmere             4-3 Southampton
   (Paul Rideout 59, 71, 80, Stuart Barlow 83; Hassan Kachloul 12, Jo Tessem 26,
@@ -1329,7 +1329,7 @@ Birmingham City win 4-2 on aggregate
 
 
 ▪ Final ▪  Feb 25, Millennium Stadium, Cardiff
-Liverpool                   1-1 Birmingham City       [aet, 5-4pen]
+Liverpool                   1-1 Birmingham City       (aet, 5-4pen)
   (Robbie Fowler 30; Darren Purse 90pen)
   [Liverpool: 1-Sander Westerveld; 23-Jamie Carragher, 12-Sami Hyppia,
      2-Stephane Henchoz, 6-Markus Babbel; 16-Dietmar Hamann, 7-Vladimir Smicer
@@ -2156,7 +2156,7 @@ Birmingham City         1-0 Preston North End
 
 ▪ Second Legs ▪  May 17
 Bolton Wanderers        3-0 West Bronwich Albion
-Preston North End       2-1 Birmingham City               [aet, 4-2pen]
+Preston North End       2-1 Birmingham City               (aet, 4-2pen)
   NB: Birmingham consider lodging a protest on the side on which the penalty
       shootout was taken (in front of the home fans rather than the neutral
       end)
@@ -2212,7 +2212,7 @@ Hull City               1-0 Leyton Orient
 Hartlepool United       1-3 Blackpool
 Leyton Orient           2-0 Hull City
 
-Final [Cardiff, May 26]
+▪ Final ▪  May 26, Cardiff
 Leyton Orient           2-4 Blackpool
   (Chris Tate 1, Scott Houghton 37; Ian Hughes 35, Brian Reid 45,
    Paul Simpson 77, Brett Ormerod 88)

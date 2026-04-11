@@ -1034,7 +1034,7 @@ Halifax Town(5)        3-1 Cambridge United(4) [Foster 6,Midgley 69,Ross 84; Tud
 Cheltenham Town(4)     1-3 Swansea City(4) [Spencer 71; O'Leary 19,Trundle 46,Connor 90 - 4,551]
 Thurrock(6S)           0-1 Oldham Athletic(3) [Killen 48p - 1,156]
 
-1st Round Replays
+▪ 1st Round Replays ▪
 (Tue Nov 23)
 Colchester             4-1 Mansfield [Garcia 10,Curtis og 14,Fagan 67p,Williams 90p; Neil 87 - 2,492]
 Yeovil                 1-0 Darlington [Way 56 - 5,365]
@@ -1070,7 +1070,7 @@ Exeter City            2-1 Doncaster Rovers [Flack 25,Moxey 49; Blundell 86 - 4,
 (Sun Dec 5)
 Hinckley United        0-0 Brentford [2,661]
 
-2nd Round Replays
+▪ 2nd Round Replays ▪
 (Tue Dec 14)
 Brentford              2-1 Hinckley [Rhodes 52p,Talbot 59; Lavery 57 - 4,002]
 Swansea                2-1 Stockport [Connor 47,Goodfellow 88; Griffin 72 - 5,572]
@@ -1114,7 +1114,7 @@ Yeading                0-2 Newcastle Utd(1) [Bowyer 51,Ameobi 61 - 10,824, tie s
 (Tue Jan 18)
 Burnley                1-0 Liverpool [Traore og 51 - 19,033]
 
-3rd Round Replays
+▪ 3rd Round Replays ▪
 (Mon Jan 17)
 Swansea                0-1 Reading [aet: Forster 95 - 7,354]
 (Tue Jan 18)
@@ -1125,7 +1125,7 @@ Boston                 0-1 Hartlepool [Boyd 72 - 3,653]
 Exeter                 0-2 Man Utd [C Ronaldo 9,Rooney 87 - 9,033]
 Fulham                 2-0 Watford [Volz 13,Radzinski 65 - 11,306]
 
-4th Round
+▪ 4th Round ▪
 (Sat Jan 29)
 Derby                  1-1 Fulham [Tudgay 56; John 71 - 22,040]
 Man Utd                3-0 Middlesbrough [O'Shea 10,Rooney 67,82 - 67,251]
@@ -1145,7 +1145,7 @@ Charlton               3-2 Yeovil [Hughes 37,Jeffers 51,Bartlett 57; Terry 44,Da
 Oldham                 0-1 Bolton [Vaz Te 9 - 12,029]
 Chelsea                2-0 Birmingham [Huth 6,Terry 80 - 40,379]
 
-4th Round Replays
+▪ 4th Round Replays ▪
 (Sat Feb 12)
 Fulham                 4-2 Derby
  (aet: Diop 45p,Boa Morte 50,John 94,Jensen 105; Rasiak 4,Peschisolido 86 - 15,528)
@@ -1154,24 +1154,24 @@ Tottenham              3-1 West Brom [Keane 45p,Defoe 50,55; Kanu 12 - 27,860]
 (Sun Feb 13)
 Sheff Utd              1-1 West Ham [aet 3-1 pens: Liddell 8; Sheringham 63p - 15,067]
 
-5th Round
-(Sat 19 Feb)
+▪ 5th Round ▪
+_ Sat 19 Feb _
 Bolton                 1-0 Fulham [Davies 12 - 16,151]
 Everton                0-2 Man Utd [Fortune 23,Ronaldo 58 - 38,664]
 Charlton               1-2 Leicester [Bartlett 45; Dabizas 4,Dublin 90 - 23,719]
 Southampton            2-2 Brentford [Camara 4,36; Rankin 40,Sodje 58 - 24,741]
 Arsenal                1-1 Sheff Utd [Pires 78; Gray 90p - 36,891]
-(Sun 20 Feb)
+_ Sun 20 Feb _
 Burnley                0-0 Blackburn [21,468]
 Newcastle              1-0 Chelsea [Kluivert 4 - 45,740]
 Tottenham              1-1 Nottm Forest [Defoe 45; Taylor 56 - 35,640]
 
-5th Round Replays
-(Tue 1 Mar)
+▪ 5th Round Replays ▪
+_ Tue 1 Mar _
 Blackburn              2-1 Burnley [Tugay 31,Pedersen 86; Hyde 42 - 28,691]
 Brentford              1-3 Southampton [Hutchinson 4; Crouch 11,90,Phillips 67 - 11,720]
 Sheff Utd              0-0 Arsenal [aet 2-4 pens: 27,595]
-(Wed 2 Mar)
+_ Wed 2 Mar _
 Nottm Forest           0-3 Tottenham [Pamarot 60,Keane 72,Mido 90 - 28,062]
 
 ▪ Quarter Finals ▪
@@ -1380,7 +1380,7 @@ Newcastle            2-1 Norwich
 Southampton          3-2 Colchester
   (Blackstock 50, 54, 80; Danns 7, Halford 64)
 
-Fourth Round
+▪ Fourth Round ▪
 _ Nov 9 _
 Arsenal              3-1 Everton
   (Owusu-Abeyie 25, Lupoli 52, 85; Gravesen 8)
@@ -1578,7 +1578,7 @@ Wigan          0-0 Burnley [9,746]
 (Wed Sep 15)
 Coventry       2-2 Gillingham [Morrell 31,John 49p; Agyemang 65,76 - 11,966]
 
-(Sat 18 Sep)
+_ Sat 18 Sep _
 Brighton       2-3 QPR [Hinshelwood 23,Currie 44; Gallen 16,Furlong 74,Rose 90 - 6,612]
 Cardiff        0-2 Derby [Reich 34,Taylor 49 - 12,008]
 Coventry       0-0 Rotherham [13,834]
@@ -1590,15 +1590,15 @@ Stoke          0-0 Notts Forest [21,115]
 Sunderland     3-1 Preston [Elliott 27,52,Carter 45; Alexander 39p - 24,264]
 West Ham       1-1 Ipswich [Mackay 11; Counago 57 - 28,812]
 Wigan          4-0 Sheff Utd [Ellington 29,35,Roberts 33,90 - 10,682]
-(Sun 19 Sep)
+_ Sun 19 Sep _
 Millwall       0-2 Watford [Webber 65,Helguson 76 - 10,865]
 
-(Wed 22 Sep)
+_ Wed 22 Sep _
 Millwall       3-1 Derby [Wise 2,Simpson 48,Ifill 90; Reich 49 - 9,132]
 
-(Fri 24 Sep)
+_ Fri 24 Sep _
 Leeds          0-1 Sunderland [Robinson 65 - 28,926]
-(Sat 25 Sep)
+_ Sat 25 Sep _
 Burnley        2-2 Stoke [Moore 3,Blake 19p; Akinbiyi 34,50 - 12,981]
 Derby          1-1 Wigan [Smith 17; McCulloch 19 - 26,113]
 Gillingham     0-1 Brighton [Knight 79p - 8,365]
@@ -1609,10 +1609,10 @@ Rotherham      1-1 Millwall [Sedgwick 87; Ifill 77 - 5,062]
 Sheff Utd      1-1 Coventry [Black 30; Morrell 15 - 16,337]
 Watford        0-1 Reading [Sidwell 65 - 13,389]
 Wolves         2-3 Cardiff [Cort 12,Ince 85; Parry 11,Thorne 48,Kavanagh 59 - 27,896]
-(Sun 26 Sep)
+_ Sun 26 Sep _
 Notts Forest   2-1 West Ham [Evans 84,King 90; Harewood 58 - 25,615]
 
-(Tue 28 Sep)
+_ Tue 28 Sep _
 Burnley        1-0 Cardiff [Chaplow 88 - 7,200]
 Gillingham     0-2 Leicester [Heath 49,Dublin 71 - 6,089]
 Ipswich        1-1 Reading [Kuqi 10; Kitson 26 - 23,167]
@@ -1622,11 +1622,11 @@ QPR            4-1 Coventry [Cureton 32,41,74,Furlong 90; Barrett 49 - 14,680]
 Rotherham      2-3 Crewe [Burchill 17,S Barker 87; Ashton 19p,71,Lunt 61 - 4,498]
 Sheff Utd      1-0 Sunderland [Shaw 67 - 17,908]
 Watford        0-0 Wigan [11,161]
-(Wed 29 Sep)
+_ Wed 29 Sep _
 Derby          1-1 West Ham [Johnson 6; Etherington 11 - 23,112]
 Notts Forest   0-1 Brighton [Virgo 25 - 20,109]
 
-(Sat 2 Oct)
+_ Sat 2 Oct _
 Brighton       1-1 Sheff Utd [Currie 22; Shaw 62 - 6,418]
 Cardiff        0-0 Leeds [17,006]
 Crewe          3-0 Watford [S Jones 20,Sorvel 23,38 - 6,382]
@@ -1637,13 +1637,13 @@ Stoke          0-1 QPR [Gallen 69 - 16,877]
 Sunderland     0-0 Derby [29,881]
 West Ham       1-0 Wolves [Sheringham 75 - 29,585]
 Wigan          2-0 Rotherham [Roberts 11,Mahon 63 - 7,937]
-(Sun 3 Oct)
+_ Sun 3 Oct _
 Coventry       1-2 Ipswich [Suffo 77; Bowditch 70,Mills og 87 - 12,608]
 Millwall       1-0 Notts Forest [Livermore 45 - 11,233]
 
-(Fri 15 Oct)
+_ Fri 15 Oct _
 Notts Forest   1-0 Wolves [Reid 42 - 21,865]
-(Sat 16 Oct)
+_ Sat 16 Oct _
 Cardiff        2-0 Rotherham [Thorne 56,75 -
 Coventry       1-1 Leicester [Makin og 80; Dublin 70 - 18,054]
 Crewe          3-1 Brighton [Lunt 9,White 34,Higdon 69; Jarrett 79 - 6,811]
@@ -1654,10 +1654,10 @@ Plymouth       1-2 Wigan [Crawford 78; Roberts 54,69 - 14,443]
 QPR            1-0 West Ham [Rose 22 - 18,363]
 Stoke          0-1 Reading [Shorey 41 - 15,574]
 Sunderland     1-0 Millwall [Muscat og 72 - 23,839]
-(Sun 17 Oct)
+_ Sun 17 Oct _
 Gillingham     1-3 Sheff Utd [Bromby og 75; Shaw 9,59,Tonge 71 - 6,964]
 
-(Tue 19 Oct)
+_ Tue 19 Oct _
 Brighton       1-1 Cardiff [Knight 10; Bullock 81 - 6,112]
 Burnley        2-2 Coventry [Blake 65p,Branch 73; Johnson 62,Barrett 70 - 10,919]
 Leicester      2-2 Ipswich [Connolly 34,Heath 60; Westlake 2,Heath og 89 - 22,497]
@@ -1671,9 +1671,9 @@ West Ham       2-0 Stoke [Harewood 31,Sheringham 59 - 29,808]
 Wigan          4-1 Crewe [McCulloch 18,Ellington 25,48,Bullard 84; S Jones 56 - 7,547]
 Wolves         2-0 Derby [Cooper 19p,50 - 26,465]
 
-(Fri 22 Oct)
+_ Fri 22 Oct _
 Burnley        0-2 Derby [Tudgay 57,Reich 63 - 13,703]
-(Sat 23 Oct)
+_ Sat 23 Oct _
 Brighton       1-0 Leeds [Carlisle og 58 - 6,716]
 Leicester      1-1 Stoke [Halls og 21; Asaba 37 - 22,882]
 Millwall       2-2 Cardiff [Tessem 47,Harris 74; O'Neil 40,Lee 68 - 10,476]
@@ -1684,12 +1684,12 @@ Watford        2-2 Ipswich [Helguson 67,Bouazza 73; Westlake 50,Bent 63 - 15,894
 West Ham       3-1 Gillingham [Zamora 18,Harewood 25,Mullins 39; Byfield 45 - 25,247]
 Wigan          4-1 Coventry [Mahon 15,Graham 53,Ellington 63,Flynn 90; Johnson 32 - 9,632]
 Wolves         2-1 QPR [Cort 22,70; Gallen 90 - 27,070]
-(Mon 25 Oct)
+_ Mon 25 Oct _
 Rotherham      0-1 Sunderland [Whitehead 61 - 6,026]
 
-(Fri 29 Oct)
+_ Fri 29 Oct _
 Crewe          2-3 Sheff Utd [Foster 24,Thirlwell og 90; Harley 5,Gray 10,Cadamerteri 12 - 7,131]
-(Sat 30 Oct)
+_ Sat 30 Oct _
 Cardiff        0-0 Leicester [13,759]
 Coventry       3-2 Reading [John 14p,Morrell 51,Johnson 66; Owusu 11,Kitson 71 - 13,663]
 Derby          3-2 Rotherham [Rasiak 39,Peschisolido 58,Vincent 66; Swailes 8,Scott 34 - 25,096]
@@ -1700,10 +1700,10 @@ Plymouth       1-1 West Ham [Wotton 76; Lomas 43 - 20,220]
 QPR            3-0 Burnley [Gallen 13p,Santos 16,Furlong 24 - 15,638]
 Stoke          1-0 Millwall [Greenacre 86 - 14,125]
 Sunderland     2-0 Brighton [Arca 64,Lawrence 82p - 25,532]
-(Sun 31 Oct)
+_ Sun 31 Oct _
 Leeds          0-2 Wigan [Mahon 46,Bullard 52 - 27,432]
 
-(Tue 2 Nov)
+_ Tue 2 Nov _
 Cardiff        4-1 West Ham [Lee 3,Ledley 16,Parry 54,McAnuff 77; Harewood 69p - 14,222]
 Crewe          2-2 Leicester [Rivers 49,Otsemobor 61; Nalis 45,Gudjonsson 53 - 6,849]
 Gillingham     0-0 Watford [7,009]
@@ -1712,15 +1712,15 @@ Plymouth       2-2 Reading [Ingimarsson og 18,Crawford 41; Coughlan og 51,Kitson
 QPR            1-1 Millwall [Furlong 87; Hayles 51 - 16,685]
 Stoke          0-1 Wigan [McCulloch 87 - 15,882]
 Sunderland     3-1 Wolves [Lawrence 57,80,Elliott 68; Miller 18 - 23,925]
-(Wed 3 Nov)
+_ Wed 3 Nov _
 Coventry       1-1 Preston [Suffo 49p; Lewis 68 - 12,478]
 Derby          3-0 Brighton [Smith 9, Rasiak 49,80 - 22,480]
 Leeds          1-2 Burnley [Wright 1; Roche 10,Duffy 31 - 27,490]
 Notts Forest   2-2 Rotherham [Johnson 52,King 63p; Sedgwick 19,Junior 27 - 21,619]
 
-(Fri 5 Nov)
+_ Fri 5 Nov _
 Millwall       2-0 Sunderland [Wise 33p,Livermore 45 - 10,513]
-(Sat 6 Nov)
+_ Sat 6 Nov _
 Brighton       1-3 Crewe [Reid 85; Ashton 40,59,Rivers 50 - 6,163]
 Burnley        0-2 Ipswich [Bent 15,65 - 11,969]
 Preston        2-4 Leeds [Cresswell 54,83; Deane 13,Healy 15,44,Walton 72 - 18,531]
@@ -1731,10 +1731,10 @@ Watford        2-2 Derby [Helguson 41,Gunnarsson 82; Taylor 58,Peschisolido 73 -
 West Ham       2-1 QPR [Harewood 36p,64; McLeod 72 - 31,365]
 Wigan          0-2 Plymouth [Wotton 40,Crawford 69 - 10,294]
 Wolves         2-1 Notts Forest [Cooper 19p,Bischoff 43; Johnson 25 - 27,605]
-(Mon 8 Nov)
+_ Mon 8 Nov _
 Leicester      3-0 Coventry [Nalis 26,Tiatto 45,Heath 72 - 22,479]
 
-(Sat 13 Nov)
+_ Sat 13 Nov _
 Burnley        1-0 Notts Forest [Blake 6 - 11,622]
 Coventry       2-1 Plymouth [Hughes 9,Barrett 15; Evans 48 - 15,314]
 Gillingham     0-2 Derby [Rasiak 42,Taylor 90 - 8,015]
@@ -1748,9 +1748,9 @@ Sheff Utd      1-1 Watford [Quinn 30; Gunnarsson 65 - 18,454]
 Stoke          1-0 Crewe [Noel-Williams 64 - 17,640]
 West Ham       0-1 Brighton [Butters 68 - 29,514]
 
-(Fri 19 Nov)
+_ Fri 19 Nov _
 Cardiff        0-1 Preston [Mawene 14 - 10,950]
-(Sat 20 Nov)
+_ Sat 20 Nov _
 Brighton       0-1 Burnley [Blake 70 - 6,109]
 Crewe          4-1 Gillingham [Vaughan 35,Ashton 71,80,S Jones 89; Henderson 73 - 6,128]
 Derby          0-1 Sheff Utd [Quinn 61 - 25,725]
@@ -1760,14 +1760,14 @@ Plymouth       0-0 Stoke [15,264]
 Watford        0-0 Rotherham [17,780]
 Wigan          0-0 Leicester [10,924]
 Wolves         0-1 Coventry [McSheffrey 61 - 26,291]
-(Sun 21 Nov)
+_ Sun 21 Nov _
 Millwall       1-0 West Ham [Dichio 78 - 15,025]
 Sunderland     2-0 Ipswich [Elliott 60,Brown 75 - 31,723]
 
-(Wed 24 Nov)
+_ Wed 24 Nov _
 Leeds          2-2 Watford [Wright 21,Carlisle 86; Dyer 9,71 - 24,585]
 
-(Sat 27 Nov)
+_ Sat 27 Nov _
 Burnley        1-0 Millwall [Blake 61p - 11,471]
 Coventry       0-1 Crewe [Ashton 26p - 12,823]
 Gillingham     2-1 Notts Forest [Henderson 76p,Johnson 82; Taylor 14 - 8,784]
@@ -1779,13 +1779,13 @@ Reading        1-1 Wigan [Owusu 42; Mahon 26 - 22,114]
 Sheff Utd      3-3 Wolves [Bromby 28,Thirlwell 53,Shaw 72; Olofinjana 7,Cort 50,Lescott 87 - 18,946]
 Stoke          0-1 Sunderland [Bridges 83 - 16,980]
 West Ham       3-2 Watford [Reo-Coker 28,D Powell 30,Rebrov 58; Gunnarsson 5,Dyer 21 - 24,541]
-(Mon 29 Nov)
+_ Mon 29 Nov _
 Rotherham      1-0 Leeds [McIntosh 77 - 8,860]
 
-(Tue 30 Nov)
+_ Tue 30 Nov _
 Crewe          2-1 Millwall [Ashton 1,Varney 76; Ifill 71 - 5,409]
 
-(Sat 4 Dec)
+_ Sat 4 Dec _
 Brighton       1-0 Rotherham [Harding 82 - 6,076]
 Cardiff        3-1 Gillingham [Jerome 13,Thorne 41p,55; Johnson 33 - 10,623]
 Crewe          2-2 Ipswich [Ashton 24,27; Naylor 55,Bent 59 - 7,236]
@@ -1797,15 +1797,15 @@ Plymouth       1-0 Burnley [Wotton 90p - 13,308]
 Sunderland     0-2 West Ham [Harewood 59,Sheringham 90 - 29,510]
 Watford        0-1 Stoke [Noel-Williams 24 - 12,169]
 Wolves         4-1 Reading [Cameron 31,Olofinjana 45,Clarke 77,90; Morgan 47 - 25,572]
-(Sun 5 Dec)
+_ Sun 5 Dec _
 Wigan          5-0 Preston [McCulloch 27,Mahon 52,Ellington 57,72,Roberts 79p - 10,565]
 
-(Tue 7 Dec)
+_ Tue 7 Dec _
 Wolves         1-2 Millwall [Cooper 57p; Dobie 9,Dichio 72 - 24,748]
 
-(Fri 10 Dec)
+_ Fri 10 Dec _
 West Ham       1-1 Leeds [Chadwick 50; Healy 90p - 30,684]
-(Sat 11 Dec)
+_ Sat 11 Dec _
 Burnley        2-0 Preston [Blake 45,85 - 15,318]
 Cardiff        0-2 Sunderland [Whitehead 67,Lawrence 77 - 12,528]
 Crewe          3-0 Plymouth [Lunt 42,Ashton 57,Doumbe og 80 - 6,823]
@@ -1818,10 +1818,10 @@ Stoke          1-0 Coventry [Akinbiyi 21 - 15,744]
 Watford        1-1 Wolves [Helguson 4; Olofinjana 35 - 14,605]
 Wigan          2-0 Gillingham [Ellington 17,McCulloch 88 - 8,451]
 
-(Fri 17 Dec)
+_ Fri 17 Dec _
 Brighton       0-1 Stoke [Akinbiyi 85 - 6,028]
 Notts Forest   1-1 Leicester [Dawson 57; Connolly 90 - 21,415]
-(Sat 18 Dec)
+_ Sat 18 Dec _
 Coventry       1-0 Watford [McSheffrey 45 - 14,493]
 Gillingham     3-1 Rotherham [Hope 70,Jarvis 80,Vernazza og 90; Hoskins 89 - 8,576]
 Plymouth       0-2 Derby [Coughlan og 9,Peschisolido 62 - 15,335]
@@ -1830,12 +1830,12 @@ Reading        1-0 QPR [Shorey 64 - 20,272]
 Sheff Utd      2-1 Cardiff [Liddell 69,Gray 79; Harris 41 - 18,240]
 Sunderland     2-1 Burnley [Arca 35,Larence 52; Branch 36 - 27,102]
 Wolves         1-1 Crewe [Cort 90; Lescott og 38 - 25,340]
-(Sun 19 Dec)
+_ Sun 19 Dec _
 Leeds          1-1 Millwall [Oster 43; Morris 86p - 26,265]
-(Tue 21 Dec)
+_ Tue 21 Dec _
 Ipswich        2-1 Wigan [Naylor 66,Bent 89; Baines 57 - 28,286]
 
-(Sun 26 Dec)
+_ Sun 26 Dec _
 Brighton       2-1 Gillingham [Carpenter 79,Virgo 88; Crofts 34 - 6,420]
 Cardiff        1-1 Wolves [Jerome 17; Miller 75 - 16,699]
 Coventry       1-2 Sheff Utd [John 19; Morgan 33,Gray 40 - 21,146]
@@ -1849,7 +1849,7 @@ Sunderland     2-3 Leeds [Lawrence 43p,Arca 90; Lennon 30,Deane 61,Joachim 85 - 
 West Ham       3-2 Nottm Forest [Etherington 17,Sheringham 39,82; Johnson 65,68 - 32,270]
 Wigan          1-2 Derby [Roberts 27; Rasiak 64,Smith 82 - 12,420]
 
-(Tue 28 Dec)
+_ Tue 28 Dec _
 Burnley        1-0 Wigan [Branch 24 - 16,485]
 Derby          0-3 Millwall [Hayles 18,51,58 - 27,725]
 Gillingham     3-1 Coventry [Byfield 15,Cox 48,49; Adebola 37 - 8,734]
@@ -1863,7 +1863,7 @@ Sheff Utd      2-0 Leicester [Gray 52,Quinn 65 - 22,100]
 Watford        0-0 Cardiff [13,409]
 Wolves         1-1 Brighton [Miller 33; Hart 4 - 28,516]
 
-(Sat 1 Jan)
+_ Sat 1 Jan _
 Burnley        A-A Leicester [Abandoned after 19 mins (0-0) due to a waterlogged pitch]
 Derby          0-1 Cardiff [Thorne 27 - 22,800]
 Gillingham     0-0 Reading [8,570]
@@ -1877,7 +1877,7 @@ Sheff Utd      0-2 Wigan [McCulloch 7,Ellington 73 - 21,869]
 Watford        1-0 Millwall [Helguson 75 - 13,158]
 Wolves         1-1 Plymouth [Seol 24; Friio 58 - 27,564]
 
-(Mon 3 Jan)
+_ Mon 3 Jan _
 Brighton       2-1 Watford [Mayo 15,Knight 69; Helguson 11 - 6,335]
 Cardiff        3-0 Nottm Forest [Thorne 55p,86,Kavanagh 90 - 13,545]
 Coventry       1-2 Leeds [McSheffrey 82; Blake 28,Healy 65 - 19,084]
@@ -1889,12 +1889,12 @@ Reading        0-1 Derby [Smith 45 - 15,491]
 Stoke          0-1 Burnley [Cahill 79 - 15,689]
 Sunderland     1-1 Gillingham [Brown 19; Henderson 15 - 27,147]
 West Ham       0-2 Sheff Utd [Repka og 40,Bromby 60 - 27,424]
-(Tue 4 Jan)
+_ Tue 4 Jan _
 Wigan          2-0 Wolves [Ellington 17,26p - 10,135]
 
-(Fri 14 Jan)
+_ Fri 14 Jan _
 QPR            1-0 Stoke [Cook 17 - 13,559]
-(Sat 15 Jan)
+_ Sat 15 Jan _
 Burnley        0-0 Reading [11,392]
 Gillingham     1-0 Plymouth [Crofts 61 - 8,451]
 Ipswich        3-2 Coventry  [Bent 45,59,Kuqi 77; John 12,McSheffrey 61p - 23,670]
@@ -1905,10 +1905,10 @@ Rotherham      0-2 Wigan [Teale 69,Roberts 90 - 9,050]
 Sheff Utd      1-2 Brighton [Mayo og 59; Carpenter 45,Knight 90 - 21,482]
 Watford        3-1 Crewe [Helguson 9,29,Demerit 46; Varney 68 - 11,223]
 Wolves         4-2 West Ham [Miller 29,54,Ince 72,Cort 75; Zamora 36,57 - 28,411]
-(Sun 16 Jan)
+_ Sun 16 Jan _
 Derby          0-2 Sunderland [Elliott 51,Whitehead 66 - 22,995]
 
-(Sat 22 Jan)
+_ Sat 22 Jan _
 Brighton       0-0 Nottingham Forest [6,704]
 Cardiff        2-0 Burnley [Langley 13,Kavanagh 74 - 11,562]
 Coventry       1-2 QPR [Williams 59; Cureton 13,Santos 90 - 16,595]
@@ -1920,18 +1920,18 @@ Reading        1-1 Ipswich [Ingimarsson 90(2); Bent 90(1) - 23,203]
 Stoke          0-1 Leeds [Thomas og 72 - 18,372]
 Sunderland     1-0 Sheffield United [Stewart 44 - 27,337]
 Wigan          2-2 Watford [McCulloch 25,52; Dyer 13,Webber 27 - 9,008]
-(Sun 23 Jan)
+_ Sun 23 Jan _
 West Ham       1-2 Derby [Fletcher 26; Rasiak 10,63 - 30,347]
 
-(Wed 26 Jan)
+_ Wed 26 Jan _
 Derby          2-0 Leeds [Smith 64,Bolder 90 - 25,648]
 
-(Sat 29 Jan)
+_ Sat 29 Jan _
 Leeds          1-1 Brighton [Carlisle 43; Butters 81 - 27,033]
 
-(Fri 4 Feb)
+_ Fri 4 Feb _
 Wolves         1-1 Sunderland [Seol 13; Elliott 12 - 26,968]
-(Sat 5 Feb)
+_ Sat 5 Feb _
 Burnley        0-1 Leeds [Einarsson 66 - 17,789]
 Brighton       2-3 Derby [McCammon 14,60; Bisgaard 13,Tudgay 43,72 - 6,587]
 Leicester      1-1 Crewe [Gillespie 58; White 36 - 27,011]
@@ -1942,10 +1942,10 @@ Rotherham      0-0 Nottm Forest [8,448]
 Sheff Utd      0-2 Ipswich [Unsworth 20,Kuqi 61 - 20,680]
 Watford        2-0 Gillingham [Ashby og 23,Eagles 90 - 15,188]
 Wigan          0-1 Stoke [Noel-Williams 39 - 9,938]
-(Sun 6 Feb)
+_ Sun 6 Feb _
 West Ham       1-0 Cardiff [Fletcher 89 - 23,716]
 
-(Sat 12 Feb)
+_ Sat 12 Feb _
 Cardiff        2-0 Brighton [Thorne 16p,Collins 19 - 11,435]
 Coventry       0-2 Burnley [Oster 64,Moore 69 - 13,236]
 Crewe          1-3 Wigan [White 45; Roberts 3,76,Ellington 68p - 7,981]
@@ -1957,12 +1957,12 @@ QPR            1-2 Preston [Furlong 26; Nugent 67,Lucketti 75 - 15,620]
 Sunderland     4-2 Watford [Stewart 18,33p,51,Brown 73; Dyer 76,90 - 24,948]
 (other games postponed due to FA Cup replays)
 
-(Tue 15 Feb)
+_ Tue 15 Feb _
 Crewe          1-1 Burnley [Jones 18; Grant 53 - 7,718]
 
-(Fri 18 Feb)
+_ Fri 18 Feb _
 Preston        1-1 Ipswich [Nugent 36,Miller 69 - 14,418]
-(Sat 19 Feb)
+_ Sat 19 Feb _
 Brighton       2-1 Sunderland [Carpenter 26,McCammon 43; Arca 80 - 6,647]
 Millwall       0-1 Stoke [Jones 15 - 11,036]
 Reading        1-2 Coventry [Ferdinand 8; McSheffrey 63,John 72 - 15,904]
@@ -1972,7 +1972,7 @@ Wigan          3-0 Leeds [Ellington 10,Roberts 56,Mahon 75 - 17,177]
 Wolves         2-2 Gillingham [Miller 60,Clarke 90(2); Henderson 55,Flynn 90(1) - 24,949]
 (Other games postponed due to FA Cup)
 
-(Tue 22 Feb)
+_ Tue 22 Feb _
 Cardiff        0-1 Millwall [Dichio 20p - 11,424]
 Crewe          1-1 Reading [Varney 12; Kitson 70 - 5,703]
 Gillingham     0-1 West Ham [Harewood 13 - 9,510]
@@ -1981,12 +1981,12 @@ Plymouth       3-0 Sheff Utd [Coughlan 3,Wotton 47,Blackstock 88 - 13,953]
 QPR            1-1 Wolves [Gallen 11; Cort 85 - 15,029]
 Stoke          3-2 Leicester [Brammer 24,Noel-Williams 34,Taggart 59; Williams 15,Gudjonsson 86 - 14,076]
 Sunderland     4-1 Rotherham [Whitehead 13,Thornton 36,73,Breen 49; Monkhouse 77 - 22,267]
-(Wed 23 Feb)
+_ Wed 23 Feb _
 Coventry       1-2 Wigan [McSheffrey 22p; Teale 9,Ellington 68 - 12,130]
 Derby          1-1 Burnley [Peschisolido 70; Valois 34 - 23,701]
 Nottm Forest   2-0 Preston [Evans 77,Commons 82 - 19,209]
 
-(Sat 26 Feb)
+_ Sat 26 Feb _
 Brighton       1-0 Millwall [Hart 90 - 6,608]
 Coventry       0-0 Stoke [13,871]
 Gillingham     2-1 Wigan [Henderson 53,65; Ellington 55 - 7,209]
@@ -2000,12 +2000,12 @@ Sheff Utd      1-0 Rotherham [Shaw 51 - 18,431]
 Sunderland     2-1 Cardiff [Breen 4,Stewart 42; Vidmar 85 - 32,788]
 Wolves         0-0 Watford [25,060]
 
-(Wed 2 Mar)
+_ Wed 2 Mar _
 Derby          3-3 Wolves [Idiakez 9,77p,Reich 90(2); Miller 12,Lescott 72,Cort 90(1) - 24,109]
 
-(Fri 4 Mar)
+_ Fri 4 Mar _
 Burnley        0-2 Sunderland [Stewart 26,Lawrence 89 - 12,103]
-(Sat 5 Mar)
+_ Sat 5 Mar _
 Cardiff        1-0 Sheff Utd [Ledley 75 - 12,250]
 Crewe          1-4 Wolves [Lunt 11p; Cort 13,45,Miller 35p,60 - 8,212]
 Derby          1-0 Plymouth [Idiakez 24 - 27,581]
@@ -2016,15 +2016,15 @@ Stoke          2-0 Brighton [Noel-Williams 39p,44p - 14,908]
 Watford        2-3 Coventry [Dyer 32,Webber 84; Benjamin 14,Jorgensen 54,Doyle 78 - 13,794]
 West Ham       1-2 Preston [Zamora 87; Nugent 17,Agyemang 81 - 26,442]
 Wigan          1-0 Ipswich [Ellington 43p - 16,744]
-(Sun 6 Mar)
+_ Sun 6 Mar _
 Millwall       1-1 Leeds [Robinson 17; Hulse 78 - 11,510]
 
-(Tue 8 Mar)
+_ Tue 8 Mar _
 Burnley        0-0 Leicester [10,933]
 Sheff Utd      4-0 Crewe [Kabba 14,66,Gray 39,75 - 16,079]
 Watford        0-2 Nottm Forest [Commons 45,79 - 12,118]
 
-(Sat 12 Mar)
+_ Sat 12 Mar _
 Burnley        2-1 Rotherham [Grant 11,Sinclair 14; Gilchrist 4 - 10,539]
 Coventry       1-1 Cardiff [John 16; Bullock 19 - 17,059]
 Crewe          0-1 Sunderland [Elliott 58 - 7,949]
@@ -2037,7 +2037,7 @@ Reading        3-1 West Ham [Kitson 13,27,57; Sheringham 82 - 22,268]
 Stoke          2-0 Sheff Utd [Noel-Williams 57,59 - 17,019]
 Wigan          2-0 Millwall [Ellington 58p,Roberts 82 - 9,614]
 
-(Tue 15 Mar)
+_ Tue 15 Mar _
 Brighton       2-4 Wigan [Virgo 36,Hammond 83; Bullard 2,McCulloch 4,Teale 17,Roberts 34 - 6,306]
 Cardiff        0-1 Ipswich [Miller 62p - 11,768]
 Gillingham     2-1 Stoke [McEveley 2,Smith 70; Jones 54 - 7,766]
@@ -2048,13 +2048,13 @@ Sunderland     5-1 Plymouth [Whitehead 31,Arca 40,Stewart 45p,Caldwell 75,Thornt
 Watford        2-2 Leicester [DeMerit 40,Webber 44p; Connolly 56,Hughes 72 - 11,084]
 West Ham       1-1 Crewe [Sheringham 76; Jones 90 - 26,593]
 Wolves         2-0 Burnley [Miller 38,Ince 60 - 24,336]
-(Wed 16 Mar)
+_ Wed 16 Mar _
 Derby          0-0 QPR [24,486]
 Nottm Forest   0-0 Leeds [25,101]
 
-(Fri 18 Mar)
+_ Fri 18 Mar _
 West Ham       2-2 Leicester [Sheringham 28,62; Connolly 25p,Gillespie 44 - 22,031]
-(Sat 19 Mar)
+_ Sat 19 Mar _
 Cardiff        1-1 Crewe [Gabbidon 21; Vaughan 57 - 10,007]
 Gillingham     0-0 Ipswich [9,311]
 Nottm Forest   1-1 Wigan [Taylor 85; McCulloch 46 - 24,008]
@@ -2063,12 +2063,12 @@ Sheff Utd      2-1 Burnley [Quinn 29,Gray 49; Akinbiyi 84 - 19,374]
 Sunderland     1-0 Coventry [Brown 76 - 29,424]
 Watford        0-2 Preston [Nugent 60,McKenna 71 - 19,649]
 Wolves         1-1 Stoke [Cort 90; Noel-Williams 41 - 28,103]
-(Sun 20 Mar)
+_ Sun 20 Mar _
 Millwall       3-0 Plymouth [Sweeney 15,Hayles 56,Dichio 63 - 11,465]
-(Mon 21 Mar)
+_ Mon 21 Mar _
 Brighton       0-1 Reading [Forster 64 - 6,108]
 
-(Sat 2 Apr)
+_ Sat 2 Apr _
 Burnley        3-1 Watford [Bowditch 20,O'Connor 43,Valois 90; Blizzard 77 - 11,507]
 Coventry       2-1 Brighton [McSheffrey 47p,Staunton 84; Virgo 62 - 18,606]
 Crewe          1-1 Nottm Forest [Sorvel 71; Dobie 37 - 8,458]
@@ -2082,7 +2082,7 @@ Reading        0-0 Sheff Utd [18,899]
 Stoke          1-2 Rotherham [Noel-Williams 83; Butler 23,Noel-Williams og 90 - 16,552]
 Wigan          1-2 West Ham [Roberts 51; Sheringham 55,Harewood 67 - 12,993]
 
-(Tue 5 Apr)
+_ Tue 5 Apr _
 Burnley        0-1 West Ham [Sheringham 83 - 12,209]
 Crewe          1-2 Derby [Vaughan 90; Rasiak 16,Smith 74 - 8,026]
 Ipswich        4-3 Rotherham [Westlake 6,Bent 25,57,Magilton 60; Thorpe 26,Butler 67,McIntosh 79 - 26,017]
@@ -2094,10 +2094,10 @@ QPR            1-1 Gillingham [Furlong 54; Flynn 17 - 16,431]
 Reading        2-1 Millwall [Kitson 73,Forster 83; Dichio 39 - 14,379]
 Stoke          1-3 Cardiff [Hill 40; Jerome 26,58,Thorne 60p - 12,785]
 Wigan          0-1 Sunderland [Stewart 3 - 20,745]
-(Wed 6 Apr)
+_ Wed 6 Apr _
 Coventry       2-0 Nottm Forest [McSheffrey 24p,Adebola 41 - 22,221]
 
-(Sat 9 Apr)
+_ Sat 9 Apr _
 Brighton       1-1 Leicester [Reid 80; Connolly 34p - 6,638]
 Cardiff        0-2 Wigan [Roberts 51,Mahon 86 - 16,858]
 Derby          3-1 Stoke [Rasiak 8,Bisgaard 45,Idiakez 79; Taggart 7 - 27,640]
@@ -2109,15 +2109,15 @@ Sheff Utd      3-2 QPR [Webber 43,53,Gray 90p; Rowlands 26,Gallen 66 - 20,426]
 Sunderland     1-2 Reading [Arca 52; Kitson 76,82p - 34,237]
 Watford        1-2 Leeds [Helguson 41; Hulse 28,Carlisle 67 - 16,306]
 West Ham       3-0 Coventry [Shaw og 76,Sheringham 89p,Zamora 90 - 26,839]
-(Mon 11 Apr)
+_ Mon 11 Apr _
 Wolves         2-0 Ipswich [Cameron 5,Cort 22 - 25,882]
 
-(Tue 12 Apr)
+_ Tue 12 Apr _
 Nottm Forest   1-1 Sheff Utd [Commons 47; Quinn 71 - 21,903]
 
-(Fri 15 Apr)
+_ Fri 15 Apr _
 Sheff Utd      0-1 Derby [Bisgaard 74 - 20,794]
-(Sat 16 Apr)
+_ Sat 16 Apr _
 Burnley        1-1 Brighton [Akinbiyi 23; Hammond 52 - 11,611]
 Coventry       2-2 Wolves [McSheffrey 19p,John 90; Clarke 15,Naylor 79 - 19,412]
 Gillingham     1-1 Crewe [Southall 80; Vaughan 73 - 10,315]
@@ -2128,15 +2128,15 @@ Reading        1-0 Nottm Forest [Harper 74 - 17,905]
 Rotherham      0-1 Watford [Helguson 32 - 5,438]
 Stoke          2-0 Plymouth [Jones 28,Russell 41 - 13,017]
 West Ham       1-1 Millwall [Harewood 35; Haykes 12 - 28,221]
-(Sun 17 Apr)
+_ Sun 17 Apr _
 Ipswich        2-2 Sunderland [Naylor 66; Bent 89 - Elliott 71,Robinson 84 - 29,230]
 
-(Tue 19 Apr)
+_ Tue 19 Apr _
 Burnley        2-0 QPR [Akinbiyi 43,81 - 10,396]
 Leicester      1-1 Cardiff [Connolly 33; Ardley 58 - 21,336]
 Stoke          0-1 West Ham [Zamora 78 - 14,534]
 
-(Sat 23 Apr)
+_ Sat 23 Apr _
 Brighton       2-2 West Ham [Hammond 54,90; Reo-Coker 8,Harewood 55 - 6,819]
 Cardiff        2-0 Reading [Thorne 12,Jerome 30 - 14,821]
 Crewe          0-2 Stoke [Neal 79,Noel-Williams 89 - 9,166]
@@ -2148,15 +2148,15 @@ Sunderland     2-1 Leicester [Stewart 23,Caldwell 60; Maybury 5 - 34,815]
 Watford        0-0 Sheff Utd [17,138]
 Wigan          0-0 QPR [12,007]
 Wolves         2-0 Rotherham [Miller 55,90 - 25,177]
-(Sun 24 Apr)
+_ Sun 24 Apr _
 Millwall       2-1 Preston [Sweeney 9,Hayles 76; Nugent 58 - 11,417]
 
-(Tue 26 Apr)
+_ Tue 26 Apr _
 Leicester      1-0 Derby [Connolly 50 - 25,762]
 
-(Fri 29 Apr)
+_ Fri 29 Apr _
 West Ham       1-2 Sunderland [Harewood 43; Arca 52,Elliott 87 - 33,482]
-(Sat 30 Apr)
+_ Sat 30 Apr _
 Burnley        2-0 Plymouth [Valois 87p,O'Connor 90 - 12,893]
 Coventry       6-2 Derby [McSheffrey 20,29p,Adebola 37,John 40,55,Whing 68; Bolder 51,Peschisolido 63 - 22,728]
 Gillingham     1-1 Cardiff [Jarvis 72; Parry 85 - 10,810]
@@ -2167,10 +2167,10 @@ Reading        1-2 Wolves [Forster 8; Clarke 53,Ricketts 84 - 20,495]
 Rotherham      0-1 Brighton [McLaren og 19 - 6,549]
 Sheff Utd      0-1 Millwall [Morris 5 - 19,797]
 Stoke          0-1 Watford [Helguson 51 - 15,229]
-(Sun 1 May)
+_ Sun 1 May _
 Leicester      2-0 Leeds [Dublin 6,Connolly 39 - 26,593]
 
-(Sun 8 May)
+_ Sun 8 May _
 Brighton       1-1 Ipswich [Virgo 10; Kuqi 4 - 6,848]
 Cardiff        1-0 QPR [McAnuff 27 - 15,722]
 Crewe          2-1 Coventry [Higdon 54,S Jones 72; Adebola 23 - 9,269]
@@ -2193,15 +2193,15 @@ Promotion Play Offs
 Semi Finals [no away goals rule]
 
 1st Legs
-(Sat 14 May)
+_ Sat 14 May _
 West Ham       2-2 Ipswich [Harewood 7,Zamora 13; Walker og 45,Kuqi 74 - 33,723]
-(Sun 15 May)
+_ Sun 15 May _
 Preston        2-0 Derby [Nugent 38,Cresswell 90 - 20,315]
 
 2nd Legs
-(Wed 18 May)
+_ Wed 18 May _
 Ipswich        0-2 West Ham [Zamora 61,72 - 30,010, 2-4 aggregate]
-(Thu 19 May)
+_ Thu 19 May _
 Derby          0-0 Preston [31,310, 0-2 aggregate]
 
 Final [Mon May 30 - at Millennium Stadium, Cardiff]
@@ -5339,7 +5339,7 @@ Aldershot Town             1-0 Carlisle United
 Stevenage Borough          1-1 Hereford United
 
 ▪ Second Legs ▪  May 6
-Carlisle United            2-1 Aldershot Town       [aet, 5-4pen]
+Carlisle United            2-1 Aldershot Town       (aet, 5-4pen)
   (Livesey 13, Billy 35; Slabber 90)
 Hereford United            0-1 Stevenage Borough
   (Maamria 69)

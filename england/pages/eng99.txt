@@ -670,7 +670,7 @@ Sheffield Wednesday     4-1 Norwich City
 _ Jan 4 _
 Preston North End       2-4 Arsenal
 
-Third Round Replays
+▪ Third Round Replays ▪
 _ Jan 12 _
 Yeovil Town             1-2 Cardiff City          (aet)
 _ Jan 13 _
@@ -682,7 +682,7 @@ Barnsley                3-1 Swindon Town
 _ Jan 23 _
 Notts County            3-4 Sheffield United
 
-Fourth Round
+▪ Fourth Round ▪
 _ Jan 23 _
 Aston Villa             0-2 Fulham
 Barnsley                3-1 AFC Bournemouth
@@ -704,14 +704,14 @@ Oxford United           1-1 Chelsea
 _ Jan 27 _
 Sheffield United        4-1 Cardiff City
 
-Fourth Round Replays
+▪ Fourth Round Replays ▪
 _ Feb 2 _
 Tottenham Hotspur       3-0 Wimbledon
 _ Feb 3 _
 Chelsea                 4-2 Oxford United
 Huddersfield Town       2-1 Wrexham
 
-Fifth Round
+▪ Fifth Round ▪
 _ Feb 13 _
 Arsenal                 2-1 Sheffield United      [match annulled]
 Barnsley                4-1 Bristol Rovers
@@ -725,7 +725,7 @@ Newcastle United        0-0 Blackburn Rovers
 _ Feb 23 _
 Arsenal                 2-1 Sheffield United
 
-Fifth Round Replays [Feb 24]
+▪ Fifth Round Replays ▪  Feb 24
 Blackburn Rovers        0-1 Newcastle United
 Derby County            3-1 Huddersfield Town
 Tottenham Hotspur       2-0 Leeds United
@@ -777,7 +777,7 @@ P ... Premier League
 3 ... Third Division
 
 ▪ Third Round ▪
-(Oct 27,28)
+_ Oct 27,28 _
 Barnsley (1) - Bournemouth (2)        2-1
 Birmingham (1) - Wimbledon (P)        1-2
 Charlton (P) - Leichester (P)         1-2
@@ -790,34 +790,34 @@ Luton (2) - Coventry (P)              2-0
 Manchester United (P) - Bury (1)      2-0 (aet)
 Middlesbrough (P) - Everton (P)       2-3
 Northampton (2) - Tottenham (P)       1-3
-Norwich (1) - Bolton (1)              1-1 [aet, pen 1-3]
-Nottingham (P) - Cambridge (3)        3-3 [aet, pen 4-3]
+Norwich (1) - Bolton (1)              1-1 (aet, pen 1-3)
+Nottingham (P) - Cambridge (3)        3-3 (aet, pen 4-3)
 Sunderland (1) - Grimsby (1)          2-1 (aet)
 Tranmere (1) - Newcastle (P)          0-1
 
-Fourth Round
-(Nov 10,11)
+▪ Fourth Round ▪
+_ Nov 10,11 _
 Arsenal - Chelsea                     0-5
 Bolton - Wimbledon                    1-2
-Everton - Sunderland                  1-1 [aet, pen 4-5]
+Everton - Sunderland                  1-1 (aet, pen 4-5)
 Leichester - Leeds                    2-1
 Liverpool - Tottenham                 1-3
 Luton - Barnsley                      1-0
 Manchester United - Nottingham        2-1
-Newcastle - Blackburn                 1-1 [aet, pen 2-4]
+Newcastle - Blackburn                 1-1 (aet, pen 2-4)
 
 ▪ Quarter Finals ▪
-(Dec 1,2)
+_ Dec 1,2 _
 Leichester - Blackburn                1-0
 Sunderland - Luton                    3-0
 Tottenham - Manchester United         3-1
 Wimbledon - Chelsea                   2-1
 
 ▪ Semi Finals ▪
-▪ First Leg ▪  Jan 26, 27
+▪ First Leg ▪  Jan 26,27
 Sunderland - Leichester               1-2
 Tottenham - Wimbledon                 0-0
-▪ Second Leg ▪  Feb 16, 17
+▪ Second Leg ▪  Feb 16,17
 Leichester - Sunderland               1-1
 Wimbledon - Tottenham                 0-1
 
@@ -847,7 +847,7 @@ Watford          1-0 Birmingham City
 _ May 19 _
 Ipswich Town     4-3 Bolton Wanderers      (aet)
 _ May 20 _
-Birmingham City  1-0 Watford               [aet, 6-7pen]
+Birmingham City  1-0 Watford               (aet, 6-7pen)
 
 ▪ Final ▪  May 31
 Bolton Wanderers 0-2 Watford

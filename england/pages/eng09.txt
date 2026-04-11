@@ -969,7 +969,7 @@ _ Nov 10 _
 AFC Wimbledon           1-4 Wycombe Wand
   (Hatton 56; Harrold 9, 36, 74 Phillips 62)
 
-First Round Replays
+▪ First Round Replays ▪
 _ Nov 13 _
 Tranmere                1-0 Accrington
   (Shuker 69)
@@ -1053,7 +1053,7 @@ _ Dec 9 _
 Chesterfield            2-2 Droylsden              [replay abandoned match]
   (Ward 31, Lester 79; Brown 50, Halford 82)
 
-Second Round Replays
+▪ Second Round Replays ▪
 _ Dec 9 _
 Stockport County        1-2 Gillingham
   (Gleeson 17; Barcham 25, 34)
@@ -1139,7 +1139,7 @@ Histon                  1-2 Swansea
 Leyton Orient           1-4 Sheffield United
   (Melligan 38pen; Halford 59, 78, Sharp 62, Naughton 69)
 
-Third Round Replays
+▪ Third Round Replays ▪
 _ Jan 13 _
 Bristol City            0-2 Portsmouth
   (Crouch 38, Kranjcar 88)
@@ -1162,7 +1162,7 @@ _ Jan 20 _
 Doncaster               3-0 Cheltenham Town
   (Stock 26, 58, Hird 36)
 
-Fourth Round
+▪ Fourth Round ▪
 _ Jan 23 _
 Derby                   1-1 Nottingham Forest
   (Hulse 35; Earnshaw 64)
@@ -1196,7 +1196,7 @@ Cardiff                 0-0 Arsenal
 Liverpool               1-1 Everton
   (Gerrard 54; Lescott 27)
 
-Fourth Round Replays
+▪ Fourth Round Replays ▪
 _ Feb 3 _
 Burnley                 3-1 West Bromwich Albion
   (Elliott 45, Thompson 52, 88; Zuiverloon 60)
@@ -1409,7 +1409,7 @@ _ Nov 4 _
 Brighton                1-4 Derby County
   (Elphick 36; Villa 28, 73, 87, Ellington 34)
 
-Fourth Round
+▪ Fourth Round ▪
 _ Nov 11 _
 Arsenal                 3-0 Wigan Athletic
   (Simpson 42, 66, Vela 70)
