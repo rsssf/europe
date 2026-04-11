@@ -307,26 +307,8 @@ Hertha      4-2 Bochum      (Horr 12, 30, K.Müller 20, Gutzeit 48 - Balte 41,
 _ Dec 29 _
 Werder      1-2 Duisburg    (Lehmann 50 o - Wunder 25, Worm 41)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Bayern München               17  9  5  3  48- 34  23
- 2. Eintracht Frankfurt          17  9  5  3  34- 26  23
- 3. Borussia Mönchengladbach     17  9  3  5  42- 31  21
- 4. Fortuna Düsseldorf           17  8  5  4  30- 24  21
- 5. VfB Stuttgart                17  8  3  6  38- 27  19
- 6. 1. FC Kaiserslautern         17  7  5  5  42- 36  19
- 7. Hertha BSC Berlin            17  6  7  4  30- 27  19
- 8. 1. FC Köln                   17  6  6  5  27- 28  18
- 9. Rot-Weiß Essen               17  6  5  6  31- 35  17
-10. Kickers Offenbach            17  6  4  7  32- 33  16
-11. VfL Bochum                   17  5  6  6  23- 26  16
-12. Hamburger SV                 17  6  3  8  27- 28  15
-13. Wuppertaler SV               17  5  5  7  25- 29  15
-14. Werder Bremen                17  4  6  7  21- 28  14
-15. Schalke 04                   17  5  4  8  32- 41  14
-16. Fortuna Köln                 17  3  7  7  23- 34  13
-17. Hannover 96                  17  4  4  9  28- 35  12
-18. MSV Duisburg                 17  4  3 10  20- 31  11
 
 ▪ Round 18 ▪  Jan 5
 Frankfurt   2-1 1. FC Köln  (H.Müller 32, Grabowski 78 - D.Müller 30)
@@ -599,9 +581,8 @@ Frankfurt   2-1 Düsseldorf  (Krauth 63, Grabowski 66 - Köhnen 29)
 17. Fortuna Köln                 34  8  9 17  46- 79  25
 18. Hannover 96                  34  6 10 18  50- 66  22
 
-Topscorers: Gerd MÜLLER (Bayern) and Josef HEYNCKES (M'gladbach) - 30,
-Klaus TOPPMÖLLER (K'lautern) and Klaus FISCHER (Schalke) - 21, Ronald
-SANDBERG (K'lautern) - 19
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1973/74
 

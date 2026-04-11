@@ -285,26 +285,8 @@ Hertha     2-1 Bayern     (Szymanek 69, Horr 71 - Kapellmann 8) [29 Beer
                           (Hertha) m/pen]
 1. FC Köln 0-4 M'gladbach (Simonsen 24, Heynckes 35, Jensen 38, 62)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Borussia Mönchengladbach     17  9  7  1  35- 15  25
- 2. Eintracht Braunschweig       17  8  5  4  28- 21  21
- 3. Hamburger SV                 17  8  4  5  29- 15  20
- 4. 1. FC Kaiserslautern         17  7  6  4  32- 30  20
- 5. Schalke 04                   17  5  8  4  35- 27  18
- 6. Rot-Weiß Essen               17  7  4  6  34- 34  18
- 7. 1. FC Köln                   17  6  6  5  26- 25  18
- 8. Hertha BSC Berlin            17  8  2  7  38- 27  18
- 9. MSV Duisburg                 17  6  6  5  32- 33  18
-10. Bayern München               17  7  3  7  33- 29  17
-11. Fortuna Düsseldorf           17  6  4  7  19- 24  16
-12. Eintracht Frankfurt          17  5  6  6  35- 28  16
-13. VfL Bochum                   17  5  5  7  21- 28  15
-14. Werder Bremen                17  6  2  9  26- 35  14
-15. Bayer Uerdingen              17  4  6  7  17- 30  14
-16. Karlsruher SC                17  4  5  8  21- 28  13
-17. Hannover 96                  17  4  5  8  24- 33  13
-18. Kickers Offenbach            17  4  4  9  19- 42  12
 
 ▪ Round 18 ▪  Jan 16
 Düsseldorf 1-3 Duisburg   (Herzog 80 - Worm 58, 70, 71)
@@ -583,8 +565,8 @@ M'gladbach 2-1 1. FC Köln (Jensen 6, Wittkamp 35 - D.Müller 78)
 17. Kickers Offenbach            34  9  9 16  40- 72  27
 18. Bayer Uerdingen              34  6 10 18  28- 69  22
 
-Topscorers: Klaus FISCHER (Schalke) - 29, Erich BEER (Hertha) and Gerd
-MÜLLER (Bayern) - 23, Klaus TOPPMÖLLER (K'lautern) - 22
+<!-- $topscorers1$ -->
+
 
 Borussia Mönchengladbach 1975/76
 

@@ -289,26 +289,8 @@ M'gladbach 0-1 Uerdingen  (Witeczek 34)
 Dortmund   2-2 Bayern     (Breitzke 73, Möller 74 - Flick 26, Strunz 28)
 Werder     0-0 Leverkusen
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Bayern München               17  9  5  3  34- 16  23
- 2. Bayer Leverkusen             17  7  9  1  23- 12  23
- 3. 1. FC Köln                   17  9  5  3  29- 23  23
- 4. Eintracht Frankfurt          17  9  4  4  34- 22  22
- 5. VfB Stuttgart                17  9  3  5  28- 22  21
- 6. Werder Bremen                17  5  8  4  25- 17  18
- 7. 1. FC Nürnberg               17  6  6  5  25- 20  18
- 8. Borussia Dortmund            17  7  4  6  20- 17  18
- 9. Waldhof Mannheim             17  7  2  8  23- 25  16
-10. VfL Bochum                   17  6  3  8  20- 29  15
-11. Karlsruher SC                17  4  7  6  15- 24  15
-12. Hamburger SV                 17  6  3  8  20- 25  15
-13. Bayer Uerdingen              17  5  4  8  24- 25  14
-14. FC Homburg                   17  5  4  8  17- 23  14
-15. FC St. Pauli                 17  3  8  6  12- 23  14
-16. Fortuna Düsseldorf           17  3  7  7  23- 28  13
-17. 1. FC Kaiserslautern         17  3  7  7  22- 31  13
-18. Borussia Mönchengladbach     17  3  5  9  13- 25  11
 
 ▪ Round 18 ▪  Nov 25
 Mannheim   1-1 Frankfurt  (Freiler 54 - Turowski 15)
@@ -582,8 +564,8 @@ Playout
 1. FC Saarbrücken - VfL Bochum 0:1
 VFL BOCHUM - 1. FC Saarbrücken 1:1
 
-Topscorers: Jörg ANDERSEN (Nürnberg) - 18, Stefan KUNTZ (K'lautern) - 15,
-Fritz WALTER (Stuttgart) and Roland WOHLFAHRT (Bayern) - 13
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1989/90
 

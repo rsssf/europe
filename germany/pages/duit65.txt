@@ -213,24 +213,8 @@ Werder      1-1 Nürnberg    (H.Schulz 32 - Strehl 84)
 K'lautern   0-1 Frankfurt   (Huberts 84 p)
 Schalke     3-1 Hamburger   (Koslowski 8, 72, Gerhardt 44 - U.Seeler 64)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. 1. FC Köln                   15  8  4  3  41- 27  20
- 2. Werder Bremen                15  8  4  3  28- 17  20
- 3. TSV 1860 München             15  6  5  4  27- 19  17
- 4. 1. FC Nürnberg               15  7  3  5  27- 22  17
- 5. Eintracht Frankfurt          15  7  3  5  23- 27  17
- 6. Borussia Dortmund            15  6  4  5  23- 20  16
- 7. Hamburger SV                 15  6  4  5  24- 26  16
- 8. Hannover 96                  15  6  3  6  20- 23  15
- 9. Hertha BSC Berlin            15  4  7  4  21- 27  15
-10. VfB Stuttgart                15  4  6  5  24- 23  14
-11. Eintracht Braunschweig       15  5  4  6  22- 24  14
-12. 1. FC Kaiserslautern         15  6  2  7  27- 31  14
-13. Meidericher SV               15  5  3  7  19- 25  13
-14. Borussia Neunkirchen         15  5  2  8  22- 25  12
-15. Karlsruher SC                15  4  3  8  26- 28  11
-16. Schalke 04                   15  2  5  8  22- 32   9
 
 ▪ Round 16 ▪  Dec 19
 Hertha      1-3 1. FC Köln  (Steinert 27 - C.Müller 8, Overath 11, Löhr 13)
@@ -449,8 +433,8 @@ Frankfurt   1-2 K'lautern   (Lechner 21 - Prins 22, Wrenger 55)
 15. Karlsruher SC                30  9  6 15  47- 62  24
 16. Schalke 04                   30  7  8 15  45- 60  22
 
-Topscorers: Rudi BRUNNENMEIER (TSV) - 24, Timo KONIETZKA
-(Dortmund) - 22, Christian MÜLLER (Köln) - 18
+<!-- $topscorers1$ -->
+
 
 Werder Bremen 1964/65
 

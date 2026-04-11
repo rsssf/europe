@@ -291,25 +291,8 @@ Bayern     1-0 Bochum     (Horsmann 76)
 _ Dec 22 _
 M'gladbach 3-1 Leverkusen (Mill 57 p, Veh 64, Pinkall 89 - Knauf 11)
 
-Fall Table
- 1. 1. FC Köln                   16 10  4  2  34- 12  24
- 2. Bayern München               17 11  2  4  38- 26  24
- 3. Borussia Mönchengladbach     17  8  7  2  33- 25  23
- 4. Werder Bremen                17  8  5  4  29- 28  21
- 5. Eintracht Frankfurt          17  9  2  6  45- 32  20
- 6. Hamburger SV                 15  8  4  3  42- 19  20
- 7. Eintracht Braunschweig       17  9  0  8  30- 27  18
- 8. Borussia Dortmund            17  7  4  6  28- 21  18
- 9. VfB Stuttgart                17  5  6  6  22- 26  16
-10. VfL Bochum                   16  5  6  5  27- 25  16
-11. 1. FC Kaiserslautern         16  4  7  5  33- 33  15
-12. 1. FC Nürnberg               17  5  3  9  25- 35  13
-13. Fortuna Düsseldorf           16  4  5  7  25- 32  13
-14. Bayer Leverkusen             17  4  5  8  22- 36  13
-15. Darmstadt 98                 17  3  6  8  20- 38  12
-16. Karlsruher SC                16  4  3  9  24- 34  11
-17. Arminia Bielefeld            16  3  5  8  16- 25  11
-18. MSV Duisburg                 17  4  2 11  23- 42  10
+<!-- $table2$ -->
+
 
 _ Jan 12 _
 Bielefeld  2-0 Bochum     (Geils 7, Dronia 92) [86 Schock (Arminia) m/pen]
@@ -617,8 +600,8 @@ Playout:
 Kickers Offenbach - Bayer Leverkusen 0:1
 BAYER LEVERKUSEN - Kickers Offenbach 2:1
 
-Topscorers: Horst HRUBESCH (Hamburger) - 27, Manfred BURGSMÜLLER
-(Dortmund) - 22, Dieter HOENESS (Bayern) - 21
+<!-- $topscorers1$ -->
+
 
 Hamburger SV 1981/82
 

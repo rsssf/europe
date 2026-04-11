@@ -324,26 +324,8 @@ Schalke    2-1 Werder     (Max 49, Anderbrügge 83 - Baiano 80)
 _ Dec 10 _
 1. FC Köln 3-0 Hansa      (Kohn 45, Polster 73, 90)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Borussia Dortmund            17 12  4  1  44- 20  40
- 2. Bayern München               17 12  2  3  36- 18  38
- 3. VfB Stuttgart                17  7  7  3  38- 31  28
- 4. Borussia Mönchengladbach     17  9  1  7  28- 31  28
- 5. Hamburger SV                 17  6  8  3  29- 23  26
- 6. Bayer Leverkusen             17  6  7  4  22- 15  25
- 7. Hansa Rostock                17  6  7  4  28- 22  25
- 8. Schalke 04                   17  6  7  4  21- 23  25
- 9. FC St. Pauli                 17  5  5  7  27- 29  20
-10. Eintracht Frankfurt          17  5  5  7  29- 33  20
-11. Karlsruher SC                17  4  6  7  23- 29  18
-12. TSV 1860 München             17  4  6  7  22- 26  18
-13. 1. FC Köln                   17  3  8  6  18- 22  17
-14. 1. FC Kaiserslautern         17  3  8  6  18- 24  17
-15. Werder Bremen                17  3  8  6  17- 23  17
-16. SC Freiburg                  17  4  4  9  12- 23  16
-17. KFC Uerdingen                17  2  8  7  15- 22  14
-18. Fortuna Düsseldorf           17  2  7  8  16- 29  13
 
 ▪ Round 18 ▪  Feb 9
 Freiburg   0-0 M'gladbach
@@ -669,9 +651,8 @@ Hansa      0-1 1. FC Köln (Gaißmayer 72)
 17. Eintracht Frankfurt          34  7 11 16  43- 68  32
 18. KFC Uerdingen                34  5 11 18  33- 56  26
 
-Topscorers: Fredi BOBIC (Stuttgart) - 17, Sean DUNDEE (Karlsruher),
-Giovane ELBER (Stuttgart) and Jürgen KLINSMANN (Bayern) - 16, Martin
-DAHLIN (M'gladbach) and Michael ZORC (Dortmund) - 15
+<!-- $topscorers1$ -->
+
 
 Borussia Dortmund 1995/96
 

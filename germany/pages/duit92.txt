@@ -376,28 +376,8 @@ Frankfurt   2-0 Hansa       (Weber 46, Yeboah 48) [88 Spies (Hansa) m/pen]
 Hamburger   1-1 Düsseldorf  (Rohde 80 - Demandt 57)
 K'lautern   1-1 Schalke     (Kuntz 19 - A.Müller 45)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Eintracht Frankfurt          19 10  5  4  43- 22  25
- 2. VfB Stuttgart                19 10  4  5  34- 18  24
- 3. Borussia Dortmund            19  9  6  4  34- 30  24
- 4. 1. FC Kaiserslautern         19  9  5  5  31- 19  23
- 5. 1. FC Nürnberg               19  8  5  6  29- 24  21
- 6. Bayer Leverkusen             19  6  8  5  19- 18  20
- 7. MSV Duisburg                 19  5 10  4  25- 24  20
- 8. Schalke 04                   19  7  6  6  29- 23  20
- 9. Karlsruher SC                19  7  5  7  24- 29  19
-10. Werder Bremen                19  7  5  7  23- 22  19
-11. Bayern München               19  6  7  6  24- 26  19
-12. Hamburger SV                 19  5  9  5  19- 22  19
-13. 1. FC Köln                   18  3 12  3  24- 24  18
-14. VfL Bochum                   19  5  6  8  22- 33  16
-15. Stuttgarter Kickers          19  5  6  8  28- 30  16
-16. Hansa Rostock                19  6  4  9  27- 31  16
-17. Borussia Mönchengladbach     19  6  4  9  16- 27  16
-18. Dynamo Dresden               18  5  5  8  14- 24  15
-19. Fortuna Düsseldorf           19  5  5  9  24- 32  15
-20. Wattenscheid 09              19  3  7  9  19- 30  13
 
 ▪ Round 20 ▪  Nov 29
 M'gladbach  2-2 Leverkusen  (Klinkert 49, Kastenmaier 77 - Thom 21, 74)
@@ -734,8 +714,8 @@ St. Kickers 2-0 Bochum      (Cayasso 65, Marin 68 p)
 19. MSV Duisburg                 38  7 16 15  43- 55  30
 20. Fortuna Düsseldorf           38  6 12 20  41- 69  24
 
-Topscorers: Fritz WALTER (Stuttgart) - 22, Stephane CHAPUISAT (Dortmund)
-- 20, Roland WOHLFAHRT (Bayern) - 17
+<!-- $topscorers1$ -->
+
 
 VfB Stuttgart 1991/92
 

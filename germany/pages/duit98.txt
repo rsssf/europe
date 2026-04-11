@@ -335,26 +335,8 @@ Leverkusen 4-2 Bayern     (Heintze 45, Kirsten 69, 90, 90 - Elber 6,
                           Jancker 24)
                           (sent off: Wörns (Leverkusen, 33))
 
-Fall Table
+<!-- $table2$ -->
 
- 1. 1. FC Kaiserslautern         17 12  3  2  37- 21  39
- 2. Bayern München               17 10  5  2  37- 19  35
- 3. VfB Stuttgart                17  8  5  4  35- 21  29
- 4. Schalke 04                   17  8  5  4  20- 15  29
- 5. Bayer Leverkusen             17  8  5  4  34- 22  29
- 6. Hansa Rostock                17  7  3  7  27- 24  24
- 7. MSV Duisburg                 17  7  2  8  20- 22  23
- 8. VfL Wolfsburg                17  7  2  8  22- 25  23
- 9. Hertha BSC Berlin            17  6  4  7  21- 26  22
-10. Werder Bremen                17  6  4  7  19- 25  22
-11. Borussia Dortmund            17  5  6  6  26- 24  21
-12. Karlsruher SC                17  5  5  7  27- 34  20
-13. TSV München 1860             17  5  5  7  21- 30  20
-14. Hamburger SV                 17  5  4  8  23- 28  19
-15. Arminia Bielefeld            17  6  1 10  23- 28  19
-16. Borussia Mönchengladbach     17  4  6  7  27- 32  18
-17. VfL Bochum                   17  4  4  9  21- 30  16
-18. 1. FC Köln                   17  5  1 11  24- 38  16
 
 ▪ Round 18 ▪  Dec 5
 K'lautern  2-0 Bayern     (Hamann 44 o, Hristov 85)
@@ -678,8 +660,8 @@ Wolfsburg  0-2 M'gladbach (Effenberg 13, Wynhoff 35)
 17. 1. FC Köln                   34 10  6 18  49- 64  36
 18. Arminia Bielefeld            34  8  8 18  43- 56  32
 
-Topscorers: Ulf KIRSTEN (Leverkusen) - 22, Olaf MARSCHALL (K'lautern) - 21,
-Michael PREETZ (Hertha) - 14
+<!-- $topscorers1$ -->
+
 
 1. FC Kaiserslautern 1997/98
 
@@ -767,7 +749,7 @@ Hannover 96          2-1 1860 München
 1.FC Saarbrücken     0-4 1.FC Kaiserslautern
 SV Meppen            4-1 Stuttgarter Kickers
 SSV Ulm 1846         4-1 Mainz 05
-VfR Mannheim         1-1 Carl Zeiss Jena        paet, 3-4 pen]
+VfR Mannheim         1-1 Carl Zeiss Jena        (aet, 3-4 pen)
 VfB Lübeck           1-4 KFC Uerdingen
 
 ▪ Round 3 ▪
@@ -797,13 +779,13 @@ Bayern München       3-0 VfB Stuttgart
 _ Feb 18 _
 Eintracht Trier      1-1 MSV Duisburg           (aet, 9-10 pen)
 
-Final [Berlin Olympia-Stadion, May 16]
+▪ Final ▪  May 16, Berlin Olympia-Stadion
 Bayern München       2-1 MSV Duisburg
 
 
 2.Bundesliga
 
-<!-- $table2$ -->
+<!-- $table3$ -->
 
 
 Promoted: Hannover 96, Rot-Weiß Oberhausen, SSV Ulm 1846, and

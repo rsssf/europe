@@ -292,26 +292,8 @@ _ Dec 16 _
 Hamburger  4-1 TSV 1860   (Hrubesch 21, 69, 87, Magath 90 - Bitz 75)
 Karlsruher 3-1 Uerdingen  (Groß 11, 51, 53 - Steubing 48)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Hamburger SV                 17 13  2  2  45- 19  28
- 2. Bayern München               17 12  3  2  42- 21  27
- 3. 1. FC Kaiserslautern         17 10  3  4  35- 20  23
- 4. VfB Stuttgart                17  8  5  4  36- 24  21
- 5. Borussia Dortmund            17  8  3  6  36- 28  19
- 6. Eintracht Frankfurt          17  8  3  6  31- 32  19
- 7. 1. FC Köln                   17  6  5  6  31- 29  17
- 8. Bayer Leverkusen             17  4  8  5  26- 23  16
- 9. 1. FC Nürnberg               17  6  4  7  30- 29  16
-10. MSV Duisburg                 17  4  7  6  23- 28  15
-11. Karlsruher SC                17  4  7  6  24- 34  15
-12. Borussia Mönchengladbach     17  6  3  8  24- 34  15
-13. VfL Bochum                   17  3  9  5  24- 27  15
-14. TSV 1860 München             17  5  4  8  26- 32  14
-15. Fortuna Düsseldorf           17  4  5  8  27- 36  13
-16. Bayer Uerdingen              17  4  5  8  25- 32  13
-17. Schalke 04                   17  4  3 10  24- 47  11
-18. Arminia Bielefeld            17  2  5 10  23- 37   9
 
 ▪ Round 18 ▪  Jan 17
 Nürnberg   1-2 Stuttgart  (Hintermaier 85 - K-H.Förster 24, Kelsch 30)
@@ -584,8 +566,8 @@ Karlsruher 7-2 TSV 1860   (Günther 29, 87, Wiesner 55, Groß 59, Schüler 66,
 17. Schalke 04                   34  8  7 19  43- 88  23
 18. Bayer Uerdingen              34  8  6 20  47- 79  22
 
-Topscorers: Karl-Heinz RUMMENIGGE (Bayern) - 29, Manfred BURGSMÜLLER
-(Dortmund) - 27, Klaus ALLOFS (Fortuna Düsseldorf) - 19
+<!-- $topscorers1$ -->
+
 
        Walter JUNGHAUS       19  (1681) -24
       Manfred MÜLLER         17  (1379) -17

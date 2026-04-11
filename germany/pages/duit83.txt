@@ -295,26 +295,8 @@ Bielefeld  5-1 Karlsruher (Grillemeier 21, Pohl 35, 78, Rautiainen 44,
                           Pagelsdorf 63 - Dittus 39)
 Leverkusen 1-0 B'schweig  (Ökland 28)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Hamburger SV                 17  9  8  0  42- 17  26
- 2. Bayern München               17 10  4  3  36- 12  24
- 3. Borussia Dortmund            17 10  3  4  40- 24  23
- 4. Werder Bremen                17 10  3  4  31- 19  23
- 5. VfB Stuttgart                17  9  4  4  39- 22  22
- 6. 1. FC Köln                   17  9  4  4  32- 19  22
- 7. 1. FC Kaiserslautern         17  6  8  3  25- 21  20
- 8. Arminia Bielefeld            17  7  4  6  30- 36  18
- 9. 1. FC Nürnberg               17  6  4  7  22- 31  16
-10. Eintracht Braunschweig       17  5  6  6  17- 26  16
-11. Fortuna Düsseldorf           17  4  6  7  29- 42  14
-12. VfL Bochum                   17  4  5  8  18- 25  13
-13. Borussia Mönchengladbach     17  6  1 10  31- 35  13
-14. Hertha BSC Berlin            17  3  6  8  19- 29  12
-15. Karlsruher SC                17  4  4  9  24- 41  12
-16. Eintracht Frankfurt          17  5  2 10  24- 26  12
-17. Schalke 04                   17  3  4 10  23- 36  10
-18. Bayer Leverkusen             17  3  4 10  14- 35  10
 
 ▪ Round 18 ▪  Jan 22
 Hertha     0-0 K'lautern
@@ -611,8 +593,8 @@ Playout:
 Bayer Uerdingen - Schalke 04 3:1
 Schalke 04 - BAYER UERDINGEN 1:1
 
-Topscorers: Rudi VÖLLER (Werder) - 23, Atli EDVALDSSON (Düsseldorf) and
-Karl ALLGÖWER (Stuttgart) - 21, Karl-Heinz RUMMENIGGE (Bayern) - 20
+<!-- $topscorers1$ -->
+
 
 Hamburger SV 1982/83
 

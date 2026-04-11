@@ -297,26 +297,8 @@ Frankfurt    2-1 Duisburg   (Nickel 18 p, Hölzenbein 25 - Budde 49)
 Werder       2-2 M'gladbach (Hasebrink 65, Laumen 73 - Sieloff 39, Kulik 47)
 
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Schalke 04                   17 13  2  2  37- 14  28
- 2. Bayern München               17 10  5  2  47- 18  25
- 3. Borussia Mönchengladbach     17 10  3  4  47- 19  23
- 4. 1. FC Köln                   17  8  6  3  33- 23  22
- 5. Hamburger SV                 17  8  4  5  33- 23  20
- 6. VfB Stuttgart                17  7  5  5  30- 29  19
- 7. Eintracht Frankfurt          17  8  3  6  34- 35  19
- 8. Hertha BSC Berlin            17  6  7  4  22- 26  19
- 9. 1. FC Kaiserslautern         17  8  3  6  31- 25  19
-10. Eintracht Braunschweig       17  4 10  3  20- 19  18
-11. Werder Bremen                17  6  5  6  31- 24  17
-12. VfL Bochum                   17  7  0 10  27- 40  14
-13. Fortuna Düsseldorf           17  5  4  8  17- 23  14
-14. MSV Duisburg                 17  4  4  9  18- 29  12
-15. Borussia Dortmund            17  3  5  9  17- 43  11
-16. Rot-Weiß Oberhausen          17  2  5 10  14- 36   9
-17. Arminia Bielefeld            17  2  5 10  17- 34   9
-18. Hannover 96                  17  3  2 12  20- 35   8
 
 ▪ Round 18 ▪  Jan 22
 
@@ -591,8 +573,8 @@ M'gladbach   2-2 Werder     (Heynckes 2, Wittkamp 35 - Dietrich 50, Weist 59)
 17. Borussia Dortmund            34  6  8 20  34- 83  20
 18. Arminia Bielefeld            34  6  7 21  41- 75  19
 
-Topscorers: Gerd MÜLLER (Bayern) - 40, Klaus FISCHER (Schalke) and
-Hans WALITZA (Bochum) - 22, Ferdinand KELLER (Hannover) - 20
+<!-- $topscorers1$ -->
+
 
 Nb. Müller also won the European "Golden Boot" award that season
 

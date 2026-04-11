@@ -337,26 +337,8 @@ Duisburg   2-0 Stuttgart  (Westerbeek 55, Azzouzi 89)
 Werder     0-0 Bayern
 Dynamo     1-1 Leverkusen (Ekström 69 - Völler 78)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Borussia Dortmund            17 12  4  1  40- 14  28
- 2. Werder Bremen                17 10  4  3  31- 19  24
- 3. Borussia Mönchengladbach     17  9  5  3  37- 21  23
- 4. SC Freiburg                  17 10  3  4  35- 21  23
- 5. Bayern München               17  7  8  2  31- 22  22
- 6. 1. FC Kaiserslautern         17  8  6  3  25- 20  22
- 7. Karlsruher SC                17  7  7  3  28- 23  21
- 8. Bayer Leverkusen             17  6  8  3  31- 21  20
- 9. Hamburger SV                 17  7  4  6  26- 21  18
-10. VfB Stuttgart                17  6  4  7  31- 35  16
-11. Eintracht Frankfurt          17  6  4  7  19- 25  16
-12. Schalke 04                   17  4  7  6  22- 24  15
-13. 1. FC Köln                   17  4  5  8  26- 36  13
-14. Bayer Uerdingen              17  2  6  9  15- 26  10
-15. TSV 1860 München             17  2  6  9  17- 30  10
-16. Dynamo Dresden               17  3  4 10  17- 31  10
-17. VfL Bochum                   17  3  2 12  18- 39   8
-18. MSV Duisburg                 17  2  3 12  12- 33   7
 
 ▪ Round 18 ▪  Feb 17
 Duisburg   2-0 Uerdingen  (Hopp 33, Schütterle 80)
@@ -677,9 +659,8 @@ Leverkusen 2-2 Dynamo     (Hapal 6, Kirsten 73 - Fuchs 52, M.Spies 83)
 17. MSV Duisburg                 34  6  8 20  31- 64  20
 18. Dynamo Dresden               34  4  8 22  33- 68  16
 
-Topscorers: Mario BASLER (Werder) and Heiko HERRLICH (M'gladbach) - 20,
-Toni POLSTER (Köln) - 17, Rudolfo CARDOSO (Freiburg), Pavel KUKA
-(K'lautern) and Rudi VÖLLER (Leverkusen) - 16
+<!-- $topscorers1$ -->
+
 
 Borussia Dortmund 1994/95
 

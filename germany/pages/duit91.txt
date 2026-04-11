@@ -322,26 +322,8 @@ Nürnberg   4-2 W'scheid   (Zarate 19, Oechler 20, Heidenreich 22, Eckstein 90 -
                           Sane 13, Tschiskale 69)
                           (sent off: Sobiech (W'scheid, 75))
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Werder Bremen                17 10  4  3  24- 13  24
- 2. Bayern München               17  9  5  3  39- 19  23
- 3. 1. FC Kaiserslautern         16  9  4  3  32- 22  22
- 4. Eintracht Frankfurt          17  7  6  4  26- 15  20
- 5. Borussia Dortmund            17  7  6  4  21- 20  20
- 6. Hamburger SV                 16  8  2  6  23- 18  18
- 7. Bayer Leverkusen             16  5  8  3  22- 19  18
- 8. 1. FC Köln                   16  7  4  5  23- 12  18
- 9. Fortuna Düsseldorf           17  5  7  5  20- 23  17
-10. VfL Bochum                   17  5  6  6  24- 23  16
-11. Wattenscheid 09              17  6  4  7  23- 30  16
-12. Borussia Mönchengladbach     17  3  8  6  21- 29  14
-13. VfB Stuttgart                17  5  4  8  22- 27  14
-14. Karlsruher SC                16  4  5  7  22- 29  13
-15. FC St. Pauli                 17  2  9  6  16- 26  13
-16. Bayer Uerdingen              17  3  7  7  21- 31  13
-17. 1. FC Nürnberg               17  4  4  9  22- 32  12
-18. Hertha BSC Berlin            16  2  5  9  14- 27   9
 
 ▪ Round 18 ▪  Feb 23
 Bochum     3-0 M'gladbach (Kohn 15, Kempe 37, Nehl 68)
@@ -647,8 +629,8 @@ St. Pauli - Stuttgarter Kickers 1:1
 Stuttgarter Kickers - St. Pauli 1:1
 STUTTGARTER KICKERS - St. Pauli 3:1
 
-Topscorers: Roland WOHLFAHRT (Bayern) - 21, Jan FURTOK (Hamburger) - 20,
-Andreas MÖLLER (Frankfurt) - 16
+<!-- $topscorers1$ -->
+
 
 1. FC Kaiserslautern 1990/91
 

@@ -301,26 +301,8 @@ Hannover   3-2 K'lautern  (Reich 2, Heidenreich 30, Surmann 53 - T.Allofs 10,
 Stuttgart  2-2 Leverkusen (Allgöwer 69, 83 - Waas 35, 89 p)
 Frankfurt  3-0 Hamburger  (Sievers 37, Friz 48, Krämer 86)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Werder Bremen                17 11  3  3  50- 27  25
- 2. Borussia Mönchengladbach     16  9  4  3  37- 22  22
- 3. Bayern München               17 10  2  5  32- 20  22
- 4. Hamburger SV                 17  9  3  5  27- 16  21
- 5. Bayer Leverkusen             17  7  6  4  34- 23  20
- 6. VfL Bochum                   17  9  1  7  35- 26  19
- 7. Waldhof Mannheim             16  7  4  5  28- 22  18
- 8. VfB Stuttgart                17  7  3  7  30- 30  17
- 9. 1. FC Kaiserslautern         17  6  4  7  24- 24  16
-10. Bayer Uerdingen              16  6  4  6  25- 39  16
-11. 1. FC Köln                   17  5  6  6  25- 27  16
-12. Borussia Dortmund            16  5  4  7  25- 32  14
-13. Schalke 04                   16  5  4  7  20- 24  14
-14. Hannover 96                  17  5  4  8  28- 45  14
-15. Eintracht Frankfurt          17  3  8  6  18- 27  14
-16. 1. FC Saarbrücken            17  3  7  7  22- 30  13
-17. 1. FC Nürnberg               16  4  2 10  23- 31  10
-18. Fortuna Düsseldorf           17  3  3 11  25- 43   9
 
 ▪ Round 18 ▪  Dec 6
 Leverkusen 4-1 Hannover   (Cha 6, Reich 31, Waas 37, Götz 42, Schreier 71 p)
@@ -630,8 +612,8 @@ Fortuna Köln - Borussia Dortmund 2:0
 Borussia Dortmund - Fortuna Köln 3:1
 BORUSSIA DORTMUND - Fortuna Köln 8:0
 
-Topscorers: Stefan KUNTZ (Bochum) - 22, Karl ALLGÖWER (Sttuttgart) - 21,
-Frank NEUBARTH (Werder) - 20
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1985/86
 

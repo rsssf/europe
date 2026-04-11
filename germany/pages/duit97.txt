@@ -343,26 +343,8 @@ Bielefeld  2-0 Stuttgart  (Breitkreutz 19, Reina 68)
 Bayern     1-0 M'gladbach (Klinsmann 51)
 Duisburg   1-0 St. Pauli  (Skoog 87)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Bayern München               17 10  6  1  27- 14  36
- 2. Bayer Leverkusen             17 10  4  3  38- 22  34
- 3. Borussia Dortmund            17 10  4  3  36- 18  34
- 4. VfB Stuttgart                17  9  4  4  39- 19  31
- 5. Karlsruher SC                17  8  4  5  30- 20  28
- 6. VfL Bochum                   16  7  6  3  23- 21  27
- 7. 1. FC Köln                   17  8  2  7  32- 30  26
- 8. Schalke 04                   17  7  4  6  25- 26  25
- 9. MSV Duisburg                 17  6  4  7  17- 22  22
-10. Werder Bremen                17  6  4  7  29- 28  22
-11. Hamburger SV                 17  5  5  7  22- 26  20
-12. Arminia Bielefeld            17  5  4  8  20- 28  19
-13. TSV 1860 München             17  4  6  7  25- 31  18
-14. FC St. Pauli                 16  5  3  8  21- 29  18
-15. Fortuna Düsseldorf           17  5  3  9  14- 26  18
-16. Borussia Mönchengladbach     17  4  3 10  12- 23  15
-17. Hansa Rostock                17  4  3 10  19- 26  15
-18. SC Freiburg                  17  4  1 12  20- 40  13
 
 ▪ Round 18 ▪  Feb 14
 1. FC Köln 2-0 Düsseldorf (Polster 45, Bach 84 o)
@@ -695,8 +677,8 @@ Leverkusen 2-0 Bochum     (Sergio 9, Ramelow 51)
 17. SC Freiburg                  34  8  5 21  43- 67  29
 18. FC St. Pauli                 34  7  6 21  32- 69  27
 
-Topscorers: Ulf KIRSTEN (Leverkusen) - 22, Toni POLSTER (Köln) - 21,
-Fredi BOBIC (Stuttgart) - 19
+<!-- $topscorers1$ -->
+
 
         Oliver KAHN          32  (2880) -32
           Sven SCHEUER        2  ( 180) - 2
@@ -723,7 +705,8 @@ Fredi BOBIC (Stuttgart) - 19
 
 
 
-Topscorers 1.Bundesliga:
+<!-- $topscorers2$ -->
+
 
 Nº Player      Team                 Goals
  1 Kirsten     Bayer Leverkusen     25
@@ -827,13 +810,14 @@ VfB Stuttgart-Energie Cottbus               2:0
 
 2.Bundesliga
 
-<!-- $table2$ -->
+<!-- $table3$ -->
 
 
 NB: Gütersloh had 3 points deducted for infringement in the
     license application
 
-Topscorers 2.Bundesliga:
+<!-- $topscorers3$ -->
+
 
 N Player      Team                 Goals
 1 Vier        Rot-WeiB Essen       18
@@ -855,7 +839,7 @@ N Player      Team                 Goals
 
 Regionalliga Nord
 
-<!-- $table3$ -->
+<!-- $table4$ -->
 
 
 No teams promoted from regionalliga Nord.
@@ -873,7 +857,7 @@ Teams relegated from 2.Bundesliga to Regionalliga Nord:
 
 Regionalliga Nordost
 
-<!-- $table4$ -->
+<!-- $table5$ -->
 
 
 Teams promoted from Oberliga to Regionalliga Nordost:
@@ -885,7 +869,7 @@ Teams promoted from Oberliga to Regionalliga Nordost:
 
 Regionalliga West-Südwest
 
-<!-- $table5$ -->
+<!-- $table6$ -->
 
 
 Teams promoted from Oberliga to Regionalliga West-Südwest:
@@ -900,7 +884,7 @@ Team relegated from 2.Bundesliga to Regionalliga West-Südwest:
 
 Regionalliga Süd
 
-<!-- $table6$ -->
+<!-- $table7$ -->
 
 
 Teams promoted from Oberliga to Regionalliga Süd:

@@ -309,26 +309,8 @@ _ Jan 26 _
 Mannheim   5-2 Schalke    (Bührer 5, Schlindwein 55, Klotz 59, Kohler 67,
                           Gaudino 82 - Thon 18, Dietz 89)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Bayern München               17 11  3  3  39- 21  25
- 2. Werder Bremen                17  8  7  2  51- 28  23
- 3. 1. FC Köln                   17 10  2  5  42- 33  22
- 4. Bayer Uerdingen              17  9  3  5  34- 21  21
- 5. Borussia Mönchengladbach     17  8  5  4  46- 30  21
- 6. Hamburger SV                 17  6  7  4  30- 27  19
- 7. VfL Bochum                   17  6  7  4  27- 24  19
- 8. VfB Stuttgart                17  7  3  7  43- 28  17
- 9. 1. FC Kaiserslautern         17  5  7  5  23- 24  17
-10. Eintracht Frankfurt          17  6  5  6  36- 38  17
-11. Waldhof Mannheim             17  7  3  7  26- 33  17
-12. Schalke 04                   17  5  5  7  31- 38  15
-13. Bayer Leverkusen             17  4  6  7  25- 29  14
-14. Fortuna Düsseldorf           17  5  4  8  30- 34  14
-15. Karlsruher SC                17  3  6  8  25- 47  12
-16. Borussia Dortmund            16  5  1 10  20- 33  11
-17. Arminia Bielefeld            16  1  8  7  16- 35  10
-18. Eintracht Braunschweig       17  4  2 11  22- 43  10
 
 ▪ Round 18 ▪  Feb 1
 1. FC Köln 1-0 B'schweig  (Littbarski 20)
@@ -637,8 +619,8 @@ Playout:
 1. FC Saarbrücken - Arminia Bielefeld 2:0
 Arminia Bielefeld - 1. FC SAARBRÜCKEN 1:1
 
-Topscorers: Klaus ALLOFS (Köln) - 26, Rudi VÖLLER (Werder) - 25,
-Karl ALLGÖWER (Stuttgart) and Thomas ALLOFS (K'lautern) - 19
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1984/85
 

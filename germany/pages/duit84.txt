@@ -311,26 +311,8 @@ K'lautern  1-0 Frankfurt  (Hübner 34)
 _ Dec 17 _
 Bielefeld  1-1 Mannheim   (Grillemeier 13 - Remark 23)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. VfB Stuttgart                17 10  5  2  36- 15  25
- 2. Bayern München               17 10  4  3  30- 15  24
- 3. Borussia Mönchengladbach     17  9  5  3  36- 21  23
- 4. Werder Bremen                17  9  4  4  34- 17  22
- 5. Hamburger SV                 17  9  4  4  30- 19  22
- 6. Fortuna Düsseldorf           17  8  5  4  39- 22  21
- 7. Bayer Leverkusen             17  8  4  5  31- 22  20
- 8. Arminia Bielefeld            17  6  5  6  23- 26  17
- 9. 1. FC Köln                   17  7  3  7  33- 25  17
-10. Bayer Uerdingen              17  6  5  6  31- 33  17
-11. Waldhof Mannheim             17  5  6  6  22- 28  16
-12. 1. FC Kaiserslautern         17  6  3  8  34- 36  15
-13. VfL Bochum                   17  5  4  8  30- 38  14
-14. Eintracht Braunschweig       17  6  1 10  28- 40  13
-15. Borussia Dortmund            17  4  4  9  21- 35  12
-16. Kickers Offenbach            17  4  2 11  24- 53  10
-17. Eintracht Frankfurt          17  1  7  9  18- 36   9
-18. 1. FC Nürnberg               17  4  1 12  23- 42   9
 
 ▪ Round 18 ▪  Jan 20
 Düsseldorf 4-1 M'gladbach (Edvaldsson 6, Bockenfeld 11, Bommer 22,
@@ -639,8 +621,8 @@ Playout:
 MSV Duisburg - Eintracht Frankfurt 0:5
 EINTRACHT FRANKFURT - MSV Duisburg 1:1
 
-Topscorers: Karl-Heinz RUMMENIGGE (Bayern) - 25, Klaus ALLOFS (Köln) - 21,
-Frank MILL (Dortmund) - 19
+<!-- $topscorers1$ -->
+
 
 VfB Stuttgart 1983/84
 

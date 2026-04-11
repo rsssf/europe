@@ -287,26 +287,8 @@ Stuttgart   3-0 M'gladbach  (Lindner 5, Ettmayer 53, Frank 79)
 _ Dec 23 _
 Oberhausen  3-1 K'lautern   (Kobluhn 26, 76, Hollmann 84 - Pirrung 62)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Bayern München               17 13  1  3  45- 14  27
- 2. Fortuna Düsseldorf           17 10  5  2  40- 25  25
- 3. Wuppertaler SV               17  8  5  4  30- 16  21
- 4. VfB Stuttgart                17 10  1  6  36- 26  21
- 5. 1. FC Köln                   17  8  5  4  33- 24  21
- 6. MSV Duisburg                 17  7  6  4  26- 17  20
- 7. 1. FC Kaiserslautern         17  6  6  5  27- 26  18
- 8. Borussia Mönchengladbach     17  8  2  7  35- 35  18
- 9. Kickers Offenbach            17  7  4  6  31- 31  18
-10. Eintracht Frankfurt          17  7  3  7  32- 27  17
-11. VfL Bochum                   17  7  3  7  24- 30  17
-12. Hertha BSC Berlin            17  5  4  8  25- 38  14
-13. Hannover 96                  17  5  4  8  25- 36  14
-14. Eintracht Braunschweig       17  5  2 10  13- 26  12
-15. Werder Bremen                17  3  6  8  17- 24  12
-16. Schalke 04                   17  5  2 10  24- 36  12
-17. Rot-Weiß Oberhausen          17  4  2 11  19- 40  10
-18. Hamburger SV                 17  2  5 10  22- 33   9
 
 ▪ Round 18 ▪  Jan 20
 Bayern      5-3 Oberhausen  (Hollmann 4 o, W.Hoffmann 7, G.Müller 12 p, 68,
@@ -584,8 +566,8 @@ Bayern      1-1 1. FC Köln  (Hoeneß 81 - Hein 50)
 17. Eintracht Braunschweig       34  9  7 18  33- 56  25
 18. Rot-Weiß Oberhausen          34  9  4 21  45- 84  22
 
-Topscorers: Gerd MÜLLER (Bayern) - 36, Josef HEYNCKES (M'gladbach) - 28,
-Günther PRÖPPER (Wuppertaler) - 22
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1972/73
 

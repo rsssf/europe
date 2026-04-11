@@ -280,26 +280,8 @@ Nürnberg   1-0 M'gladbach (Eder 42)
 _ Dec 30 _
 Darmstadt  3-1 Bochum     (Bechtold 40, Cestonaro 63, Hahn 87 - Bast 55 p)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. 1. FC Kaiserslautern         17 10  6  1  36- 20  26
- 2. Hamburger SV                 17 11  3  3  36- 13  25
- 3. VfB Stuttgart                17 10  4  3  31- 18  24
- 4. Eintracht Frankfurt          17  9  2  6  27- 24  20
- 5. Fortuna Düsseldorf           17  7  4  6  36- 27  18
- 6. Schalke 04                   17  6  6  5  34- 27  18
- 7. Bayern München               17  7  4  6  33- 25  18
- 8. Borussia Mönchengladbach     17  6  4  7  24- 19  16
- 9. Arminia Bielefeld            17  6  4  7  21- 26  16
-10. Borussia Dortmund            17  6  4  7  31- 39  16
-11. 1. FC Köln                   17  5  6  6  22- 21  16
-12. VfL Bochum                   17  4  7  6  28- 29  15
-13. Werder Bremen                17  5  5  7  24- 30  15
-14. Hertha BSC Berlin            17  4  7  6  21- 23  15
-15. Eintracht Braunschweig       17  5  5  7  24- 33  15
-16. MSV Duisburg                 17  5  3  9  22- 37  13
-17. Darmstadt 98                 17  3  5  9  23- 38  11
-18. 1. FC Nürnberg               17  4  1 12  14- 38   9
 
 ▪ Round 18 ▪  Dec 15
 Stuttgart  3-0 Darmstadt  (Volkert 40, 65, Kelsch 60)
@@ -596,8 +578,8 @@ B'schweig  2-1 Schalke    (Handschuh 38, Popivoda 55 - Fischer 82)
 17. 1. FC Nürnberg               34  8  8 18  36- 67  24
 18. Darmstadt 98                 34  7  7 20  40- 75  21
 
-Topscorers: Klaus ALLOFS (Düsseldorf) - 22, Klaus FISCHER (Schalke) - 21,
-Rüdiger ABRAMCZIK (Schalke) - 18
+<!-- $topscorers1$ -->
+
 
 Hamburger SV 1978/79
 

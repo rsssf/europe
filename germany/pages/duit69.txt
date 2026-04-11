@@ -269,26 +269,8 @@ Offenbach  4-3 Dortmund   (Weida 47, 54, Koulmann 58 p, 73 p - Lehmann 9,
 Nürnberg   0-1 1. FC Köln (Overath 77)
 Aachen     0-0 Hertha
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Bayern München               17 10  5  2  35- 13  25
- 2. Eintracht Braunschweig       17  8  5  4  26- 19  21
- 3. Hamburger SV                 17  9  3  5  30- 24  21
- 4. Borussia Mönchengladbach     17  7  7  3  31- 21  21
- 5. VfB Stuttgart                17  7  6  4  29- 21  20
- 6. TSV 1860 München             17  8  3  6  22- 26  19
- 7. MSV Duisburg                 17  5  7  5  18- 21  17
- 8. Hertha BSC Berlin            17  6  5  6  15- 20  17
- 9. 1. FC Kaiserslautern         17  7  2  8  19- 22  16
-10. Hannover 96                  17  5  6  6  25- 22  16
-11. Borussia Dortmund            17  6  4  7  30- 34  16
-12. 1. FC Köln                   17  6  4  7  18- 26  16
-13. Alemannia Aachen             17  6  4  7  30- 31  16
-14. Werder Bremen                17  6  3  8  25- 27  15
-15. Eintracht Frankfurt          17  4  6  7  21- 25  14
-16. 1. FC Nürnberg               17  4  5  8  19- 27  13
-17. Schalke 04                   17  5  2 10  21- 25  12
-18. Kickers Offenbach            17  4  3 10  19- 29  11
 
 ▪ Round 18 ▪  Jan 11
 
@@ -563,8 +545,8 @@ Hertha     0-1 Aachen     (Claessen 25)
 17. 1. FC Nürnberg               34  9 11 14  45- 55  29
 18. Kickers Offenbach            34 10  8 16  42- 59  28
 
-Topscorers: Gerd MÜLLER (Bayern) - 30, Uwe SEELER (Hamburger) - 23,
-Josip SKOBLAR (Hannover) - 17
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1968/69
 

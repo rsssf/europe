@@ -319,26 +319,8 @@ B'schweig   1-3 M'gladbach  (Danner 34 o - Kulik 12, Jensen 15,
 _ Jan 22 _
 Duisburg    1-3 1. FC Köln  (Worm 16 - Simmet 50, 55, Glowacz 59)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Borussia Mönchengladbach     17 10  3  4  41- 24  23
- 2. Hertha BSC Berlin            17  9  5  3  31- 21  23
- 3. Hamburger SV                 17  9  4  4  25- 15  22
- 4. Kickers Offenbach            17 10  2  5  39- 30  22
- 5. Eintracht Frankfurt          17  8  5  4  46- 21  21
- 6. Schalke 04                   17  9  2  6  24- 14  20
- 7. 1. FC Köln                   17  8  4  5  37- 28  20
- 8. VfL Bochum                   17  9  2  6  31- 23  20
- 9. Eintracht Braunschweig       17  8  4  5  25- 19  20
-10. MSV Duisburg                 17  8  2  7  33- 33  18
-11. Fortuna Düsseldorf           17  6  5  6  26- 30  17
-12. 1. FC Kaiserslautern         17  8  0  9  31- 28  16
-13. Rot-Weiß Essen               17  6  4  7  27- 33  16
-14. Bayern München               17  7  2  8  29- 36  16
-15. Werder Bremen                17  4  3 10  18- 37  11
-16. VfB Stuttgart                17  4  2 11  24- 42  10
-17. Wuppertaler SV               17  2  2 13  13- 42   6
-18. Tennis Borussia Berlin       17  2  1 14  21- 45   5
 
 ▪ Round 18 ▪  Jan 25
 Bayern      2-3 Offenbach   (G.Müller 16, Rummenigge 24 -
@@ -629,8 +611,8 @@ Bayern      0-1 Hamburger   (Sperlich 35)
 17. Tennis Borussia Berlin       34  5  6 23  38- 89  16
 18. Wuppertaler SV               34  2  8 24  32- 86  12
 
-Topscorers: Josef HEYNCKES (M'gladbach) - 27, Dieter MÜLLER (Köln) - 24,
-Gerhard MÜLLER (Bayern) - 23
+<!-- $topscorers1$ -->
+
 
 Borussia Mönchengladbach 1974/75
 

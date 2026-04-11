@@ -276,26 +276,8 @@ Dortmund   6-2 K'lautern  (Meyer 6, Burgsmüller 11, 88, Vöge 48, Geyer 59,
 TSV 1860   2-1 Frankfurt  (Bitz 21, 75 - Hölzenbein 81)
 Uerdingen  1-3 1. FC Köln (van de Loo 53 - D.Müller 27, 81, Okudera 65)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Bayern München               17 10  4  3  36- 17  24
- 2. Hamburger SV                 17  9  5  3  35- 16  23
- 3. Borussia Dortmund            17 10  2  5  37- 26  22
- 4. 1. FC Köln                   17  9  4  4  37- 26  22
- 5. Schalke 04                   17  7  6  4  24- 16  20
- 6. Eintracht Frankfurt          17 10  0  7  34- 21  20
- 7. VfB Stuttgart                17  8  3  6  33- 26  19
- 8. Borussia Mönchengladbach     17  6  7  4  28- 26  19
- 9. Bayer Leverkusen             17  5  6  6  21- 30  16
-10. 1. FC Kaiserslautern         17  6  3  8  29- 28  15
-11. Bayer Uerdingen              17  6  3  8  21- 29  15
-12. Werder Bremen                17  6  3  8  23- 35  15
-13. VfL Bochum                   17  5  4  8  17- 21  14
-14. Fortuna Düsseldorf           17  5  4  8  30- 37  14
-15. TSV 1860 München             17  4  5  8  17- 27  13
-16. MSV Duisburg                 17  5  3  9  19- 31  13
-17. Eintracht Braunschweig       17  3  5  9  17- 29  11
-18. Hertha BSC Berlin            17  3  5  9  16- 33  11
 
 ▪ Round 18 ▪  Jan 19
 Schalke    1-0 M'gladbach (Elgert 53)
@@ -582,9 +564,8 @@ Bochum     5-2 Werder     (Bast 26, Lameck 28, Eggert 52, Abel 70 p,
 17. Werder Bremen                34 11  3 20  52- 93  25
 18. Eintracht Braunschweig       34  6  8 20  32- 64  20
 
-Topscorers: Karl-Heinz RUMMENIGGE (Bayern) - 26, Dieter MÜLLER (Köln)
-and Horst HRUBESCH (Hamburger SV) - 21, Manfred BURGSMÜLLER (Dortmund)
-and Harald NICKEL (M'gladbach) - 20
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1979/80
 

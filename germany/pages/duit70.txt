@@ -295,26 +295,8 @@ B'schweig  1-0 Stuttgart  (Ulsaß 65 p)
 Frankfurt  2-2 Hamburger  (Grabowski 73, Heese 75 - Zaczyk 61, 69)
 RW Essen   3-0 TSV 1860   (Englert 38, 89, Fürhoff 62)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Borussia Mönchengladbach     17 12  3  2  40- 13  27
- 2. Bayern München               16 11  1  4  36- 17  23
- 3. 1. FC Köln                   17 10  2  5  41- 16  22
- 4. Hertha BSC Berlin            17  9  3  5  25- 18  21
- 5. Schalke 04                   16  8  4  4  27- 23  20
- 6. Borussia Dortmund            17  8  3  6  27- 24  19
- 7. VfB Stuttgart                17  7  3  7  33- 33  17
- 8. Hamburger SV                 17  6  5  6  30- 27  17
- 9. MSV Duisburg                 17  5  6  6  21- 27  16
-10. Rot-Weiß Essen               17  5  6  6  24- 26  16
-11. 1. FC Kaiserslautern         17  6  4  7  24- 31  16
-12. Eintracht Braunschweig       17  5  5  7  18- 25  15
-13. Eintracht Frankfurt          17  5  5  7  22- 29  15
-14. Werder Bremen                17  4  6  7  18- 24  14
-15. Hannover 1896                17  5  3  9  23- 33  13
-16. Rot-Weiß Oberhausen          17  6  1 10  25- 32  13
-17. Alemannia Aachen             17  4  3 10  18- 35  11
-18. TSV 1860 München             17  3  3 11  13- 32   9
 
 ▪ Round 19 ▪  Jan 17
 Schalke    0-0 Frankfurt
@@ -605,8 +587,8 @@ TSV 1860   0-0 RW Essen
 17. TSV 1860 München             34  9  7 18  41- 56  25
 18. Alemannia Aachen             34  5  7 22  31- 83  17
 
-Topscorers: Gerd MÜLLER (Bayern) - 38, Werner WEIST (Dortmund) - 20,
-Hannes LÖHR (Köln), Herbert Laumen (M'gladbach) and Klaus Fischer (TSV) - 19
+<!-- $topscorers1$ -->
+
 
 Nb. Müller also won the European "Golden Boot" award that season
 

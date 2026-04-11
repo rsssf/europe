@@ -287,26 +287,8 @@ M'gladbach 1-0 Bayern     (Simonsen 52)
 _ Dec 15 _
 S'brücken  1-0 Duisburg   (Ellbracht 58)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Borussia Mönchengladbach     17 12  3  2  37- 16  27
- 2. Eintracht Braunschweig       17  8  7  2  29- 20  23
- 3. Bayern München               17  9  4  4  50- 37  22
- 4. Hertha BSC Berlin            17  8  5  4  30- 19  21
- 5. 1. FC Köln                   17  9  2  6  34- 24  20
- 6. Schalke 04                   17  9  2  6  38- 31  20
- 7. MSV Duisburg                 17  6  7  4  32- 22  19
- 8. Fortuna Düsseldorf           17  7  3  7  27- 29  17
- 9. Werder Bremen                17  6  5  6  31- 29  17
-10. VfL Bochum                   17  7  3  7  28- 30  17
-11. Borussia Dortmund            17  6  5  6  33- 29  17
-12. Hamburger SV                 17  6  5  6  26- 28  17
-13. Karlsruher SC                17  4  6  7  24- 29  14
-14. Eintracht Frankfurt          17  6  2  9  36- 36  14
-15. 1. FC Kaiserslautern         17  5  2 10  20- 23  12
-16. 1. FC Saarbrücken            17  3  5  9  13- 26  11
-17. Tennis Borussia Berlin       17  3  4 10  25- 55  10
-18. Rot-Weiß Essen               17  2  4 11  23- 53   8
 
 ▪ Round 18 ▪  Jan 15
 RW Essen   1-0 TB Berlin  (Wieczorkowski 90)
@@ -603,8 +585,8 @@ Bayern     2-2 M'gladbach (G.Müller 36, Wittkamp 90 o - Heynckes 20,
 17. Tennis Borussia Berlin       34  6 10 18  47- 85  22
 18. Rot-Weiß Essen               34  7  8 19  49-103  22
 
-Topscorers: Dieter MÜLLER (Köln) - 34, Gerd MÜLLER (Bayern) - 28,
-Bernd HÖLZENBEIN (Frankfurt) - 26
+<!-- $topscorers1$ -->
+
 
 Borussia Mönchengladbach 1976/77
 

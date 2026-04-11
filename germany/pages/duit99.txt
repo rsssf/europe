@@ -346,26 +346,8 @@ _ Dec 16 _
 Duisburg   3-1 K'lautern  (Beierle 48, Töfting 64, Andersen 90 - Rösler 40)
 M'gladbach 0-2 Bayern     (Effenberg 8, 27 p)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Bayern München               17 13  2  2  40- 13  41
- 2. Bayer Leverkusen             17 10  5  2  39- 17  35
- 3. 1. FC Kaiserslautern         17 10  3  4  28- 27  33
- 4. TSV 1860 München             17  9  4  4  31- 23  31
- 5. Hertha BSC Berlin            17  9  2  6  25- 17  29
- 6. VfL Wolfsburg                17  7  6  4  34- 25  27
- 7. Borussia Dortmund            17  7  5  5  25- 18  26
- 8. SC Freiburg                  17  5  6  6  20- 22  21
- 9. VfB Stuttgart                17  5  6  6  23- 22  21
-10. Hamburger SV                 17  5  6  6  21- 23  21
-11. Werder Bremen                17  5  5  7  25- 24  20
-12. Schalke 04                   17  4  6  7  19- 29  18
-13. MSV Duisburg                 17  4  6  7  20- 29  18
-14. VfL Bochum                   17  5  3  9  21- 32  18
-15. Eintracht Frankfurt          17  4  4  9  21- 29  16
-16. Hansa Rostock                17  3  6  8  25- 33  15
-17. 1. FC Nürnberg               17  2  9  6  20- 31  15
-18. Borussia Mönchengladbach     17  2  4 11  20- 43  10
 
 ▪ Round 18 ▪  Dec 18
 Dortmund   3-0 Stuttgart  (Herrlich 38, But 48, Salou 69)
@@ -687,8 +669,8 @@ TSV 1860   4-5 Schalke    (Cerny 6, Kurz 44, Hobsch 18, 42 - Hami 9, 90 p,
 17. VfL Bochum                   34  7  8 19  40- 65  29
 18. Borussia Mönchengladbach     34  4  9 21  41- 79  21
 
-Topscorers: Michael PREETZ (Hertha) - 23, Ulf KIRSTEN (Leverkusen) - 19,
-Oliver NEUVILLE (Hansa) and Anthony YEBOAH (Frankfurt) - 14
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1998/99
 
@@ -722,7 +704,7 @@ FC Bayern München 1998/99
 
 
 
-<!-- $topscorers1$ -->
+<!-- $topscorers2$ -->
 
 
 
@@ -894,7 +876,7 @@ Germany 1998/99 Third Level (Regionalliga)
 
 Regionalliga Nord
 
-<!-- $table2$ -->
+<!-- $table3$ -->
 
 
 Promoted:
@@ -908,7 +890,7 @@ Playoffs: FC Bremerhaven - TSV Pansdorf 4-0
 
 Regionalliga Nordost
 
-<!-- $table3$ -->
+<!-- $table4$ -->
 
 
 Promoted:
@@ -925,7 +907,7 @@ Playoffs: TeBe Amateure - FSV Hoyerswerda* 2-0
 
 Regionalliga Süd
 
-<!-- $table4$ -->
+<!-- $table5$ -->
 
 
 Promoted:
@@ -942,7 +924,7 @@ were relegated to Regionalliga West/South-West.
 
 Regionalliga West/Südwest
 
-<!-- $table5$ -->
+<!-- $table6$ -->
 
 
 Promoted:

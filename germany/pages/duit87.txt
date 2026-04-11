@@ -283,26 +283,8 @@ Uerdingen  3-2 Mannheim   (Borchers 17 o, Funkel 37, Witeczek 62 - Bührer 86,
 Homburg    2-1 BW Berlin  (Buncol 49, Wojcicki 77 p - Dinauer 71) [84
                           Wojcicki (Homburg) m/pen]
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Hamburger SV                 17 10  4  3  33- 17  24
- 2. Bayern München               17  8  8  1  31- 18  24
- 3. Bayer Leverkusen             17 10  2  5  32- 16  22
- 4. VfB Stuttgart                17  8  5  4  30- 17  21
- 5. 1. FC Kaiserslautern         17  7  6  4  30- 21  20
- 6. Werder Bremen                17  8  4  5  32- 29  20
- 7. Borussia Dortmund            17  7  5  5  34- 22  19
- 8. Bayer Uerdingen              17  7  5  5  27- 24  19
- 9. Borussia Mönchengladbach     17  5  7  5  28- 24  17
-10. VfL Bochum                   17  4  9  4  20- 18  17
-11. Schalke 04                   17  6  5  6  26- 31  17
-12. 1. FC Köln                   17  6  4  7  26- 25  16
-13. Waldhof Mannheim             17  4  7  6  28- 29  15
-14. Eintracht Frankfurt          17  4  7  6  18- 21  15
-15. 1. FC Nürnberg               17  4  6  7  30- 32  14
-16. FC Homburg                   17  3  4 10  13- 36  10
-17. Fortuna Düsseldorf           17  3  2 12  21- 52   8
-18. Blau-Weiß 90 Berlin          17  1  6 10  17- 44   8
 
 ▪ Round 18 ▪  Feb 21
 Hamburger  3-1 M'gladbach (Jusufi 44, Schmöller 53, 57 - Frontzeck 20)
@@ -603,8 +585,8 @@ Playout:
 FC Homburg - FC St. Pauli 3:1
 FC St. Pauli - FC HOMBURG 2:1
 
-Topscorers: Uwe RAHN (M'gladbach) - 24, Fritz WALTER (Mannheim) - 23,
-Rudi VÖLLER (Werder) - 22
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1986/87
 

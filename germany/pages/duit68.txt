@@ -273,26 +273,8 @@ _ Dec 16 _
 Stuttgart   2-1 Neunkirchen (Weidmann 38, Ertz 54 o - Seebauer 43)
                             (sent off: Seebauer (Neunkirchen, 60))
 
-Fall Table
+<!-- $table2$ -->
 
- 1. 1. FC Nürnberg               17 11  5  1  45- 17  27
- 2. Borussia Mönchengladbach     17  7  6  4  49- 25  20
- 3. TSV 1860 München             17  6  8  3  34- 20  20
- 4. MSV Duisburg                 17  8  4  5  27- 19  20
- 5. Bayern München               17  9  2  6  33- 33  20
- 6. Hannover 96                  17  7  5  5  26- 26  19
- 7. Eintracht Braunschweig       17  8  3  6  16- 18  19
- 8. VfB Stuttgart                17  7  5  5  33- 25  19
- 9. 1. FC Köln                   17  8  2  7  35- 29  18
-10. Borussia Dortmund            17  6  5  6  32- 29  17
-11. Werder Bremen                17  6  5  6  34- 32  17
-12. Alemannia Aachen             17  6  5  6  21- 27  17
-13. 1. FC Kaiserslautern         17  4  8  5  22- 34  16
-14. Eintracht Frankfurt          17  4  6  7  24- 31  14
-15. Hamburger SV                 17  4  5  8  22- 30  13
-16. Schalke 04                   17  4  4  9  20- 27  12
-17. Karlsruher SC                17  4  1 12  17- 37   9
-18. Borussia Neunkirchen         17  2  5 10  15- 46   9
 
 ▪ Round 18 ▪  Jan 16
 
@@ -559,8 +541,8 @@ Stuttgart   4-1 Hamburger   (Gress 8, Larsson 17, Sieloff 30 p, Handschuh 52 -
 17. Borussia Neunkirchen         34  7  5 22  33- 93  19
 18. Karlsruher SC                34  6  5 23  32- 70  17
 
-Topscorers: Hannes LÖHR (Köln) - 27, Franz BRUNGS (Nürnberg) -
-25, Gerd MÜLLER (Bayern) - 20
+<!-- $topscorers1$ -->
+
 
 1. FC Nürnberg 1967/68
 

@@ -295,26 +295,8 @@ Dortmund   2-3 Hamburger  (Dickel 11, Pagelsdorf 41 p - Beiersdorfer 6, Kaltz
                           34 p, Labbadia 43)
 Werder     5-0 Schalke    (Riedle 18, 69, Ordenewitz 52 p, 89 p, Meier 55)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Werder Bremen                17 12  4  1  34-  9  28
- 2. 1. FC Köln                   17 10  6  1  28- 11  26
- 3. Bayern München               17 13  0  4  41- 22  26
- 4. Borussia Mönchengladbach     17 10  2  5  34- 26  22
- 5. VfB Stuttgart                17  8  4  5  39- 25  20
- 6. 1. FC Nürnberg               17  7  6  4  26- 15  20
- 7. Eintracht Frankfurt          17  7  3  7  30- 26  17
- 8. Hamburger SV                 17  6  5  6  32- 39  17
- 9. Karlsruher SC                17  6  4  7  23- 31  16
-10. Bayer Leverkusen             17  4  7  6  21- 25  15
-11. Waldhof Mannheim             17  4  7  6  20- 26  15
-12. Bayer Uerdingen              17  5  3  9  22- 28  13
-13. Hannover 96                  17  5  3  9  24- 32  13
-14. FC Homburg                   17  3  6  8  22- 35  12
-15. Schalke 04                   17  4  3 10  23- 42  11
-16. 1. FC Kaiserslautern         17  4  3 10  25- 37  11
-17. Borussia Dortmund            16  3  5  8  20- 28  11
-18. VfL Bochum                   16  3  5  8  22- 29  11
 
 ▪ Round 18 ▪  Nov 27
 1. FC Köln 4-0 Karlsruher (Olsen 28, Görtz 68, Baranowski 78, Littbarski 89 p)
@@ -604,8 +586,8 @@ Playout:
 Darmstadt 98 - Waldhof Mannheim 3:2
 WALDHOF MANNHEIM - Darmstadt 98 2:1 [pen 5:4]
 
-Topscorers: Jürgen KLINSMANN (Stuttgart) - 19, Karl-Heinz RIEDLE
-(Werder) - 18, Lothar MATTHÄUS (Bayern) and Siegfried REICH (Hannover) - 17
+<!-- $topscorers1$ -->
+
 
 Werder Bremen 1987/88
 

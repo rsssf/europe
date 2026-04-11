@@ -913,7 +913,7 @@ Referee: Alfons Berg (Germany)
 [*] Tennis Borussia were denied a license for 2000/01; thereby originally
     relegated Stuttgarter Kickers remain in 2. Bundesliga
 
-Round 1 [Aug 13-16]
+▪ Round 1 ▪  Aug 13-16
 St Pauli                    0-0   Greuther Fuerth
 Chemnitz                    2-0   Borussia Moenchengladbach
 Mainz                       1-1   Offenbacher Kickers
@@ -924,7 +924,7 @@ Hannover                    2-3   Tennis Borussia
 Nuernberg                   3-0   Waldhof Mannheim
 Karlsruhe                   1-3   VfL Bochum
 
-Round 2 [Aug 20-23]
+▪ Round 2 ▪  Aug 20-23
 Waldhof Mannheim            4-0   Chemnitz
 VfL Bochum                  5-0   Alemannia Aachen
 Greuther Fuerth             0-0   Koeln
@@ -935,7 +935,7 @@ Stuttgarter Kickers         2-1   St Pauli
 Rot-Weiss Oberhausen        0-4   Energie Cottbus
 Offenbacher Kickers         1-3   Nuernberg
 
-Round 3 [Aug 27-30]
+▪ Round 3 ▪  Aug 27-30
 Koeln                       4-1   Stuttgarter Kickers
 Hannover                    2-2   Waldhof Mannheim
 Chemnitz                    3-0   Offenbacher Kickers

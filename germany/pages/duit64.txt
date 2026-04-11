@@ -220,24 +220,8 @@ _ Dec 21 _
 Hamburger   2-1 Dortmund    (U.Seeler 51, 85 - Wosab 7) [56 Rylewicz (Dortmund)
                             m/pen]
 
-Fall Table
+<!-- $table2$ -->
 
- 1. 1. FC Köln                   15 10  4  1  41- 18  24
- 2. Schalke 04                   15  8  4  3  32- 23  20
- 3. Meidericher SV               15  6  6  3  33- 22  18
- 4. VfB Stuttgart                15  7  4  4  25- 17  18
- 5. Borussia Dortmund            15  8  2  5  45- 28  18
- 6. Werder Bremen                15  6  5  4  31- 29  17
- 7. 1. FC Kaiserslautern         15  6  4  5  29- 32  16
- 8. Hamburger SV                 15  7  2  6  34- 26  16
- 9. Eintracht Frankfurt          15  7  2  6  29- 26  16
-10. Eintracht Braunschweig       15  5  5  5  18- 24  15
-11. 1. FC Nürnberg               15  5  3  7  24- 34  13
-12. TSV 1860 München             15  4  4  7  27- 30  12
-13. Karlsruher SC                15  5  2  8  21- 31  12
-14. Hertha BSC Berlin            15  4  3  8  22- 35  11
-15. Preußen Münster              15  2  6  7  18- 28  10
-16. 1. FC Saarbrücken            15  1  2 12  21- 47   4
 
 ▪ Round 16 ▪  Jun 11
 Dortmund    4-3 Werder      (Brungs 14, 19, Konietzka 16, 35 - Hänel 63,
@@ -457,8 +441,8 @@ TSV 1860    3-2 Werder      (Thun 45, 77, Luttrop 4 - Brunnenmeier 56, 79 p)
 15. Preußen Münster              30  7  9 14  34- 52  23
 16. 1. FC Saarbrücken            30  6  5 19  44- 72  17
 
-Topscorers: Uwe SEELER (Hamburger SV) - 30, Timo KONIETZKA
-(Borussia Dortmund) - 22, Rudi BRUNNENMEIER (TSV 1860) - 19
+<!-- $topscorers1$ -->
+
 
 1. FC Köln 1963/64
 

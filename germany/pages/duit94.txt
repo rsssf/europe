@@ -332,26 +332,8 @@ K'lautern  3-0 Hamburger  (Sforza 33, Kadlec 35, Kuntz 39)
 _ Nov 21 _
 Dynamo     1-0 Stuttgart  (Marschall 90)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Eintracht Frankfurt          17 10  4  3  34- 19  24
- 2. Bayern München               17  8  6  3  39- 18  22
- 3. MSV Duisburg                 17  8  6  3  24- 22  22
- 4. 1. FC Kaiserslautern         17  9  3  5  34- 22  21
- 5. Bayer Leverkusen             17  8  5  4  36- 24  21
- 6. Hamburger SV                 17  9  2  6  32- 27  20
- 7. 1. FC Köln                   17  8  3  6  24- 22  19
- 8. Werder Bremen                17  7  5  5  28- 22  19
- 9. Borussia Dortmund            17  7  4  6  24- 23  18
-10. Karlsruher SC                17  5  6  6  21- 18  16
-11. Dynamo Dresden               17  5  6  6  18- 27  16
-12. Borussia Mönchengladbach     17  5  5  7  31- 35  15
-13. SC Freiburg                  17  5  5  7  28- 31  15
-14. VfB Stuttgart                17  4  6  7  22- 31  14
-15. 1. FC Nürnberg               17  5  3  9  21- 28  13
-16. Wattenscheid 09              17  2  7  8  21- 32  11
-17. VfB Leipzig                  17  2  7  8  15- 33  11
-18. Schalke 04                   17  2  5 10  14- 32   9
 
 ▪ Round 18 ▪  Nov 26
 Dynamo     1-0 Leipzig    (Penksa 16)
@@ -668,9 +650,8 @@ Werder     4-2 M'gladbach (Rufer 40 p, Hobsch 56, Legat 66, M.Bode 78 -
 17. Wattenscheid 09              34  6 11 17  48- 70  23
 18. VfB Leipzig                  34  3 11 20  32- 69  17
 
-Topscorers: Stefan KUNTZ (K'lautern) and Anthony YEBOAH (Frankfurt) -
-18, Stephane CHAPUISAT (Dortmund), Toni POLSTER (Köln) and Paulo SERGIO
-(Leverkusen) - 17, Thomas VON HEESEN (Hamburger) - 14
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1993/94
 

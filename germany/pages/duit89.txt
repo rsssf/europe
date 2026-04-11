@@ -299,26 +299,8 @@ Nürnberg    3-3 St. Kickers (Schwabl 10, Wagner 12, Stenzel 82 - Schüler 32,
                             Wolf 49, Hotic 83)
 Uerdingen   0-0 St. Pauli
 
-Fall Table
+<!-- $table2$ -->
 
- 1. Bayern München               17  9  8  0  33- 11  26
- 2. Werder Bremen                17  8  7  2  31- 18  23
- 3. 1. FC Köln                   17 10  2  5  29- 12  22
- 4. VfB Stuttgart                17  8  5  4  32- 23  21
- 5. Hamburger SV                 16  8  4  4  28- 18  20
- 6. Bayer Leverkusen             17  4 10  3  22- 21  18
- 7. Bayer Uerdingen              17  5  8  4  23- 20  18
- 8. FC St. Pauli                 17  4 10  3  17- 16  18
- 9. Borussia Mönchengladbach     15  6  6  3  22- 19  18
-10. Karlsruher SC                16  7  3  6  26- 25  17
-11. 1. FC Kaiserslautern         17  5  7  5  28- 23  17
-12. Borussia Dortmund            17  4  8  5  23- 16  16
-13. VfL Bochum                   17  5  6  6  20- 22  16
-14. Stuttgarter Kickers          17  3  5  9  20- 44  11
-15. Eintracht Frankfurt          17  4  3 10   8- 27  11
-16. 1. FC Nürnberg               17  4  3 10  16- 31  11
-17. Hannover 96                  17  2  6  9  16- 31  10
-18. Waldhof Mannheim             17  1  7  9  14- 31   9
 
 ▪ Round 18 ▪  Feb 18
 K'lautern   0-0 M'gladbach  (sent off: Krauss (K'lautern, 82))
@@ -603,10 +585,8 @@ Playout:
 Eintracht Frankfurt - 1. FC Saarbrücken 2:0
 1. FC Saarbrücken - EINTRACHT FRANKFURT 2:1
 
-Topscorers: Roland WOHLFAHRT (Bayern) - 17, Uwe BEIN (Hamburger) - 15,
-Hans-Jörg CRIENS (M'gladbach), Jürgen KLINSMANN (Stuttgart), Harald KOHR
-(K'lautern), Stefan KUNTZ (Uerdingen), Uwe LEIFELD (Bochum), Karl-Heinz
-RIEDLE (Werder), Fritz WALTER (Stuttgart) and Jürgen WEGMANN (Bayern) - 13
+<!-- $topscorers1$ -->
+
 
 FC Bayern München 1988/89
 

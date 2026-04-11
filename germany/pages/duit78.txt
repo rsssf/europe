@@ -288,26 +288,8 @@ Werder     0-1 Stuttgart  (Hadewicz 12) [68 Höttges (Werder) m/pen]
 Düsseldorf 1-1 Bochum     (G.Zimmermann 24 - Holz 60)
 M'gladbach 2-2 Bochum     (Simonsen 11, 88 - Abel 32, Bast 48)
 
-Fall Table
+<!-- $table2$ -->
 
- 1. 1. FC Köln                   17 11  1  5  51- 28  23
- 2. Borussia Mönchengladbach     17  9  4  4  39- 27  22
- 3. 1. FC Kaiserslautern         17  9  3  5  32- 28  21
- 4. VfB Stuttgart                17  9  2  6  25- 20  20
- 5. Fortuna Düsseldorf           17  8  3  6  26- 21  19
- 6. Hertha BSC Berlin            17  7  5  5  24- 26  19
- 7. Eintracht Frankfurt          17  8  2  7  35- 27  18
- 8. Borussia Dortmund            17  8  2  7  32- 32  18
- 9. Schalke 04                   17  7  4  6  24- 25  18
-10. MSV Duisburg                 17  7  4  6  35- 28  18
-11. Eintracht Braunschweig       17  8  1  8  23- 25  17
-12. Hamburger SV                 17  7  3  7  28- 30  17
-13. 1. FC Saarbrücken            17  5  5  7  22- 34  15
-14. VfL Bochum                   17  5  4  8  18- 19  14
-15. Bayern München               17  5  4  8  35- 40  14
-16. Werder Bremen                17  5  3  9  21- 31  13
-17. FC St. Pauli                 17  5  2 10  28- 39  12
-18. TSV 1860 München             17  2  4 11  15- 33   8
 
 ▪ Round 18 ▪  Dec 10
 Dortmund   1-1 Hertha     (Geyer 36 - Nüssing 25)
@@ -568,9 +550,8 @@ Bochum     2-1 Düsseldorf (Trimhold 46, Abel 50 p - K.Allofs 32)
 17. 1. FC Saarbrücken            34  6 10 18  39- 70  22
 18. FC St. Pauli                 34  6  6 22  44- 86  18
 
-Topscorers: Dieter MÜLLER (Köln) and Gerd MÜLLER (Bayern) - 24, Klaus
-TOPPMÖLLER (K'lautern) - 21, Manfred BURGSMÜLLER (Dortmund) and Klaus
-FISCHER (Schalke) - 20
+<!-- $topscorers1$ -->
+
 
 1. FC Köln 1977/78
 
