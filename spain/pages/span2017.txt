@@ -6,610 +6,584 @@
 
 == Spain 2016/17
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Primera División, see §laliga›
-‹Copa del Rey, see §coparey›
-‹Segunda División, see §segunda›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Primera División  ‹§laliga›
 
-<!-- start pre -->
-Final Table:
+<!-- $table1$ -->
 
- 1.Real Madrid CF                38  29  6  3 106-41  93                   Champions
- 2.FC Barcelona                  38  28  6  4 116-37  90  [C]
- 3.Atlético de Madrid            38  23  9  6  70-27  78
- 4.Sevilla FC                    38  21  9  8  69-49  72
- 5.Villarreal CF                 38  19 10  9  56-33  67
- 6.Real Sociedad (San Sebastián) 38  19  7 12  59-53  64
- 7.Athletic de Bilbao            38  19  6 13  53-43  63
- 8.RCD Espanyol (Barcelona)      38  15 11 12  49-50  56
- 9.Deportivo Alavés (Vitoria)    38  14 13 11  41-43  55  [P]
-10.SD Eibar                      38  15  9 14  56-51  54
-11.Málaga CF                     38  12 10 16  49-55  46  [2 1 1 0 4-2 4]
-12.Valencia CF                   38  13  7 18  56-65  46  [2 0 1 1 2-4 1]
-13.RC Celta (Vigo)               38  13  6 19  53-69  45
-14.UD Las Palmas                 38  10  9 19  53-74  39  [2 1 0 1 4-3 3]
-15.Real Betis Balompié (Sevilla) 38  10  9 19  41-64  39  [2 1 0 1 3-4 3]
-16.RC Deportivo (La Coruña)      38   8 12 18  43-61  36
-17.CD Leganés                    38   8 11 19  36-55  35  [P]
---------------------------------------------------------
-18.Sporting de Gijón             38   7 10 21  42-72  31                   Relegated
-19.CA Osasuna (Pamplona)         38   4 10 24  40-94  22  [P]              Relegated
-20.Granada CF                    38   4  8 26  30-82  20                   Relegated
 
-Round 1
-[Aug 19]
+▪ Round 1 ▪
+_ Aug 19 _
 Málaga                    1-1 Osasuna
 Deportivo                 2-1 Eibar
-[Aug 20]
+_ Aug 20 _
 Barcelona                 6-2 Betis
 Granada                   1-1 Villarreal
 Sevilla                   6-4 Espanyol
-[Aug 21]
+_ Aug 21 _
 Sporting                  2-1 Athletic
 Sociedad                  0-3 Madrid
 Atlético                  1-1 Alavés
-[Aug 22]
+_ Aug 22 _
 Celta                     0-1 Leganés
 Valencia                  2-4 Las Palmas
 
-Round 2
-[Aug 26]
+▪ Round 2 ▪
+_ Aug 26 _
 Betis                     0-0 Deportivo
 Espanyol                  2-2 Málaga
-[Aug 27]
+_ Aug 27 _
 Eibar                     1-0 Valencia
 Osasuna                   0-2 Sociedad
 Madrid                    2-1 Celta
 Leganés                   0-0 Atlético
-[Aug 28]
+_ Aug 28 _
 Alavés                    0-0 Sporting
 Las Palmas                5-1 Granada
 Athletic                  0-1 Barcelona
 Villarreal                0-0 Sevilla
 
-Round 3
-[Sep 9]
+▪ Round 3 ▪
+_ Sep 9 _
 Sociedad                  1-1 Espanyol
-[Sep 10]
+_ Sep 10 _
 Celta                     0-4 Atlético
 Madrid                    5-2 Osasuna
 Málaga                    0-2 Villarreal
 Sevilla                   2-1 Las Palmas
 Barcelona                 1-2 Alavés
-[Sep 11]
+_ Sep 11 _
 Sporting                  2-1 Leganés
 Valencia                  2-3 Betis
 Granada                   1-2 Eibar
 Deportivo                 0-1 Athletic
 
-Round 4
-[Sep 16]
+▪ Round 4 ▪
+_ Sep 16 _
 Betis                     2-2 Granada
-[Sep 17]
+_ Sep 17 _
 Leganés                   1-5 Barcelona
 Atlético                  5-0 Sporting
 Eibar                     1-1 Sevilla
 Las Palmas                1-0 Málaga
-[Sep 18]
+_ Sep 18 _
 Osasuna                   0-0 Celta
 Athletic                  2-1 Valencia
 Villarreal                2-1 Sociedad
 Espanyol                  0-2 Madrid
-[Sep 19]
+_ Sep 19 _
 Alavés                    0-0 Deportivo
 
-Round 5
-[Sep 20]
+▪ Round 5 ▪
+_ Sep 20 _
 Málaga                    2-1 Eibar
 Sevilla                   1-0 Betis
-[Sep 21]
+_ Sep 21 _
 Celta                     2-1 Sporting
 Madrid                    1-1 Villarreal
 Barcelona                 1-1 Atlético
 Granada                   1-2 Athletic
 Sociedad                  4-1 Las Palmas
-[Sep 22]
+_ Sep 22 _
 Deportivo                 1-2 Leganés
 Osasuna                   1-2 Espanyol
 Valencia                  2-1 Alavés
 
-Round 6
-[Sep 23]
+▪ Round 6 ▪
+_ Sep 23 _
 Betis                     1-0 Málaga
-[Sep 24]
+_ Sep 24 _
 Eibar                     2-0 Sociedad
 Sporting                  0-5 Barcelona
 Athletic                  3-1 Sevilla
 Las Palmas                2-2 Madrid
-[Sep 25]
+_ Sep 25 _
 Leganés                   1-2 Valencia
 Atlético                  1-0 Deportivo
 Villarreal                3-1 Osasuna
 Espanyol                  0-2 Celta
-[Sep 26]
+_ Sep 26 _
 Alavés                    3-1 Granada
 
-Round 7
-[Sep 30]
+▪ Round 7 ▪
+_ Sep 30 _
 Sociedad                  1-0 Betis
-[Oct 1]
+_ Oct 1 _
 Granada                   0-1 Leganés
 Sevilla                   2-1 Alavés
 Osasuna                   2-2 Las Palmas
 Deportivo                 2-1 Sporting
-[Oct 2]
+_ Oct 2 _
 Valencia                  0-2 Atlético
 Madrid                    1-1 Eibar
 Málaga                    2-1 Athletic
 Espanyol                  0-0 Villarreal
 Celta                     4-3 Barcelona
 
-Round 8
-[Oct 14]
+▪ Round 8 ▪
+_ Oct 14 _
 Las Palmas                0-0 Espanyol
-[Oct 15]
+_ Oct 15 _
 Leganés                   2-3 Sevilla
 Barcelona                 4-0 Deportivo
 Atlético                  7-1 Granada
 Betis                     1-6 Madrid
-[Oct 16]
+_ Oct 16 _
 Alavés                    1-1 Málaga
 Athletic                  3-2 Sociedad
 Sporting                  1-2 Valencia
 Villarreal                5-0 Celta
-[Oct 17]
+_ Oct 17 _
 Eibar                     2-3 Osasuna
 
-Round 9
-[Oct 21]
+▪ Round 9 ▪
+_ Oct 21 _
 Osasuna                   1-2 Betis
-[Oct 22]
+_ Oct 22 _
 Espanyol                  3-3 Eibar
 Valencia                  2-3 Barcelona
 Sociedad                  3-0 Alavés
 Granada                   0-0 Sporting
-[Oct 23]
+_ Oct 23 _
 Celta                     4-1 Deportivo
 Sevilla                   1-0 Atlético
 Málaga                    4-0 Leganés
 Villarreal                2-1 Las Palmas
 Madrid                    2-1 Athletic
 
-Round 10
-[Oct 28]
+▪ Round 10 ▪
+_ Oct 28 _
 Leganés                   0-2 Sociedad
-[Oct 29]
+_ Oct 29 _
 Sporting                  1-1 Sevilla
 Alavés                    1-4 Madrid
 Atlético                  4-2 Málaga
 Barcelona                 1-0 Granada
-[Oct 30]
+_ Oct 30 _
 Eibar                     2-1 Villarreal
 Athletic                  1-1 Osasuna
 Betis                     0-1 Espanyol
 Las Palmas                3-3 Celta
-[Oct 31]
+_ Oct 31 _
 Deportivo                 1-1 Valencia
 
-Round 11
-[Nov 4]
+▪ Round 11 ▪
+_ Nov 4 _
 Málaga                    3-2 Sporting
-[Nov 5]
+_ Nov 5 _
 Granada                   1-1 Deportivo
 Sociedad                  2-0 Atlético
 Osasuna                   0-1 Alavés
 Las Palmas                1-0 Eibar
-[Nov 6]
+_ Nov 6 _
 Madrid                    3-0 Leganés
 Celta                     2-1 Valencia
 Espanyol                  0-0 Athletic
 Villarreal                2-0 Betis
 Sevilla                   1-2 Barcelona
 
-Round 12
-[Nov 18]
+▪ Round 12 ▪
+_ Nov 18 _
 Betis                     2-0 Las Palmas
-[Nov 19]
+_ Nov 19 _
 Deportivo                 2-3 Sevilla
 Barcelona                 0-0 Málaga
 Eibar                     1-0 Celta
 Atlético                  0-3 Madrid
-[Nov 20]
+_ Nov 20 _
 Alavés                    0-1 Espanyol
 Valencia                  1-1 Granada
 Sporting                  1-3 Sociedad
 Athletic                  1-0 Villarreal
-[Nov 21]
+_ Nov 21 _
 Leganés                   2-0 Osasuna
 
-Round 13
-[Nov 25]
+▪ Round 13 ▪
+_ Nov 25 _
 Eibar                     3-1 Betis
-[Nov 26]
+_ Nov 26 _
 Málaga                    4-3 Deportivo
 Madrid                    2-1 Sporting
 Espanyol                  3-0 Leganés
 Sevilla                   2-1 Valencia
-[Nov 27]
+_ Nov 27 _
 Villarreal                0-2 Alavés
 Osasuna                   0-3 Atlético
 Celta                     3-1 Granada
 Sociedad                  1-1 Barcelona
-[Nov 28]
+_ Nov 28 _
 Las Palmas                3-1 Athletic
 
-Round 14
-[Dec 3]
+▪ Round 14 ▪
+_ Dec 3 _
 Granada                   2-1 Sevilla
 Barcelona                 1-1 Madrid
 Leganés                   0-0 Villarreal
 Atlético                  0-0 Espanyol
-[Dec 4]
+_ Dec 4 _
 Betis                     3-3 Celta
 Athletic                  3-1 Eibar
 Alavés                    1-1 Las Palmas
 Sporting                  3-1 Osasuna
 Valencia                  2-2 Málaga
-[Dec 5]
+_ Dec 5 _
 Deportivo                 5-1 Sociedad
 
-Round 15
-[Dec 9]
+▪ Round 15 ▪
+_ Dec 9 _
 Málaga                    1-1 Granada
-[Dec 10]
+_ Dec 10 _
 Osasuna                   0-3 Barcelona
 Sociedad                  3-2 Valencia
 Las Palmas                1-1 Leganés
 Madrid                    3-2 Deportivo
-[Dec 11]
+_ Dec 11 _
 Eibar                     0-0 Alavés
 Celta                     0-3 Sevilla
 Espanyol                  2-1 Sporting
 Betis                     1-0 Athletic
-[Dec 12]
+_ Dec 12 _
 Villarreal                3-0 Atlético
 
-Round 16
-[Dec 16]
+▪ Round 16 ▪
+_ Dec 16 _
 Alavés                    1-0 Betis
-[Dec 17]
+_ Dec 17 _
 Sporting                  1-3 Villarreal
 Atlético                  1-0 Las Palmas
 Granada                   0-2 Sociedad
 Sevilla                   4-1 Málaga
-[Dec 18]
+_ Dec 18 _
 Leganés                   1-1 Eibar
 Deportivo                 2-0 Osasuna
 Barcelona                 4-1 Espanyol
-[Dec 19]
+_ Dec 19 _
 Athletic                  2-1 Celta
-[Feb 22]
+_ Feb 22 _
 Valencia                  2-1 Madrid
 
-Round 17
-[Jan 6]
+▪ Round 17 ▪
+_ Jan 6 _
 Espanyol                  1-1 Deportivo
-[Jan 7]
+_ Jan 7 _
 Madrid                    5-0 Granada
 Eibar                     0-2 Atlético
 Las Palmas                1-0 Sporting
 Sociedad                  0-4 Sevilla
-[Jan 8]
+_ Jan 8 _
 Athletic                  0-0 Alavés
 Betis                     2-0 Leganés
 Celta                     3-1 Málaga
 Villarreal                1-1 Barcelona
-[Jan 9]
+_ Jan 9 _
 Osasuna                   3-3 Valencia
 
-Round 18
-[Jan 14]
+▪ Round 18 ▪
+_ Jan 14 _
 Leganés                   0-0 Athletic
 Barcelona                 5-0 Las Palmas
 Atlético                  1-0 Betis
 Deportivo                 0-0 Villarreal
-[Jan 15]
+_ Jan 15 _
 Valencia                  2-1 Espanyol
 Celta                     1-0 Alavés
 Granada                   1-1 Osasuna
 Sporting                  2-3 Eibar
 Sevilla                   2-1 Madrid
-[Jan 16]
+_ Jan 16 _
 Málaga                    0-2 Sociedad
 
-Round 19
-[Jan 20]
+▪ Round 19 ▪
+_ Jan 20 _
 Las Palmas                1-1 Deportivo
-[Jan 21]
+_ Jan 21 _
 Espanyol                  3-1 Granada
 Madrid                    2-1 Málaga
 Alavés                    2-2 Leganés
 Villarreal                0-2 Valencia
-[Jan 22]
+_ Jan 22 _
 Osasuna                   3-4 Sevilla
 Athletic                  2-2 Atlético
 Betis                     0-0 Sporting
 Sociedad                  1-0 Celta
 Eibar                     0-4 Barcelona
 
-Round 20
-[Jan 27]
+▪ Round 20 ▪
+_ Jan 27 _
 Osasuna                   1-1 Málaga
-[Jan 28]
+_ Jan 28 _
 Villarreal                2-0 Granada
 Alavés                    0-0 Atlético
 Eibar                     3-1 Deportivo
 Leganés                   0-2 Celta
-[Jan 29]
+_ Jan 29 _
 Betis                     1-1 Barcelona
 Espanyol                  3-1 Sevilla
 Athletic                  2-1 Sporting
 Madrid                    3-0 Sociedad
-[Jan 30]
+_ Jan 30 _
 Las Palmas                3-1 Valencia
 
-Round 21
-[Feb 4]
+▪ Round 21 ▪
+_ Feb 4 _
 Málaga                    0-1 Espanyol
 Barcelona                 3-0 Athletic
 Atlético                  2-0 Leganés
 Valencia                  0-4 Eibar
-[Feb 5]
+_ Feb 5 _
 Sevilla                   0-0 Villarreal
 Sporting                  2-4 Alavés
 Sociedad                  3-2 Osasuna
-[Feb 6]
+_ Feb 6 _
 Granada                   1-0 Las Palmas
-[Mar 8]
+_ Mar 8 _
 Deportivo                 1-1 Betis
-[May 17]
+_ May 17 _
 Celta                     1-4 Madrid
 
-Round 22
-[Feb 10]
+▪ Round 22 ▪
+_ Feb 10 _
 Espanyol                  1-2 Sociedad
-[Feb 11]
+_ Feb 11 _
 Betis                     0-0 Valencia
 Alavés                    0-6 Barcelona
 Athletic                  2-1 Deportivo
 Osasuna                   1-3 Madrid
-[Feb 12]
+_ Feb 12 _
 Villarreal                1-1 Málaga
 Leganés                   0-2 Sporting
 Las Palmas                0-1 Sevilla
 Atlético                  3-2 Celta
-[Feb 13]
+_ Feb 13 _
 Eibar                     4-0 Granada
 
-Round 23
-[Feb 17]
+▪ Round 23 ▪
+_ Feb 17 _
 Granada                   4-1 Betis
-[Feb 18]
+_ Feb 18 _
 Sporting                  1-4 Atlético
 Madrid                    2-0 Espanyol
 Deportivo                 0-1 Alavés
 Sevilla                   2-0 Eibar
-[Feb 19]
+_ Feb 19 _
 Sociedad                  0-1 Villarreal
 Valencia                  2-0 Athletic
 Celta                     3-0 Osasuna
 Barcelona                 2-1 Leganés
-[Feb 20]
+_ Feb 20 _
 Málaga                    2-1 Las Palmas
 
-Round 24
-[Feb 24]
+▪ Round 24 ▪
+_ Feb 24 _
 Las Palmas                0-1 Sociedad
-[Feb 25]
+_ Feb 25 _
 Alavés                    2-1 Valencia
 Betis                     1-2 Sevilla
 Leganés                   4-0 Deportivo
 Eibar                     3-0 Málaga
-[Feb 26]
+_ Feb 26 _
 Espanyol                  3-0 Osasuna
 Atlético                  1-2 Barcelona
 Sporting                  1-1 Celta
 Athletic                  3-1 Granada
 Villarreal                2-3 Madrid
 
-Round 25
-[Feb 28]
+▪ Round 25 ▪
+_ Feb 28 _
 Sociedad                  2-2 Eibar
 Málaga                    1-2 Betis
 Valencia                  1-0 Leganés
-[Mar 1]
+_ Mar 1 _
 Barcelona                 6-1 Sporting
 Osasuna                   1-4 Villarreal
 Granada                   2-1 Alavés
 Celta                     2-2 Espanyol
 Madrid                    3-3 Las Palmas
-[Mar 2]
+_ Mar 2 _
 Deportivo                 1-1 Atlético
 Sevilla                   1-0 Athletic
 
-Round 26
-[Mar 3]
+▪ Round 26 ▪
+_ Mar 3 _
 Betis                     2-3 Sociedad
-[Mar 4]
+_ Mar 4 _
 Leganés                   1-0 Granada
 Eibar                     1-4 Madrid
 Villarreal                2-0 Espanyol
 Barcelona                 5-0 Celta
-[Mar 5]
+_ Mar 5 _
 Sporting                  0-1 Deportivo
 Atlético                  3-0 Valencia
 Las Palmas                5-2 Osasuna
 Athletic                  1-0 Málaga
-[Mar 6]
+_ Mar 6 _
 Alavés                    1-1 Sevilla
 
-Round 27
-[Mar 10]
+▪ Round 27 ▪
+_ Mar 10 _
 Espanyol                  4-3 Las Palmas
-[Mar 11]
+_ Mar 11 _
 Valencia                  1-1 Sporting
 Sevilla                   1-1 Leganés
 Málaga                    1-2 Alavés
 Granada                   0-1 Atlético
-[Mar 12]
+_ Mar 12 _
 Sociedad                  0-2 Athletic
 Deportivo                 2-1 Barcelona
 Celta                     0-1 Villarreal
 Madrid                    2-1 Betis
-[Mar 13]
+_ Mar 13 _
 Osasuna                   1-1 Eibar
 
-Round 28
-[Mar 17]
+▪ Round 28 ▪
+_ Mar 17 _
 Las Palmas                1-0 Villarreal
-[Mar 18]
+_ Mar 18 _
 Eibar                     1-1 Espanyol
 Athletic                  1-2 Madrid
 Alavés                    1-0 Sociedad
 Betis                     2-0 Osasuna
-[Mar 19]
+_ Mar 19 _
 Leganés                   0-0 Málaga
 Atlético                  3-1 Sevilla
 Sporting                  3-1 Granada
 Deportivo                 0-1 Celta
 Barcelona                 4-2 Valencia
 
-Round 29
-[Mar 31]
+▪ Round 29 ▪
+_ Mar 31 _
 Espanyol                  2-1 Betis
-[Apr 1]
+_ Apr 1 _
 Villarreal                2-3 Eibar
 Osasuna                   1-2 Athletic
 Sociedad                  1-1 Leganés
 Málaga                    0-2 Atlético
-[Apr 2]
+_ Apr 2 _
 Sevilla                   0-0 Sporting
 Madrid                    3-0 Alavés
 Valencia                  3-0 Deportivo
 Granada                   1-4 Barcelona
-[Apr 3]
+_ Apr 3 _
 Celta                     3-1 Las Palmas
 
-Round 30
-[Apr 4]
+▪ Round 30 ▪
+_ Apr 4 _
 Athletic                  2-0 Espanyol
 Betis                     0-1 Villarreal
 Atlético                  1-0 Sociedad
-[Apr 5]
+_ Apr 5 _
 Barcelona                 3-0 Sevilla
 Deportivo                 0-0 Granada
 Alavés                    0-1 Osasuna
 Sporting                  0-1 Málaga
 Leganés                   2-4 Madrid
-[Apr 6]
+_ Apr 6 _
 Eibar                     3-1 Las Palmas
 Valencia                  3-2 Celta
 
-Round 31
-[Apr 7]
+▪ Round 31 ▪
+_ Apr 7 _
 Villarreal                3-1 Athletic
-[Apr 8]
+_ Apr 8 _
 Espanyol                  1-0 Alavés
 Madrid                    1-1 Atlético
 Sevilla                   4-2 Deportivo
 Málaga                    2-0 Barcelona
-[Apr 9]
+_ Apr 9 _
 Granada                   1-3 Valencia
 Celta                     0-2 Eibar
 Osasuna                   2-1 Leganés
 Las Palmas                4-1 Betis
-[Apr 10]
+_ Apr 10 _
 Sociedad                  3-1 Sporting
 
-Round 32
-[Apr 14]
+▪ Round 32 ▪
+_ Apr 14 _
 Athletic                  5-1 Las Palmas
-[Apr 15]
+_ Apr 15 _
 Deportivo                 2-0 Málaga
 Sporting                  2-3 Madrid
 Atlético                  3-0 Osasuna
 Barcelona                 3-2 Sociedad
-[Apr 16]
+_ Apr 16 _
 Leganés                   0-1 Espanyol
 Valencia                  0-0 Sevilla
 Betis                     2-0 Eibar
 Granada                   0-3 Celta
-[Apr 17]
+_ Apr 17 _
 Alavés                    2-1 Villarreal
 
-Round 33
-[Apr 21]
+▪ Round 33 ▪
+_ Apr 21 _
 Sevilla                   2-0 Granada
-[Apr 22]
+_ Apr 22 _
 Málaga                    2-0 Valencia
 Villarreal                2-1 Leganés
 Osasuna                   2-2 Sporting
 Espanyol                  0-1 Atlético
-[Apr 23]
+_ Apr 23 _
 Sociedad                  1-0 Deportivo
 Celta                     0-1 Betis
 Las Palmas                1-1 Alavés
 Madrid                    2-3 Barcelona
-[Apr 24]
+_ Apr 24 _
 Eibar                     0-1 Athletic
 
-Round 34
-[Apr 25]
+▪ Round 34 ▪
+_ Apr 25 _
 Sporting                  1-1 Espanyol
 Granada                   0-2 Málaga
 Atlético                  0-1 Villarreal
-[Apr 26]
+_ Apr 26 _
 Barcelona                 7-1 Osasuna
 Leganés                   3-0 Las Palmas
 Valencia                  2-3 Sociedad
 Deportivo                 2-6 Madrid
-[Apr 27]
+_ Apr 27 _
 Alavés                    0-0 Eibar
 Sevilla                   2-1 Celta
 Athletic                  2-1 Betis
 
-Round 35
-[Apr 28]
+▪ Round 35 ▪
+_ Apr 28 _
 Villarreal                3-1 Sporting
-[Apr 29]
+_ Apr 29 _
 Sociedad                  2-1 Granada
 Madrid                    2-1 Valencia
 Las Palmas                0-5 Atlético
 Espanyol                  0-3 Barcelona
-[Apr 30]
+_ Apr 30 _
 Osasuna                   2-2 Deportivo
 Betis                     1-4 Alavés
 Eibar                     2-0 Leganés
 Celta                     0-3 Athletic
-[May 1]
+_ May 1 _
 Málaga                    4-2 Sevilla
 
-Round 36
-[May 5]
+▪ Round 36 ▪
+_ May 5 _
 Sevilla                   1-1 Sociedad
-[May 6]
+_ May 6 _
 Sporting                  1-0 Las Palmas
 Atlético                  1-0 Eibar
 Barcelona                 4-1 Villarreal
 Granada                   0-4 Madrid
-[May 7]
+_ May 7 _
 Alavés                    1-0 Athletic
 Valencia                  4-1 Osasuna
 Deportivo                 1-2 Espanyol
 Málaga                    3-0 Celta
-[May 8]
+_ May 8 _
 Leganés                   4-0 Betis
 
-Round 37
-[May 13]
+▪ Round 37 ▪
+_ May 13 _
 Espanyol                  0-1 Valencia
 Osasuna                   2-1 Granada
-[May 14]
+_ May 14 _
 Alavés                    3-1 Celta
 Villarreal                0-0 Deportivo
 Betis                     1-1 Atlético
@@ -619,126 +593,105 @@ Sociedad                  2-2 Málaga
 Las Palmas                1-4 Barcelona
 Madrid                    4-1 Sevilla
 
-Round 38
-[May 19]
+▪ Round 38 ▪
+_ May 19 _
 Granada                   1-2 Espanyol
-[May 20]
+_ May 20 _
 Sporting                  2-2 Betis
 Deportivo                 3-0 Las Palmas
 Leganés                   1-1 Alavés
 Sevilla                   5-0 Osasuna
-[May 21]
+_ May 21 _
 Atlético                  3-1 Athletic
 Celta                     2-2 Sociedad
 Valencia                  1-3 Villarreal
 Barcelona                 4-2 Eibar
 Málaga                    0-2 Madrid
 
-Final Table:
+<!-- $table2$ -->
 
- 1.Real Madrid CF                38  29  6  3 106-41  93                   Champions
- 2.FC Barcelona                  38  28  6  4 116-37  90  [C]
- 3.Atlético de Madrid            38  23  9  6  70-27  78
- 4.Sevilla FC                    38  21  9  8  69-49  72
- 5.Villarreal CF                 38  19 10  9  56-33  67
- 6.Real Sociedad (San Sebastián) 38  19  7 12  59-53  64
- 7.Athletic de Bilbao            38  19  6 13  53-43  63
- 8.RCD Espanyol (Barcelona)      38  15 11 12  49-50  56
- 9.Deportivo Alavés (Vitoria)    38  14 13 11  41-43  55  [P]
-10.SD Eibar                      38  15  9 14  56-51  54
-11.Málaga CF                     38  12 10 16  49-55  46  [2 1 1 0 4-2 4]
-12.Valencia CF                   38  13  7 18  56-65  46  [2 0 1 1 2-4 1]
-13.RC Celta (Vigo)               38  13  6 19  53-69  45
-14.UD Las Palmas                 38  10  9 19  53-74  39  [2 1 0 1 4-3 3]
-15.Real Betis Balompié (Sevilla) 38  10  9 19  41-64  39  [2 1 0 1 3-4 3]
-16.RC Deportivo (La Coruña)      38   8 12 18  43-61  36
-17.CD Leganés                    38   8 11 19  36-55  35  [P]
---------------------------------------------------------
-18.Sporting de Gijón             38   7 10 21  42-72  31                   Relegated
-19.CA Osasuna (Pamplona)         38   4 10 24  40-94  22  [P]              Relegated
-20.Granada CF                    38   4  8 26  30-82  20                   Relegated
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa del Rey  ‹§coparey›
 
-<!-- start pre -->
-Round 1 [Aug 31]
+▪ Round 1 ▪  Aug 31
 Andorra CF                0-5 Hércules de Alicante CF
 Caudal Deportivo          2-1 Burgos CF
-CA Cirbonero              0-0 SD Ponferradina           [aet, 6-5 pen]
-Atlético Saguntino        1-1 SD Formentera             [aet, 3-4 pen]
-CD Boiro                  1-3 CD Guijuelo               [aet]
-SD Amorebieta             2-1 UD Socuéllamos            [aet]
+CA Cirbonero              0-0 SD Ponferradina           (aet, 6-5 pen)
+Atlético Saguntino        1-1 SD Formentera             (aet, 3-4 pen)
+CD Boiro                  1-3 CD Guijuelo               (aet)
+SD Amorebieta             2-1 UD Socuéllamos            (aet)
 Sestao River Club         4-2 UD Villa de Santa Brígida
 Barakaldo CF              4-0 SD Zamudio
-CD Calahorra              0-0 UD Logroñés               [aet, 3-1 pen]
-CD Laredo                 2-3 Cultural Leonesa          [aet]
+CD Calahorra              0-0 UD Logroñés               (aet, 3-1 pen)
+CD Laredo                 2-3 Cultural Leonesa          (aet)
 Lleida Esportiu           1-0 AE Prat
-CF Lorca Deportivo        1-2 Lorca FC                  [aet]
-UE Cornellà               2-1 UD San Sebastián/Reyes    [aet]
+CF Lorca Deportivo        1-2 Lorca FC                  (aet)
+UE Cornellà               2-1 UD San Sebastián/Reyes    (aet)
 Albacete Balompié         2-1 Real Unión de Irún
 Extremadura UD            5-0 Atlético Mancha Real
 Racing Club de Ferrol     3-2 Zamora CF
 Atlético Sanluqueño       1-0 Real Murcia CF
 CD Toledo                 2-0 UB Conquense
 
-Round 2
-[Sep 6]
-CD Mirandés               2-2 Elche CF                  [aet, 3-4 pen]
+▪ Round 2 ▪
+_ Sep 6 _
+CD Mirandés               2-2 Elche CF                  (aet, 3-4 pen)
 CD Lugo                   1-2 CD Tenerife
 UD Almería                0-2 Rayo Vallecano
-[Sep 7]
+_ Sep 7 _
 Albacete Balompié         2-0 Arenas Club de Getxo
 CD Tudelano               1-0 CD Toledo
 Caudal Deportivo          1-0 Lleida Esportiu
-Gimnàstic de Tarragona    1-0 CD Numancia               [aet]
-Cádiz CF                  1-1 Levante UD                [aet, 3-2 pen]
-SD Formentera             2-2 Lorca FC                  [aet, 9-8 pen]
+Gimnàstic de Tarragona    1-0 CD Numancia               (aet)
+Cádiz CF                  1-1 Levante UD                (aet, 3-2 pen)
+SD Formentera             2-2 Lorca FC                  (aet, 9-8 pen)
 CD Guijuelo               1-0 Sestao River Club
-Barakaldo CF              3-3 SD Amorebieta             [aet, 2-3 pen]
+Barakaldo CF              3-3 SD Amorebieta             (aet, 2-3 pen)
 CD Toledo                 4-0 CD Alcoyano
 Cultural Leonesa          3-1 CD Calahorra
-Racing Club de Ferrol     0-0 CA Cirbonero              [aet, 4-5 pen]
+Racing Club de Ferrol     0-0 CA Cirbonero              (aet, 4-5 pen)
 Real Racing de Santander  2-1 UE Llagostera
-UE Cornellà               3-1 Extremadura UD            [aet]
-FC Cartagena              1-1 Hércules de Alicante CF   [aet, 5-6 pen]
-RCD Mallorca              1-0 CF Reus                   [aet]
+UE Cornellà               3-1 Extremadura UD            (aet)
+FC Cartagena              1-1 Hércules de Alicante CF   (aet, 5-6 pen)
+RCD Mallorca              1-0 CF Reus                   (aet)
 Real Zaragoza             1-2 Real Valladolid CF
-[Sep 8]
+_ Sep 8 _
 SD Huesca                 1-0 Girona FC
-UCAM Murcia CF            4-3 Real Oviedo               [aet]
+UCAM Murcia CF            4-3 Real Oviedo               (aet)
 AD Alcorcón               1-0 Getafe CF
 Córdoba CF                bye
 
-Round 3
-[Oct 11]
+▪ Round 3 ▪
+_ Oct 11 _
 Elche CF                  0-1 AD Alcorcón
-[Oct 12]
+_ Oct 12 _
 RCD Mallorca              1-2 UCAM Murcia CF
-CD Tudelano               0-0 SD Formentera             [aet, 3-4 pen]
-CA Cirbonero              1-2 CD Guijuelo               [aet]
-Rayo Vallecano            1-1 Gimnàstic de Tarragona    [aet, 4-5 pen]
-Cultural Leonesa          2-1 Albacete Balompié         [aet]
+CD Tudelano               0-0 SD Formentera             (aet, 3-4 pen)
+CA Cirbonero              1-2 CD Guijuelo               (aet)
+Rayo Vallecano            1-1 Gimnàstic de Tarragona    (aet, 4-5 pen)
+Cultural Leonesa          2-1 Albacete Balompié         (aet)
 Hércules de Alicante CF   2-1 UE Cornellà
 Real Racing de Santander  2-0 SD Amorebieta
 Cádiz CF                  1-2 Córdoba CF
 CD Toledo                 4-1 Caudal Deportivo
-Real Valladolid CF        3-1 CD Tenerife               [aet]
+Real Valladolid CF        3-1 CD Tenerife               (aet)
 SD Huesca                 bye
 
-Round 4
+▪ Round 4 ▪
 
-First Legs
-[Oct 26]
+▪ First Legs ▪
+_ Oct 26 _
 Cultural Leonesa          1-7 Real Madrid CF
-[Nov 29]
+_ Nov 29 _
 CD Leganés                1-3 Valencia CF
 AD Alcorcón               1-1 RCD Espanyol
 Real Sporting de Gijón    1-2 SD Eibar
 Real Betis Balompié       1-0 RC Deportivo La Coruña
-[Nov 30]
+_ Nov 30 _
 CD Toledo                 0-3 Villarreal CF
 SD Formentera             1-5 Sevilla FC
 CD Guijuelo               0-6 Atlético de Madrid
@@ -746,201 +699,139 @@ Córdoba CF                2-0 Málaga CF
 Granada CF                1-0 CA Osasuna
 UCAM Murcia CF            0-1 RC Celta de Vigo
 Hércules de Alicante CF   1-1 FC Barcelona
-[Dec 1]
+_ Dec 1 _
 Real Valladolid CF        1-3 Real Sociedad
 Gimnàstic de Tarragona    0-3 Deportivo Alavés
 SD Huesca                 2-2 UD Las Palmas
 Real Racing de Santander  1-2 Athletic Club (Bilbao)
 
-Second Legs
+▪ Second Legs ▪
 Real Madrid CF            6-1 Cultural Leonesa
-[Dec 20]
+_ Dec 20 _
 Villarreal CF             1-1 CD Toledo
 Real Sociedad             1-1 Real Valladolid CF
 Atlético de Madrid        4-1 CD Guijuelo
 UD Las Palmas             2-1 SD Huesca
 Málaga CF                 3-4 Córdoba CF
-[Dec 21]
+_ Dec 21 _
 SD Eibar                  3-1 Real Sporting de Gijón
 Sevilla FC                9-1 SD Formentera
 RC Deportivo La Coruña    3-1 Real Betis Balompié
 CA Osasuna                2-0 Granada CF
 Valencia CF               2-1 CD Leganés
 FC Barcelona              7-0 Hércules de Alicante CF
-[Dec 22]
+_ Dec 22 _
 RC Celta de Vigo          1-0 UCAM Murcia CF
 Deportivo Alavés          3-0 Gimnàstic de Tarragona
 Athletic Club (Bilbao)    3-0 Real Racing de Santander
-RCD Espanyol              1-1 AD Alcorcón               [aet, 3-4 pen]
+RCD Espanyol              1-1 AD Alcorcón               (aet, 3-4 pen)
 
-1/8 Finals
+▪ 1/8 Finals ▪
 
-First Legs
-[Jan 3]
+▪ First Legs ▪
+_ Jan 3 _
 CA Osasuna                0-3 SD Eibar
 Valencia CF               1-4 RC Celta de Vigo
 RC Deportivo La Coruña    2-2 Deportivo Alavés
 UD Las Palmas             0-2 Atlético de Madrid
-[Jan 4]
+_ Jan 4 _
 AD Alcorcón               0-0 Córdoba CF
 Real Sociedad             3-1 Villarreal CF
 Real Madrid CF            3-0 Sevilla FC
-[Jan 5]
+_ Jan 5 _
 Athletic Club (Bilbao)    2-1 FC Barcelona
 
-Second Legs
-[Jan 10]
+▪ Second Legs ▪
+_ Jan 10 _
 Atlético de Madrid        2-3 UD Las Palmas
-[Jan 11]
+_ Jan 11 _
 Deportivo Alavés          1-1 RC Deportivo La Coruña
 Córdoba CF                1-2 AD Alcorcón
 Villarreal CF             1-1 Real Sociedad
 FC Barcelona              3-1 Athletic Club (Bilbao)
-[Jan 12]
+_ Jan 12 _
 RC Celta de Vigo          2-1 Valencia CF
 SD Eibar                  0-0 CA Osasuna
 Sevilla FC                3-3 Real Madrid CF
 
-Quarterfinals
+▪ Quarterfinals ▪
 
-First Legs
-[Jan 18]
+▪ First Legs ▪
+_ Jan 18 _
 AD Alcorcón               0-2 Deportivo Alavés
 Real Madrid CF            1-2 RC Celta de Vigo
-[Jan 19]
+_ Jan 19 _
 Atlético de Madrid        3-0 SD Eibar
 Real Sociedad             0-1 FC Barcelona
 
-Second Legs
-[Jan 24]
+▪ Second Legs ▪
+_ Jan 24 _
 Deportivo Alavés          0-0 AD Alcorcón
-[Jan 25]
+_ Jan 25 _
 SD Eibar                  2-2 Atlético de Madrid
 RC Celta de Vigo          2-2 Real Madrid CF
-[Jan 26]
+_ Jan 26 _
 FC Barcelona              5-2 Real Sociedad
 
-Semifinals
+▪ Semifinals ▪
 
-First Legs
-[Feb 1]
+▪ First Legs ▪
+_ Feb 1 _
 Atlético de Madrid        1-2 FC Barcelona
-[Feb 2]
+_ Feb 2 _
 RC Celta de Vigo          0-0 Deportivo Alavés
 
-Second Legs
-[Feb 7]
+▪ Second Legs ▪
+_ Feb 7 _
 FC Barcelona              1-1 Atlético de Madrid
-[Feb 8]
+_ Feb 8 _
 Deportivo Alavés          1-0 RC Celta de Vigo
 
-Final [May 27, Madrid]
+▪ Final ▪  May 27, Madrid
 FC Barcelona              3-1 Deportivo Alavés
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Segunda División (Liga Adelante)  ‹§segunda›
 
-<!-- start pre -->
-Final Table:
+<!-- $table3$ -->
 
- 1.Levante UD (Valencia)         42  25  9  8  57-32  84  [R]              Promoted
- 2.Girona FC                     42  20 10 12  65-45  70                   Promoted
---------------------------------------------------------
- 3.Getafe CF                     42  18 14 10  55-43  68  [R]              ‹Promotion Playoff, see §2prom›
- 4.CD Tenerife                   42  16 18  8  50-37  66                   ‹Promotion Playoff, see §2prom›
- 5.Cádiz CF                      42  16 16 10  55-40  64  [P]              ‹Promotion Playoff, see §2prom›
- 6.SD Huesca                     42  16 15 11  53-43  63  [2 2 0 0 3-1 6]  ‹Promotion Playoff, see §2prom›
- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- 7.Real Valladolid               42  18  9 15  52-47  63  [2 0 0 2 1-3 0]
- 8.Real Oviedo                   42  17 10 15  47-47  61
- 9.CD Lugo                       42  14 13 15  49-52  55       [4 2 1 1 6-5 7]  [2 1 1 0 4-3 4]
-10.Córdoba CF                    42  14 13 15  42-52  55       [4 2 1 1 6-5 7]  [2 0 1 1 3-4 1]
-11.CF Reus                       42  13 16 13  31-29  55  [P]  [4 1 0 3 3-5 3]
-12.Rayo Vallecano                42  14 11 17  44-44  53  [R]  [2 1 1 0 3-2 4]
-13.Sevilla Atlético              42  13 14 15  55-56  53  [P]  [2 0 1 1 2-3 1]
-14.Club Gimnàstic de Tarragona   42  12 16 14  47-51  52
-15.UD Almería                    42  14  9 19  44-49  51
-16.Real Zaragoza                 42  12 14 16  50-52  50  [4 2 1 1 7-3 7]
-17.CD Numancia (Soria)           42  11 17 14  40-49  50  [4 2 1 1 6-7 7]
-18.AD Alcorcón                   42  13 11 18  32-43  50  [4 0 2 2 4-7 1]
---------------------------------------------------------
-19.UCAM Murcia CF                42  11 15 16  42-51  48  [P]              Relegated
-20.RCD Mallorca (Palma de M.)    42   9 18 15  42-50  45                   Relegated
-21.Elche CF                      42  11 10 21  49-63  43                   Relegated
-22.CD Mirandés                   42   9 14 19  40-66  41                   Relegated
 
 Promoted: Cultural Leonesa, Lorca FC, FC Barcelona B, Albacete Balompié
 
 Promotion Playoff  ‹§2prom›
 
-Semifinals
+▪ Semifinals ▪
 
-First Legs
-[Jun 14]
+▪ First Legs ▪
+_ Jun 14 _
 Huesca                    2-2 Getafe
-[Jun 15]
+_ Jun 15 _
 Cádiz                     1-0 Tenerife
 
-Second Legs
-[Jun 17]
+▪ Second Legs ▪
+_ Jun 17 _
 Getafe                    3-0 Huesca
-[Jun 18]
-Tenerife                  1-0 Cádiz                     [aet]
+_ Jun 18 _
+Tenerife                  1-0 Cádiz                     (aet)
 
 NB: Tenerife qualified on better record regular season
 
-Final
+▪ Final ▪
 
-First Leg [Jun 21]
+▪ First Leg ▪  Jun 21
 Tenerife                  1-0 Getafe
 
-Second Leg [Jun 24]
+▪ Second Leg ▪  Jun 24
 Getafe                    3-1 Tenerife
 
 NB: Getafe promoted
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2015/16, see page span2016›.
-
-‹2017/18, see page span2018›.
-
-‹list of champions, see page spanchamp›.
-
-‹list of 2nd level champions, see page span2champ›.
-
-‹list of cup winners, see page spancuphist›.
-
-‹list of super cup winners, see page spansupcuphist›.
-
-‹list of league cup winners, see page spanleagcuphist›.
-
-‹list of copa rfef winners, see page spanrfefcuphist›.
-
-‹list of final tables, see page spanhist›.
-
-‹all-time table, see page spanalltime›.
-
-‹list of top scorers, see page spantops›.
-
-‹list of foundation dates, see page spanfound›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Karel Stokkermans
-the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author: Karel Stokkermans
-
-Last updated: 18 Jul 2019
 
 
-(C) Copyright Karel Stokkermans and RSSSF 2016/19
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+
