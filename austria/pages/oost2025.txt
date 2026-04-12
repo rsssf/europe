@@ -1005,7 +1005,7 @@ TSV Völkermarkt               1-2 Ferlach ATUS
 FC Lendorf                    1-2 Ferlach ATUS
 
 ▪ Second Leg ▪  Jun 13
-Ferlach ATUS                  0-1 FC Lendorf                    [2-4 pen]
+Ferlach ATUS                  0-1 FC Lendorf                    (2-4 pen)
 
 NÖ Meistercup (Niederösterreich) 2024/25  ‹§noecup›
 
@@ -1155,7 +1155,7 @@ _ May 14 _
 SVG Reichenau                 1-0 WSG Tirol Juniors
 
 ▪ Final ▪  Jun 9
-FC Wacker Innsbruck           1-1 SVG Reichenau                 [4-5 pen]
+FC Wacker Innsbruck           1-1 SVG Reichenau                 (4-5 pen)
 
 VFV-Cup (Vorarlberg) 2024/25  ‹§vorcup›
 

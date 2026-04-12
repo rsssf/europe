@@ -2777,9 +2777,9 @@ _ 21/08 _
 Aldrans              0-1  IAC
 Aschau im Zillertal  2-1  Schwaz
 Breitenbach          2-1  Ebbs
-Brixen im Thale      2-2  Westendorf            [pen 4-3]
+Brixen im Thale      2-2  Westendorf            (pen 4-3)
 Elbigenalp           3-0  Silz/Mötz             [awd]
-Fliess               2-2  Stams                 [pen 1-2]
+Fliess               2-2  Stams                 (pen 1-2)
 Grinzens             1-3  Absam
 Haiming              3-1  Telfs
 Imst                 2-0  Vils
@@ -2788,14 +2788,14 @@ Kirchberg            0-4  St.Johann
 Kirchdorf            0-2  Wörgl Amat.
 Langkampfen          3-5  Kufstein I
 Lohbach/Kranebitten  0-3  Reichenau I
-Ried/Kaltenbach      2-2  Fügen/Uderns          [pen 5-4]
+Ried/Kaltenbach      2-2  Fügen/Uderns          (pen 5-4)
 Rinn                 1-4  FC Tirol/ISK Amat.
-Roppen               2-2  Oberhofen             [pen 3-4]
+Roppen               2-2  Oberhofen             (pen 3-4)
 Schönberg            0-2  SV Innsbruck
-Schönwies/Mils       2-2  Umhausen              [pen 2-3]
+Schönwies/Mils       2-2  Umhausen              (pen 2-3)
 Seefeld              3-2  Rum
 Serfaus              1-7  SV Landeck
-Söll                 4-4  Kitzbühel             [pen 2-4]
+Söll                 4-4  Kitzbühel             (pen 2-4)
 Stans                2-3  Jenbach/Achensee
 Volders              8-0  Steinach
 Völs                 0-2  Neustift
@@ -2804,14 +2804,14 @@ Weerberg             1-6  Zell am Ziller
 Wildschönau          1-7  Kirchbichl
 _ 28/08 _
 Angerberg            1-10 Kundl I
-Hatting              1-1  Hall                  [pen 3-0]
+Hatting              1-1  Hall                  (pen 3-0)
 Inzing               0-7  Axams
 _ 04/09 _
 Mayrhofen            1-6  Wattens I
 
 ▪ Third Round ▪
 _ 11/09 _
-Seefeld              1-1  Axams                 [pen 5-4]
+Seefeld              1-1  Axams                 (pen 5-4)
 Stams                0-2  Wattens
 _ 12/09 _
 Hatting              2-5  Reichenau
@@ -2843,7 +2843,7 @@ SV Neustift - Innsbruck AC ................. 4-2
 _ 09/04 _
 WSG Wattens - SV Umhausen .................. 1-0
 _ 10/04 _
-SV Reichenau - FC Kufstein ................. 1-1 [pen 3-1]
+SV Reichenau - FC Kufstein ................. 1-1 (pen 3-1)
 
 ▪ Quarter Finals ▪
 _ 23/04 _

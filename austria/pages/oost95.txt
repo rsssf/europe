@@ -8,22 +8,8 @@
 
 Zehnerliga
 
-Table:
+<!-- $table1$ -->
 
- 1.SV Austria Salzburg       36  15 17  4  48-24   47  Champions League
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Sturm Graz             36  18 11  7  58-41   47  UEFA Cup
- 3.SK Rapid                  36  19  8  9  63-50   46  Cup Winners
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.FK Austria Wien           36  16 11  9  58-38   43  UEFA Cup
- 5.FC Tirol Innsbruck        36  15 10 11  61-44   40  Intertoto Cup
- 6.Linzer ASK                36  14 11 11  51-44   39  Intertoto Cup
- 7.FC Admira/Wacker          36  11 11 14  48-55   33
- 8.SK Vorwärts Steyr         36   9 11 16  40-49   29  Intertoto Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.FC Linz                   36   5 10 21  33-81   20  Relegation Playoff
------------------------------------------------------
-10.VfB Mödling               36   4  8 24  28-62   16  Relegated
 
 ▪ Round 1 ▪
 _ Aug 2 _
@@ -342,22 +328,8 @@ Tirol      2-0 Austria Salzburg
 Mödling    0-3 Rapid
 Vorwärts    1-2 Sturm
 
-Table:
+<!-- $table2$ -->
 
- 1.SV Austria Salzburg       36  15 17  4  48-24   47  Champions League
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Sturm Graz             36  18 11  7  58-41   47  UEFA Cup
- 3.SK Rapid                  36  19  8  9  63-50   46  Cup Winners
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.FK Austria Wien           36  16 11  9  58-38   43  UEFA Cup
- 5.FC Tirol Innsbruck        36  15 10 11  61-44   40  Intertoto Cup
- 6.Linzer ASK                36  14 11 11  51-44   39  Intertoto Cup
- 7.FC Admira/Wacker          36  11 11 14  48-55   33
- 8.SK Vorwärts Steyr         36   9 11 16  40-49   29  Intertoto Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.FC Linz                   36   5 10 21  33-81   20  Relegation Playoff
------------------------------------------------------
-10.VfB Mödling               36   4  8 24  28-62   16  Relegated
 
 <!-- $topscorers1$ -->
 
@@ -474,8 +446,8 @@ Union Sankt Florian     1-4     DSV Leoben
 Wolfsberger AC          0-2     SV Spittal/Drau
 SV Leibnitz             1-3     SK Vorwärts Steyr
 SV Traun                0-9     FC Linz
-SV Grieskirchen         4-4     SV Flavia Solva         [aet, pen 7-6]
-SV Gratkorn             3-3     Linzer ASK              [aet, pen 2-3]
+SV Grieskirchen         4-4     SV Flavia Solva         (aet, pen 7-6)
+SV Gratkorn             3-3     Linzer ASK              (aet, pen 2-3)
 SC Marchtrenk           2-6     Grazer AK
 SVG Bleiburg            2-3     ASK Voitsberg
 VfB Hohenems            0-2     SV Austria Salzburg
@@ -491,7 +463,7 @@ SV Rohrbach i.B.        1-1     SV Oberwart             [aet, pen 6-5,
 ▪ Round 3 ▪
 _ Oct 25 _
 SV Gerasdorf/WSC        0-3     DSV Leoben
-SV Rohrbach i.B.        1-1     VSE Sankt Pölten        [aet, pen 3-4]
+SV Rohrbach i.B.        1-1     VSE Sankt Pölten        (aet, pen 3-4)
 TSV Hartberg            3-2     1. Wiener Neustädter SC (aet)
 _ Oct 26 _
 Favoritner AC           1-0     FC Admira/Wacker
@@ -505,19 +477,19 @@ SC Kundl                3-1     FC Puch
 FC Hard                 0-4     Linzer ASK
 SV Grieskirchen         0-4     Grazer AK
 SV Wörgl                1-0     FC Linz
-ASK Voitsberg           3-3     SV Spittal/Drau         [aet, pen 2-4]
+ASK Voitsberg           3-3     SV Spittal/Drau         (aet, pen 2-4)
 SV Austria Salzburg     3-2     FC Tirol Innsbruck
 
 ▪ Round 4 ▪
 _ Apr 14 _
-TSV Hartberg            0-0     SK Vorwärts Steyr       [aet, pen 5-4]
-(Apr 15])
+TSV Hartberg            0-0     SK Vorwärts Steyr       (aet, pen 5-4)
+[Apr 15]]
 Favoritner AC           1-0     SV Ried
 VSE Sankt Pölten        0-2     SV Austria Salzburg
 SV Stockerau            0-1     DSV Leoben
 SV Braunau              1-3     Grazer AK
 SC Kundl                0-2     FK Austria Wien         (aet)
-SV Spittal/Drau         3-3     Linzer ASK              [aet, pen 5-4]
+SV Spittal/Drau         3-3     Linzer ASK              (aet, pen 5-4)
 _ Apr 16 _
 SV Wörgl                2-3     SK Rapid
 
@@ -555,27 +527,8 @@ Guggi 19'
 
 2. Bundesliga 1994/95
 
-Table:
+<!-- $table3$ -->
 
- 1.Grazer AK                 30  22  6  2  62-15   50  Promoted
------------------------------------------------------
- 2.SV Ried/Innkreis          30  20  6  4  55-18   46  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.First Vienna FC           30  18  4  8  68-33   40
- 4.SV Spittal/Drau           30  16  8  6  59-36   40
- 5.SC Austria Lustenau       30  15  6  9  60-26   36
- 6.VSE Sankt Pölten          30  13  9  8  53-32   35
- 7.SV Oberwart               30  10 11  9  40-40   31
- 8.Wiener SC/Gerasdorf       30  10 11  9  40-42   31
- 9.FC Kufstein               30  10  9 11  32-44   29
-10.DSV Leoben                30   7 13 10  30-31   27
-11.SV Braunau                30  10  5 15  33-50   25
-12.SV Flavia Solva           30   5 13 12  22-42   23
-13.ASK Klingenbach           30   4 13 13  20-44   21
------------------------------------------------------
-14.FC Puch                   30   7  7 16  33-59   21  Relegated (Salzburg)
-15.SV Stockerau              30   3  9 18  16-50   15  Relegated (Ostliga)
-16.1. Wiener Neustädter SC   30   2  6 22  24-85   10  Relegated (Ostliga)
 
 Promoted to the 2nd Bundesliga: Favoritner AC (from the
 Regionalliga Ost), WSG Wattens (Regionalliga West) and
@@ -881,7 +834,7 @@ Lower Levels (only available for Tirol)
 Thanks to Andreas Exenberger.
 
 Tiroler Liga
-<!-- $table1$ -->
+<!-- $table4$ -->
 
 
 Promoted: SVg Jenbach, SV Reichenau
@@ -891,11 +844,11 @@ FC Tirol Amateure is elected to the league; the league is extended to
 
 
 Landesliga Ost
-<!-- $table2$ -->
+<!-- $table5$ -->
 
 
 Landesliga West
-<!-- $table3$ -->
+<!-- $table6$ -->
 
 
 Promoted: SV Hopfgarten, SK Zirl
@@ -903,11 +856,11 @@ Relegated: SVg Mayrhofen
 
 
 Gebietsliga Ost
-<!-- $table4$ -->
+<!-- $table7$ -->
 
 
 Gebietsliga West
-<!-- $table5$ -->
+<!-- $table8$ -->
 
 
 Promoted: SV Walchsee, SV Aldrans, SK Rietz
@@ -916,15 +869,15 @@ The teams of Rum II and Imst II are dissolved
 
 
 1.Klasse Ost
-<!-- $table6$ -->
+<!-- $table9$ -->
 
 
 1.Klasse Mitte
-<!-- $table7$ -->
+<!-- $table10$ -->
 
 
 1.Klasse West
-<!-- $table8$ -->
+<!-- $table11$ -->
 
 
 Rietz is champion because Stams has a verified game (at equal points
@@ -933,15 +886,15 @@ Karres No relegation, Brixlegg plays as SPG Brixlegg/Rattenberg II
 
 
 2.Klasse Ost
-<!-- $table9$ -->
+<!-- $table12$ -->
 
 
 2.Klasse Mitte
-<!-- $table10$ -->
+<!-- $table13$ -->
 
 
 2.Klasse West
-<!-- $table11$ -->
+<!-- $table14$ -->
 
 
 Haiming II is dissolved

@@ -961,11 +961,11 @@ SC Bad Sauerbrunn             2-3 ASV Siegendorf
 _ Oct 26 _
 SK Pama                       3-0 SV Leithaprodersdorf
 _ Nov 17 _
-SPG Neudorf/Parndorf Jrs      2-2 ASV Draßburg                  [2-4 pen]
+SPG Neudorf/Parndorf Jrs      2-2 ASV Draßburg                  (2-4 pen)
 _ Nov 18 _
 SK Unterschützen              1-7 SC Ritzing
 Mattersburger SV 2020         2-0 SC/ESV Parndorf 1919
-SV Drassmarkt                 1-1 SV Oberwart                   [4-3 pen]
+SV Drassmarkt                 1-1 SV Oberwart                   (4-3 pen)
 _ Nov 25 _
 SV Rohrbach                   0-1 ASV St. Martin/Raab
 
@@ -977,18 +977,18 @@ SK Pama                       w/o SC Ritzing
 
 ▪ Semifinals ▪
 _ Apr 30 _
-Mattersburger SV 2020         1-1 ASV Siegendorf                [3-5 pen]
+Mattersburger SV 2020         1-1 ASV Siegendorf                (3-5 pen)
 _ May 20 _
 SK Pama                       0-2 ASV Draßburg
 
 ▪ Final ▪  May 29
-ASV Siegendorf                1-1 ASV Draßburg                  [4-2 pen]
+ASV Siegendorf                1-1 ASV Draßburg                  (4-2 pen)
 
 Kärnten-Cup 2023/24  ‹§kaerncup›
 
 ▪ 1/8 Finals ▪
 _ Oct 25 _
-TSV Grafenstein               1-1 SAK Klagenfurt                [4-3 pen]
+TSV Grafenstein               1-1 SAK Klagenfurt                (4-3 pen)
 _ Oct 26 _
 SV Oberglan                   1-4 ATSV Wolfsburg
 ATUS Nötsch                   2-1 TSV Völkermarkt
@@ -1016,7 +1016,7 @@ TSV Grafenstein               6-2 SV Bleiburg
 TSV Grafenstein               0-2 ASKÖ Köttmannsdorf
 
 ▪ Second Leg ▪  Jun 4
-ASKÖ Köttmannsdorf            1-3 TSV Grafenstein               [5-4 pen]
+ASKÖ Köttmannsdorf            1-3 TSV Grafenstein               (5-4 pen)
 
 NÖ Meistercup (Niederösterreich) 2023/24  ‹§noecup›
 
@@ -1137,25 +1137,25 @@ TUS Bad Gleichenberg          1-2 Deutschlandsberger SC
 Tirol-Cup 2023/24  ‹§tircup›
 
 ▪ 1/8 Finals ▪  Apr 1
-FC Kitzbühel                  1-1 SC Münster                    [5-6 pen]
+FC Kitzbühel                  1-1 SC Münster                    (5-6 pen)
 FC Volders                    4-1 SPG Silz/Mötz
 FC Wacker Innsbruck           3-2 SK Ebbs
-SK St. Johann                 0-0 SVG Reichenau                 [2-4 pen]
+SK St. Johann                 0-0 SVG Reichenau                 (2-4 pen)
 SV Fügen                      4-0 FC Kundl
-SV Hall                       2-2 SC Kematen                    [4-3 pen]
+SV Hall                       2-2 SC Kematen                    (4-3 pen)
 SV Telfs                      1-2 WSG Tirol Juniors
 Völser SV                     1-2 SV Wörgl
 
 ▪ Quarterfinals ▪
 _ Apr 30 _
-FC Wacker Innsbruck           0-0 SVG Reichenau                 [2-4 pen]
+FC Wacker Innsbruck           0-0 SVG Reichenau                 (2-4 pen)
 _ May 1 _
 SV Hall                       1-0 SV Fügdn
 WSG Tirol Juniors             2-0 SC Münster
 SV Wörgl                      1-2 FC Volders
 
 ▪ Semifinals ▪  May 9
-FC Volders                    1-1 WSG Tirol Juniors             [4-2 pen]
+FC Volders                    1-1 WSG Tirol Juniors             (4-2 pen)
 SVG Reichenau                 5-0 SV Hall
 
 ▪ Final ▪  May 20
@@ -1165,13 +1165,13 @@ VFV-Cup (Vorarlberg) 2023/24  ‹§vorcup›
 
 ▪ 1/8 Finals ▪
 _ Oct 25 _
-Austria Lustenau II           2-2 FC Alberschwende              [3-5 pen]
+Austria Lustenau II           2-2 FC Alberschwende              (3-5 pen)
 VfB Bezau                     1-4 SC Röthis
 _ Oct 26 _
 FC Au                         1-3 FC Egg
 FC Blau-Weiß Feldkirch        4-2 FC Koblach
-FC Nenzing                    0-0 VfB Hohenems                  [2-3 pen]
-FC Sulz                       3-3 SCR Altach II                 [4-3 pen]
+FC Nenzing                    0-0 VfB Hohenems                  (2-3 pen)
+FC Sulz                       3-3 SCR Altach II                 (4-3 pen)
 _ Oct 31 _
 FC Dornbirn Juniors           2-1 FC Lauterach
 _ Apr 10 _
@@ -1180,7 +1180,7 @@ FC Lustenau                   1-2 Rot-Weiß Rankweil
 ▪ Quarterfinals ▪
 _ May 8 _
 VfB Hohenems                  5-0 SC Röthis
-FC Egg                        0-0 FC Blau-Weiß Feldkirch        [4-3 pen]
+FC Egg                        0-0 FC Blau-Weiß Feldkirch        (4-3 pen)
 FC Dornbirn Juniors           0-2 Rot-Weiß Rankweil
 _ May 9 _
 FC Sulz                       3-4 FC Alberschwende

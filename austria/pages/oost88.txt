@@ -12,21 +12,8 @@ Fall season
 1.Bundesliga
 ------------
 
-Table:
+<!-- $table1$ -->
 
- 1.SK Rapid         22  15  6  1  52-22   36
- 2.FK Austria         22  11  6  5  47-27   28
- 3.Grazer AK         22  10  7  5  32-29   27
- 4.FC Admira/Wacker       22  11  3  8  52-31   25
- 5.FC Tirol Innsbruck       22   8  9  5  34-30   25
- 6.SK Sturm Graz       22   9  6  7  33-32   24
- 7.First Vienna FC       22   11  1 10  45-40   23
- 8.Wiener Sport-Club       22   6 10  6  39-46   22
------------------------------------------------------
- 9.VOEST Linz         22   7  5 10  37-40   19
-10.Linzer ASK         22   4  5 13  21-44   13
-11.Austria Klagenfurt       22   4  4 14  17-43   12
-12.VfB Mödling         22   2  6 14  29-54   10
 
 ▪ Round 1 ▪  Jul 21
 Admira/Wacker    0-1 Sturm
@@ -246,21 +233,8 @@ _ Nov 29 _
 Admira/Wacker    6-2 Sportclub
 Mödling          1-6 VOEST
 
-Table:
+<!-- $table2$ -->
 
- 1.SK Rapid         22  15  6  1  52-22   36
- 2.FK Austria         22  11  6  5  47-27   28
- 3.Grazer AK         22  10  7  5  32-29   27
- 4.FC Admira/Wacker       22  11  3  8  52-31   25
- 5.FC Tirol Innsbruck       22   8  9  5  34-30   25
- 6.SK Sturm Graz       22   9  6  7  33-32   24
- 7.First Vienna FC       22   11  1 10  45-40   23
- 8.Wiener Sport-Club       22   6 10  6  39-46   22
------------------------------------------------------
- 9.VOEST Linz         22   7  5 10  37-40   19
-10.Linzer ASK         22   4  5 13  21-44   13
-11.Austria Klagenfurt       22   4  4 14  17-43   12
-12.VfB Mödling         22   2  6 14  29-54   10
 
 Spring season
 =============
@@ -268,16 +242,8 @@ Spring season
 Meisterplayoff
 --------------
 
-Table:
+<!-- $table3$ -->
 
- 1.SK Rapid                  36  22 10  4  81-40   54
- 2.FK Austria                36  19  8  9  83-47   46
- 3.SK Sturm Graz             36  15 12  9  55-48   42
- 4.First Vienna FC           36  18  3 15  68-65   39
- 5.FC Admira/Wacker          36  16  6 14  73-51   38
- 6.FC Tirol Innsbruck        36  11 15 10  47-49   37
- 7.Grazer AK                 36  11 13 12  50-66   35
- 8.Wiener Sport-Club         36   9 13 14  63-77   31
 
 ▪ Round 23 ▪
 _ Mar 12 _
@@ -388,16 +354,8 @@ Rapid      6-1 GAK
 Sturm      0-2 Austria
 Vienna      2-1 Admira/Wacker
 
-Table:
+<!-- $table4$ -->
 
- 1.SK Rapid                  36  22 10  4  81-40   54
- 2.FK Austria                36  19  8  9  83-47   46
- 3.SK Sturm Graz             36  15 12  9  55-48   42
- 4.First Vienna FC           36  18  3 15  68-65   39
- 5.FC Admira/Wacker          36  16  6 14  73-51   38
- 6.FC Tirol Innsbruck        36  11 15 10  47-49   37
- 7.Grazer AK                 36  11 13 12  50-66   35
- 8.Wiener Sport-Club         36   9 13 14  63-77   31
 
 <!-- $topscorers1$ -->
 

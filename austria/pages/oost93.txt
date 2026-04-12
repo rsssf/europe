@@ -243,37 +243,16 @@ Sportclub    4-2 St. Pölten
 1.Bundesliga
 ------------
 
-Table:
+<!-- $table1$ -->
 
- 1.SV Austria Salzburg       22  11  7  4  45-27   29
- 2.FC Wacker Innsbruck       22  10  8  4  45-22   28
- 3.FK Austria Wien           22  12  4  6  47-25   28
- 4.Wiener Sport-Club         22  11  5  6  31-33   27
- 5.SK Rapid Wien             22   9  8  5  34-26   26
- 6.FC Admira/Wacker          22  11  3  8  47-33   25
- 7.VSE St. Pölten            22   6 10  6  34-37   22
- 8.Vorwärts Steyr            22   8  6  8  30-34   22
- ----------------------------------------------------
- 9.VfB Mödling               22   8  3 11  39-41   19
-10.Linzer ASK                22   4  6 12  21-46   14
-11.FC Stahl Linz             22   3  6 13  20-43   12
-12.SK Sturm Graz             22   3  6 13  23-49   12
 
 Spring season
 =============
 Meisterplayoff
 --------------
 
-Table:
+<!-- $table2$ -->
 
- 1.FK Austria Wien           36  22  6  8  81-35   36  (14-22)
- 2.SV Austria Salzburg       36  20 10  6  69-33   36  (15-21)
- 3.FC Admira/Wacker          36  17  6 13  72-54   28  (13-15)
- 4.SK Rapid Wien             36  15 10 11  53-51   27  (13-14)
- 5.FC Wacker Innsbruck       36  14 12 10  63-43   26  (14-12)
- 6.VSE Sankt Pölten          36   9 16 11  51-61   23  (11-12)
- 7.Wiener Sport-Club         36  14  8 14  47-67   23  (14- 9)
- 8.SK Vorwärts Steyr         36  10  9 17  37-53   18  (11- 7)
 
 [Note: points between brackets are points retained from fall (halved and
        rounded) and obtained in spring respectively.]
@@ -385,30 +364,14 @@ Sportclub    1-1 Vorwärts
 
 
 
-Table:
+<!-- $table3$ -->
 
- 1.FK Austria Wien           36  22  6  8  81-35   36  (14-22)
- 2.SV Austria Salzburg       36  20 10  6  69-33   36  (15-21)
- 3.FC Admira/Wacker          36  17  6 13  72-54   28  (13-15)
- 4.SK Rapid Wien             36  15 10 11  53-51   27  (13-14)
- 5.FC Wacker Innsbruck       36  14 12 10  63-43   26  (14-12)
- 6.VSE Sankt Pölten          36   9 16 11  51-61   23  (11-12)
- 7.Wiener Sport-Club         36  14  8 14  47-67   23  (14- 9)
- 8.SK Vorwärts Steyr         36  10  9 17  37-53   18  (11- 7)
 
 [Note: points between brackets are points retained from fall (halved and
        rounded) and obtained in spring respectively.]
 
-Top scorers:
-Vaclav Danek (Wacker Innsbruck)            24
-Olaf Marschall (Admira/Wacker)             19
-Heimo Pfeifenberger (Austria Salzburg)     19
-Ivica Vastic (Sankt Pölten)                18
-Thomas Janeschitz (Sportclub)              16
-Roger Ljung (Admira/Wacker)                16
-Valdas Ivanauskas (Austria Wien)           15
-Nicola Jurcevic (Austria Salzburg)         14
-Jan-Aage Fjørtoft (Rapid)                  13
+<!-- $topscorers1$ -->
+
 
 Fall season
 ===========

@@ -964,7 +964,7 @@ SV Güssing                    0-3 SC Bad Sauerbrunn
 
 ▪ Semifinals ▪  May 18
 SC Bad Sauerbrunn             1-3 SC Neusiedl
-DSC Pinkafeld                 2-2 SC/ESV Parndorf               [4-5 pen]
+DSC Pinkafeld                 2-2 SC/ESV Parndorf               (4-5 pen)
 
 ▪ Final ▪  May 29
 SC/ESV Parndorf               5-2 SC Neusiedl
@@ -1007,13 +1007,13 @@ SC Wolfsthal                  1-4 SC Katzelsdorf
 SC Katzelsdorf                0-0 SV Haitzendorf
 
 ▪ Second Leg ▪  May 29
-SV Haitzendorf                0-0 SC Katzelsdorf                [7-6 pen]
+SV Haitzendorf                0-0 SC Katzelsdorf                (7-6 pen)
 
 OÖ (Oberösterreich) Landescup 2022/23  ‹§ooecup›
 
 ▪ Quarterfinals ▪
 _ Apr 18 _
-SPG Friedburg/Pöndorf         2-2 SPG Pregarten                 [3-5 pen]
+SPG Friedburg/Pöndorf         2-2 SPG Pregarten                 (3-5 pen)
 ASKÖ Donau Linz               0-5 SV Bad Schallerbach
 SK Schärding                  1-2 Wallern/St. Marienkirchen
 _ May 2 _
@@ -1046,7 +1046,7 @@ SC Mittersill                 1-5 SV Kuchl
 
 ▪ Semifinals ▪  May 2
 SV Austria Salzburg           1-0 UFC Hallein
-UFV ThaLGAU                   1-1 SV Kuchl                      [4-5 pen]
+UFV ThaLGAU                   1-1 SV Kuchl                      (4-5 pen)
 
 ▪ Final ▪  May 17
 SV Austria Salzburg           1-0 SV Kuchl
@@ -1055,11 +1055,11 @@ Steirer Cup 2022/23  ‹§steicup›
 
 ▪ Quarterfinals ▪
 _ Oct 25 _
-ASK Köflach                   0-0 SV Frauental                  [5-3 pen]
+ASK Köflach                   0-0 SV Frauental                  (5-3 pen)
 UFC Schönegg                  0-8 SC Weiz
 _ Oct 26 _
 SV Thörl                      0-2 DSV Leoben
-SV Tillmitsch                 2-2 USV St. Anna am Aigen         [5-4 pen]
+SV Tillmitsch                 2-2 USV St. Anna am Aigen         (5-4 pen)
 
 ▪ Semifinals ▪  Apr 10
 ASK Köflach                   1-2 DSV Leoben
@@ -1073,7 +1073,7 @@ Tirol-Cup 2022/23  ‹§tircup›
 ▪ Quarterfinals ▪  May 1
 SPG Prutz/Serfaus             3-1 SV Fügen
 SV Telfs                      0-5 SC Imst
-Völser SV                     0-0 SV Oberperfuss                [2-4 pen]
+Völser SV                     0-0 SV Oberperfuss                (2-4 pen)
 SV Haiming                    1-5 FC Kufstein
 
 ▪ Semifinals ▪  May 18
@@ -1087,7 +1087,7 @@ VFV (Vorarlberg) Cup 2022/23  ‹§vorcup›
 
 ▪ Quarterfinals ▪
 _ May 9 _
-FC Wolfurt                    3-3 FC Rotenberg                  [4-1 pen]
+FC Wolfurt                    3-3 FC Rotenberg                  (4-1 pen)
 Schwarz-Weiß Bregeny          0-1 FC Alberschwende
 _ May 10 _
 FC Schwarzenberg              4-0 SV Gaissau

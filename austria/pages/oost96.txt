@@ -8,22 +8,8 @@
 
 1.Bundesliga
 
-Table:
+<!-- $table1$ -->
 
- 1.SK Rapid Wien                36 22  7  7  68-38 73  Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Sturm Graz                36 20  7  9  61-35 67  CWC
- 3.FC Tirol Innsbruck           36 18  8 10  64-40 62  UEFA Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.Grazer AK                    36 14 15  7  46-36 57  UEFA Cup
- 5.FK Austria Wien              36 14  9 13  42-35 51  UIC
- 6.Linzer ASK                   36 13  9 14  36-35 48  UIC
- 7.SV Ried im Innkreis          36 11 14 11  47-53 47  UIC
- 8.SV Austria Salzburg          36 10 14 12  53-51 44
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.FC Admira/Wacker             36  7 13 16  35-61 34  Relegation Playoff
------------------------------------------------------
-10.SK Vorwärts Steyr            36  0  6 30  25-93  6  Relegated
 
 ▪ Round 1 ▪
 _ Aug 2 _
@@ -338,22 +324,8 @@ LASK             1-1 Tirol
 Austria Salzburg 4-0 Vorwärts
 Admira/Wacker    1-3 Ried
 
-Table:
+<!-- $table2$ -->
 
- 1.SK Rapid Wien                36 22  7  7  68-38 73  Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Sturm Graz                36 20  7  9  61-35 67  CWC
- 3.FC Tirol Innsbruck           36 18  8 10  64-40 62  UEFA Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 4.Grazer AK                    36 14 15  7  46-36 57  UEFA Cup
- 5.FK Austria Wien              36 14  9 13  42-35 51  UIC
- 6.Linzer ASK                   36 13  9 14  36-35 48  UIC
- 7.SV Ried im Innkreis          36 11 14 11  47-53 47  UIC
- 8.SV Austria Salzburg          36 10 14 12  53-51 44
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.FC Admira/Wacker             36  7 13 16  35-61 34  Relegation Playoff
------------------------------------------------------
-10.SK Vorwärts Steyr            36  0  6 30  25-93  6  Relegated
 
 Promoted from the 2. Bundesliga: FC Linz.
 
@@ -462,9 +434,9 @@ ASK Voitsberg           3-0     SAK Klagenfurt
 Villacher SV            1-2     SV Spittal/Dr.          (aet)
 SV Eibiswald            0-5     FC Linz
 Union Esternberg        0-3     DSV Leoben
-Austria Klagenfurt      2-2     Donau Linz              [aet, pen 4-3]
+Austria Klagenfurt      2-2     Donau Linz              (aet, pen 4-3)
 FC Deutschkreutz        0-2     VfB Mödling
-SR Donaufeld            0-0     Klingenbach             [aet, pen 3-5]
+SR Donaufeld            0-0     Klingenbach             (aet, pen 3-5)
 FC Waidhofen/Y.         2-0     ASK Kottingbrunn        (aet)
 Untersiebenbrunn        3-1     Admira Landhaus         (aet)
 Gersthofer SV           1-0     SV Essling
@@ -534,27 +506,8 @@ Referee: Plautz, att: 8800.
 
 2.Bundesliga
 
-Table:
+<!-- $table3$ -->
 
- 1.FC Linz                      30 21  5  4  62-27 68  Promoted
------------------------------------------------------
- 2.SV Gerasdorf                 30 15 11  4  54-25 56  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.First Vienna FC              30 13  9  8  48-39 48
- 4.VfB Mödling                  30 13  7 10  45-33 46
- 5.DSV Leoben                   30 12  8 10  41-33 44
- 6.Favoritner AC                30 10 14  6  38-31 44
- 7.SC Austria Lustenau          30  9 13  8  34-24 40
- 8.SV Braunau                   30  9 11 10  39-40 38
- 9.WSG Wattens                  30  7 15  8  34-34 36
-10.SV Flavia Solva              30  8 12 10  21-37 36
-11.SV Spittal/Drau              30  9  8 13  35-42 35
-12.FC Kufstein                  30  9  8 13  33-42 35
-13.VSE Sankt Pölten             30  8 10 12  36-51 34
------------------------------------------------------
-14.SAK Klagenfurt               30  8  8 14  30-50 32  Relegated
-15.SV Oberwart                  30  7  9 14  33-49 30  Relegated
-16.ASK Klingenbach              30  4  8 18  28-54 20  Relegated
 
 
 ▪ Round 1 ▪
@@ -858,27 +811,8 @@ DSV              2-1 Oberwart
 Flavia Solva     0-4 Sankt Pölten
 Wattens          1-3 Mödling
 
-Table:
+<!-- $table4$ -->
 
- 1.FC Linz                      30 21  5  4  62-27 68  Promoted
------------------------------------------------------
- 2.SV Gerasdorf                 30 15 11  4  54-25 56  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.First Vienna FC              30 13  9  8  48-39 48
- 4.VfB Mödling                  30 13  7 10  45-33 46
- 5.DSV Leoben                   30 12  8 10  41-33 44
- 6.Favoritner AC                30 10 14  6  38-31 44
- 7.SC Austria Lustenau          30  9 13  8  34-24 40
- 8.SV Braunau                   30  9 11 10  39-40 38
- 9.WSG Wattens                  30  7 15  8  34-34 36
-10.SV Flavia Solva              30  8 12 10  21-37 36
-11.SV Spittal/Drau              30  9  8 13  35-42 35
-12.FC Kufstein                  30  9  8 13  33-42 35
-13.VSE Sankt Pölten             30  8 10 12  36-51 34
------------------------------------------------------
-14.SAK Klagenfurt               30  8  8 14  30-50 32  Relegated
-15.SV Oberwart                  30  7  9 14  33-49 30  Relegated
-16.ASK Klingenbach              30  4  8 18  28-54 20  Relegated
 
 SV Stockerau (from the Ostliga), Schwarz-Weiss Bregenz (from the Westliga)
 and TSV Hartberg (Regionalliga Mitte) promoted to 2. Bundesliga.
@@ -921,7 +855,7 @@ Zwettl          1-0 2-0 2-0 1-4 1-1 0-0 1-1 1-2 0-1 0-0 4-2 1-0 1-1 2-2 2-1 xxx
 
 NB: Sig-Adm 1-4 but awarded 3-0; WNe-Sig 10-0
 
-<!-- $table1$ -->
+<!-- $table5$ -->
 
 
 [winners promoted to 2. Bundesliga; bottom 4 relegated to their
@@ -952,7 +886,7 @@ Eintracht Wels  1-1 0-2 2-2 1-0 4-0 1-0 xxx 2-1
 Wolfsberger AC  1-0 1-3 0-2 0-0 3-1 2-2 2-3 xxx
                 1-0 0-0 4-0 1-0 1-0 3-2 4-2 xxx
 
-<!-- $table2$ -->
+<!-- $table6$ -->
 
 
 (winners promoted to 2. Bundesliga; one team relegated because
@@ -981,7 +915,7 @@ Woergl          2-1 0-1 3-0 0-0 0-3 5-1 3-1 xxx
 
 NB: Woe-Puc 1-0 awarded 0-3
 
-<!-- $table3$ -->
+<!-- $table7$ -->
 
 
 [winners promoted to 2. Bundesliga;  the eight clubs
@@ -1032,10 +966,10 @@ Steinbrunn      2-4 1-3 0-0 4-0 2-0 2-1 0-2 0-0 2-1 0-0 1-3 2-0 4-0 xxx 1-1 3-0
 Tadten          2-0 1-0 5-3 3-1 0-3 4-1 2-3 2-0 3-1 5-0 2-0 6-1 3-0 0-0 xxx 0-0
 Trausdorf       2-0 0-1 1-1 4-2 2-0 0-1 1-2 3-0 3-0 0-1 1-1 0-0 3-0 0-3 1-1 xxx
 
-<!-- $table4$ -->
+<!-- $table8$ -->
 
 
-(winners promoted to Ostliga; bottom 3 relegated)
+[winners promoted to Ostliga; bottom 3 relegated]
 
 Down from Ostliga: SV Sigleß.  Promoted to Landesliga: Horitschon,
 Neuberg, and Zurndorf.
@@ -1064,13 +998,13 @@ Ybbs            1-1 0-1 1-0 0-1 1-2 0-0 2-1 0-1 1-1 0-0 0-3 2-1 1-1 1-3 1-0 xxx
 
 Note: Neudoerfl-Tulln apparently awarded 0-3 (originally 1-0)
 
-<!-- $table5$ -->
+<!-- $table9$ -->
 
 
 [*] Hochwolkersdorf voluntarily withdrew from the Landesliga after
     the season because of financial problems.
 
-(winners promoted to Ostliga; bottom 3 relegated)
+[winners promoted to Ostliga; bottom 3 relegated]
 
 Down from Ostliga: SC Zwettl.  Promoted to Landesliga: Hohenau,
 Oberndorf, and Schrems.
@@ -1099,7 +1033,7 @@ Wienerfeld      0-2 0-2 3-1 0-5 0-1 4-7 0-0 1-1 0-0 0-7 1-1 2-1 2-0 1-1 2-7 xxx
 
 Note: Wacker-LAC 0-3 awarded; Simmering-Wacker 3-0 awarded; Fortuna-Wacker 12-0.
 
-<!-- $table6$ -->
+<!-- $table10$ -->
 
 
 [winners promoted to Ostliga; 3 teams relegated because of relegation
@@ -1133,12 +1067,12 @@ St Veit         0-1 1-2 0-0 2-0 1-2 5-0 2-1 0-1 0-1 2-0 1-1 0-0 0-0 xxx 5-0 4-1
 Wietersdorf     1-1 1-2 0-0 3-1 3-1 1-1 2-0 1-3 2-0 2-1 2-3 2-0 1-1 0-1 xxx 0-0
 ATSV Wolfsberg  0-0 0-3 2-2 1-1 0-0 1-6 1-1 1-7 0-2 1-2 1-4 3-1 1-1 3-0 1-1 xxx
 
-<!-- $table7$ -->
+<!-- $table11$ -->
 
 
 [winner promoted to RL Mitte; Bleiburg earned promotion because LUV
  Graz withdrew from the RL Mitte; 1 team relegated]
-(promoted to LL: Völkermarkt (from 2.LL Ost))
+[promoted to LL: Völkermarkt (from 2.LL Ost)]
 
 
 Landesliga Oberösterreich
@@ -1162,10 +1096,10 @@ Voecklamarkt    1-2 1-1 1-0 2-0 0-0 0-2 1-2 0-3 1-3 0-0 0-0 0-0 1-1 xxx
 
 NB: Magdalena-Sattledt 0-3 awd (orig 2-2)
 
-<!-- $table8$ -->
+<!-- $table12$ -->
 
 
-(top-3 promoted to RL Mitte; 1 team relegated)
+[top-3 promoted to RL Mitte; 1 team relegated]
 
 [First relegation of Amateure after 76 years.  Promoted to 1.Landesliga:
 Micheldorf, Gmunden, and Bad Schallerbach.  Relegated from RL Mitte:
@@ -1197,10 +1131,10 @@ Zeltweg         2-1 1-1 1-2 2-0 3-0 3-0 2-0 0-1 2-2 3-1 1-0 2-1 2-2 3-0 1-0 xxx
 
 NB: Poellau-Knittelfeld 3-0 awd (was 1-0).
 
-<!-- $table9$ -->
+<!-- $table13$ -->
 
 
-(top-3 promoted to RL Mitte; 1 team will be relegated)
+[top-3 promoted to RL Mitte; 1 team will be relegated]
 
 [Promoted: SC Anger (Oberliga Süd-Ost), SC Bruck/Mur (Oberliga Nord), and
  SV Großklein (Oberliga Mitte-West).]
@@ -1231,7 +1165,7 @@ Table at winter break:
 
 [Puch and Salzburg to Westliga in spring season]
 
-<!-- $table10$ -->
+<!-- $table14$ -->
 
 
  1.Salzburger AK                32 17  6  9  64-46 57
@@ -1305,7 +1239,7 @@ Table at winter break:
 
 [Hard, SW Bregenz and Hohenems to Westliga in spring season]
 
-<!-- $table11$ -->
+<!-- $table15$ -->
 
 
  1.FC Lustenau                  30 17  8  5  51-32 43 (17)
@@ -1317,7 +1251,7 @@ Table at winter break:
  6.FC Dornbirn                  30  4  1 25  25-76 12 ( 2)
  7.Viktoria Bregenz             30  2  4 24  21-84  8 ( 3)
 
-(First three promoted to extended Westliga 1996/97)
+[First three promoted to extended Westliga 1996/97]
 
 [RW Rankweil renounced the place in the Westliga after a massive
  walk-out due to financial problems; instead Lauterach obtained
@@ -1877,11 +1811,11 @@ their second team) The league is extended to 16 teams
 6th Level
 
 Landesliga Ost
-<!-- $table12$ -->
+<!-- $table16$ -->
 
 
 Landesliga West
-<!-- $table13$ -->
+<!-- $table17$ -->
 
 
 Promoted: SK Hippach, SV Aldrans
@@ -1891,11 +1825,11 @@ Both leagues are extended to 14 teams
 7th Level
 
 Gebietsliga Ost
-<!-- $table14$ -->
+<!-- $table18$ -->
 
 
 Gebietsliga West
-<!-- $table15$ -->
+<!-- $table19$ -->
 
 
 Promoted: FC Aschau im Zillertal, SV Rinn, TS Stams
@@ -1904,15 +1838,15 @@ No Relegation from Landesliga
 8th Level
 
 1.Klasse Ost
-<!-- $table16$ -->
+<!-- $table20$ -->
 
 
 1.Klasse Mitte
-<!-- $table17$ -->
+<!-- $table21$ -->
 
 
 1.Klasse West
-<!-- $table18$ -->
+<!-- $table22$ -->
 
 
 Promoted: SV Wörgl II, SV Lohbach/Kranebitten, FC Fließ
@@ -1921,15 +1855,15 @@ Relegated: FC Grinzens (because of worst points in Gebietsliga)
 9th Level
 
 2.Klasse Ost
-<!-- $table19$ -->
+<!-- $table23$ -->
 
 
 2.Klasse Mitte
-<!-- $table20$ -->
+<!-- $table24$ -->
 
 
 2.Klasse West
-<!-- $table21$ -->
+<!-- $table25$ -->
 
 
 Dissolved teams: FC Kitzbühel II, SV Fügen II, SV Volders II, SV

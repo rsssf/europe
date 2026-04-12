@@ -690,7 +690,7 @@ Grazer AK         3-3 Austria Wien             (aet, 5-4 pen)
 
 
 Super Cup 2004 [Jul 9, Schwarzenegger-Stadion, Graz; att: 7,000]
-Grazer AK         1-1 Austria Wien             [2-4 pen]
+Grazer AK         1-1 Austria Wien             (2-4 pen)
   (Kollmann 8; Pogatetz 54og)
 
 
@@ -1739,22 +1739,22 @@ Tiroler Cup (Anton-Nöhrer Cup) 2003/04  ‹§tircup›
 
 ▪ Preliminary Round ▪
 FC Achensee               1-3  FC Vomp
-SV Angerberg              2-2  SR Oberlangkampfen        [pen 5-3]
+SV Angerberg              2-2  SR Oberlangkampfen        (pen 5-3)
 SPG Fügen/Uderns II       0-3  SK Zell am Ziller
 ESV Hatting               3-1  TSV Inzing
 SPG Hopfgarten/Itter      1-4  SK Kirchberg
 FC Landeck                1-4  SPG Pitztal
 SV Mieders                1-8  FC Schönberg
 FC Navis                  2-9  TSV Fulpmes
-FC Oberndorf in Tirol     1-1  SV Kirchdorf              [pen 2-3]
-SPG Obsteig/Mieming       4-4  TUS Tarrenz               [pen 4-2]
+FC Oberndorf in Tirol     1-1  SV Kirchdorf              (pen 2-3)
+SPG Obsteig/Mieming       4-4  TUS Tarrenz               (pen 4-2)
 FC Pettneu                1-0  SPG Silz/Mötz
-FC St.Leonhard            1-1  SK Rietz                  [pen 7-6]
-FG Schönwies/Mils         1-1  FC Fliess                 [pen 3-5]
+FC St.Leonhard            1-1  SK Rietz                  (pen 7-6)
+FG Schönwies/Mils         1-1  FC Fliess                 (pen 3-5)
 SC Schwaz II              1-5  SPG Brixlegg/Rattenberg
 FC Sellraintal            4-1  SV Lohbach/Kranebitten
-SV Stans                  0-0  FC Buch                   [pen 0-1]
-SV Telfs II               2-2  SV Kematen                [pen 4-2]
+SV Stans                  0-0  FC Buch                   (pen 0-1)
+SV Telfs II               2-2  SV Kematen                (pen 4-2)
 SV Tulfes                 2-5  SV Völs
 FC Tux                    0-4  FC Aschau im Zillertal
 WSG Wattens II            4-0  SPG Ellbögen/Patsch
@@ -1779,11 +1779,11 @@ FC Flaurling              5-0  Union Innsbruck
 TSV Fulpmes               0-6  SC Steinach
 SC Going                  2-1  SV Langkampfen
 FC Gries am Brenner       1-5  SV Rinn
-FC Grinzens               0-0  SK Zirl                   [pen 2-3]
+FC Grinzens               0-0  SK Zirl                   (pen 2-3)
 ESV Hatting               0-2  FC Oberhofen
 FC Hochfilzen             0-9  SK St.Johann
 SV Karres                 1-7  TS Stams
-SK Kirchberg              2-2  SV Thiersee               [pen 2-4]
+SK Kirchberg              2-2  SV Thiersee               (pen 2-4)
 SV Kirchdorf              2-6  FC Bruckhäusl
 SPG Kitzbühel/Reith II    0-2  SV Westendorf
 SC Kundl II               1-4  SV Wörgl Amateure
@@ -1794,14 +1794,14 @@ TS Nassereith             0-3  SV Telfs I
 SV Natters                6-2  SV Innsbruck
 USV Oetz                  1-2  SV Längenfeld
 SV Pfunds                 2-3  SV Landeck
-SPG Prutz/Serfaus         4-4  SV Haiming                [pen 2-4]
+SPG Prutz/Serfaus         4-4  SV Haiming                (pen 2-4)
 SV Radfeld                2-4  SK Ebbs
 SV Reutte                 3-1  FC St.Leonhard
 SV Ried im Oberinntal     2-9  SV Zams
 SV Ried/Kaltenbach        0-8  SPG Fügen/Uderns I
 TUS Roppen                1-3  SV Telfs II
 FC St.Anton               1-4  FC Pettneu
-FC St.Ulrich              1-1  FC Kössen                 [pen 4-5]
+FC St.Ulrich              1-1  FC Kössen                 (pen 4-5)
 SV Scharnitz              1-15 Innsbrucker SK
 SV Schlitters             2-0  SPG SK Rum/IAC II
 FC Schmirn                1-3  SPG Reichenau/Aldrans II
@@ -1813,15 +1813,15 @@ SK Seefeld                3-6  SV Absam
 FC Sellraintal            2-4  SV Neustift
 SV Sistrans               4-1  SPG Axams/Götzens II
 SPG Sölden                1-3  SV Umhausen
-FC Stanzach               2-2  SV Elbigenalp             [pen 4-5]
+FC Stanzach               2-2  SV Elbigenalp             (pen 4-5)
 FC Tiroler Zugspitze      2-4  SPG Obsteig/Mieming
 FC Veldidena              3-1  WSG Wattens I
-FC Vils                   3-3  SC Imst                   [pen 4-5]
+FC Vils                   3-3  SC Imst                   (pen 4-5)
 SV Völs                   2-1  SV Oberperfuss
 SK Waidring               3-4  FC Söll
 WSG Wattens II            0-6  SPG SK Rum/IAC I
 SV Weerberg               3-5  SV Fritzens
-FC Wildschönau            1-1  SV Kirchbichl             [pen 5-6]
+FC Wildschönau            1-1  SV Kirchbichl             (pen 5-6)
 SK Wilten                 0-5  SV Kolsass/Weer
 SK Zell am Ziller         5-1  SV Breitenbach
 
@@ -1829,30 +1829,30 @@ SK Zell am Ziller         5-1  SV Breitenbach
 SV Absam                  1-6  SPG Axams/Götzens
 SV Bad Häring             2-1  FC Kufstein II
 SPG Brixlegg/Rattenberg   4-3  FC Vomp
-FC Bruckhäusl             1-1  SK Ebbs                   [pen 1-3]
+FC Bruckhäusl             1-1  SK Ebbs                   (pen 1-3)
 SVG Erl                   2-1  SV Brixen im Thale
 FC Flaurling              4-1  FC Veldidena
 FC Fliess                 1-3  SV Umhausen
-SC Going                  3-3  SV Wörgl Amateure         [pen 6-7]
-SV Haiming                3-3  TS Stams                  [pen 3-5]
-Innsbrucker SK            1-1  SPG Reichenau/Aldrans I   [pen 3-5]
+SC Going                  3-3  SV Wörgl Amateure         (pen 6-7)
+SV Haiming                3-3  TS Stams                  (pen 3-5)
+Innsbrucker SK            1-1  SPG Reichenau/Aldrans I   (pen 3-5)
 SVG Jenbach               1-0  SC Kundl
 SV Kirchbichl             0-13 FC Kufstein I
 FC Kössen                 2-1  SPG Kitzbühel/Reith I
-SV Landeck                3-3  SV Telfs I                [pen 4-2]
+SV Landeck                3-3  SV Telfs I                (pen 4-2)
 SVG Mayrhofen             3-0  SK Hippach
 SV Natters                2-4  SK Zirl
 SV Neustift               3-2  SV Rinn
 SPG Obsteig/Mieming       2-4  SV Elbigenalp
-FC Pettneu                1-1  SV Längenfeld             [pen 2-4]
-SV Reutte                 2-2  SPG Pitztal               [pen 7-8]
+FC Pettneu                1-1  SV Längenfeld             (pen 2-4)
+SV Reutte                 2-2  SPG Pitztal               (pen 7-8)
 SV Schlitters             1-3  SV Kolsass/Weer
 SC Schwaz I               1-2  SV Fügen/Uderns I
 SV Sistrans               0-3  SV Matrei am Brenner
 FC Söll                   3-1  SK St.Johann
 SC Steinach               1-3  SPG SK Rum/IAC I
 SV Telfs II               0-6  SC Imst
-SV Thaur                  2-2  SPG Reichenau/Aldrans II  [pen 6-7]
+SV Thaur                  2-2  SPG Reichenau/Aldrans II  (pen 6-7)
 SV Thiersee               7-1  SV Westendorf
 SV Volders                4-1  SV Fritzens
 SV Völs                   1-5  SV Hall
@@ -1864,18 +1864,18 @@ FC Aschau im Zillertal    5-3  SK Ebbs
 SV Bad Häring             1-3  SVG Jenbach
 SPG Brixlegg/Rattenberg   4-2  SV Thiersee
 SV Elbigenalp             2-5  SV Landeck
-SVG Erl                   1-1  SV Volders                [pen 4-1]
+SVG Erl                   1-1  SV Volders                (pen 4-1)
 FC Flaurling              4-2  SK Zirl
 SC Imst                   0-6  SPG SK Rum/IAC
-SV Kolsass/Weer           2-2  SV Wörgl Amateure         [pen 6-5]
+SV Kolsass/Weer           2-2  SV Wörgl Amateure         (pen 6-5)
 FC Kössen                 0-4  SV Hall
 SV Matrei am Brenner      0-1  SV Längenfeld
 SVG Mayrhofen             2-3  FC Kufstein I
-SPG Pitztal               3-3  SV Neustift               [pen 2-4]
+SPG Pitztal               3-3  SV Neustift               (pen 2-4)
 SPG Reichenau/Aldrans II  2-3  TS Stams
-FC Söll                   2-2  SPG Fügen/Uderns I        [pen 6-7]
+FC Söll                   2-2  SPG Fügen/Uderns I        (pen 6-7)
 SV Umhausen               2-4  SPG Axams/Götzens I
-SV Zams                   2-2  SPG Reichenau/Aldrans I   [pen 6-5]
+SV Zams                   2-2  SPG Reichenau/Aldrans I   (pen 6-5)
 
 ▪ Fourth Round ▪
 FC Aschau im Zillertal    1-3  SPG Brixlegg/Rattenberg
@@ -1884,21 +1884,21 @@ FC Flaurling              1-0  SPG Fügen/Uderns I
 SVG Jenbach               1-0  SV Hall
 FC Kufstein I            10-0  SV Längenfeld
 SV Neustift               0-1  SPG Axams/Götzens I
-SPG Rum/IAC I             1-1  TS Stams                  [pen 4-3]
+SPG Rum/IAC I             1-1  TS Stams                  (pen 4-3)
 SV Zams                   3-1  SV Landeck
 
 ▪ Quarter Finals ▪
 SPG Axams/Götzens I       6-1  FC Flaurling
 SPG Brixlegg/Rattenberg   1-0  SVG Jenbach
 FC Kufstein I             3-1  SPG Rum/IAC
-SV Zams                   1-1  SV Kolsass/Weer           [pen 2-4]
+SV Zams                   1-1  SV Kolsass/Weer           (pen 2-4)
 
 ▪ Semi Finals ▪
 SPG Brixlegg/Rattenberg   2-4  SPG Axams/Götzens
 FC Kufstein               4-0  SV Kolsass/Weer
 
 ▪ Final ▪  June 10, 2004, Imst
-SPG Axams/Götzens         3-3  FC Kufstein               [pen 3-0]
+SPG Axams/Götzens         3-3  FC Kufstein               (pen 3-0)
 
 
 

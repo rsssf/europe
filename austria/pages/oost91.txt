@@ -12,21 +12,8 @@ Fall season
 1.Bundesliga
 ------------
 
-Table:
+<!-- $table1$ -->
 
- 1.FC Tirol Innsbruck        22  13  6  3  49-18   32
- 2.FK Austria Wien           22  12  6  4  48-21   30
- 3.SK Rapid Wien             22  13  3  6  47-21   29
- 4.SK Sturm Graz             22  11  5  6  42-25   27
- 5.SV Austria Salzburg       22  12  2  8  38-28   26
- 6.SK Vorwärts Steyr         22   8  6  8  32-33   22
- 7.DSV Alpine                22   6  9  7  25-33   21
- 8.FC Admira/Wacker          22   6  7  9  17-29   19
------------------------------------------------------
- 9.Wiener Sport-Club         22   7  3 12  25-42   17
-10.First Vienna FC           22   6  5 11  29-48   17
-11.Kremser SC                22   3  7 12  18-40   13
-12.VSE Sankt Pölten          22   3  5 14  18-50   11
 
 ▪ Round 1 ▪
 _ Jul 27 _
@@ -245,21 +232,8 @@ Austria Salzburg 1-1 Admira/Wacker
 Vienna      2-6 Austria Wien
 St. Pölten    2-2 Sturm
 
-Table:
+<!-- $table2$ -->
 
- 1.FC Tirol Innsbruck        22  13  6  3  49-18   32
- 2.FK Austria Wien           22  12  6  4  48-21   30
- 3.SK Rapid Wien             22  13  3  6  47-21   29
- 4.SK Sturm Graz             22  11  5  6  42-25   27
- 5.SV Austria Salzburg       22  12  2  8  38-28   26
- 6.SK Vorwärts Steyr         22   8  6  8  32-33   22
- 7.DSV Alpine                22   6  9  7  25-33   21
- 8.FC Admira/Wacker          22   6  7  9  17-29   19
------------------------------------------------------
- 9.Wiener Sport-Club         22   7  3 12  25-42   17
-10.First Vienna FC           22   6  5 11  29-48   17
-11.Kremser SC                22   3  7 12  18-40   13
-12.VSE Sankt Pölten          22   3  5 14  18-50   11
 
 
 Spring season
@@ -268,16 +242,8 @@ Spring season
 Meisterplayoff
 --------------
 
-Table:
+<!-- $table3$ -->
 
- 1.FK Austria Wien           36  22  7  7  72-33   36  (15-21)
- 2.FC Tirol Innsbruck        36  21  9  6  78-35   35  (16-19)
- 3.SK Sturm Graz             36  18  9  9  60-37   32  (14-18)
- 4.SK Rapid Wien             36  18  5 13  67-41   27  (15-12)
- 5.SV Austria Salzburg       36  15  7 14  58-48   24  (13-11)
- 6.FC Admira/Wacker          36   9 14 13  31-48   23  (10-13)
- 7.SK Vorwärts Steyr         36  10 12 14  46-57   21  (11-10)
- 8.DSV Alpine                36   9 11 16  38-61   19  (11- 8)
 
 [Note: points between brackets are points retained from fall (halved and
        rounded) and obtained in spring respectively.]
@@ -380,16 +346,8 @@ Rapid      0-2 Vorwärts
 Sturm      2-1 Alpine
 Austria Salzburg 1-2 Tirol
 
-Table:
+<!-- $table4$ -->
 
- 1.FK Austria Wien           36  22  7  7  72-33   36  (15-21)
- 2.FC Tirol Innsbruck        36  21  9  6  78-35   35  (16-19)
- 3.SK Sturm Graz             36  18  9  9  60-37   32  (14-18)
- 4.SK Rapid Wien             36  18  5 13  67-41   27  (15-12)
- 5.SV Austria Salzburg       36  15  7 14  58-48   24  (13-11)
- 6.FC Admira/Wacker          36   9 14 13  31-48   23  (10-13)
- 7.SK Vorwärts Steyr         36  10 12 14  46-57   21  (11-10)
- 8.DSV Alpine                36   9 11 16  38-61   19  (11- 8)
 
 [Note: points between brackets are points retained from fall (halved and
        rounded) and obtained in spring respectively.]

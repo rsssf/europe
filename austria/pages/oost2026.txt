@@ -247,14 +247,8 @@ Wattens          2-0 GAK
 
 ▪ Championship Playoff ▪
 
-Table:
+<!-- $table3$ -->
 
- 1.SK Sturm Graz                24  13  3  8  39-29  23  [19]  [C]
- 2.SK Rapid Wien                24  11  6  7  31-27  22  [16*]
- 3.FK Austria Wien              24  12  3  9  37-35  21  [18]
- 4.RB Salzburg                  24  10  8  6  43-28  19  [18*]
- 5.LASK Linz                    24  11  5  8  34-34  19  [18*]
- 6.TSV Hartberg                 24   8 10  6  29-25  17  [16*]
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -273,29 +267,16 @@ _ Mar 22 _
 Hartberg         0-1 Austria W
 Rapid            4-2 LASK
 
-Table:
+<!-- $table4$ -->
 
- 1.SK Sturm Graz                24  13  3  8  39-29  23  [19]  [C]
- 2.SK Rapid Wien                24  11  6  7  31-27  22  [16*]
- 3.FK Austria Wien              24  12  3  9  37-35  21  [18]
- 4.RB Salzburg                  24  10  8  6  43-28  19  [18*]
- 5.LASK Linz                    24  11  5  8  34-34  19  [18*]
- 6.TSV Hartberg                 24   8 10  6  29-25  17  [16*]
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
 
 ▪ Relegation Playoff ▪
 
-Table:
+<!-- $table5$ -->
 
- 7.SC Rheindorf Altach          24   8  9  7  26-25  18  [14*]
- 8.SV Ried                      24   9  4 11  30-34  17  [14]  [P]
- 9.GAK 1902                     24   6  8 10  29-37  16  [10]
-10.Wattener SG Tirol            24   8  7  9  33-37  15  [15*]
-11.Wolfsberger AC               24   7  6 11  32-35  14  [13]
--------------------------------------------------------
-12.FC Blau-Weiß Linz            24   5  3 16  24-41  10  [ 7*]
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)
@@ -310,15 +291,8 @@ BW Linz          3-2 Ried
 Wolfsberg        1-1 Altach
 Wattens          1-5 GAK
 
-Table:
+<!-- $table6$ -->
 
- 7.SC Rheindorf Altach          24   8  9  7  26-25  18  [14*]
- 8.SV Ried                      24   9  4 11  30-34  17  [14]  [P]
- 9.GAK 1902                     24   6  8 10  29-37  16  [10]
-10.Wattener SG Tirol            24   8  7  9  33-37  15  [15*]
-11.Wolfsberger AC               24   7  6 11  32-35  14  [13]
--------------------------------------------------------
-12.FC Blau-Weiß Linz            24   5  3 16  24-41  10  [ 7*]
 
 NB: teams carry over half their points from the regular stage (listed between
     square brackets), rounded downwards (marked by * where applicable)

@@ -10,33 +10,15 @@
 1.Division
 ----------
 
-Table:
+<!-- $table1$ -->
 
- 1.FK Austria                30  21  5  4  85-29   47
- 2.SK Rapid                  30  19  9  2  71-18   47
- 3.Linzer ASK                30  17  8  5  54-25   42
- 4.Wacker Innsbruck          30  13 11  6  54-31   37
- 5.SK Sturm Graz             30  15  7  8  52-43   37
- 6.FC Admira/Wacker          30  12 12  6  47-36   36
- 7.Austria Klagenfurt        30  12 10  8  55-38   34
- 8.Grazer AK                 30  13  6 11  45-37   32
- 9.Wiener Sport-Club         30  10  7 13  53-52   27
-10.SV Austria Salzburg       30  10  7 13  39-46   27
-11.SC Eisenstadt             30   9  7 14  39-49   25
-12.VOEST Linz                30   8  9 13  35-47   25
-13.Favoritner AC             30   8  9 13  35-52   25
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
-14.SV Sankt Veit             30   7  7 16  37-59   21 Relegation Playoff
------------------------------------------------------
-15.Union Wels                30   4  6 20  22-69   14 [disbanded]
-16.SC Neusiedl               30   1  2 27  10-102   4
 
 Union Wels was dissolved on February 1 and therefore disbanded from competition
 Due to this disbandment, a play-off was organized for the additional place
 in the 1.Division.
 
-Promotion/Relegation Playoff:
-(Jun 12, Jun 15)
+▪ Promotion/Relegation Playoff ▪
+_ Jun 12, Jun 15 _
 DSV Alpine 2-0 1-1 SV Sankt Veit
 
 ▪ Round 1 ▪
@@ -399,33 +381,15 @@ Austria Salzburg 1-1 VOEST
 St. Veit    3-3 Klagenfurt
 Sportclub    0-0 Admira/Wacker
 
-Table:
+<!-- $table2$ -->
 
- 1.FK Austria                30  21  5  4  85-29   47
- 2.SK Rapid                  30  19  9  2  71-18   47
- 3.Linzer ASK                30  17  8  5  54-25   42
- 4.Wacker Innsbruck          30  13 11  6  54-31   37
- 5.SK Sturm Graz             30  15  7  8  52-43   37
- 6.FC Admira/Wacker          30  12 12  6  47-36   36
- 7.Austria Klagenfurt        30  12 10  8  55-38   34
- 8.Grazer AK                 30  13  6 11  45-37   32
- 9.Wiener Sport-Club         30  10  7 13  53-52   27
-10.SV Austria Salzburg       30  10  7 13  39-46   27
-11.SC Eisenstadt             30   9  7 14  39-49   25
-12.VOEST Linz                30   8  9 13  35-47   25
-13.Favoritner AC             30   8  9 13  35-52   25
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
-14.SV Sankt Veit             30   7  7 16  37-59   21 Relegation Playoff
------------------------------------------------------
-15.Union Wels                30   4  6 20  22-69   14 [disbanded]
-16.SC Neusiedl               30   1  2 27  10-102   4
 
 Union Wels was dissolved on February 1 and therefore disbanded from competition
 Due to this disbandment, a play-off was organized for the additional place
 in the 1.Division.
 
-Promotion/Relegation Playoff:
-(Jun 12, Jun 15)
+▪ Promotion/Relegation Playoff ▪
+_ Jun 12, Jun 15 _
 DSV Alpine 2-0 1-1 SV Sankt Veit
 
 <!-- $topscorers1$ -->

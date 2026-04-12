@@ -40,7 +40,7 @@ Austria Lustenau 0-0 Austria Wien
 Rapid            1-0 Tirol
   (6' Ipoua)
 Ried             2-0 Austria Salzburg
-  ([36' Hansen, 58' Glasner)
+  [[36' Hansen, 58' Glasner]
 Sturm            4-1 LASK
   (58' Reinmayr, 84' Milanic, 89' Kocian, 90' Prilasnig; 70' Riseth)
 
@@ -608,7 +608,7 @@ SCR Altach       0-4 SV Ried
 WSG Wattens      1-0 SC Austria Lustenau
 FC Kufstein      0-2 Schwarz-Weiß Bregenz
 
-Fourth Round [Oct 30-Nov 1]
+▪ Fourth Round ▪  Oct 30-Nov 1
 FC Tirol Innsbk. 2-1 Grazer AK
 Untersiebenbrunn 1-3 Admira/Wacker M.
 WSG Wattens      0-2 LASK Linz           (aet)
@@ -649,26 +649,8 @@ Sturm: Sidorczuk, Foda, Milanic (30' Posch), Neukirchner (70' Spiteri), Hopfer,
 
 2.Bundesliga
 
-Table:
+<!-- $table3$ -->
 
- 1.SK Vorwärts Steyr            28 16  6  6 59-30  54  Promoted [*]
------------------------------------------------------
- 2.SC Spittal/Drau              28 14  8  6 52-30  50
- 3.First Vienna FC              28 13  7  8 44-26  46
- 4.SV Braunau                   28 12 10  6 42-27  46
- 5.Schwarz-Weiß Bregenz         28 13  6  9 44-31  45
- 6.DSV Leoben                   28 12  5 11 40-43  41
- 7.SV Stockerau                 28 11  7 10 44-45  40
- 8.SV Gerasdorf                 28 10  9  9 49-47  39
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.VSE Sankt Pölten             28 11  6 11 32-40  39  Relegation Playoff
------------------------------------------------------
-10.SC Rheindorf Altach          28 10  8 10 30-31  38  Relegated
-11.TSV Hartberg                 28  9  8 11 35-39  35  Relegated
-12.WSG Wattens                  28  8 10 10 32-36  34  Relegated
-13.FC Kufstein                  28  5 13 10 22-37  28  Relegated
-14.ASK Kottingbrunn             28  4  7 17 28-60  19  Relegated
-15.SK Eintracht Wels            28  4  6 17 24-55  18  Relegated
 
 [*] SK Vorwärts Steyr have won their appeal for a license
     to play in Bundesliga next season; they will however start
@@ -974,26 +956,8 @@ Wattens          3-2 Sankt Pölten
 Kufstein         2-1 DSV
 Eintracht free
 
-Table:
+<!-- $table4$ -->
 
- 1.SK Vorwärts Steyr            28 16  6  6 59-30  54  Promoted [*]
------------------------------------------------------
- 2.SC Spittal/Drau              28 14  8  6 52-30  50  [*]
- 3.First Vienna FC              28 13  7  8 44-26  46
- 4.SV Braunau                   28 12 10  6 42-27  46
- 5.Schwarz-Weiß Bregenz         28 13  6  9 44-31  45
- 6.DSV Leoben                   28 12  5 11 40-43  41
- 7.SV Stockerau                 28 11  7 10 44-45  40
- 8.SV Gerasdorf                 28 10  9  9 49-47  39  [+]
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.VSE Sankt Pölten             28 11  6 11 32-40  39  Relegation Playoff  [+]
------------------------------------------------------
-10.SC Rheindorf Altach          28 10  8 10 30-31  38  Relegated  [*]
-11.TSV Hartberg                 28  9  8 11 35-39  35  Relegated
-12.WSG Wattens                  28  8 10 10 32-36  34  Relegated
-13.FC Kufstein                  28  5 13 10 22-37  28  Relegated
-14.ASK Kottingbrunn             28  4  7 17 28-60  19  Relegated
-15.SK Eintracht Wels            28  4  6 17 24-55  18  Relegated
 
 [*] SK Vorwärts Steyr have won their appeal for a license
     to play in Bundesliga next season; they will however start
@@ -1046,26 +1010,8 @@ W.Neustadt  3-4 1-4 1-2 0-1 4-1 2-6 0-0 1-2 2-5 0-0 3-1 0-2 0-1 xxx 7-5 2-2
 W.Sportclub 2-6 3-0 1-3 0-8 0-0 0-4 1-1 2-2 5-0 0-1 0-2 0-0 1-1 1-0 xxx 1-3
 Wuermla     2-1 2-1 0-0 2-0 6-0 3-2 1-1 1-2 3-0 3-0 0-0 2-1 1-1 8-0 1-2 xxx
 
-Table:
+<!-- $table5$ -->
 
- 1.Untersiebenbrunn             30 15  8  5 51-26  53  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SV Schwechat                 30 16  4 10 50-36  52
- 3.SC Eisenstadt                30 12 14  4 35-28  50
- 4.FC Waidhofen/Ybbs            30 13 10  7 38-24  49
- 5.SR Donaufeld                 30 15  4 11 52-40  49
- 6.Würmla                       30 13  8  9 55-43  47
- 7.SV Mattersburg               30 14  5 11 52-42  47
- 8.ASK Baumgarten               30 12  8 10 44-42  44
- 9.ASK Klingenbach              30 11 10  9 39-33  43
-10.Floridsdorfer AC             30 12  7 11 44-41  43
-11.SC Himberg                   30 10 11  9 43-36  41
------------------------------------------------------
-12.Neuberg                      30 10  6 14 33-40  36  Relegated [+]
-13.SG FavAC/Simmering           30  7  9 14 35-53  30  Relegated [*]
-14.SV Oberwart                  30  6 11 13 31-49  29  Relegated
-15.Wiener Sport-Club            30  6  5 19 36-71  23  Relegated
-16.1. Wiener Neustädter SC      30  6  4 20 40-74  21  Relegated
 
 [*] play at Simmering
 [+] after the merger of SV Gerasdorf (2nd level) with VSE Sankt Pölten
@@ -1090,24 +1036,8 @@ Wolfsberg   0-0 4-0 5-0 1-1 1-0 2-1 0-0 1-2 5-1 0-0 1-1 1-0 xxx 1-0
 Zeltweg     1-2 1-1 1-0 0-0 2-1 2-0 0-2 0-1 1-2 0-2 1-3 0-0 2-1 xxx
 Fla-Lei 0-3 awarded (originally 2-2)
 
-Table:
+<!-- $table6$ -->
 
- 1.SG Austria Klagenfurt/VSV    26 14 11  1 47-15  53  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.ASK Voitsberg                26 16  4  6 45-25  52
- 3.SV Gratkorn                  26 12  9  5 41-27  45
- 4.Wolfsberger AC               26 11  8  7 36-23  41
- 5.Union Sankt Florian          26 11  7  8 36-22  40
- 6.SVG Bleiburg                 26 11  6  9 37-30  39
- 7.SAK Klagenfurt               26  9 11  6 38-33  38
- 8.SV Leibnitz                  26 10  6 10 30-30  37
- 9.SV Rapid Lienz               26 10  5 11 41-38  35
-10.SV Grieskirchen              26  9  6 11 39-41  34
------------------------------------------------------
-11.TSV Pöllau                   26  7  5 14 24-38  26  Relegated
-12.USV Zeltweg                  26  6  6 14 23-42  24  Relegated
-13.Flavia Solva Wagna           26  5  7 14 20-45  22  Relegated
-14.Union Rohrbach/Berg          26  4  3 19 16-64  15  Relegated
 
 Regionalliga West
 =================
@@ -1129,26 +1059,8 @@ Tirol Amat. 7-0 0-1 1-3 3-2 2-1 3-3 0-1 0-2 1-1 1-2 3-1 1-0 2-1 xxx 0-3 9-0
 Woergl      2-0 4-0 4-1 5-0 7-1 2-1 4-0 4-1 4-1 3-1 5-0 1-1 2-1 5-0 xxx 2-1
 Zell        1-1 2-1 0-0 1-5 0-1 2-0 0-0 1-3 2-2 2-1 3-0 3-1 1-0 1-1 2-3 xxx
 
-Table:
+<!-- $table7$ -->
 
- 1.SV Wörgl                     30 24  5  1 88-25  77  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SC Kundl                     30 17  8  5 71-41  59
- 3.FC Lustenau 07               30 16  6  8 60-42  54
- 4.Salzburger AK 1914           30 13  6 11 35-41  45
- 5.FC Hard                      30 13  5 12 52-42  44
- 6.SV Austria Salzburg (Amat)   30 12  8 10 54-51  44
- 7.FC Puch                      30 11  9 10 49-43  42
- 8.FC Lauterach                 30 12  6 12 42-45  42
- 9.SK Rum                       30 10  9 11 56-47  39
-10.SV Hall                      30 11  6 13 41-41  39
-11.FC Tirol Innsbruck (Amat)    30 11  4 15 53-51  37
------------------------------------------------------
-12.FC Dornbirn                  30  9  8 13 36-51  35  Relegated
-13.FC Zell/See                  30  9  7 14 36-48  34  Relegated
-14.SV Kirchbichl                30  8 10 12 42-60  34  Relegated
-15.SV Seekirchen                30  5  9 16 39-71  24  Relegated
-16.ESV Saalfelden               30  4  4 22 24-79  16  Relegated
 
 
 ▪ Promotion/Relegation Playoff ▪
@@ -1191,26 +1103,8 @@ St Magdal.  2-1 1-1 2-7 1-1 3-3 0-2 1-0 3-1 2-3 2-0 2-0 1-1 4-1 xxx 2-0 1-1
 Voecklamkt. 0-0 1-2 2-2 1-1 2-0 2-0 0-0 2-2 2-1 1-1 3-2 4-3 0-1 2-2 xxx 3-3
 WSC/Hertha  0-0 0-2 3-4 2-1 1-3 0-3 2-0 4-1 5-2 2-1 0-3 1-3 1-2 1-4 4-0 xxx
 
-Table:
+<!-- $table8$ -->
 
- 1.ASKÖ Pasching                30 20  6  4 71-24  66  Promoted
------------------------------------------------------
- 2.SK Sankt Magdalena           30 17  7  6 64-41  58
- 3.ASKÖ Donau Linz              30 15  9  6 50-27  54
- 4.Blau-Weiß FC Linz            30 15  7  8 60-35  52 [*]
- 5.SV Bad Schallerbach          30 15  7  8 55-33  52
- 6.ATSV Sattledt                30 13  6 11 47-54  45
- 7.Union Vöcklamarkt            30 11 10  9 41-40  43
- 8.Union SV Esternberg          30 11 10  9 56-57  43
- 9.SC Marchtrenk                30 12  4 14 50-59  40
-10.SK Schärding                 30 10  9 11 39-38  39
-11.Welser SC Hertha             30 11  4 15 47-53  37
-12.SV Gmunden                   30  9  7 14 38-39  34
-13.Grun-Weiß Micheldorf         30  7 11 12 40-49  32
-14.Linzer ASK Amateure          30  6  7 17 39-71  25
------------------------------------------------------
-15.ATSV Lenzing                 30  7  4 19 32-80  25  Relegated
-16.SK Altheim                   30  3  8 19 31-60  17  Relegated
 
 [*] Austria Tabak renamed to Blau-Weiß FC Linz.
 
@@ -1232,7 +1126,7 @@ PSV/SW      0-2 1-1  3-1 0-2 5-0 1-3  0-0 5-1  3-6 1-1 6-1 xxx 1-3 3-0
 Schwarzach  4-1 7-1  5-0 1-3 5-3 1-0  3-2 0-3  3-0 2-1 7-1 1-2 xxx 5-1
 Trimmelkam  1-2 0-2 13-0 2-3 0-2 0-3  0-2 1-3  1-5 2-2 1-4 0-2 0-5 xxx
 
-<!-- $table3$ -->
+<!-- $table9$ -->
 
 
 Promoted to Landesliga: Hallwang, Sankt Michael
@@ -1259,25 +1153,8 @@ Vils        0-0 1-1 3-1 2-1 3-0 3-1 2-2 3-3 1-0 2-1 1-1 3-0 1-0 xxx 0-4 5-2
 Wacker      3-4 5-2 4-1 2-2 0-0 1-3 2-2 0-2 2-4 0-0 0-2 0-3 1-1 1-1 xxx 2-1
 Zell        0-1 0-6 3-0 1-1 2-4 0-4 0-3 6-1 2-2 1-0 0-1 0-1 2-2 0-2 3-1 xxx
 
-Table:
+<!-- $table10$ -->
 
- 1.SV Reichenau                 30 18  6  6 74-25  60  Promoted
------------------------------------------------------
- 2.SV Axams                     30 16  6  8 68-46  54
- 3.FC Kitzbühel                 30 15  7  8 62-43  52
- 4.SV Fügen                     30 14  9  7 62-48  51
- 5.SVg Jenbach                  30 14  8  8 54-36  50
- 6.SV Thiersee                  30 14  6 10 73-59  48
- 7.FC Vils                      30 12  9  9 45-52  45
- 8.SC Schwaz                    30 13  5 12 51-48  44
- 9.SC Imst                      30 11  9 10 43-46  42
-10.Innsbrucker SK               30 12  5 13 56-62  41
-11.SV Telfs                     30 12  4 14 53-62  40
-12.SV Kematen                   30  9  9 12 51-58  36
-13.SV Götzens                   30 10  4 16 52-60  34
-14.FC Wacker Innsbruck          30  7  8 15 44-61  29
-15.SV Innsbruck                 30  5  8 17 39-65  23
-16.SK Zell am Ziller            30  4  5 21 36-82  17
 
 Relegated from Regionalliga: SV Kirchbichl
 Promoted: SV Reichenau (to Regionalliga West)
@@ -1288,7 +1165,7 @@ Promoted to Tiroler Liga: FC Vomp, SC Steinach
 Vorarlberg
 ==========
 
-<!-- $table4$ -->
+<!-- $table11$ -->
 
 
 Wien
@@ -1311,7 +1188,7 @@ Simm/FavAC  0-2 1-3 1-4 3-2 1-2 0-2 3-2 1-1 0-2 1-1 1-1 0-4 1-0 xxx 3-2 2-2
 Slovan      4-3 0-0 2-0 5-2 2-0 2-1 3-1 4-0 2-1 0-1 0-1 1-2 1-3 0-3 xxx 0-3
 Wienerberg  0-2 4-0 0-0 2-0 2-0 2-1 2-1 1-3 0-1 0-0 0-2 1-3 2-1 3-2 4-0 xxx
 
-<!-- $table5$ -->
+<!-- $table12$ -->
 
 
 [*] play at FavAC
@@ -1327,40 +1204,12 @@ Tirol
 Thanks to Andreas Exenberger.
 
 Landesliga Ost
-Final Standings
+<!-- $table13$ -->
 
- 1. FC Kufstein Amateure     26  16  5  5  66-35  53
- 2. FC Vomp                  26  16  3  7  64-45  51
- 3. SVg Mayrhofen            26  13  8  5  63-35  47
- 4. SV Niederndorf           26  14  3  9  41-34  45
- 5. SK Ebbs                  26  11  7  8  54-39  40
- 6. SK Fieberbrunn           26  10 10  6  48-42  40
- 7. SV Angerberg             26  11  6  9  43-43  39
- 8. SK St.Johann             26  11  4 11  42-56  37
- 9. SV Westendorf            26  10  5 11  48-43  35
-10. SK Hippach               26   9  8  9  41-36  35
-11. SV Hopfgarten            26   8  6 12  47-55  30
-12. SV Kolsass/Weer          26   8  5 13  36-52  29
-13. SC Mils                  26   6  3 17  40-59  21
-14. SV Brixen im Thale       26   1  3 22  25-84   6
 
 Landesliga West
-Final Standings
+<!-- $table14$ -->
 
- 1. SC Steinach              26  19  6  1  88-19  63
- 2. SV Umhausen              26  19  3  4  68-25  60
- 3. TS Stams                 26  17  4  5  63-34  55
- 4. SV Zams                  26  15  4  7  78-31  49
- 5. SV Landeck               26  12  4 10  50-39  40
- 6. Innsbrucker AC           26  11  5 10  37-36  38
- 7. SV Neustift              26  10  7  9  41-48  37
- 8. SV Haiming               26   9  8  9  47-51  35
- 9. SV Oberperfuss           26  10  5 11  39-45  35
-10. SPG Silz/Mötz            26   7  4 15  41-63  25
-11. TSV Fulpmes              26   7  2 17  39-61  23
-12. SK Zirl                  26   4  8 14  30-68  20
-13. SV Matrei am Brenner     26   5  3 18  42-82  18
-14. SV Aldrans               26   3  5 18  42-103 14
 
 Relegated from Tiroler Liga: SK Zell am Ziller (Ost)
 Promoted: FC Vomp (Champion Kufstein is not allowed to be promoted due
@@ -1370,36 +1219,12 @@ Promoted to Landesliga: SV Wörgl Amateure (Ost), SV Absam (West)
 
 
 Gebietsliga Ost
-Final Standings
+<!-- $table15$ -->
 
- 1. SV Wörgl II              22  15  4  3  63-22  49
- 2. SR Oberlangkampfen       22  14  4  4  57-36  46
- 3. SV Breitenbach           22  14  4  4  42-25  46
- 4. WSG Wattens Amateure     22  12  4  6  76-41  40
- 5. FC Bruckhäusl            22   9  7  6  37-27  34
- 6. SV Fritzens              22   8  4 10  39-47  28
- 7. FC Aschau im Zillertal   22   8  2 12  36-49  26
- 8. FC Buch                  22   7  4 11  40-51  25
- 9. SV Walchsee              22   7  2 13  34-45  23
-10. SVg Stumm                22   6  3 13  34-62  21
-11. FC Finkenberg            22   5  5 12  29-49  20
-12. SV Kirchdorf             22   3  5 14  22-55  14
 
 Gebietsliga West
-Final Standings
+<!-- $table16$ -->
 
- 1. SV Absam                 22  18  2  2  74-20  56
- 2. SV Volders               22  16  2  4  66-20  50
- 3. SV Längenfeld            22  13  1  8  59-28  40
- 4. SV Thaur                 22   9  6  7  56-37  33
- 5. ESV Hatting              22   9  3 10  34-39  30
- 6. Union Innsbruck-West     22   7  5 10  29-32  26
- 7. SK Schönwies             22   7  5 10  34-40  26
- 8. FC Prutz                 22   8  2 12  33-39  26
- 9. SV Rinn                  22   7  2 13  29-62  23
-10. SV Reutte                22   6  5 11  28-65  23
-11. SPG Wilten/Austria       22   6  4 12  35-65  22
-12. SK Rietz                 22   5  5 12  32-62  20
 
 Relegated from Landesliga: SV Brixen im Thale (Ost)
 Promoted: SV Wörgl II, SV Absam
@@ -1409,52 +1234,16 @@ Change: WSG Wattens II moves to Gebietsliga West
 
 
 1.Klasse Ost
-Final Standings
+<!-- $table17$ -->
 
- 1. FC Söll                  22  16  2  4  71-23  50
- 2. FC St.Ulrich             22  13  3  6  47-31  42
- 3. SK Kirchberg             22  12  3  7  43-32  39
- 4. SV Ried/Kaltenbach       22  12  2  8  53-35  38
- 5. FC Wacker Alpbach        22  11  3  8  55-49  36
- 6. FC Kössen                22  10  2 10  52-47  32
- 7. SK Waidring              22   9  4  9  41-51  31
- 8. FC Kramsach              22   9  2 11  49-49  29
- 9. SV Langkampfen           22   5  9  8  35-41  24
-10. SPG Brixlegg/Rattenberg  22   5  7 10  42-65  22
-11. SV Schwoich              22   5  4 13  33-62  19
-12. SV Bad Häring            22   2  5 15  29-65  11
 
 1.Klasse Mitte
-Final Standings
+<!-- $table18$ -->
 
- 1. SV Weerberg              22  15  3  4  67-22  48
- 2. SV Lohbach/Kranebitten   22  13  4  5  48-27  43
- 3. FC Sellraintal           22  12  2  8  54-45  38
- 4. SV Völs                  22  10  7  5  42-33  37
- 5. TSV Inzing               22  10  3  9  46-36  33
- 6. SV Uderns                22   9  5  8  46-39  32
- 7. SV Natters               22   7  8  7  40-43  29
- 8. FC Navis                 22   7  4 11  31-48  25
- 9. SV Schlitters            22   6  4 12  28-43  22
-10. SV Stans                 22   5  7 10  36-54  22
-11. FC Schönberg             22   5  5 12  30-50  20
-12. FC Gries am Brenner      22   4  6 12  33-61  18
 
 1.Klasse West
-Final Standings
+<!-- $table19$ -->
 
- 1. FC Fließ                 22  19  2  1  76-29  59
- 2. USV Oetz                 22  14  3  5  57-29  45
- 3. SK Seefeld               22  13  4  5  77-30  43
- 4. TSU Roppen               22  13  1  8  56-41  40
- 5. SV Pfunds                22  12  2  8  55-40  38
- 6. SPG Obsteig/Mieming      22   9  2 11  59-64  29
- 7. SPG Sölden               22   9  2 11  47-56  29
- 8. FC Oberhofen             22   8  4 10  30-40  28
- 9. SV Karres                22   6  3 13  51-61  21
-10. FC Flaurling/Polling     22   5  4 13  32-63  19
-11. TSU Tarrenz              22   5  3 14  34-62  18
-12. FC Lechaschau            22   3  2 17  27-86  11
 
 Relegated from Gebietsliga: SV Kirchdorf(Ost), SK Rietz (West)
 Promoted: FC Söll, SV Weerberg, FC Flie_
@@ -1464,47 +1253,16 @@ Ried im Oberinntal (West)
 
 
 2.Klasse Ost
-Final Standings
+<!-- $table20$ -->
 
- 1. SV Radfeld               20  17  3  0  78-15  54
- 2. FC Oberndorf             20  11  3  6  45-34  36
- 3. FC Hochfilzen            20  10  5  5  55-45  35
- 4. FC Reith bei Kitzbühel   20  11  2  7  39-32  35
- 5. SV Kirchbichl II         20  10  3  7  49-39  33
- 6. SC Münster               20   9  3  8  48-38  30
- 7. FC Wildschönau           20   6  7  7  39-48  25
- 8. SC Going                 20   7  3 10  44-52  24
- 9. SVg Erl                  20   5  4 11  27-45  19
-10. USC Itter                20   6  1 13  38-60  19
-11. SC Ellmau                20   0  2 18  17-71   2
 
 2.Klasse Mitte
-Final Standings
+<!-- $table21$ -->
 
- 1. FC Ellbögen/Patsch       18  13  2  3  60-24  41
- 2. FC Veldidena             18  12  4  2  46-16  40
- 3. SV Tulfes                18  10  3  5  49-32  33
- 4. SV Hall II               18   9  3  6  42-38  30
- 5. SC Gnadenwald            18   7  3  8  51-50  24
- 6. FC Tux                   18   7  3  8  40-47  24
- 7. FC Grinzens              18   5  3 10  31-49  18
- 8. SPG Region Achensee      18   4  4 10  34-41  16
- 9. SV Scharnitz             18   4  3 11  34-59  15
-10. SV Schmirn               18   4  2 12  19-50  14
 
 2.Klasse West
-Final Standings
+<!-- $table22$ -->
 
- 1. SV Ried im Oberinntal    18  12  3  3  43-19  39
- 2. SV Elbigenalp            18  12  1  5  46-23  37
- 3. FC Stanzach              18  11  3  4  58-27  36
- 4. FC Ehrwald               18  10  4  4  45-29  34
- 5. FC St.Anton              18   9  3  6  35-30  30
- 6. FC Pettneu               18   9  3  6  34-31  30
- 7. SK Sautens               18   7  1 10  37-43  22
- 8. SV Arzl im Pitztal       18   3  4 11  22-54  13
- 9. SC Serfaus               18   3  1 14  35-49  10
-10. TS Nassereith            18   2  1 15  22-72   7
 
 Relegated from 1.Klasse: SV Bad Häring (Ost), FC Lechaschau (West)
 Promoted: SV Radfeld, FC Ellbögen/Patsch, SV Ried im Oberinntal
@@ -1711,7 +1469,7 @@ Standings (26-04)
  9. FC Götzis 1b             12   4  1  7  17-27 13
 10. FC Nenzing 1b            12   2  1  9  12-54  7
 
-(Top-3 finished: 1. FC Lustenau 1b; 2. SW Bregenz Amateure; 3. FC Lauterach 1b)
+[Top-3 finished: 1. FC Lustenau 1b; 2. SW Bregenz Amateure; 3. FC Lauterach 1b]
 
 
 

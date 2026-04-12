@@ -8,22 +8,8 @@
 
 1.Bundesliga
 
-Table:
+<!-- $table1$ -->
 
- 1.SV Austria Salzburg          36 19 12  5  54-25 69  Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Rapid Wien                36 18 12  6  69-36 66  UEFA Cup
- 3.SK Sturm Graz                36 14 13  9  50-31 55  CWC
- 4.FC Tirol Innsbruck           36 16  7 13  49-40 55  UEFA Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Grazer AK                    36 11 14 11  39-42 47  UIC
- 6.FK Austria Wien              36 12 10 14  41-51 46  UIC
- 7.LASK Linz                    36  9 17 10  38-47 44  [*]
- 8.SV Ried im Innkreis          36 12  6 18  44-59 42  UIC
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.FC Linz                      36  6 13 17  30-47 31  [*]
------------------------------------------------------
-10.SCN FC Admira/Wacker         36  6 10 20  35-71 28  [*] Relegation Playoff
 
 [*] LASK and FC Linz are to merge into LASK Linz at the end of the season;
     because of that, Admira/Wacker will play the relegation playoff against
@@ -271,7 +257,7 @@ Ried             3-0 GAK
 Sturm            1-1 Tirol
   (19' Vastic; 57' Janeschitz)
 Admira/Wacker    awd Linz              [awarded 0-3 as Admira/Wacker made
-  (11' Ilarjonow; 5' Huspek]            4 substitutions)
+  [11' Ilarjonow; 5' Huspek]            4 substitutions]
 Rapid            3-0 Austria Wien
   (58' Stöger, 86' and 87' Wagner)
 
@@ -460,22 +446,8 @@ Ried             2-1 Linz
   (10' Hansen, 56' Kitka; 47' Brenner)
 Austria Salzburg 0-0 Sturm
 
-Table:
+<!-- $table2$ -->
 
- 1.SV Austria Salzburg          36 19 12  5  54-25 69  Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.SK Rapid Wien                36 18 12  6  69-36 66  UEFA Cup
- 3.SK Sturm Graz                36 14 13  9  50-31 55  CWC
- 4.FC Tirol Innsbruck           36 16  7 13  49-40 55  UEFA Cup
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 5.Grazer AK                    36 11 14 11  39-42 47  UIC
- 6.FK Austria Wien              36 12 10 14  41-51 46  UIC
- 7.LASK Linz                    36  9 17 10  38-47 44  [*]
- 8.SV Ried im Innkreis          36 12  6 18  44-59 42  UIC
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.FC Linz                      36  6 13 17  30-47 31  [*]
------------------------------------------------------
-10.SCN FC Admira/Wacker         36  6 10 20  35-71 28  [*] Relegation Playoff
 
 [*] LASK and FC Linz are to merge into LASK Linz at the end of the season;
     because of that, Admira/Wacker will play the relegation playoff against
@@ -519,7 +491,7 @@ Austria, ÖFB ("Magnofit") Cup 1996/97
 
 With thanks to Andreas Exenberger.
 
-Preliminary Round [Jul 26-Aug 4]
+▪ Preliminary Round ▪  Jul 26-Aug 4
 -----------------
 
  FC Tulln         3-2 SV Wr.Neudorf
@@ -747,28 +719,8 @@ Austria 1996/97
 
 2.Bundesliga
 
-Table:
+<!-- $table3$ -->
 
- 1.SC Austria Lustenau          30 19  8  3  60-18 65  Promoted
------------------------------------------------------
- 2.SK Vorwärts Steyr            30 18  6  6  65-26 60  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.First Vienna FC              30 18  4  8  67-31 58
- 4.SV Spittal/Drau              30 14  8  8  43-26 50
- 5.SV Gerasdorf                 30 15  5 10  53-40 50
- 6.VSE Sankt Pölten             30 15  3 12  54-49 48
- 7.SV Braunau                   30 11 10  9  38-34 43
- 8.Schwarz-Weiß Bregenz         30 12  7 11  39-38 43
- 9.SV Stockerau                 30 10 12  8  39-36 42
-10.FC Kufstein                  30 12  5 13  29-42 41
-11.WSG Wattens                  30 10  8 12  41-45 38
-12.DSV Leoben                   30  8 11 11  35-37 35
-13.VfB Mödling                  30  9  7 14  35-55 34
-14.TSV Hartberg                 30  7  9 14  34-48 30
------------------------------------------------------
-15.SV Flavia Solva              30  3  6 21  19-69 15  Relegated
-=====================================================
-16.Favoritner AC                30  3  3 24  16-73 12  Withdrew
 
 Note: because of the merger between the two first division teams in
       Linz, only two clubs are relegated instead of three as originally
@@ -1084,28 +1036,8 @@ Mödling          1-0 Spittal
 Stockerau        2-2 Vorwärts
 Flavia Solva     Awd FavAC                [awarded 3-0]
 
-Table:
+<!-- $table4$ -->
 
- 1.SC Austria Lustenau          30 19  8  3  60-18 65  Promoted
------------------------------------------------------
- 2.SK Vorwärts Steyr            30 18  6  6  65-26 60  Promotion Playoff
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 3.First Vienna FC              30 18  4  8  67-31 58
- 4.SV Spittal/Drau              30 14  8  8  43-26 50
- 5.SV Gerasdorf                 30 15  5 10  53-40 50
- 6.VSE Sankt Pölten             30 15  3 12  54-49 48
- 7.SV Braunau                   30 11 10  9  38-34 43
- 8.Schwarz-Weiß Bregenz         30 12  7 11  39-38 43
- 9.SV Stockerau                 30 10 12  8  39-36 42
-10.FC Kufstein                  30 12  5 13  29-42 41
-11.WSG Wattens                  30 10  8 12  41-45 38
-12.DSV Leoben                   30  8 11 11  35-37 35
-13.VfB Mödling                  30  9  7 14  35-55 34
-14.TSV Hartberg                 30  7  9 14  34-48 30
------------------------------------------------------
-15.SV Flavia Solva              30  3  6 21  19-69 15  Relegated
-=====================================================
-16.Favoritner AC                30  3  3 24  16-73 12  Withdrew
 
 Note: because of the merger between the two first division teams in
       Linz, only two clubs are relegated instead of three as originally
@@ -1432,7 +1364,7 @@ Waidhofen         9-0 Bruck
 Klingenbach       1-1 Donaufeld
 Gmünd             5-0 Eisenstadt
 
-<!-- $table1$ -->
+<!-- $table5$ -->
 
 
 [promoted to RL Ost: Neuberg (Burgenland), Würmla (Niederösterreich)
@@ -1678,29 +1610,13 @@ Gratkorn          3-1 SAK
 Esternberg        1-2 Voitsberg
 Leibnitz          3-0 Feldkirchen
 
-Table:
+<!-- $table6$ -->
 
- 1.SK Eintracht Wels            26 17  7  2  50-20 58  Promoted
------------------------------------------------------
- 2.Wolfsberger AC               26 15  5  6  53-23 50
- 3.Villacher SV                 26 14  6  6  41-24 48
- 4.SV Leibnitz                  26 12  9  5  30-22 45
- 5.SV Gratkorn                  26 12  7  7  41-30 43
- 6.ASK Voitsberg                26 12  5  9  40-23 41
- 7.SK Austria Klagenfurt        26 11  5 10  31-27 38
- 8.SAK Klagenfurt               26 10  5 11  30-37 35
- 9.TSV Pöllau                   26  8  7 11  38-46 31
-10.Union Sankt Florian          26  8  6 12  18-30 30
-11.Union Rohrbach/Berg          26  7  7 12  28-38 28
-12.SVG Bleiburg                 26  7  5 14  30-51 26
------------------------------------------------------
-13.Union SV Esternberg          26  4  7 15  28-45 19  Relegated
-14.SV Feldkirchen               26  2  5 19  13-55 11  Relegated
 
 [promoted to RL Mitte: Grieskirchen (Oberösterreich), Zeltweg
  (Steiermark) and Rapid Lienz (Kärnten)]
 
-(relegated from 2.BL: Flavia Solva Wagna.)
+[relegated from 2.BL: Flavia Solva Wagna.]
 
 NB: SK Austria Klagenfurt and Villacher SV merged to form
     SG Austria Klagenfurt/VSV.  Due to this, SVG Bleiburg
@@ -2008,26 +1924,8 @@ Kundl             2-2 Altach
 Hohenems          1-4 Wörgl
 Lustenau          2-2 Tirol
 
-Table:
+<!-- $table7$ -->
 
- 1.SC Rheindorf Altach          30 23  5  2  90-24 74  Promoted
------------------------------------------------------
- 2.SV Wörgl                     30 21  5  4  80-23 68
- 3.FC Puch                      30 20  4  6  86-26 64
- 4.SC Kundl                     30 19  5  6  70-28 62
- 5.FC Hard                      30 14  8  8  72-33 50
- 6.SV Austria Salzburg (Amat)   30 13  8  9  69-39 47
- 7.SK Rum                       30 14  6 10  55-63 45
- 8.Salzburger AK 1914           30 11  9 10  58-46 42
- 9.FC Lauterach                 30 12  5 13  44-43 41
-10.FC Lustenau 07               30 11  6 13  44-51 39
-11.SV Hall                      30 10  5 15  43-49 35
-12.ESV Saalfelden               30  6  9 15  37-66 27
-13.FC Zell/See                  30  7  6 17  31-67 27
-14.FC Tirol (Amat)              30  6  7 17  42-69 25
------------------------------------------------------
-15.VfB Hohenems                 30  5  6 19  34-84 21  Relegated
-16.FC Wacker Innsbruck          30  1  2 27  16-160 5  Relegated
 
 [promoted to RL West: Kirchbichl (Tirol), FC Dornbirn (Vorarlberg)
  and Seekirchen (Salzburg)]
@@ -2062,7 +1960,7 @@ Zurndorf        3-1 2-1 0-0 2-1 2-2 4-4 5-0 1-5 0-0 0-3 3-0 1-0 4-1 2-1 3-1 xxx
 
 Pur-Deu awarded 0-3 originally 0-1
 
-<!-- $table2$ -->
+<!-- $table8$ -->
 
 
 Relegated from RL Ost: none.
@@ -2092,7 +1990,7 @@ Zwettl          2-1 1-4 0-1 1-0 1-3 2-0 2-1 3-0 0-2 0-3 1-0 2-0 1-1 0-4 2-1 xxx
 
 Sch-StP awarded 3-0 originally 0-2
 
-<!-- $table3$ -->
+<!-- $table9$ -->
 
 
 Relegated from RL Ost: ASK Bruck/Leitha, EPSV Gmünd, SV Horn.
@@ -2122,7 +2020,7 @@ Wienerberg/Inz. 2-4 2-1 2-2 1-3 1-3 2-0 1-1 2-1 2-3 2-2 0-2 2-1 2-0 1-3 1-1 xxx
 
 FAC-Pra awarded 3-0 originally 0-2
 
-<!-- $table4$ -->
+<!-- $table10$ -->
 
 
 Wacker were admitted to the league already some weeks into the season,
@@ -2169,7 +2067,7 @@ Voelkermarkt    0-1 3-1 1-2 1-2 0-0 2-2 0-2 0-6 0-2 0-0 0-4 xxx 1-2 0-2
 Wietersdorf     0-2 0-1 1-2 3-1 1-1 2-2 2-0 0-0 2-1 6-1 0-1 3-1 xxx 1-1
 ATSV Wolfsberg  1-0 0-1 1-0 0-1 0-0 1-1 3-1 3-2 0-0 0-1 0-4 3-1 0-0 xxx
 
-<!-- $table5$ -->
+<!-- $table11$ -->
 
 
 Relegated from RL Mitte: SV Feldkirchen.
@@ -2197,7 +2095,7 @@ Voecklamarkt    2-0 2-0 1-0 1-3 0-0 0-2 0-1 2-2 2-2 0-2 2-2 1-1 6-2 xxx
 
 BSc-Mic awarded 3-0 originally 2-2
 
-<!-- $table6$ -->
+<!-- $table12$ -->
 
 
 Relegated from RL Mitte: Union SV Esternberg.
@@ -2231,7 +2129,7 @@ Zeltweg         0-0 3-0 3-2 0-3 3-0 4-2 4-0 1-1 2-1 2-1 1-1 3-0 0-0 1-1 2-1 xxx
 
 LUV-Ang awarded 0-3 originally 2-0
 
-<!-- $table7$ -->
+<!-- $table13$ -->
 
 
 Relegated from RL Mitte: none.
@@ -2263,7 +2161,7 @@ Trimmelkam      3-1 2-1 1-0 2-2 0-0 1-1 2-2 0-2 2-2 2-2 0-4 0-1 1-0 xxx
 Bis-StM awarded 0-3 originally 5-1
 ASK-Hen awarded 3-0 originally 1-0
 
-<!-- $table8$ -->
+<!-- $table14$ -->
 
 
 Relegated from RL West: none.
@@ -2294,7 +2192,7 @@ Zell            1-0 2-4 2-1 4-0 2-2 1-1 1-0 1-1 2-1 2-1 2-1 3-0 2-2 0-1 2-2 xxx
 Kir-Ims abandoned at 4-0 in 70', awarded 4-0
 Rei-Fue 0-1 in replay after originally 4-0 (protest)
 
-<!-- $table9$ -->
+<!-- $table15$ -->
 
 
 Relegated from RL West: Wacker Innsbruck.
@@ -2330,7 +2228,7 @@ Viktoria        1-2 0-0 3-1 3-1 3-1 0-3 0-1 xxx
 Kob-DSV awarded 0-3 originally 2-2
 RWR-Gof awarded 0-3 originally 0-1
 
-<!-- $table10$ -->
+<!-- $table16$ -->
 
 
 Relegated from RL West: VfB Hohenems.
@@ -2592,7 +2490,7 @@ Unterliga West:
 14. Admira Villach 26  5  7 14 32-60 22
 
 
-Relegation Playoff:
+▪ Relegation Playoff ▪
 
 Winklern/Rangersdorf 4-3 Poggersdorf
 Poggersdorf 1-1 Winklern/Rangersdorf

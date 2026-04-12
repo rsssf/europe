@@ -546,9 +546,9 @@ SV Straßwalchen               1-4 SV Wals-Grünau
 SV Austria Salzburg           2-1 SV Kuchl
 
 ▪ Quarterfinals ▪
-(Mar 31 - cancelled)
+[Mar 31 - cancelled]
 TSV St. Johann                n/p SV Wals-Grünau
-(Apr 1 - cancelled)
+[Apr 1 - cancelled]
 USK Anif                      n/p FC Pinzgau Saalfelden
 USV 1960 Berndorf             n/p UFC Altenmarkt
 FC Zell/See                   n/p SV Austria Salzburg
@@ -575,7 +575,7 @@ _ Mar 14 _
 SV Kaindorf/Sulm              n/p TuS St. Peter/Ottersbach
 
 ▪ Quarterfinals ▪
-(Apr 13 - cancelled)
+[Apr 13 - cancelled]
 SC St. Peter/Freienstein       -  FC E-Werk Kindberg-Mürzhofen
 SV Frauental                   -  Deutschlandsberger SC
 SC Weiz                        -  SV Feldbach

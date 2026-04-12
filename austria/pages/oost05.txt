@@ -316,7 +316,7 @@ Pasching         1-0 Mattersburg          [in Linz]
   (Mayrleb 62)
 _ May 5 _
 Austria W        awd GAK                  [awarded 0-3; abandoned at 0-3
-  (Kollmann 39, 78, Didulica 62og]         in 79' following pitch invasion)
+  [Kollmann 39, 78, Didulica 62og]         in 79' following pitch invasion]
 _ May 11 _
 Admira           0-1 Rapid
   (Feldhofer 93)
@@ -1076,8 +1076,8 @@ LASK             2-1 Untersiebenbrunn
 
 Promoted: Austria Wien Amateure, SC Schwanenstadt, FC Kufstein
 
-Topscorer:
-34 Kuljic (Ried)
+<!-- $topscorers2$ -->
+
 
 
 Third Level (Regionalligen) 2004/05
@@ -1423,7 +1423,7 @@ Schmirn     2-1   Schönberg
 Lechaschau     1-5   Lechtal
 Grinzens     1-5   Veldidena
 Hall II     0-3   Fritzens
-St.Anton           3-3   Ried i.O.     [5-4 pen]
+St.Anton           3-3   Ried i.O.     (5-4 pen)
 Nassereith     3-7   Vils
 Achenkirch     0-4   Schlitters
 Kitzbühel/R. II   2-4   Brixen
@@ -1437,35 +1437,35 @@ Bad Häring     0-13   Niederndorf
 Karres       0-6   Oberhofen
 Wilten       0-1   Matrei
 Going       2-5     St.Johann
-Reutte       2-2    Pitztal     [5-4 pen]
+Reutte       2-2    Pitztal     (5-4 pen)
 Lohbach     0-3   Zirl
-Kössen       1-1    Kirchdorf    [5-4 pen]
+Kössen       1-1    Kirchdorf    (5-4 pen)
 Vils       3-2   Imst
 Mieders     0-6   Fulpmes
 Erl       3-0   Thiersee
 Roppen       0-8   Telfs I
 Tulfes       3-10   Kolsass/W.
-Schwoich     2-2    Kirchbichl    [1-4 pen]
-Oetz       2-2    Umhausen    [3-5 pen]
+Schwoich     2-2    Kirchbichl    (1-4 pen)
+Oetz       2-2    Umhausen    (3-5 pen)
 Wattens II      1-6   Volders
 Walchsee     1-3     Kufstein II
 Schönwies/M.     0-1   Längenfeld
 Mils       0-6   Wattens I
-St.Ulrich     1-1    Kitzbühel I    [7-6 pen]
-Sölden       3-3    Rietz      [4-3 pen]
-Stans       1-1   Radfeld     [4-3 pen]
+St.Ulrich     1-1    Kitzbühel I    (7-6 pen)
+Sölden       3-3    Rietz      (4-3 pen)
+Stans       1-1   Radfeld     (4-3 pen)
 Brixen       3-4   Kirchberg
 Obsteig/M.     2-3   Inzing
 Vomp       0-7   Kramsach/Br.
 Ried/K.     0-7   Kundl I
 Flaurling     2-3   SVI
-Schlitters     1-1    Mayrhofen    [3-4 pen]
+Schlitters     1-1    Mayrhofen    (3-4 pen)
 Fritzens     1-4   Union
 Sellraintal     5-1   Thaur
 Fügen/Uderns II   0-6   Hippach
-Finkenberg     2-2     Aschau      [5-4 pen]
-Gries       1-1    Axams/G. II    [3-1 pen]
-Prutz/Serfaus     1-1   Landeck I    [2-4 pen]
+Finkenberg     2-2     Aschau      (5-4 pen)
+Gries       1-1    Axams/G. II    (3-1 pen)
+Prutz/Serfaus     1-1   Landeck I    (2-4 pen)
 Veldidena     2-1   Rinn
 Tux       5-2   Zell/Ziller
 Lechtal     4-8   Tarrenz
@@ -1481,12 +1481,12 @@ Pettneu     0-8   Zams
 Navis       2-8   Reichenau/A. II
 Fieberbrunn     2-0   Westendorf
 St.Leonhard     5-3   Silz/Mötz
-Rum/IAC II     3-3    Schwaz I    [4-2 pen]
+Rum/IAC II     3-3    Schwaz I    (4-2 pen)
 Ellmau       0-6   Ebbs
 Telfs II     0-4   Oberperfuss
-Weerberg     3-3   Jenbach      [3-5 pen]
+Weerberg     3-3   Jenbach      (3-5 pen)
 Oberndorf     3-5   Söll
-Hatting     2-2     Absam      [4-5 pen]
+Hatting     2-2     Absam      (4-5 pen)
 Schwaz II     0-4   Fügen/U. I
 Wildschönau     5-2     Bruckhäusl
 Seefeld     5-0   Völs
@@ -1499,11 +1499,11 @@ Alpbach     4-6   Ebbs
 Tux       3-1   Jenbach
 Seefeld     0-10    Union Ibk.
 Brixlegg/Ratt.     3-10   Kufstein I
-Längenfeld     3-3    Telfs       [5-3 pen]
+Längenfeld     3-3    Telfs       (5-3 pen)
 Sellraintal     5-2   Veldidena
 Erl       1-4   Kössen
 Langkampfen     0-3   Kirchbichl
-St.Leonhard     3-3    Reutte      [2-4 pen]
+St.Leonhard     3-3    Reutte      (2-4 pen)
 Fieberbrunn     1-2    Wörgl Amat.
 Achensee     1-6     Kolsass/Weer
 St.Ulrich     2-0   Söll
@@ -1519,7 +1519,7 @@ Volders      1-4   Fügen/U. I
 ISK       1-5   Axams/G. I
 Oberhofen     1-2   Reichenau/A. II
 Wattens I     1-2   Hall I
-Inzing       1-1    Matrei      [4-2 pen]
+Inzing       1-1    Matrei      (4-2 pen)
 Oberperfuss     0-2   Reichenau/A. I
 Zams        1-3   Landeck I
 Kematen     4-2   Zirl
@@ -1529,8 +1529,8 @@ Kirchberg     7-0   St.Johann
 Schmirn     2-1   Fulpmes
 
 ▪ Round 3 ▪  Oct 12,26
-Finkenberg     1-1    Niederndorf    [6-7 pen]
-Kundl I     4-4    Kufstein I    [2-4 pen]
+Finkenberg     1-1    Niederndorf    (6-7 pen)
+Kundl I     4-4    Kufstein I    (2-4 pen)
 Reichenau/A. II   3-4   Landeck
 Kössen       2-3   Kirchberg
 Kramsach/Br.     2-4   Fügen/Uderns I
@@ -1547,12 +1547,12 @@ St.Ulrich     0-3   Reichenau/A. I
 Schmirn     4-6   SVI
 
 ▪ 1/8 Finals ▪
-Ebbs       3-3    Landeck I    [6-5 pen]
+Ebbs       3-3    Landeck I    (6-5 pen)
 Längenfeld     3-1   Hall I
 Union        0-4   Kolsass/Weer
 Reutte       0-2   Niederndorf
 Fügen/Uderns I     2-0   Reichenau/A. I
-Wörgl Amat.     1-1    Kufstein I    [2-4 pen]
+Wörgl Amat.     1-1    Kufstein I    (2-4 pen)
 Kirchberg     0-6   Axams/Götzens I
 Sölden       0-4   SVI
 

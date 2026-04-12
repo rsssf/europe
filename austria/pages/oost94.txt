@@ -8,21 +8,8 @@
 
 Zehnerliga
 
-Table:
+<!-- $table1$ -->
 
- 1.SV Austria Salzburg       36  21  9  6  56-18   51 Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.FK Austria Wien           36  22  5  9  63-39   49 CWC
- 3.FC Admira/Wacker          36  18  8 10  51-35   44 UEFA Cup
- 4.FC Innsbruck Tirol        36  14 11 11  48-33   39 UEFA Cup
- 5.SK Rapid Wien             36  12 11 13  38-42   35
- 6.VfB Mödling               36  12 11 13  32-49   35
- 7.SK Sturm Graz             36  12  9 15  37-42   33
- 8.SK Vorwärts Steyr         36   8 10 18  43-54   26
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.VSE Sankt Pölten          36   9  8 19  37-57   26 Relegated
------------------------------------------------------
-10.Wiener Sport-Club         36   5 12 19  21-57   22 Relegated
 
 ▪ Round 1 ▪  Jul 31
 Austria Wien    1-0 Mödling
@@ -343,25 +330,11 @@ Mödling    0-0 Sportclub
 Vorwärts    0-1 Rapid
 St. Pölten    2-1 Sturm
 
-Table:
+<!-- $table2$ -->
 
- 1.SV Austria Salzburg       36  21  9  6  56-18   51 Champions
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2.FK Austria Wien           36  22  5  9  63-39   49 CWC
- 3.FC Admira/Wacker          36  18  8 10  51-35   44 UEFA Cup
- 4.FC Innsbruck Tirol        36  14 11 11  48-33   39 UEFA Cup
- 5.SK Rapid Wien             36  12 11 13  38-42   35
- 6.VfB Mödling               36  12 11 13  32-49   35
- 7.SK Sturm Graz             36  12  9 15  37-42   33
- 8.SK Vorwärts Steyr         36   8 10 18  43-54   26
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 9.VSE Sankt Pölten          36   9  8 19  37-57   26 Relegated
------------------------------------------------------
-10.Wiener Sport-Club         36   5 12 19  21-57   22 Relegated
 
-Top scorers:
-Jurcevic        (Austria Salzburg)         14 (2p)
-Pfeifenberger   (Austria Salzburg)         14 (1p)
+<!-- $topscorers1$ -->
+
 
 Promotion/Relegation:
 
@@ -402,9 +375,8 @@ WSC's homeground in Dornbach).
 15.WSG Wattens               30   3  7 20  25-67   13 Relegated (Tirol)
 16.Kremser SC                30   2  6 22  16-66   10 Relegated (Ostliga)
 
-Top scorer:
+<!-- $topscorers2$ -->
 
-Stumpf          (Linz)                     21
 
 
 Feeder Leagues for 2. Liga:

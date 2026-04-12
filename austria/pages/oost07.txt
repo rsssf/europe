@@ -942,8 +942,8 @@ NB: Admira were refused a license (for the 2nd level) for 2007/08;
     as GAK (relegated from top level) were refused a professional
     license as well, Kapfenberg remain at the 2nd level
 
-Topscorer:
-23 Vastic (LASK)
+<!-- $topscorers2$ -->
+
 
 Promoted from 3rd level:
 
@@ -991,7 +991,7 @@ USK Rauris                    0-7 SV Grödig
 FC Hallein 04                 1-1 USK Anif                      (aet, 4-5 pen)
 
 ▪ Final ▪  Jun 6
-USK Anif                      0-0 SV Grödig                     [2-4 pen]
+USK Anif                      0-0 SV Grödig                     (2-4 pen)
 
 
 

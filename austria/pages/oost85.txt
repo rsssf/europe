@@ -10,25 +10,8 @@
 1.Division
 ----------
 
-Table:
+<!-- $table1$ -->
 
- 1.FK Austria                30  25  4  1  85-17   54
- 2.SK Rapid                  30  18  9  3  85-30   45
- 3.Linzer ASK                30  17  4  9  49-37   38
- 4.Wacker Innsbruck          30  12  8 10  51-44   32
- 5.FC Admira/Wacker          30  11 10  9  49-42   32
- 6.SK Sturm Graz             30  13  6 11  51-52   32
- 7.Austria Klagenfurt        30  10 11  9  39-38   31
- 8.SC Eisenstadt             30   9 10 11  29-31   28
- 9.VOEST Linz                30  10  8 12  39-43   28
-10.Grazer AK                 30   8 12 10  31-35   28
-11.Donawitzer SV Alpine      30  11  5 14  38-47   27
------------------------------------------------------
-12.Wiener Sport-Club         30  10  5 15  40-55   25
-13.SV Spittal/Drau           30   9  6 15  28-55   24
-14.Favoritner AC             30   7  7 16  26-62   21
-15.SV Austria Salzburg       30   7  4 19  35-69   18
-16.First Vienna FC           30   4  9 17  33-51   17
 
 [The top two levels are reformed into two groups of 12 which after
  the first part of the season are redistributed in 3 groups of 8
@@ -401,25 +384,8 @@ Sportclub    0-3 LASK
 _ Jun 8 _
 Eisenstadt    2-3 Donawitz
 
-Table:
+<!-- $table2$ -->
 
- 1.FK Austria                30  25  4  1  85-17   54
- 2.SK Rapid                  30  18  9  3  85-30   45
- 3.Linzer ASK                30  17  4  9  49-37   38
- 4.Wacker Innsbruck          30  12  8 10  51-44   32
- 5.FC Admira/Wacker          30  11 10  9  49-42   32
- 6.SK Sturm Graz             30  13  6 11  51-52   32
- 7.Austria Klagenfurt        30  10 11  9  39-38   31
- 8.SC Eisenstadt             30   9 10 11  29-31   28
- 9.VOEST Linz                30  10  8 12  39-43   28
-10.Grazer AK                 30   8 12 10  31-35   28
-11.Donawitzer SV Alpine      30  11  5 14  38-47   27
------------------------------------------------------
-12.Wiener Sport-Club         30  10  5 15  40-55   25
-13.SV Spittal/Drau           30   9  6 15  28-55   24
-14.Favoritner AC             30   7  7 16  26-62   21
-15.SV Austria Salzburg       30   7  4 19  35-69   18
-16.First Vienna FC           30   4  9 17  33-51   17
 
 [The top two levels are reformed into two groups of 12 which after
  the first part of the season are redistributed in 3 groups of 8

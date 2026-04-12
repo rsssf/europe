@@ -1093,8 +1093,8 @@ Kärnten          2-4 Kapfenberg
 <!-- $table4$ -->
 
 
-Topscorer:
-19 Ivica Vastic (LASK)
+<!-- $topscorers2$ -->
+
 
 
 Third Level 2005/06
@@ -1150,7 +1150,7 @@ FC Hallein 04                 bye
 
 ▪ Semifinals ▪
 1. Oberndorfer SK             bt  TSV Neumarkt
-FC Hallein 04                 2-2 SV Grödig                     [9-8 pen]
+FC Hallein 04                 2-2 SV Grödig                     (9-8 pen)
 
 ▪ Final ▪
 FC Hallein 04                 7-2 1. Oberndorfer SK

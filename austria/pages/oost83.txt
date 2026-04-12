@@ -9,25 +9,8 @@
 1.Division
 ----------
 
-Table:
+<!-- $table1$ -->
 
- 1.SK Rapid                  30  20  8  2  72-18   48
- 2.FK Austria                30  22  4  4  76-27   48
- 3.Wacker Innsbruck          30  13 12  5  55-36   38
- 4.SK Sturm Graz             30  16  5  9  50-33   37
- 5.SV Austria Salzburg       30  14  6 10  45-34   34
- 6.Austria Klagenfurt        30  13  6 11  52-49   32
- 7.Grazer AK                 30  12  8 10  40-40   32
- 8.VOEST Linz                30  12  8 10  41-42   32
- 9.SC Eisenstadt             30   8 13  9  41-48   29
-10.FC Admira/Wacker          30   9  9 12  42-47   27
-11.Wiener Sport-Club         30  10  7 13  44-60   27
-12.Linzer ASK                30   9  7 14  42-49   25
-13.SC Neusiedl               30   7  7 16  29-49   21
-14.Union Wels                30   6  8 16  27-46   20
------------------------------------------------------
-15.First Vienna FC           30   7  5 18  25-61   19
-16.1.Simmeringer SC          30   2  7 21  20-62   11
 
 ▪ Round 1 ▪
 _ Aug 20 _
@@ -398,25 +381,8 @@ Wels      3-1 LASK
 VOEST      3-0 Austria Salzburg
 Sportclub    2-2 Sturm
 
-Table:
+<!-- $table2$ -->
 
- 1.SK Rapid                  30  20  8  2  72-18   48
- 2.FK Austria                30  22  4  4  76-27   48
- 3.Wacker Innsbruck          30  13 12  5  55-36   38
- 4.SK Sturm Graz             30  16  5  9  50-33   37
- 5.SV Austria Salzburg       30  14  6 10  45-34   34
- 6.Austria Klagenfurt        30  13  6 11  52-49   32
- 7.Grazer AK                 30  12  8 10  40-40   32
- 8.VOEST Linz                30  12  8 10  41-42   32
- 9.SC Eisenstadt             30   8 13  9  41-48   29
-10.FC Admira/Wacker          30   9  9 12  42-47   27
-11.Wiener Sport-Club         30  10  7 13  44-60   27
-12.Linzer ASK                30   9  7 14  42-49   25
-13.SC Neusiedl               30   7  7 16  29-49   21
-14.Union Wels                30   6  8 16  27-46   20
------------------------------------------------------
-15.First Vienna FC           30   7  5 18  25-61   19
-16.1.Simmeringer SC          30   2  7 21  20-62   11
 
 <!-- $topscorers1$ -->
 

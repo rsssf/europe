@@ -522,7 +522,7 @@ Ried             1-1 Sturm
 Austria Cup (ÖFB Cup) 1999/2000
 
 ▪ Round 1 ▪
-(Jul 30-Aug 1)
+_ Jul 30-Aug 1 _
 Kottingbrunn     2-0 Zwettl
 Bruck/Leitha     0-0 Simmering             (aet, 3-4 pen)
 Himberg          3-3 Kremser SC            (aet, 2-3 pen)
@@ -1055,7 +1055,7 @@ _ Apr 24 _
 Zwettl          2-2     FAC
 
 ▪ Round 19 ▪
-(around Mar 29)
+[around Mar 29]
 Rohrbach  3-1  Horn
 (around Apr 19)
 FAC    0-0  Schwechat
@@ -1208,7 +1208,7 @@ Zwe  2-0 1-0 0-4 2-2 1-0 5-1 2-4 1-2 2-2 1-0 1-1 1-1 2-0 0-0 4-2 ***
 Regionalliga Mitte:
 
 ▪ Round 15 ▪
-(around Apr 27)
+[around Apr 27]
 Voitsberg  2-1  Zeltweg
 (around May 3)
 Eintracht Wels   1-1  Bleiburg
@@ -1483,7 +1483,7 @@ Feldkirch  1-3  Kufstein
 Lauterach  1-2  Hall
 
 ▪ Round 29 ▪
-(May 31, Jun 1)
+_ May 31, Jun 1 _
 Puch    3-3  SAK 1914
 Salzburg Amat.  1-2  FC Lustenau
 Nenzing    2-1  Seekirchen
@@ -1523,26 +1523,8 @@ See  0-2 1-3 2-0 4-3 1-3 2-4 0-2 2-1 2-1 5-2 0-0 0-2 1-3 *** 1-2 0-1
 SVR  5-0 2-2 8-2 4-1 1-4 3-1 1-3 1-0 0-2 3-1 3-1 2-2 5-2 3-2 *** 1-1
 Tir  1-2 1-1 2-1 0-3 1-0 7-2 1-1 3-2 0-4 2-2 1-1 1-2 1-3 2-1 2-1 ***
 
-Table:
+<!-- $table7$ -->
 
- 1. FC Lustenau              30  23  4  3  88-27  73  Promotion Playoff
- - - - - - - - - - - - - - - - - - - - - - - - - - -
- 2. SC Rheindorf Altach      30  21  5  4  60-25  68
- 3. SV Reichenau             30  15  7  8  68-54  52
- 4. SV Salzburg Amat.        30  13  6 10  59-48  45
- 5. FC Kufstein              30  13  6 11  46-46  45
- 6. SC Kundl                 30  11 10  9  43-37  43
- 7. Blau-Weiß Feldkirch      30  11  9 10  49-47  42
- 8. SPG Jenbach/Achensee     30  12  3 15  47-51  39
- 9. FC Hard                  30  11  6 13  43-54  39
-10. SAK 1914                 30   9  9 12  41-43  36
-11. FC Puch                  30  10  6 14  34-53  36
-12. FC Nenzing               30   9  7 14  43-59  34
-13. FC Tirol Amat.           30   9  7 14  41-59  34
-----------------------------------------------------
-14. SV Hall                  30   9  5 16  39-61  32  Relegated
-15. SV Seekirchen            30   8  3 19  39-55  27  Relegated
-16. SC Lauterach             30   5  9 16  32-53  24  Relegated
 
 
 Promotion Playoff
@@ -1729,7 +1711,7 @@ Leithaprodersd.  2-3  Tadten
 Neudörfl  3-0  Horitschon
 Kohfidisch  1-3  Rohrbrunn
 
-<!-- $table7$ -->
+<!-- $table8$ -->
 
 
 
@@ -1870,7 +1852,7 @@ Rothenthurn  0-2  Treibach
 St. Andrä  2-3  Nußdorf
 St. Michael/L.  1-2  ATSV Wolfsberg
 
-<!-- $table8$ -->
+<!-- $table9$ -->
 
 
 [*] ASK are the amateur team of FC Kärnten and cannot be promoted
@@ -2048,7 +2030,7 @@ Sattledt  1-2  LASK Amat.
 GW Micheldorf  1-3  St. Magdalena
 WSC Hertha Wels  1-4  Union Perg
 
-<!-- $table9$ -->
+<!-- $table10$ -->
 
 
 
@@ -2224,7 +2206,7 @@ Bruck/L.  2-2  Schrems
 Langenrohr  1-0  Retz
 St. Peter/Au  1-0  Wiener Neustadt
 
-<!-- $table10$ -->
+<!-- $table11$ -->
 
 
 
@@ -2348,7 +2330,7 @@ Anif            2-0     Grünau
 SK Saalfelden   1-0     SK Hallein
 St. Michael     1-0     ESV Saalfelden=09
 
-<!-- $table11$ -->
+<!-- $table12$ -->
 
 
 
@@ -2512,7 +2494,7 @@ Kindberg  2-1  LUV/Sturm Amat.
 Anger    4-1  Hartberg U.
 Rottenmann  2-0  Leibnitz/Flavia
 
-<!-- $table12$ -->
+<!-- $table13$ -->
 
 
 
@@ -2733,7 +2715,7 @@ Vils       1-0 2-1 2-1 2-4 0-0 1-1 2-2 2-1 2-2 1-1 6-1 2-2 1-0 *** 2-2 1-2
 Wörgl A.   0-4 2-1 1-1 3-1 4-0 2-3 4-2 2-1 0-1 7-1 4-0 8-1 1-1 6-0 *** 4-0
 Zams       3-0 3-1 0-3 2-2 3-2 2-1 2-1 3-3 3-1 2-2 6-0 0-1 2-1 2-3 1-1 ***
 
-<!-- $table13$ -->
+<!-- $table14$ -->
 
 
 [*] Champion Axams waives promotion due to financial reasons; the
@@ -2851,7 +2833,7 @@ FC Schwarzach  1-2  VfB Hohenems
 Rätia Bludenz  1-4  Röthis
 FC Dornbirn  1-1  SC Hatlerdorf
 
-<!-- $table14$ -->
+<!-- $table15$ -->
 
 
 
@@ -3032,7 +3014,7 @@ Ankerbrot  1-4  Helfort
 LAC    3-2  Gersthof
 Donaufeld  3-4  Ostbahn XI
 
-<!-- $table15$ -->
+<!-- $table16$ -->
 
 
 
@@ -3476,43 +3458,12 @@ but possibly none).
 Fifth Level
 
 Landesliga Ost 1999/2000
-Final Standings
+<!-- $table17$ -->
 
- 1. SV Breitenbach            26  19  3  4  72-32  60  promoted
------------------------------------------------------
- 2. SVG Mayrhofen             26  17  4  5  70-29  55
- 3. SK Hippach                26  15  6  5  65-37  51
- 4. SV Westendorf             26  13  6  7  68-47  45
- 5. SK St.Johann              26  12  4 10  48-40  40
- 6. SK Fieberbrunn            26  11  5 10  41-41  38
- 7. SK Zell am Ziller         26  10  7  9  45-33  37
- 8. SV Hopfgarten             26  11  2 13  54-43  35
- 9. SV Angerberg              26   8  5 13  34-54  29
-10. SV Kolsass/Weer           26   7  7 12  39-44  28
-11. FC Vomp                   26   7  5 14  36-63  26
-12. FC Kufstein II            26   7  3 16  37-76  24
-13. SV Niederndorf            26   6  6 14  32-71  24
-14. SK Ebbs                   26   4  7 15  39-70  19
 
 Landesliga West 1999/2000
-Final Standings
+<!-- $table18$ -->
 
- 1. SV Neustift               26  18  5  3  75-26  59  promoted
------------------------------------------------------
- 2. TS Stams                  26  17  6  3  58-28  57
- 3. SV Landeck                26  13  7  6  60-36  46
- 4. SV Längenfeld             26  13  6  7  45-24  45
- 5. SV Haiming                26  13  3 10  64-53  42
- 6. SV Umhausen               26  12  4 10  45-43  40
- 7. SV Absam                  26  11  6  9  58-49  39
- 8. SC Imst                   26   9  8  9  48-44  35
- 9. Innsbrucker AC            26   7 11  8  45-43  32
-10. SPG Silz/Mötz             26   7  7 12  55-56  28
-11. TSV Fulpmes               26   7  5 14  33-57  26
-12. SV Oberperfuss            26   6  5 15  52-71  23
-13. SV Matrei am Brenner      26   5  4 17  41-73  19
------------------------------------------------------
-14. SV Aldrans                26   4  3 19  39-115 15  relegated
 
 Changes:
 - Relegated from Tiroler Liga: SV Kematen (West)
@@ -3523,40 +3474,12 @@ Changes:
 Sixth Level
 
 Gebietsliga Ost 1999/2000
-Final Standings
+<!-- $table19$ -->
 
- 1. FC Kramsach/Brandenberg   22  19  3  0  58-13  60  promoted
------------------------------------------------------
- 2. SV Fritzens               22  13  3  6  59-38  42
- 3. FC Söll                   22  12  4  6  55-37  40
- 4. FC Buch                   22  12  4  6  52-36  40
- 5. SR Oberlangkampfen        22  12  4  6  49-37  40
- 6. WSG Wattens Amateure      22   9  4  9  48-35  31
- 7. FC Aschau im Zillertal    22   8  5  9  30-38  29
- 8. FC Bruckhäusl             22   6  5 11  32-57  23
- 9. SV Weerberg               22   5  5 12  38-55  20
-10. SV Brixen im Thale        22   4  5 13  31-62  17
-11. SV Walchsee               22   4  4 14  38-59  16
------------------------------------------------------
-12. FC Finkenberg             22   3  4 15  23-46  13  relegated
 
 Gebietsliga West 1999/2000
-Final Standings
+<!-- $table20$ -->
 
- 1. SK Zirl                   22  17  3  2  59-23  54  promoted
------------------------------------------------------
- 2. Union Innsbruck-West      22  15  4  3  58-30  49
- 3. SV Thaur                  22  13  5  4  49-24  44
- 4. SV Volders                22  12  2  8  53-37  38
- 5. SV Lohbach/Kranebitten    22  11  3  8  49-33  36
- 6. SK Seefeld                22  10  2 10  55-47  32
- 7. ESV Hatting               22   9  5  8  42-41  32
- 8. SV Reutte                 22   9  2 11  28-28  29
- 9. SV Rinn                   22   8  4 10  37-45  28
-10. FC Fließ                  22   6  3 13  46-58  21
-11. SC Mils                   22   3  3 16  31-81  12
------------------------------------------------------
-12. SPG Wilten/Austria        22   0  2 20  32-92   2  relegated
 
 Changes:
 - Relegated from Landesliga: SV Aldrans (West)
@@ -3568,56 +3491,16 @@ Changes:
 Seventh Level
 
 1.Klasse Ost 1999/2000
-Final Standings
+<!-- $table21$ -->
 
- 1. SV Langkampfen            22  14  5  3  59-32  47  promoted
------------------------------------------------------
- 2. SPG Brixlegg/Rattenberg   22  13  5  4  47-34  44
- 3. FC St.Ulrich              22  13  2  7  51-33  41
- 4. SK Kirchberg              22  10  6  6  38-27  36
- 5. SV Ried/Kaltenbach        22  11  2  9  63-42  35
- 6. FC Kössen                 22  11  0 11  48-51  33
- 7. SV Kirchdorf              22   9  5  8  45-41  32
- 8. SV Radfeld                22   7  6  9  40-47  27
- 9. SVG Stumm                 22   7  4 11  48-47  25
-10. FC Wacker Alpbach         22   7  4 11  46-54  25
-11. SC Going                  22   7  4 11  34-46  25
------------------------------------------------------
-12. SV Schwoich               22   1  1 20  20-85   4  relegated
 
 1.Klasse Mitte 1999/2000
-Final Standings
+<!-- $table22$ -->
 
- 1. TSU Inzing                22  14  4  4  55-26  46  promoted
------------------------------------------------------
- 2. SV Schlitters             22  14  3  5  55-33  45
- 3. FC Navis                  22  12  1  9  50-40  37
- 4. SV Tulfes                 22  12  1  9  50-41  37
- 5. SV Völs                   22  11  3  8  44-36  36
- 6. SV Stans                  22  10  4  8  41-45  34
- 7. FC Ellbögen/Patsch        22   7  6  9  40-50  27
- 8. FC Schönberg              22   8  2 12  43-44  26
- 9. SV Uderns                 22   8  1 13  33-52  25  withdrawn [*]
-10. SV Natters                22   6  6 10  40-47  24
-11. FC Flaurling              22   5  6 11  37-55  21
-12. FC Sellraintal            22   4  5 13  41-60  17
 
 1.Klasse West 1999/2000
-Final Standings
+<!-- $table23$ -->
 
- 1. FC Oberhofen              22  17  3  2  71-22  54  promoted
------------------------------------------------------
- 2. SK Rietz                  22  16  2  4  63-32  50
- 3. USV Oetz                  22  13  2  7  55-36  41
- 4. SPG Sölden                22  11  3  8  49-49  36
- 5. TSU Roppen                22   9  7  6  44-31  34
- 6. FC Pettneu                22  10  4  8  53-54  34
- 7. FC Prutz                  22   8  7  7  50-43  31
- 8. SK Schönwies              22   8  2 12  27-52  26
- 9. SV Pfunds                 22   6  4 12  37-50  22
-10. SPG Obsteig/Mieming       22   5  3 14  36-66  18
-11. SV Karres                 22   3  7 12  35-53  16
-12. TSU Tarrenz               22   2  4 16  32-64  10
 
 Changes:
 - Relegated from Gebietsliga: FC Finkenberg (Ost), SPG
@@ -3631,50 +3514,16 @@ Changes:
 Eigth Level
 
 2.Klasse Ost 1999/2000
-Final Standings
+<!-- $table24$ -->
 
- 1. SC Münster                20  18  0  2  82-21  54  promoted
------------------------------------------------------
- 2. FC Oberndorf              20  12  3  5  56-35  39
- 3. FC Tux                    20  10  3  7  53-37  33
- 4. FC Hochfilzen             20  10  3  7  53-51  33
- 5. FC Wildschönau            20  10  2  8  45-46  32
- 6. SV Bad Häring             20   8  5  7  47-43  29
- 7. SVG Erl                   20   9  1 10  44-39  28
- 8. FC Reith bei Kitzbühel    20   7  3 10  63-59  24
- 9. SK Waidring               20   5  8  7  46-46  23
-10. USC Itter                 20   4  1 15  21-82  13  withdrawn
-11. SC Ellmau                 20   2  1 17  20-71   7
 
 2.Klasse Mitte 1999/2000
-Final Standings
+<!-- $table25$ -->
 
- 1. FC Veldidena              18  14  2  2  57-20  44  promoted
------------------------------------------------------
- 2. SC Gnadenwald             18  13  1  4  55-32  40  withdrawn
- 3. SV Scharnitz              18  10  3  5  56-30  32
- 4. SPG Jenbach/Achensee II   18   8  4  6  49-40  28  withdrawn
- 5. FC Grinzens               18   6  7  5  46-33  25
- 6. FC Gries am Brenner       18   6  4  8  49-54  22
- 7. SV Achenkirch             18   5  3 10  27-37  18
- 8. SV Reichenau II           18   5  3 10  40-61  18
- 9. SK Sautens                18   5  1 12  28-72  16  withdrawn
-10. SV Schmirn                18   3  2 13  30-58  11
 
 2.Klasse West 1999/2000
-Final Standings
+<!-- $table26$ -->
 
- 1. SV Elbigenalp             18  15  1  2  79-21  46  promoted
------------------------------------------------------
- 2. FC St.Anton               18  11  2  5  36-30  35
- 3. TS Nassereith             18   8  2  8  36-44  26
- 4. FC Ehrwald                18   7  4  7  43-35  25
- 5. SC Serfaus                18   8  1  9  31-55  25
- 6. SV Arzl im Pitztal        18   7  3  8  36-29  24
- 7. FC Landeck                18   7  1 10  44-45  22
- 8. SV Ried im Oberinntal     18   6  3  9  27-31  21
- 9. FC Stanzach               18   4  7  7  37-46  19
-10. FC Lechaschau             18   4  2 12  21-54  14
 
 Changes:
 - Relegated from 1.Klasse: SV Schwoich (Ost)
@@ -3691,24 +3540,8 @@ VORARLBERG
 Fifth Level
 
 Landesliga
-Final Standings
+<!-- $table27$ -->
 
- 1. SC Fußach                 26  21  0  5  97-37  63  promoted
- 2. SW Bregenz Amat.          26  19  2  5  95-29  59  promoted
------------------------------------------------------
- 3. RW Rankweil               26  18  5  3  79-24  59
- 4. FC Bizau                  26  14  5  7  57-40  47
- 5. FC Hörbranz               26  13  4  9  60-52  43
- 6. SK Meiningen              26  10  6 10  50-59  36
- 7. SV Ludesch                26   9  8  9  39-30  35
- 8. FC Nüziders               26   9  6 11  38-49  33
- 9. FC Thüringen              26   9  5 12  35-62  32
-10. TSV Altenstadt            26   9  2 15  25-54  29
-11. Austria Lustenau Amat.    26   7  5 14  40-55  26
-12. SK Brederis               26   6  7 13  27-38  25
------------------------------------------------------
-13. FC Klostertal             26   4  5 17  34-93  17  relegated
-14. SK Bürs                   26   4  0 22  34-88  12  relegated
 
 Relegated from Vorarlbergliga: SV Lochau, FC Götzis
 
@@ -3716,45 +3549,15 @@ Relegated from Vorarlbergliga: SV Lochau, FC Götzis
 Sixth Level
 
 1.Landesklasse
-Final Standings
+<!-- $table28$ -->
 
- 1. FC Schwarzenberg          26  20  2  4  71-23  62  promoted
- 2. FC Kennelbach             26  17  4  5  55-28  55  promoted
------------------------------------------------------
- 3. FC Schruns                26  16  6  4  65-24  54
- 4. FC Langenegg              26  14  3  9  47-39  45
- 5. Admira Dornbirn           26  12  5  9  58-44  41
- 6. FC Sulzberg               26  12  4 10  50-36  40
- 7. FC Egg                    26  11  7  8  41-31  40
- 8. FC Alberschwende          26  11  2 13  45-50  35
- 9. FC Schlins                26  11  2 13  52-59  35
-10. FC Sulz                   26   9  4 13  40-58  31
-11. SV Satteins               26   8  5 13  42-58  29
-12. SC Tisis                  26   9  1 16  47-67  28
------------------------------------------------------
-13. FC Hard 1b                26   3  5 18  26-64  14  relegated
-14. SV Frastanz               26   3  2 21  27-85  11  relegated
 
 
 Seventh Level
 
 2.Landesklasse
-Final Standings
+<!-- $table29$ -->
 
- 1. FC Mäder                  22  18  3  1  65- 6  57  promoted
- 2. SV Gaißau                 22  16  3  3  53-18  51  promoted
------------------------------------------------------
- 3. SV Gaschurn               22  15  1  6  74-29  46
- 4. FC Riefensberg            22  10  4  8  49-41  34
- 5. FC Lingenau               22  10  4  8  39-41  34
- 6. SC Montafon Vandans       22   9  4  9  53-50  31
- 7. FC Hittisau               22   9  2 11  44-42  29
- 8. RW Langen                 22   7  3 12  34-61  24
- 9. FC Lauterach 1b           22   5  4 13  48-70  19  dissolved [*]
-10. SC St.Gallenkirch         22   4  6 12  36-56  18
-11. SC Hohenweiler            22   4  5 13  30-45  17
------------------------------------------------------
-12. Eintracht Bremenmahd      22   3  5 14  24-90  14  relegated
 
 [*] Lauterach 1b is dissolved due to relegation of their first
 team from Regionalliga West.
