@@ -1026,7 +1026,8 @@ Third Round (06 to 27/07)
 
 GRÊMIO champions of Copa do Brasil 2016 and classified to Copa Libertadores 2017.
 
-Topscorer: MARINHO (Vitória), 6 goals
+<!-- $topscorers1$ -->
+
 
 
 

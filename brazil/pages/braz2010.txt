@@ -920,8 +920,8 @@ Atlético-PR     1-0   Avaí
 (+) - Teams promoted from 2009 Série B (2nd level)
 
 
-Topscorer: Jonas (Grêmio), 23 goals.
-     Neymar (Santos), 17 goals.
+<!-- $topscorers1$ -->
+
 
 
 
@@ -1275,7 +1275,8 @@ Pedro in 1st leg
 
 SANTOS Champions of Copa do Brasil 2010 and classified to Copa Libertadores 2011.
 
-Topscorer: Neymar (Santos), 11 goals.
+<!-- $topscorers2$ -->
+
 
 
 
@@ -1834,8 +1835,8 @@ América-RN       1-2  Brasiliense
 (-) - Teams relegated from 2009 Série A (1st level)
 (+) - Teams promoted from 2009 Série C (3rd level)
 
-Topscorer: Alessandro (Ipatinga), 21 goals.
-     Fábio Júnior (América-MG), 19 goals.
+<!-- $topscorers3$ -->
+
 
 
 
@@ -2230,8 +2231,8 @@ ABC    0-0  Ituiutaba
 <!-- $table13$ -->
 
 
-Topscorer: Bruno Rangel (Paysandu), 8 goals.
-     Cascata (ABC) and Felipe Mamão (Águia), 5 goals.
+<!-- $topscorers4$ -->
+
 
 
 
@@ -2801,7 +2802,8 @@ Classificação Geral. As Semifinais e Finais tiveram seus resultados mantidos.
 <!-- $table24$ -->
 
 
-Topscorer: Danilo Pitbull (Guarany), 11 goals.
+<!-- $topscorers5$ -->
+
 
 
 

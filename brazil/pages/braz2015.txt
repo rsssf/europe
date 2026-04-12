@@ -2297,8 +2297,8 @@ Luverdense    2-0  Mogi Mirim
 
 * 925 goals / 380 matches = 2.43 gpm.
 
-Topscorer: Zé Carlos (CRB), 19 goals.
-     Marcelo Toscano (América) and Kieza (Bahia), 14 goals each.
+<!-- $topscorers2$ -->
+
 
 Promoted: Vila Nova FC (Goiânia), Londrina EC,
           Tupi FC (Juiz de Fora), GE Brasil (Pelotas)

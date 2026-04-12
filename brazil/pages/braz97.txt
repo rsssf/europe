@@ -525,7 +525,8 @@ Vasco          0-0 Palmeiras
 
 Vasco champions due to better season record.
 
-Topscorer: Edmundo (Vasco) 29 goals.
+<!-- $topscorers1$ -->
+
 
 
 Brazil 1997 Cup
@@ -1005,7 +1006,8 @@ América       1-0 Vila Nova
 <!-- $table8$ -->
 
 
-Topscorer: Tupãzinho 13 goals.
+<!-- $topscorers2$ -->
+
 
 
 Brazil 1997 Championship Third Division

@@ -1432,7 +1432,8 @@ Third Round (03/07 to 24/07)
 
 FLAMENGO Champions of Copa do Brasil 2013 and classified to Copa Libertadores 2014.
 
-Topscorer: Luís Fabiano (São Paulo), 9 goals.
+<!-- $topscorers1$ -->
+
 
 
 

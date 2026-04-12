@@ -926,8 +926,8 @@ Corinthians   0-0  Palmeiras
 <!-- $table2$ -->
 
 
-Topscorer: Borges (Santos), 23 goals.
-     Fred (Fluminense), 22 goals.
+<!-- $topscorers1$ -->
+
 
 (+) - Teams promoted from 2010 Série B (2nd level)
 Top 4 qualified to 2012 Libertadores (Santos already qualified as 2011 Libertadores champions
@@ -1278,7 +1278,7 @@ Third Round (13/04 to 28/04)
 
 VASCO Champions of Copa do Brasil 2011 and classified to Copa Libertadores 2012.
 
-<!-- $topscorers1$ -->
+<!-- $topscorers2$ -->
 
 
 
@@ -1853,9 +1853,8 @@ ASA     1-2  Vitória
 
 * 1012 goals / 380 matches = 2.66 gpm.
 
-Topscorer: Kiesa (Náutico), 21 goals.
-     Lincon (Bragantino), 20 goals.
-     Ricardo Jesus (Ponte Preta), 19 goals.
+<!-- $topscorers3$ -->
+
 
 (-) - Teams relegated from 2010 Série A (1st level)
 (+) - Teams promoted from 2010 Série C (3rd level)
@@ -2983,7 +2982,8 @@ Santa Cruz      0-2  Tupi
 <!-- $table22$ -->
 
 
-Topscorer: Marcinho (Oeste), Fernando (Cuiabá), 11 goals.
+<!-- $topscorers4$ -->
+
 
 
 
