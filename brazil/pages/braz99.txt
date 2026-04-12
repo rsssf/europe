@@ -6,7 +6,6 @@
 
 == Brazil 1999 Championship
 
-<!-- start pre -->
 Table:
 
  1.Corinthians     21 14  2  5 49-31 44  Qualified
@@ -33,13 +32,13 @@ Table:
 21.Portuguesa      21  4  6 11 27-31 18
 22.Sport           21  3  8 10 14-25 17
 
-[NB: Vasco-Paraná of Aug 19 included]
-[NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1]
+(NB: Vasco-Paraná of Aug 19 included)
+(NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1)
 
-Round 1
-[Jul 24]
+▪ Round 1 ▪
+_ Jul 24 _
 Palmeiras     3-1 Juventude
-[Jul 25]
+_ Jul 25 _
 Botafogo/SP   4-2 Portuguesa
 Paraná        0-2 Santos
 Guarani       2-1 Internacional
@@ -49,19 +48,19 @@ Sport         0-0 Vasco da Gama
 Flamengo      1-0 Ponte Preta
 São Paulo     5-1 Atlético/MG
 Gama          2-4 Corinthians
-[Jul 28]
+_ Jul 28 _
 Cruzeiro      4-1 Botafogo/RJ
 
-Round 2
-[Jul 28]
+▪ Round 2 ▪
+_ Jul 28 _
 Santos        3-2 São Paulo
-[Jul 31]
+_ Jul 31 _
 Vitória       2-1 Palmeiras
 Atlético/PR   3-2 Flamengo
 Juventude     0-0 Cruzeiro
 Ponte Preta   2-0 Grêmio
 Atlético/MG   2-0 Gama
-[Aug 1]
+_ Aug 1 _
 Botafogo/RJ   0-0 Sport
 Corinthians   4-1 Botafogo/SP
 Portuguesa    1-0 Guarani
@@ -71,29 +70,29 @@ Moved Matches [Aug 4]
 São Paulo     6-1 Botafogo/RJ          [awarded 0-1 (player Hiroshi ineligible)]
 Guarani       0-2 Corinthians
 
-Round 3
-[Aug 7]
+▪ Round 3 ▪
+_ Aug 7 _
 Ponte Preta   1-1 Botafogo/RJ
 Santos        0-0 Vitória
 Coritiba      1-1 Botafogo/SP
-[Aug 8]
+_ Aug 8 _
 Flamengo      0-1 Paraná
 Gama          0-1 Guarani
 Sport         1-1 Atlético/MG
 Palmeiras     2-2 Atlético/PR
 Cruzeiro      3-1 Internacional
-[Sep 5]
+_ Sep 5 _
 Grêmio        0-4 São Paulo
 
 Moved Matches [Aug 11]
 Atlético/MG   2-0 Palmeiras
 Internacional 1-2 Flamengo
 
-Round 4
-[Aug 14]
+▪ Round 4 ▪
+_ Aug 14 _
 Atlético/PR   3-0 Santos
 Vitória       0-2 Grêmio
-[Aug 15]
+_ Aug 15 _
 Vasco da Gama 2-1 Botafogo/RJ
 Botafogo/SP   1-3 Gama
 Paraná        1-0 Sport
@@ -101,7 +100,7 @@ Portuguesa    2-1 São Paulo
 Guarani       1-0 Juventude
 Coritiba      2-2 Cruzeiro
 
-Round 5 [Aug 18]
+▪ Round 5 ▪  Aug 18
 Cruzeiro      2-1 São Paulo
 Grêmio        0-0 Vasco da Gama
 Flamengo      2-1 Coritiba
@@ -113,12 +112,12 @@ Botafogo/SP   1-1 Palmeiras
 Ponte Preta   0-0 Guarani
 Paraná        2-2 Juventude
 
-Round 6
-[Aug 21]
+▪ Round 6 ▪
+_ Aug 21 _
 Botafogo/RJ   2-4 Corinthians
 Sport         0-1 Flamengo
 Juventude     1-1 Grêmio
-[Aug 22]
+_ Aug 22 _
 Vasco da Gama 3-1 Vitória
 Palmeiras     0-2 Gama
 São Paulo     1-0 Botafogo/SP
@@ -134,13 +133,13 @@ Vitória       2-0 Botafogo/RJ
 Botafogo/SP   0-1 Ponte Preta
 Atlético/PR   1-2 Internacional
 
-Round 7
-[Aug 28]
+▪ Round 7 ▪
+_ Aug 28 _
 Ponte Preta   1-2 Palmeiras
 Santos        1-1 Vasco da Gama
 Atlético/MG   4-1 Coritiba
 Gama          2-3 Cruzeiro
-[Aug 29]
+_ Aug 29 _
 Flamengo      3-4 Grêmio
 Botafogo/SP   1-1 Sport
 Corinthians   1-0 São Paulo
@@ -149,19 +148,19 @@ Paraná        2-1 Guarani
 Internacional 0-0 Juventude
 
 Moved Matches
-[Sep 1]
+_ Sep 1 _
 Grêmio        3-4 Botafogo/SP
 Guarani       2-3 São Paulo
 Corinthians   1-2 Flamengo
 
-Round 8
-[Sep 2]
+▪ Round 8 ▪
+_ Sep 2 _
 Atlético/PR   1-0 Gama
-[Sep 4]
+_ Sep 4 _
 Sport         1-0 Santos
 Botafogo/SP   1-4 Flamengo
 Botafogo/RJ   2-3 Internacional
-[Sep 5]
+_ Sep 5 _
 Vasco da Gama 1-0 Atlético/MG
 Portuguesa    1-3 Vitória
 Palmeiras     2-2 Cruzeiro
@@ -174,21 +173,21 @@ Botafogo/SP   1-4 Atlético/MG
 Vitória       1-0 Gama
 Internacional 1-0 Portuguesa
 
-Round 9
-[Sep 11]
+▪ Round 9 ▪
+_ Sep 11 _
 Santos        2-0 Botafogo/SP
 Gama          1-1 Flamengo
 São Paulo     2-1 Coritiba
 Vasco da Gama 3-1 Ponte Preta
-[Sep 12]
+_ Sep 12 _
 Botafogo/RJ   0-1 Atlético/PR
 Juventude     2-1 Vitória
 Sport         3-2 Guarani
 Corinthians   1-4 Palmeiras
 Grêmio        1-0 Internacional
 
-Round 10
-[Sep 15]
+▪ Round 10 ▪
+_ Sep 15 _
 Flamengo      1-0 São Paulo
 Guarani       1-0 Vasco da Gama
 Atlético/MG   1-2 Vitória
@@ -196,17 +195,17 @@ Juventude     1-1 Botafogo/SP
 Palmeiras     1-0 Sport
 Portuguesa    1-2 Santos
 Atlético/PR   1-1 Paraná
-[Sep 16]
+_ Sep 16 _
 Ponte Preta   2-0 Coritiba
-[Sep 22]
+_ Sep 22 _
 Gama          2-1 Grêmio
 
-Round 11
-[Aug 18]
+▪ Round 11 ▪
+_ Aug 18 _
 Santos        0-1 Botafogo/RJ
 Portuguesa    1-1 Grêmio
 Atlético/PR   2-2 Atlético/MG
-[Aug 19]
+_ Aug 19 _
 São Paulo     2-0 Juventude
 Coritiba      0-3 Guarani
 Internacional 0-1 Gama
@@ -219,13 +218,13 @@ Paraná        0-1 Palmeiras
 Corinthians   2-4 Vasco da Gama
 Botafogo/RJ   0-1 Juventude
 
-Round 12
-[Sep 25]
+▪ Round 12 ▪
+_ Sep 25 _
 Sport         0-0 Corinthians
 Coritiba      3-2 Botafogo/RJ
 São Paulo     1-2 Gama
 Ponte Preta   2-2 Cruzeiro
-[Sep 26]
+_ Sep 26 _
 Flamengo      5-2 Vitória
 Vasco da Gama 2-0 Internacional
 Palmeiras     1-1 Santos
@@ -234,8 +233,8 @@ Botafogo/SP   2-0 Paraná
 Grêmio        2-3 Guarani
 Juventude     1-3 Atlético/PR
 
-Round 13
-[Sep 29]
+▪ Round 13 ▪
+_ Sep 29 _
 Vasco da Gama 1-2 São Paulo
 Atlético/MG   3-0 Flamengo
 Gama          0-0 Juventude
@@ -245,15 +244,15 @@ Palmeiras     3-2 Portuguesa
 Santos        1-1 Coritiba
 Atlético/PR   1-0 Ponte Preta
 Grêmio        1-1 Paraná
-[Sep 30]
+_ Sep 30 _
 Botafogo/RJ   1-0 Botafogo/SP
 
-Round 14
-[Oct 2]
+▪ Round 14 ▪
+_ Oct 2 _
 Internacional 1-2 Santos
 Guarani       1-2 Atlético/PR
 Portuguesa    0-1 Corinthians
-[Oct 3]
+_ Oct 3 _
 Flamengo      0-1 Vasco da Gama
 Ponte Preta   2-0 Sport
 São Paulo     0-0 Palmeiras
@@ -265,12 +264,12 @@ Juventude     0-5 Portuguesa
 Paraná        2-3 Botafogo/RJ
 Atlético/MG   2-0 Santos
 
-Round 15
-[Oct 9]
+▪ Round 15 ▪
+_ Oct 9 _
 Ponte Preta   2-0 Santos
 Coritiba      3-1 Vasco da Gama
 Corinthians   1-0 Paraná
-[Oct 10]
+_ Oct 10 _
 Gama          3-2 Sport
 Vitória       3-2 Atlético/PR
 São Paulo     2-2 Internacional        [awarded 0-1 (player Hiroshi ineligible)]
@@ -279,26 +278,26 @@ Atlético/MG   2-0 Juventude
 Guarani       1-1 Botafogo/SP
 Botafogo/RJ   2-1 Flamengo
 
-Round 16
-[Oct 13]
+▪ Round 16 ▪
+_ Oct 13 _
 Santos        1-4 Corinthians
 Vasco da Gama 5-2 Gama
 Sport         1-1 Coritiba
 Palmeiras     6-0 Grêmio
 Cruzeiro      1-3 Guarani
-[Oct 14]
+_ Oct 14 _
 Internacional 1-1 Vitória
 Atlético/PR   4-1 São Paulo
-[Oct 27]
+_ Oct 27 _
 Paraná        4-1 Atlético/MG
 
-Round 17
-[Oct 16]
+▪ Round 17 ▪
+_ Oct 16 _
 Vasco da Gama 2-1 Palmeiras
 Guarani       3-0 Flamengo
 Paraná        1-0 Gama
 Botafogo/RJ   1-0 Portuguesa           [in Juiz de Fora]
-[Oct 17]
+_ Oct 17 _
 Coritiba      2-1 Atlético/PR
 Santos        3-0 Juventude
 São Paulo     4-1 Sport
@@ -312,30 +311,30 @@ Grêmio        1-0 Botafogo/RJ
 Portuguesa    1-1 Vasco da Gama
 Flamengo      1-1 Palmeiras
 
-Round 18
-[Oct 23]
+▪ Round 18 ▪
+_ Oct 23 _
 Atlético/PR   2-2 Corinthians
 Juventude     2-1 Vasco da Gama
 Grêmio        2-1 Sport
 Botafogo/SP   2-1 Internacional
-[Oct 24]
+_ Oct 24 _
 Flamengo      0-2 Cruzeiro
 Gama          1-1 Coritiba
 Vitória       2-0 Paraná
 Ponte Preta   2-1 Portuguesa
-[Nov 3]
+_ Nov 3 _
 Palmeiras     0-0 Guarani
 
 Moved Matches [Oct 27]
 Coritiba      2-1 Palmeiras
 Portuguesa    2-3 Flamengo
 
-Round 19
-[Oct 30]
+▪ Round 19 ▪
+_ Oct 30 _
 Paraná        1-2 São Paulo
 Botafogo/RJ   3-1 Gama
 Santos        2-1 Grêmio
-[Oct 31]
+_ Oct 31 _
 Vasco da Gama 2-1 Atlético/PR
 Guarani       1-2 Vitória
 Sport         0-1 Juventude
@@ -344,29 +343,29 @@ Cruzeiro      2-1 Botafogo/SP
 Internacional 1-0 Ponte Preta
 
 Moved Matches
-[Nov 3]
+_ Nov 3 _
 Grêmio        0-3 Corinthians
 Cruzeiro      2-1 Vasco da Gama
-[Nov 7]
+_ Nov 7 _
 Corinthians   1-2 Ponte Preta
 
-Round 20
-[Nov 3]
+▪ Round 20 ▪
+_ Nov 3 _
 São Paulo     1-0 Ponte Preta
-[Nov 4]
+_ Nov 4 _
 Paraná        1-0 Internacional
-[Nov 6]
+_ Nov 6 _
 Botafogo/SP   2-1 Atlético/PR
 Guarani       4-0 Atlético/MG
 Palmeiras     6-0 Botafogo/RJ
-[Nov 7]
+_ Nov 7 _
 Flamengo      0-1 Santos
 Cruzeiro      5-2 Paraná
 Gama          2-1 Portuguesa
 Sport         1-1 Vitória
 Coritiba      1-1 Juventude
 
-Round 21 [Nov 10]
+▪ Round 21 ▪  Nov 10
 Juventude     3-1 Flamengo
 Botafogo/RJ   1-0 Guarani
 Vasco da Gama 1-1 Botafogo/SP
@@ -405,21 +404,21 @@ Table:
 21.Portuguesa      21  4  6 11 27-31 18
 22.Sport           21  3  8 10 14-25 17
 
-[NB: Vasco-Paraná of Aug 19 included]
-[NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1]
+(NB: Vasco-Paraná of Aug 19 included)
+(NB: São Paulo-Internacional and São Paulo-Botafogo/RJ included as 0-1)
 
 
-Championship Playoff
+▪ Championship Playoff ▪
 
-First Round
+▪ First Round ▪
 
-First Legs [Nov 14]
+▪ First Legs ▪  Nov 14
 Guarani       0-0 Corinthians
 Atlético/MG   4-2 Cruzeiro
 Vitória       5-4 Vasco da Gama
 São Paulo     3-2 Ponte Preta
 
-Second Legs [Nov 21]
+▪ Second Legs ▪  Nov 21
 Corinthians   2-0 Guarani
 Cruzeiro      2-3 Atlético/MG
 Vasco da Gama 2-2 Vitória
@@ -430,28 +429,28 @@ Corinthians   1-1 Guarani
 Vasco da Gama 1-1 Vitória
 Ponte Preta   2-3 São Paulo
 
-Second Round
+▪ Second Round ▪
 
-First Legs [Nov 28]
+▪ First Legs ▪  Nov 28
 São Paulo     2-3 Corinthians
 Atlético/MG   3-0 Vitória
 
-Second Legs [Dec 5]
+▪ Second Legs ▪  Dec 5
 Corinthians   2-1 São Paulo
 Vitória       2-1 Atlético/MG
 
 Third Leg [Dec 8]
 Vitória       0-3 Atlético/MG
 
-Final
+▪ Final ▪
 
-First Leg [Dec 12]
+▪ First Leg ▪  Dec 12
 Atlético/MG   3-2 Corinthians
-  [Guilherme 1, 28, 43 - Vampeta 39, Luizão 69]
+  (Guilherme 1, 28, 43 - Vampeta 39, Luizão 69)
 
-Second Leg [Dec 19]
+▪ Second Leg ▪  Dec 19
 Corinthians   2-0 Atlético/MG
-  [Luizão 29, 59]
+  (Luizão 29, 59)
 
 Third Leg [Dec 22]
 Corinthians   0-0 Atlético/MG
@@ -477,15 +476,8 @@ Médias de rebaixamento:
 NB: Gama have protested their relegation (caused by the awards of the
     matches of São Paulo against Internacional and Botafogo/RJ).
 
-Topscorers:
- 1.Guilherme (Atlético/MG)      28
- 2.Alex Alves (Cruzeiro)        22
- 3.Luizão (Corinthians)         21
- 4.Marcelinho (Corinthians)     15
- 5.Dodo (Santos)                13
-   Edmundo (Vasco da Gama)      13
- 7.França (São Paulo)           12
-   Romario (Flamengo)           12
+<!-- $topscorers1$ -->
+
 
 Qualification Copa Libertadores 2000:
 
@@ -497,81 +489,81 @@ NB: as Gama are relegated, they are not eligibale, their place is taken
     of a playoff between Portuguesa and Sport Recife.
 
 Qualifying Playoff
-First Leg [Nov 13]
+▪ First Leg ▪  Nov 13
 Sport         3-1 Portuguesa
-Second Leg [Nov 16]
+▪ Second Leg ▪  Nov 16
 Portuguesa    3-0 Sport
 
-First Round
+▪ First Round ▪
 
-First Legs
-[Nov 13]
+▪ First Legs ▪
+_ Nov 13 _
 Grêmio        2-1 Santos
 Internacional 1-0 Flamengo
 Botafogo/RJ   1-1 Coritiba
-[Nov 19]
+_ Nov 19 _
 Portuguesa    3-1 Atlético/PR
 
-Second Legs
-[Nov 17]
+▪ Second Legs ▪
+_ Nov 17 _
 Santos        0-1 Grêmio
 Flamengo      1-1 Internacional
 Coritiba      2-1 Botafogo/RJ
-[Nov 22]
+_ Nov 22 _
 Atlético/PR   2-0 Portuguesa
 
-Second Round
+▪ Second Round ▪
 [winners first round and losers first round championship playoff]
 
-First Legs
-[Nov 20]
+▪ First Legs ▪
+_ Nov 20 _
 Grêmio        1-1 Internacional
-[Nov 25]
+_ Nov 25 _
 Coritiba      1-4 Atlético/PR
-[Nov 27]
+_ Nov 27 _
 Ponte Preta   3-2 Vasco da Gama
-[Nov 28]
+_ Nov 28 _
 Guarani       3-1 Cruzeiro
 
-Second Legs
-[Nov 25]
+▪ Second Legs ▪
+_ Nov 25 _
 Internacional 1-1 Grêmio           [Internacional qualified on season record]
-[Nov 28]
+_ Nov 28 _
 Atlético/PR   1-2 Coritiba
-[Dec 1]
+_ Dec 1 _
 Vasco da Gama 2-1 Ponte Preta      [Vasco da Gama qualified on season record]
 Cruzeiro      3-0 Guarani
 
-Third Round
+▪ Third Round ▪
 
-First Legs
-[Dec 1]
+▪ First Legs ▪
+_ Dec 1 _
 Internacional 1-1 Atlético/PR
-[Dec 4]
+_ Dec 4 _
 Vasco da Gama 3-1 Cruzeiro
 
-Second Legs
-[Dec 4]
+▪ Second Legs ▪
+_ Dec 4 _
 Atlético/PR   2-1 Internacional
-[Dec 8]
+_ Dec 8 _
 Cruzeiro      4-2 Vasco da Gama
 
-Fourth Round
+▪ Fourth Round ▪
 
-First Legs [Dec 11]
+▪ First Legs ▪  Dec 11
 Atlético/PR   4-2 São Paulo
 Cruzeiro      3-1 Vitória
 
-Second Legs [Dec 16]
+▪ Second Legs ▪  Dec 16
 São Paulo     2-1 Atlético/PR
 Vitória       1-2 Cruzeiro
 
 Final for Fourth Copa Libertadores Place
 
-First Leg [Dec 18]
+▪ First Leg ▪  Dec 18
 Atlético/PR   3-0 Cruzeiro
 
-Second Leg [Dec 22]
+▪ Second Leg ▪  Dec 22
 Cruzeiro      2-1 Atlético/PR
 
 Atlético/PR qualified.
@@ -594,21 +586,10 @@ Atlético/PR qualified.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Miguel Alvim Gonzalez
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author: Miguel Alvim Gonzalez
-
-Last updated: 31 Jul 2000
 
 
-(C) Copyright Miguel Alvim Gonzalez and RSSSF 1999/2000
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+

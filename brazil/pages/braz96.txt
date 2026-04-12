@@ -6,8 +6,7 @@
 
 == Brazil 1996
 
-<!-- start pre -->
-First Phase:
+▪ First Phase ▪
 
 Table:
 
@@ -38,7 +37,7 @@ Table:
 23.Fluminense            23  6  4 13 26-50 22 [Rio de Janeiro]   [relegated]
 24.Bragantino            23  5  4 14 26-48 19 [Sao Paulo]        [relegated]
 
-Round 1
+▪ Round 1 ▪
 Bahia          0-0 Palmeiras
 Fluminense     1-0 Bragantino
 Atletico MG    1-0 Corinthians
@@ -52,7 +51,7 @@ Guarani        1-0 Cruzeiro        [Sep 26]
 Internacional  4-1 Vasco da Gama   [Oct 2]
 Sao Paulo      4-1 Flamengo        [Oct 2]
 
-Round 2
+▪ Round 2 ▪
 Vasco da Gama  1-2 Sport
 Palmeiras      0-0 Internacional
 Juventude      1-0 Bahia
@@ -66,7 +65,7 @@ Flamengo       2-1 Atletico MG
 Atletico PR    1-0 Botafogo        [Oct 2]
 Gremio         3-0 Santos          [Nov 12]
 
-Round 3 [Aug 17,18]
+▪ Round 3 ▪  Aug 17,18
 Guarani        1-1 Santos
 Vitoria        0-1 Flamengo
 Palmeiras      5-0 Coritiba
@@ -80,7 +79,7 @@ Internacional  0-0 Cruzeiro
 Criciuma       1-3 Gremio
 Juventude      1-1 Sport
 
-Round 4 [Aug 20,21,22]
+▪ Round 4 ▪  Aug 20, 21,22
 Flamengo       0-1 Juventude
 Portuguesa     2-0 Parana
 Corinthians    1-0 Guarani
@@ -94,7 +93,7 @@ Botafogo       1-1 Sao Paulo
 Santos         1-0 Fluminense
 Internacional  3-1 Criciuma
 
-Round 5 [Aug 24,25,27]
+▪ Round 5 ▪  Aug 24, 25,27
 Goias          0-0 Palmeiras
 Bragantino     1-2 Vasco da Gama
 Cruzeiro       2-1 Flamengo
@@ -108,7 +107,7 @@ Sport          3-0 Coritiba
 Gremio         2-2 Vitoria
 Juventude      2-1 Internacional
 
-Round 6 [Aug 28,29]
+▪ Round 6 ▪  Aug 28,29
 Flamengo       0-1 Guarani
 Palmeiras      4-1 Parana
 Fluminense     1-1 Sao Paulo
@@ -122,7 +121,7 @@ Vitoria        2-1 Goias           [Sep 26]
 Juventude      2-3 Criciuma        [Oct 16]
 Bragantino     3-1 Sport           [Oct 25]
 
-Round 7 [Aug 30,31; Sep 1]
+▪ Round 7 ▪  Aug 30, 31; Sep 1
 Guarani        3-1 Fluminense
 Parana         0-1 Corinthians
 Sao Paulo      1-0 Goias
@@ -136,7 +135,7 @@ Portuguesa     2-0 Bragantino
 Cruzeiro       2-1 Juventude
 Internacional  1-1 Bahia
 
-Round 8 [Sep 4,5]
+▪ Round 8 ▪  Sep 4,5
 Atletico MG    2-1 Goias
 Atletico PR    3-1 Gremio
 Bahia          2-1 Criciuma
@@ -150,7 +149,7 @@ Parana         1-2 Vasco da Gama
 Corinthians    2-1 Cruzeiro
 Fluminense     1-5 Palmeiras
 
-Round 9 [Sep 7,8]
+▪ Round 9 ▪  Sep 7,8
 Sport          3-0 Botafogo
 Coritiba       1-1 Sao Paulo
 Santos         1-2 Palmeiras
@@ -164,7 +163,7 @@ Goias          0-0 Bahia
 Cruzeiro       4-1 Portuguesa
 Gremio         5-0 Atletico MG
 
-Round 10 [Sep 14,15]
+▪ Round 10 ▪  Sep 14,15
 Sport          6-0 Fluminense
 Bragantino     2-3 Corinthians
 Bahia          1-2 Cruzeiro
@@ -178,7 +177,7 @@ Goias          2-0 Santos
 Vasco da Gama  4-1 Vitoria
 Botafogo       0-2 Flamengo
 
-Round 11 [Sep 21,22]
+▪ Round 11 ▪  Sep 21,22
 Sao Paulo      1-1 Vasco da Gama
 Santos         0-1 Atletico MG
 Flamengo       0-0 Portuguesa
@@ -192,7 +191,7 @@ Internacional  1-2 Gremio
 Bahia          0-0 Sport
 Cruzeiro       0-0 Palmeiras
 
-Round 12 [Sep 28,29]
+▪ Round 12 ▪  Sep 28,29
 Atletico MG    4-1 Bahia
 Botafogo       5-0 Bragantino
 Coritiba       3-1 Fluminense
@@ -206,7 +205,7 @@ Sport          1-0 Guarani
 Vasco da Gama  0-0 Corinthians
 Vitoria        0-5 Juventude
 
-Round 13 [Oct 5,6]
+▪ Round 13 ▪  Oct 5,6
 Atletico PR    3-0 Vitoria
 Bahia          1-1 Santos
 Bragantino     1-0 Parana
@@ -220,7 +219,7 @@ Sport          2-1 Sao Paulo
 Vasco da Gama  4-1 Flamengo
 Palmeiras      2-2 Corinthians     [Oct 23]
 
-Round 14 [Oct 9,10]
+▪ Round 14 ▪  Oct 9,10
 Gremio         3-1 Flamengo
 Juventude      2-1 Vasco da Gama
 Palmeiras      2-1 Bragantino
@@ -234,7 +233,7 @@ Atletico MG    1-0 Guarani
 Coritiba       0-1 Internacional
 Vitoria        2-0 Corinthians
 
-Round 15 [Oct 12,13]
+▪ Round 15 ▪  Oct 12,13
 Atletico MG    2-1 Sao Paulo
 Atletico PR    2-0 Palmeiras
 Bragantino     3-1 Coritiba
@@ -248,7 +247,7 @@ Portuguesa     0-0 Sport
 Vasco da Gama  0-1 Cruzeiro
 Vitoria        1-1 Bahia
 
-Round 16 [Oct 19,20]
+▪ Round 16 ▪  Oct 19,20
 Santos         1-2 Flamengo
 Fluminense     3-2 Vasco da Gama
 Botafogo       2-3 Goias
@@ -262,7 +261,7 @@ Sport          0-0 Atletico MG
 Bahia          1-2 Gremio
 Sao Paulo      0-0 Corinthians
 
-Round 17 [Oct 26,27]
+▪ Round 17 ▪  Oct 26,27
 Vitoria        2-0 Sao Paulo
 Portuguesa     2-0 Fluminense
 Vasco da Gama  2-3 Coritiba
@@ -276,7 +275,7 @@ Goias          1-0 Cruzeiro
 Flamengo       1-2 Internacional
 Gremio         1-1 Palmeiras
 
-Round 18 [Nov 2,3]
+▪ Round 18 ▪  Nov 2,3
 Juventude      0-2 Corinthians
 Sao Paulo      5-3 Criciuma
 Palmeiras      1-0 Flamengo
@@ -290,7 +289,7 @@ Botafogo       1-2 Vasco da Gama
 Cruzeiro       2-1 Atletico MG
 Coritiba       0-1 Goias
 
-Round 19 [Nov 6,7]
+▪ Round 19 ▪  Nov 6,7
 Vitoria        2-1 Internacional   [Oct 30]
 Flamengo       2-1 Sport
 Gremio         4-2 Fluminense
@@ -304,7 +303,7 @@ Vasco da Gama  1-2 Santos
 Cruzeiro       0-0 Coritiba        [Nov 14]
 Corinthians    0-0 Bahia           [Nov 13]
 
-Round 20 [Nov 9,10]
+▪ Round 20 ▪  Nov 9,10
 Coritiba       0-0 Flamengo
 Criciuma       2-1 Palmeiras
 Sao Paulo      2-1 Gremio
@@ -318,7 +317,7 @@ Bahia          4-2 Bragantino       other stadiums]
 Internacional  2-1 Parana
 Goias          4-1 Juventude
 
-Round 21 [Nov 16,17]
+▪ Round 21 ▪  Nov 16,17
 Juventude      3-5 Botafogo
 Bragantino     3-4 Sao Paulo
 Corinthians    1-1 Goias
@@ -332,7 +331,7 @@ Parana         2-1 Bahia
 Gremio         0-2 Coritiba
 Cruzeiro       3-1 Sport
 
-Round 22 [Nov 20]
+▪ Round 22 ▪  Nov 20
 Criciuma       2-0 Flamengo
 Fluminense     1-0 Juventude
 Botafogo       3-3 Vitoria
@@ -346,7 +345,7 @@ Goias          3-0 Bragantino
 Atletico MG    3-2 Atletico PR
 Sport          1-0 Gremio
 
-Round 23 [Nov 24]
+▪ Round 23 ▪  Nov 24
 Flamengo       0-1 Bahia
 Vitoria         1-3 Fluminense
 Portuguesa     4-1 Botafogo
@@ -433,8 +432,8 @@ Agnaldo (Vit)            9
 
 Brazil 1996 Cup
 
-Preliminary Round
-[2 goals away win guarantees qualification without 2nd leg being played]
+▪ Preliminary Round ▪
+(2 goals away win guarantees qualification without 2nd leg being played)
 Ferrovia.-CE 0-1 0-2 Goias
 Aragauin.-TO 2-1 0-1 Vila Nova
 Cristal      0-1 1-3 Santa Cruz-PE
@@ -445,7 +444,7 @@ Nacional-AM    1-3   America-MG
 Gama-DF      0-1 1-2 Bahia
 
 First Round (1/16 Finals)
-[2 goals away win guarantees qualification without 2nd leg being played]
+(2 goals away win guarantees qualification without 2nd leg being played)
 Santa Cruz-PB  0-2   Vasco
 ABC            0-4   Corinthians
 Sergipe        0-8   Palmeiras
@@ -463,7 +462,7 @@ Vila Nova    0-1 1-4 Atletico-MG
 Cori-Sabba   1-0 0-3 Botafogo
 Vitoria      0-0 0-1 Parana
 
-1/8 Finals
+▪ 1/8 Finals ▪
 Coritiba     1-2 0-0 Flamengo
 Inter-RS     1-1 Awd São Paulo      [São Paulo used ineligible
 Vasco        2-6 1-1 Cruzeiro        player in 1st leg]
@@ -473,7 +472,7 @@ Atletico-PR  1-1 0-3 Grêmio
 Botafogo     0-0 0-0 Parana         [2-4 pen]
 Atletico-MG  1-2 0-5 Palmeiras
 
-Quarterfinals
+▪ Quarterfinals ▪
 Inter-RS     3-2 1-3 Flamengo
 Cruzeiro     4-0 2-3 Corinthians
 Criciuma     1-1 0-2 Grêmio
@@ -525,9 +524,9 @@ and Bangu withdrew citing financial trouble; Barra do Garças were
 excluded for having debts with the federation.  Their replacements were
 Ponte Preta, Atlético-GO, Gama, ABC and Joinville.
 
-First Phase
+▪ First Phase ▪
 
-Group A
+▪ Group A ▪
 
 18. 8.96  -  Moto Clube(MA) 4x0 Remo(PA)
       Tuna Luso(PA) 1x0 Payssandu(PA)
@@ -556,7 +555,7 @@ Group A
  4. Ceará(CE)             8   2   3   3   6  10   9
  5. Payssandu(PA)          8   2   2   4  10  12   8
 
-Group B
+▪ Group B ▪
 
 18. 8.96  -  América(RN) 1x1 Náutico(PE)
       Central(PE) 0x1 C.R.B.(AL)
@@ -585,7 +584,7 @@ Group B
  4. C.R.B.(AL)             8   2   2   4  10  10   8
  5. Central(PE)            8   1   1   6   9  16   4
 
-Group C
+▪ Group C ▪
 
 18. 8.96  -  XV de Novembro(SP) 2X0 União São João(SP)
       Americano(RJ) 0x0 Desportiva(ES)
@@ -614,7 +613,7 @@ Group C
  4. Americano(RJ)          8   3   2   3  11   9  11
  5. Sergipe(SE)            8   1   2   5   6  17   5
 
-Group D
+▪ Group D ▪
 
 18. 8.96  -  Gama(DF) 0x0 Atlético(GO)
  1. 9.96  -  América(MG) 1x0 Joinville(SC)
@@ -643,7 +642,7 @@ Group D
  4. Gama(DF)               8   2   3   3   8   9   9
  5. ABC(RN)                8   2   1   5   6  13   7
 
-Group E
+▪ Group E ▪
 
 18. 8.96  -  Ponte Preta(SP) 0x4 Mogi Mirim(SP)
 21. 8.96  -  Volta Redonda(RJ) 0x0 Mogi Mirim(SP)
@@ -673,7 +672,7 @@ Group E
  5. Goiatuba(GO)           8   1   3   4   6  10   6
 
 
-Second Phase
+▪ Second Phase ▪
 
 20.10.96  -  Tuna Luso(PA) 0x0 Mogi Mirim(SP)
       Joinville(SC) 1x2 Remo(PA)
@@ -693,7 +692,7 @@ Second Phase
       Desportiva(ES) 2x1 Náutico(PE) (4x5 pen)
 
 
-Quarterfinals
+▪ Quarterfinals ▪
 
  2.11.96  -  Londrina(PR) 1x0 Remo(PA)
  3.11.96  -  Moto Clube(MA) 0x0 América(RN)
@@ -797,9 +796,9 @@ Participating Teams:
 59) Vitória Futebol Clube de Vitória - ES
 
 
-First Phase
+▪ First Phase ▪
 
-Group 1
+▪ Group 1 ▪
 
 27. 8.96  -  Rio Branco(AC) 0x0 São Raimundo(AM)
 31. 8.96  -  Ji Paraná(RO) 4x0 São Raimundo(AM)
@@ -812,7 +811,7 @@ Group 1
  2. Ji Paraná(RO)          4   1   1   2   7   6   4
  3. São Raimundo(AM)       4   1   1   2   6   8   4
 
-Group 2
+▪ Group 2 ▪
 
  1. 9.96  -  Nacional(AM) 3x2 Baré(RR)
  4. 9.96  -  Nacional(AM) 3x0 Sampaio(RR)
@@ -825,7 +824,7 @@ Group 2
  2. Baré(RR)               4   2   1   1   9   6   7
  3. Sampaio(RR)            4   0   0   4   4  12   0
 
-Group 3
+▪ Group 3 ▪
 
 25. 8.96  -  Caxiense(MA) 1x2 Sampaio Correa(MA)
       Kaburé(TO) 1x1 Gurupi(TO)
@@ -842,7 +841,7 @@ Group 3
  2. Sampaio Correa(MA)     4   2   0   2   8   6   6
  3. Kaburé(TO)             4   1   1   2   3   6   4
 
-Group 4
+▪ Group 4 ▪
 
  1. 9.96  -  River(PI) 0x2 Fortaleza(CE)
  4. 9.96  -  River(PI) 0x1 Ferroviário(CE)
@@ -862,7 +861,7 @@ Group 4
  3. Corisabbá(PI)          6   3   1   2   7   7  10
  4. River(PI)              6   1   0   5   3  10   3
 
-Group 5
+▪ Group 5 ▪
 
 15. 9.96  -  Pauferrense(RN) 3x2 Potiguar(RN)
 21. 9.96  -  Potiguar(RN) 1x0 Pauferrense(RN)
@@ -870,7 +869,7 @@ Group 5
  1. Potiguar(RN)           2   1   0   1   3   3   3
  2. Pauferrense(RN)        2   1   0   1   3   3   3
 
-Group 6
+▪ Group 6 ▪
 
  6. 9.96  -  Confiança(SE) 2x2 Porto(PE)
 11. 9.96  -  Catuense(BA) 0x0 Porto(PE)
@@ -883,7 +882,7 @@ Group 6
  2. Catuense(BA)           4   1   2   1   3   4   5
  3. Confiança(SE)          4   0   2   2   4   7   2
 
-Group 7
+▪ Group 7 ▪
 
  1. 9.96  -  Fluminense(BA) 0x1 C.S.A.(AL)
       Galícia(BA) 0x0 Itabaiana(SE)
@@ -903,7 +902,7 @@ Group 7
  3. Itabaiana(SE)          6   2   1   3   6  10   7
  4. Galícia(BA)            6   1   1   4   5  13   4
 
-Group 8
+▪ Group 8 ▪
 
  1. 9.96  -  Operário(MS) 1x0 Comercial(MS)
  5. 9.96  -  Comercial(MS) 0x1 Mixto(MT)
@@ -916,7 +915,7 @@ Group 8
  2. Mixto(MT)              4   1   2   1   3   4   5
  3. Comercial(MS)          4   0   2   2   0   2   2
 
-Group 9
+▪ Group 9 ▪
 
 25. 8.96  -  Anápolis(GO) 1x0 Uberlândia(MG)
  1. 9.96  -  Vila Nova(GO) 1x1 Anápolis(GO)
@@ -929,7 +928,7 @@ Group 9
  2. Uberlândia(MG)         4   1   1   2   6   5   4
  3. Anápolis(GO)           4   1   1   2   3   6   4
 
-Group 10
+▪ Group 10 ▪
 
 31. 8.96  -  Planaltina(DF) 0x2 Francana(SP)
  1. 9.96  -  Botafogo(DF) 1x0 Uberaba(MG)
@@ -949,7 +948,7 @@ Group 10
  3. Uberaba(MG)            6   3   1   2   4   4  10
  4. Planaltina(DF)         6   0   2   4   3  10   2
 
-Group 11
+▪ Group 11 ▪
 
 25. 8.96  -  Colatina(ES) 1x0 Vitória(ES)
  1. 9.96  -  Estrela do Norte(ES) 1x0 Colatina(ES)
@@ -962,7 +961,7 @@ Group 11
  2. Colatina(ES)           4   2   0   2   3   4   6
  3. Vitória(ES)            4   1   0   3   3   5   3
 
-Group 12
+▪ Group 12 ▪
 
 25. 8.96  -  Tupy(MG) 2x1 Juventus(SP)
       Paulista(SP) 1x4 Rio Branco(SP)
@@ -991,7 +990,7 @@ Group 12
  4. Tupy(MG)               8   2   2   4   4  11   8
  5. Barra Mansa(RJ)        8   1   2   5   4  13   5
 
-Group 13
+▪ Group 13 ▪
 
 25. 8.96  -  União Bandeirante(PR) 2x3 Comercial(SP)
       Matsubara(PR) 1x1 Botafogo(SP)
@@ -1020,7 +1019,7 @@ Group 13
  4. União Bandeirante(PR)  8   2   4   2   7   7  10
  5. Matsubara(PR)          8   1   3   4  11  19   6
 
-Group 14
+▪ Group 14 ▪
 
 25. 8.96  -  Jaraguá(SC) 2x0 Sãocarlense(SP)
 29. 8.96  -  Jaraguá(SC) 1x1 Sorocaba(SP)
@@ -1040,7 +1039,7 @@ Group 14
  3. Jaraguá(SC)            6   2   3   1   7   6   9
  4. Sãocarlense(SP)        6   0   2   4   2   9   2
 
-Group 15
+▪ Group 15 ▪
 
 25. 8.96  -  Cascavel(PR) 0x1 Caxias(RS)
       São Luiz(RS) 3x1 Chapecoense(SC)
@@ -1060,7 +1059,7 @@ Group 15
  3. Chapecoense(SC)        6   3   0   3   6   9   9
  4. São Luiz(RS)           6   2   1   3   8  10   7
 
-Group 16
+▪ Group 16 ▪
 
 25. 8.96  -  Figueirense(SC) 3x0 Pelotas(RS)
       Brasil(RS) 0x0 Tubarão(SC)
@@ -1090,7 +1089,7 @@ Group 16
  5. Brasil(RS)             8   0   4   4   5  14   4
 
 
-Second Phase
+▪ Second Phase ▪
 
  6.10.96  -  Nacional(AM) 2x0 Rio Branco(AC)
       Fortaleza(CE) 1x3 Sampaio Correa(MA)
@@ -1146,7 +1145,7 @@ Third Phase
       Figueirense(SC) 2x0 Rio Branco(PR)
 
 
-Quarterfinals
+▪ Quarterfinals ▪
 
  3.11.96  -  Botafogo(SP) 2x0 Rio Branco(SP)
       Francana(SP) 3x1 Figueirense(SC)
@@ -1158,7 +1157,7 @@ Quarterfinals
       Porto(PE) 2x1 Sampaio Correa(MA)
 
 
-Semifinals
+▪ Semifinals ▪
 
 17.11.96  -  Porto(PE) 0x0 Vila Nova(GO)
       Figueirense(SC) 2x0 Botafogo(SP)
@@ -1166,7 +1165,7 @@ Semifinals
       Botafogo(SP) 3x0 Figueirense(SC)
 
 
-Final
+▪ Final ▪
 
  1.12.96  -  Vila Nova(GO) 2x1 Botafogo(SP)
  8.12.96  -  Botafogo(SP) 0x1 Vila Nova(GO)
@@ -1184,24 +1183,10 @@ Final
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by Marcelo Leme de Arruda
-and Julio Bovi Diogo
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Marcelo Leme de Arruda
-and Julio Bovi Diogo
-
-Last updated: 18 Feb 2000
 
 
-(C) Copyright Marcelo Leme de Arruda, Julio Bovi Diogo
-and RSSSF 1999/2000
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+
+<!-- $about$ -->
+

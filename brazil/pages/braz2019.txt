@@ -6,49 +6,22 @@
 
 == Brazil 2019
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹Série A, see §sa›
-‹Copa do Brasil, see §cb›
-‹Supercopa do Brasil, see §supcb›
-‹Série B, see §sb›
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ==== Série A  ‹§sa›
 
-<!-- start pre -->
-Final Table:
+<!-- $table1$ -->
 
- 1.Flamengo              38  28  6  4  86-37  90       Champions
- 2.Santos                38  22  8  8  60-33  74
- 3.Palmeiras             38  21 11  6  61-32  74  [C]
- 4.Grêmio                38  19  8 11  64-39  65
- 5.Athletico/PR          38  18 10 10  51-32  64
- 6.São Paulo             38  17 12  9  39-30  63
- 8.Internacional         38  16  9 13  44-39  57
- 7.Corinthians           38  14 14 10  42-34  56
- 9.Fortaleza             38  15  8 15  50-49  53  [P]
-10.Goiás                 38  15  7 16  46-64  52  [P]
-11.Bahia                 38  12 13 13  44-43  49
-13.Vasco da Gama         38  12 13 13  39-45  49
-12.Atlético/MG           38  13  9 16  45-49  48
-14.Fluminense            38  12 10 16  38-46  46
-15.Botafogo              38  13  4 21  31-45  43
-16.Ceará                 38  10  9 19  36-41  39
-------------------------------------------------
-17.Cruzeiro              38   7 15 16  27-46  36       Relegated
-18.CSA                   38   8  8 22  24-58  32  [P]  Relegated
-19.Chapecoense           38   7 11 20  31-52  32       Relegated
-20.Avaí                  38   3 11 24  18-62  20  [P]  Relegated
 
-Round 1
-[Apr 27]
+▪ Round 1 ▪
+_ Apr 27 _
 São Paulo       2-0 Botafogo
 Atlético/MG     2-1 Avaí
 Chapecoense     2-0 Internacional
 Flamengo        3-1 Cruzeiro
-[Apr 28]
+_ Apr 28 _
 Grêmio          1-2 Santos
 Athletico/PR    4-1 Vasco da Gama
 Bahia           3-2 Corinthians
@@ -56,8 +29,8 @@ Ceará           4-0 CSA
 Fluminense      0-1 Goiás
 Palmeiras       4-0 Fortaleza
 
-Round 2
-[May 1]
+▪ Round 2 ▪
+_ May 1 _
 Corinthians     1-0 Chapecoense
 CSA             1-1 Palmeiras
 Internacional   2-1 Flamengo
@@ -66,16 +39,16 @@ Cruzeiro        1-0 Ceará
 Fortaleza       2-1 Athletico/PR
 Goiás           1-2 São Paulo
 Vasco da Gama   1-2 Atlético/MG
-[May 2]
+_ May 2 _
 Santos          2-1 Fluminense
 Botafogo        3-2 Bahia
 
-Round 3
-[May 4]
+▪ Round 3 ▪
+_ May 4 _
 Vasco da Gama   1-1 Corinthians
 Palmeiras       1-0 Internacional
 Ceará           1-2 Atlético/MG
-[May 5]
+_ May 5 _
 Chapecoense     1-1 Athletico/PR
 Botafogo        1-0 Fortaleza
 Cruzeiro        2-1 Goiás
@@ -84,12 +57,12 @@ São Paulo       1-1 Flamengo
 Bahia           1-0 Avaí
 Grêmio          4-5 Fluminense
 
-Round 4
-[May 11]
+▪ Round 4 ▪
+_ May 11 _
 Fluminense      0-1 Botafogo
 Corinthians     0-0 Grêmio
 Goiás           2-1 Ceará
-[May 12]
+_ May 12 _
 Flamengo        2-1 Chapecoense
 Atlético/MG     0-2 Palmeiras
 Internacional   3-1 Cruzeiro
@@ -98,12 +71,12 @@ Athletico/PR    1-0 Bahia
 Avaí            0-0 CSA
 Fortaleza       0-1 São Paulo
 
-Round 5
-[May 18]
+▪ Round 5 ▪
+_ May 18 _
 Fluminense      4-1 Cruzeiro
 Palmeiras       4-0 Santos
 Atlético/MG     2-1 Flamengo
-[May 19]
+_ May 19 _
 São Paulo       0-0 Bahia
 Internacional   2-0 CSA
 Chapecoense     1-3 Fortaleza
@@ -112,26 +85,26 @@ Athletico/PR    0-2 Corinthians
 Vasco da Gama   1-1 Avaí
 Ceará           2-1 Grêmio
 
-Round 6
-[May 25]
+▪ Round 6 ▪
+_ May 25 _
 Botafogo        0-1 Palmeiras
 Grêmio          1-0 Atlético/MG
-[May 26]
+_ May 26 _
 Flamengo        3-2 Athletico/PR
 Santos          0-0 Internacional
 Fortaleza       1-1 Vasco da Gama
 Corinthians     1-0 São Paulo
 Bahia           3-2 Fluminense
 Cruzeiro        1-2 Chapecoense
-[May 27]
+_ May 27 _
 Avaí            1-2 Ceará
 CSA             1-0 Goiás
 
-Round 7
-[Jun 1]
+▪ Round 7 ▪
+_ Jun 1 _
 Flamengo        2-0 Fortaleza
 Bahia           1-0 Grêmio
-[Jun 2]
+_ Jun 2 _
 Botafogo        1-0 Vasco da Gama
 Ceará           0-1 Santos
 São Paulo       1-1 Cruzeiro
@@ -139,181 +112,181 @@ Athletico/PR    3-0 Fluminense
 Internacional   2-0 Avaí
 Atlético/MG     4-0 CSA
 Chapecoense     1-2 Palmeiras
-[Aug 7]
+_ Aug 7 _
 Corinthians     2-0 Goiás
 
-Round 8
-[Jun 7]
+▪ Round 8 ▪
+_ Jun 7 _
 Vasco da Gama   2-1 Internacional
-[Jun 8]
+_ Jun 8 _
 Palmeiras       1-0 Athletico/PR
 Cruzeiro        0-0 Corinthians
 Grêmio          1-0 Fortaleza
 Ceará           0-0 Bahia
 Avaí            0-0 São Paulo
-[Jun 9]
+_ Jun 9 _
 CSA             1-2 Botafogo
 Fluminense      0-0 Flamengo
 Santos          3-1 Atlético/MG
-[Jun 10]
+_ Jun 10 _
 Goiás           3-1 Chapecoense
 
-Round 9
-[Jun 12]
+▪ Round 9 ▪
+_ Jun 12 _
 Botafogo        0-1 Grêmio
 Fortaleza       2-1 Cruzeiro
 CSA             0-2 Flamengo
 Internacional   3-1 Bahia
 Santos          1-0 Corinthians
-[Jun 13]
+_ Jun 13 _
 Vasco da Gama   1-0 Ceará
 Atlético/MG     1-1 São Paulo
 Goiás           2-1 Athletico/PR
 Palmeiras       2-0 Avaí
 Chapecoense     1-1 Fluminense
 
-Round 10
-[Jul 13]
+▪ Round 10 ▪
+_ Jul 13 _
 Grêmio          2-1 Vasco da Gama
 Fortaleza       2-0 Avaí
 Bahia           0-1 Santos
 São Paulo       1-1 Palmeiras
-[Jul 14]
+_ Jul 14 _
 Flamengo        6-1 Goiás
 Corinthians     1-0 CSA
 Cruzeiro        0-0 Botafogo
 Athletico/PR    1-0 Internacional
 Chapecoense     1-2 Atlético/MG
-[Jul 15]
+_ Jul 15 _
 Fluminense      1-1 Ceará
 
-Round 11
-[Jul 20]
+▪ Round 11 ▪
+_ Jul 20 _
 Vasco da Gama   2-1 Fluminense
 Bahia           0-0 Cruzeiro
 Ceará           2-0 Palmeiras
 CSA             0-4 Athletico/PR
 Internacional   1-1 Grêmio
-[Jul 21]
+_ Jul 21 _
 Botafogo        0-1 Santos
 Atlético/MG     2-2 Fortaleza
 Corinthians     1-1 Flamengo
 Avaí            0-0 Goiás
-[Jul 22]
+_ Jul 22 _
 São Paulo       4-0 Chapecoense
 
-Round 12
-[Jul 27]
+▪ Round 12 ▪
+_ Jul 27 _
 Palmeiras       1-1 Vasco da Gama
 Cruzeiro        0-2 Athletico/PR
 Fluminense      1-2 São Paulo
 Internacional   1-0 Ceará
-[Jul 28]
+_ Jul 28 _
 Chapecoense     0-0 Bahia
 Flamengo        3-2 Botafogo
 Santos          3-1 Avaí
 Fortaleza       1-3 Corinthians
 Goiás           0-0 Atlético/MG
-[Jul 29]
+_ Jul 29 _
 CSA             0-0 Grêmio
 
-Round 13
-[Aug 3]
+▪ Round 13 ▪
+_ Aug 3 _
 Ceará           2-1 Fortaleza
 Fluminense      2-1 Internacional
-[Aug 4]
+_ Aug 4 _
 Santos          6-1 Goiás
 Avaí            0-2 Botafogo
 Bahia           3-0 Flamengo
 Atlético/MG     2-0 Cruzeiro
 Corinthians     1-1 Palmeiras
 Vasco da Gama   0-0 CSA
-[Aug 5]
+_ Aug 5 _
 Grêmio          3-3 Chapecoense
-[Aug 21]
+_ Aug 21 _
 Athletico/PR    0-1 São Paulo
 
-Round 14
-[Aug 10]
+▪ Round 14 ▪
+_ Aug 10 _
 Ceará           4-1 Chapecoense
 São Paulo       3-2 Santos
 Flamengo        3-1 Grêmio
 Atlético/MG     2-1 Fluminense
-[Aug 11]
+_ Aug 11 _
 Internacional   0-0 Corinthians
 Avaí            2-2 Cruzeiro
 Botafogo        2-1 Athletico/PR
 Palmeiras       2-2 Bahia
 Goiás           0-1 Vasco da Gama
-[Aug 12]
+_ Aug 12 _
 CSA             0-2 Fortaleza
 
-Round 15
-[Aug 17]
+▪ Round 15 ▪
+_ Aug 17 _
 Corinthians     2-0 Botafogo
 Fortaleza       0-1 Internacional
 Athletico/PR    1-0 Atlético/MG
 Vasco da Gama   1-4 Flamengo
 Grêmio          1-1 Palmeiras
-[Aug 18]
+_ Aug 18 _
 Bahia           1-1 Goiás
 Cruzeiro        2-0 Santos
 Fluminense      0-1 CSA
 São Paulo       1-0 Ceará
 Chapecoense     1-0 Avaí
 
-Round 16
-[Aug 24]
+▪ Round 16 ▪
+_ Aug 24 _
 Atlético/MG     0-1 Bahia
 Grêmio          2-1 Athletico/PR
-[Aug 25]
+_ Aug 25 _
 Goiás           2-1 Internacional
 Santos          3-3 Fortaleza
 Vasco da Gama   2-0 São Paulo
 Avaí            1-1 Corinthians
 Ceará           0-3 Flamengo
 CSA             1-1 Cruzeiro
-[Aug 26]
+_ Aug 26 _
 Botafogo        0-0 Chapecoense
-[Sep 10]
+_ Sep 10 _
 Palmeiras       3-0 Fluminense
 
-Round 17
-[Aug 31]
+▪ Round 17 ▪
+_ Aug 31 _
 São Paulo       0-0 Grêmio
 Bahia           1-0 CSA
 Athletico/PR    1-0 Ceará
 Chapecoense     0-1 Santos
 Internacional   3-2 Botafogo
-[Sep 1]
+_ Sep 1 _
 Flamengo        3-0 Palmeiras
 Fortaleza       2-0 Goiás
 Corinthians     1-0 Atlético/MG
 Cruzeiro        1-0 Vasco da Gama
-[Sep 2]
+_ Sep 2 _
 Fluminense      0-1 Avaí
 
-Round 18
-[Sep 7]
+▪ Round 18 ▪
+_ Sep 7 _
 Corinthians     2-2 Ceará
 Vasco da Gama   0-2 Bahia
 Avaí            0-3 Flamengo
 Fortaleza       0-1 Fluminense
 Internacional   1-0 São Paulo
 Goiás           1-2 Palmeiras
-[Sep 8]
+_ Sep 8 _
 Cruzeiro        1-4 Grêmio
 Botafogo        2-1 Atlético/MG
 Santos          1-1 Athletico/PR
 CSA             2-0 Chapecoense
 
-Round 19
-[Sep 14]
+▪ Round 19 ▪
+_ Sep 14 _
 Flamengo        1-0 Santos
 Chapecoense     1-2 Vasco da Gama
 Palmeiras       1-0 Cruzeiro
 Ceará           0-0 Botafogo
-[Sep 15]
+_ Sep 15 _
 Athletico/PR    0-1 Avaí
 Atlético/MG     1-3 Internacional
 Bahia           1-1 Fortaleza
@@ -321,91 +294,70 @@ Fluminense      1-0 Corinthians
 Grêmio          3-0 Goiás
 São Paulo       1-1 CSA
 
-Halfway Table:
+<!-- $table2$ -->
 
- 1.Flamengo              19  13  3  3  42-18  42
- 2.Palmeiras             19  11  6  2  30-14  39  [C]
- 3.Santos                19  11  4  4  30-19  37
- 4.Internacional         19  10  3  6  25-17  33
- 5.Corinthians           19   8  8  3  21-12  32
- 6.São Paulo             19   8  8  3  21-13  32
- 7.Bahia                 19   8  7  4  22-16  31
- 8.Grêmio                19   7  7  5  27-22  28
- 9.Atlético/MG           19   8  3  8  24-23  27
-10.Botafogo              19   8  3  8  18-19  27
-11.Athletico/PR          19   8  2  9  25-19  26
-12.Vasco da Gama         19   6  5  8  18-26  23
-13.Ceará                 19   6  4  9  21-20  22
-14.Fortaleza             19   6  4  9  22-26  22  [P]
-15.Goiás                 19   6  3 10  17-32  21  [P]
-16.Fluminense            19   5  3 11  21-29  18
-------------------------------------------------
-17.Cruzeiro              19   4  6  9  16-28  18
-18.CSA                   19   3  7  9   8-25  16  [P]
-19.Chapecoense           19   3  5 11  17-32  14
-20.Avaí                  19   2  7 10  10-25  13  [P]
 
-Round 20
-[Sep 21]
+▪ Round 20 ▪
+_ Sep 21 _
 Botafogo        1-2 São Paulo
 Cruzeiro        1-2 Flamengo
 Corinthians     2-1 Bahia
 Santos          0-3 Grêmio
-[Sep 22]
+_ Sep 22 _
 Internacional   1-0 Chapecoense
 CSA             1-0 Ceará
 Fortaleza       0-1 Palmeiras
 Vasco da Gama   1-1 Athletico/PR
 Goiás           3-0 Fluminense
-[Sep 23]
+_ Sep 23 _
 Avaí            1-0 Atlético/MG
 
-Round 21
-[Sep 25]
+▪ Round 21 ▪
+_ Sep 25 _
 Ceará           0-0 Cruzeiro
 Bahia           2-0 Botafogo
 Flamengo        3-1 Internacional
 São Paulo       0-1 Goiás
-[Sep 26]
+_ Sep 26 _
 Palmeiras       6-2 CSA
 Fluminense      1-1 Santos
 Grêmio          6-1 Avaí
 Athletico/PR    4-1 Fortaleza
-[Oct 2]
+_ Oct 2 _
 Atlético/MG     1-2 Vasco da Gama
 Chapecoense     0-1 Corinthians
 
-Round 22
-[Sep 28]
+▪ Round 22 ▪
+_ Sep 28 _
 Flamengo        0-0 São Paulo
-[Sep 29]
+_ Sep 29 _
 Corinthians     1-0 Vasco da Gama
 Fluminense      2-1 Grêmio
 Internacional   1-1 Palmeiras
 Santos          2-0 CSA
 Athletico/PR    1-1 Chapecoense
 Atlético/MG     2-1 Ceará
-[Sep 30]
+_ Sep 30 _
 Avaí            0-2 Bahia
 Fortaleza       1-0 Botafogo
 Goiás           1-0 Cruzeiro
 
-Round 23
-[Oct 5]
+▪ Round 23 ▪
+_ Oct 5 _
 São Paulo       2-1 Fortaleza
 Vasco da Gama   0-1 Santos
 Bahia           1-2 Athletico/PR
 Grêmio          0-0 Corinthians
 Cruzeiro        1-1 Internacional
-[Oct 6]
+_ Oct 6 _
 Chapecoense     0-1 Flamengo
 Botafogo        0-1 Fluminense
 Ceará           0-1 Goiás
 Palmeiras       1-1 Atlético/MG
 CSA             3-1 Avaí
 
-Round 24
-[Oct 9]
+▪ Round 24 ▪
+_ Oct 9 _
 Botafogo        3-1 Goiás
 CSA             1-0 Internacional
 Fortaleza       2-0 Chapecoense
@@ -413,17 +365,17 @@ Bahia           0-0 São Paulo
 Grêmio          2-1 Ceará
 Cruzeiro        0-0 Fluminense
 Santos          2-0 Palmeiras
-[Oct 10]
+_ Oct 10 _
 Avaí            0-0 Vasco da Gama
 Corinthians     2-2 Athletico/PR
 Flamengo        3-1 Atlético/MG
 
-Round 25
-[Oct 12]
+▪ Round 25 ▪
+_ Oct 12 _
 Goiás           1-0 CSA
 Fluminense      2-0 Bahia
 Palmeiras       1-0 Botafogo
-[Oct 13]
+_ Oct 13 _
 Athletico/PR    0-2 Flamengo
 Ceará           1-0 Avaí
 Internacional   0-0 Santos
@@ -432,8 +384,8 @@ São Paulo       1-0 Corinthians
 Atlético/MG     1-4 Grêmio
 Chapecoense     1-1 Cruzeiro
 
-Round 26
-[Oct 16]
+▪ Round 26 ▪
+_ Oct 16 _
 CSA             2-2 Atlético/MG
 Grêmio          0-1 Bahia
 Fortaleza       1-2 Flamengo
@@ -441,61 +393,61 @@ Cruzeiro        1-0 São Paulo
 Palmeiras       1-0 Chapecoense
 Vasco da Gama   2-1 Botafogo
 Goiás           2-2 Corinthians
-[Oct 17]
+_ Oct 17 _
 Santos          2-1 Ceará
 Avaí            0-2 Internacional
 Fluminense      1-2 Athletico/PR
 
-Round 27
-[Oct 19]
+▪ Round 27 ▪
+_ Oct 19 _
 Fortaleza       2-1 Grêmio
 Corinthians     1-2 Cruzeiro
-[Oct 20]
+_ Oct 20 _
 São Paulo       1-0 Avaí
 Atlético/MG     2-0 Santos
 Internacional   0-1 Vasco da Gama
 Flamengo        2-0 Fluminense
 Chapecoense     2-2 Goiás
 Athletico/PR    1-1 Palmeiras
-[Oct 21]
+_ Oct 21 _
 Bahia           1-2 Ceará
 Botafogo        2-1 CSA
 
-Round 28
-[Oct 26]
+▪ Round 28 ▪
+_ Oct 26 _
 Ceará           1-1 Vasco da Gama
 Corinthians     0-0 Santos
 Bahia           2-3 Internacional
 Fluminense      1-1 Chapecoense
 Cruzeiro        1-1 Fortaleza
-[Oct 27]
+_ Oct 27 _
 Athletico/PR    4-1 Goiás
 Grêmio          3-0 Botafogo
 São Paulo       2-0 Atlético/MG
 Avaí            1-2 Palmeiras
 Flamengo        1-0 CSA
 
-Round 29
-[Oct 30]
+▪ Round 29 ▪
+_ Oct 30 _
 Atlético/MG     0-2 Chapecoense
 Avaí            1-3 Fortaleza
 Palmeiras       3-0 São Paulo
 Ceará           2-0 Fluminense
 CSA             2-1 Corinthians
 Vasco da Gama   1-3 Grêmio
-[Oct 31]
+_ Oct 31 _
 Santos          1-0 Bahia
 Goiás           2-2 Flamengo
 Botafogo        0-2 Cruzeiro
 Internacional   1-1 Athletico/PR
 
-Round 30
-[Nov 2]
+▪ Round 30 ▪
+_ Nov 2 _
 Fortaleza       2-2 Atlético/MG
 Fluminense      0-0 Vasco da Gama
 Palmeiras       1-0 Ceará
 Chapecoense     0-3 São Paulo
-[Nov 3]
+_ Nov 3 _
 Flamengo        4-1 Corinthians
 Athletico/PR    1-0 CSA
 Grêmio          2-0 Internacional
@@ -503,25 +455,25 @@ Cruzeiro        1-1 Bahia
 Santos          4-1 Botafogo
 Goiás           2-0 Avaí
 
-Round 31
-[Nov 6]
+▪ Round 31 ▪
+_ Nov 6 _
 Corinthians     3-2 Fortaleza
 Atlético/MG     2-0 Goiás
 Avaí            1-2 Santos
 Vasco da Gama   1-2 Palmeiras
 Athletico/PR    0-0 Cruzeiro
 Bahia           1-1 Chapecoense
-[Nov 7]
+_ Nov 7 _
 São Paulo       0-2 Fluminense
 Ceará           2-0 Internacional
 Botafogo        0-1 Flamengo
 Grêmio          2-1 CSA
 
-Round 32
-[Nov 9]
+▪ Round 32 ▪
+_ Nov 9 _
 Goiás           0-3 Santos
 Palmeiras       1-1 Corinthians
-[Nov 10]
+_ Nov 10 _
 São Paulo       0-1 Athletico/PR
 Cruzeiro        0-0 Atlético/MG
 Internacional   2-1 Fluminense
@@ -529,30 +481,30 @@ Flamengo        3-1 Bahia
 Chapecoense     0-1 Grêmio
 Fortaleza       1-0 Ceará
 CSA             0-3 Vasco da Gama
-[Nov 11]
+_ Nov 11 _
 Botafogo        2-0 Avaí
 
-Round 33
-[Nov 16]
+▪ Round 33 ▪
+_ Nov 16 _
 Santos          1-1 São Paulo
 Fluminense      1-1 Atlético/MG
-[Nov 17]
+_ Nov 17 _
 Grêmio          0-1 Flamengo
 Bahia           1-1 Palmeiras
 Corinthians     0-0 Internacional
 Chapecoense     1-0 Ceará
 Athletico/PR    1-0 Botafogo
 Fortaleza       3-0 CSA
-[Nov 18]
+_ Nov 18 _
 Vasco da Gama   1-1 Goiás
 Cruzeiro        0-0 Avaí
 
-Round 34
-[Nov 13]
+▪ Round 34 ▪
+_ Nov 13 _
 Flamengo        4-4 Vasco da Gama
-[Nov 23]
+_ Nov 23 _
 Santos          4-1 Cruzeiro
-[Nov 24]
+_ Nov 24 _
 Atlético/MG     0-1 Athletico/PR
 Goiás           4-3 Bahia
 Palmeiras       1-2 Grêmio
@@ -560,28 +512,28 @@ Botafogo        1-0 Corinthians
 Ceará           1-1 São Paulo
 Internacional   2-2 Fortaleza
 Avaí            0-1 Chapecoense
-[Nov 25]
+_ Nov 25 _
 CSA             0-1 Fluminense
 
-Round 35
-[Nov 27]
+▪ Round 35 ▪
+_ Nov 27 _
 Chapecoense     0-1 Botafogo
 Internacional   1-2 Goiás
 Bahia           1-1 Atlético/MG
 Athletico/PR    2-0 Grêmio
 Corinthians     3-0 Avaí
 Flamengo        4-1 Ceará
-[Nov 28]
+_ Nov 28 _
 Fluminense      1-0 Palmeiras
 Fortaleza       2-1 Santos
 São Paulo       1-0 Vasco da Gama
 Cruzeiro        0-1 CSA
 
-Round 36
-[Nov 30]
+▪ Round 36 ▪
+_ Nov 30 _
 Botafogo        0-1 Internacional
 Ceará           1-1 Athletico/PR
-[Dec 1]
+_ Dec 1 _
 Avaí            1-1 Fluminense
 Goiás           1-2 Fortaleza
 Palmeiras       1-3 Flamengo
@@ -589,24 +541,24 @@ Atlético/MG     2-1 Corinthians
 CSA             1-2 Bahia
 Grêmio          3-0 São Paulo
 Santos          2-0 Chapecoense
-[Dec 2]
+_ Dec 2 _
 Vasco da Gama   1-0 Cruzeiro
 
-Round 37
-[Dec 4]
+▪ Round 37 ▪
+_ Dec 4 _
 Athletico/PR    1-0 Santos
 Atlético/MG     2-0 Botafogo
 Ceará           0-1 Corinthians
 Chapecoense     3-0 CSA
 Fluminense      0-0 Fortaleza
 São Paulo       2-1 Internacional
-[Dec 5]
+_ Dec 5 _
 Bahia           1-1 Vasco da Gama
 Grêmio          2-0 Cruzeiro
 Palmeiras       5-1 Goiás
 Flamengo        6-1 Avaí
 
-Round 38 [Dec 8]
+▪ Round 38 ▪  Dec 8
 Avaí            0-0 Athletico/PR
 Botafogo        1-1 Ceará
 Corinthians     1-2 Fluminense
@@ -618,38 +570,17 @@ Internacional   2-1 Atlético/MG
 Santos          4-0 Flamengo
 Vasco da Gama   1-1 Chapecoense
 
-Final Table:
+<!-- $table3$ -->
 
- 1.Flamengo              38  28  6  4  86-37  90       Champions
- 2.Santos                38  22  8  8  60-33  74
- 3.Palmeiras             38  21 11  6  61-32  74  [C]
- 4.Grêmio                38  19  8 11  64-39  65
- 5.Athletico/PR          38  18 10 10  51-32  64
- 6.São Paulo             38  17 12  9  39-30  63
- 8.Internacional         38  16  9 13  44-39  57
- 7.Corinthians           38  14 14 10  42-34  56
- 9.Fortaleza             38  15  8 15  50-49  53  [P]
-10.Goiás                 38  15  7 16  46-64  52  [P]
-11.Bahia                 38  12 13 13  44-43  49
-13.Vasco da Gama         38  12 13 13  39-45  49
-12.Atlético/MG           38  13  9 16  45-49  48
-14.Fluminense            38  12 10 16  38-46  46
-15.Botafogo              38  13  4 21  31-45  43
-16.Ceará                 38  10  9 19  36-41  39
-------------------------------------------------
-17.Cruzeiro              38   7 15 16  27-46  36       Relegated
-18.CSA                   38   8  8 22  24-58  32  [P]  Relegated
-19.Chapecoense           38   7 11 20  31-52  32       Relegated
-20.Avaí                  38   3 11 24  18-62  20  [P]  Relegated
 
 Promoted: Bragantino, Sport Recife, Coritiba, Atlético Goianiense
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Copa do Brasil  ‹§cb›
 
-<!-- start pre -->
 Participants
 
 ABC/RN - ABC Futebol Clube (Natal/RN)
@@ -744,402 +675,359 @@ Votuporanguense/SP - Clube Atlético Votuporanguense Ltda. (Votuporanga/SP)
 Ypiranga/AP - Ypiranga Clube (Macapá/AP)
 Ypiranga/RS - Ypiranga Futebol Clube (Erechim/RS)
 
-First Phase
+▪ First Phase ▪
 
 Single Leg
-[Feb 05]
+_ Feb 05 _
 River/PI              0-5  Fluminense/RJ
-  [Luciano 14p, 55, Everaldo 18, Bruno Silva 44, Marlon 90]
-[Feb 06]
+  (Luciano 14p, 55, Everaldo 18, Bruno Silva 44, Marlon 90)
+_ Feb 06 _
 Santa Cruz/RN         1-0  Tupi/MG
-  [Dênis 24c]
+  (Dênis 24c)
 Sobradinho/DF         0-0  América/RN
 Foz do Iguaçu/PR      1-0  Boa Esporte/MG
-  [Douglas 65c]
+  (Douglas 65c)
 Juazeirense/BA        2-2  Vasco da Gama/RJ
-  [Gustavo Balotell 50, Nino Guerreiro 77p; Yan Sasse 12, Maxi López 90p]
+  (Gustavo Balotell 50, Nino Guerreiro 77p; Yan Sasse 12, Maxi López 90p)
 Palmas/TO             0-1  Juventude/RS
-  [Brian Rodrigues 71]
+  (Brian Rodrigues 71)
 Mixto/MT              1-0  CSA/AL
-  [William Amendoim 47]
+  (William Amendoim 47)
 Corumbaense/MS        0-0  Luverdense/MT
 Atlético Cearense/CE  2-0  Joinville/SC
-  [Dudu Itapajé 36p, 67]
+  (Dudu Itapajé 36p, 67)
 Itabaiana/SE          2-5  Paraná/PR
-  [Louback 47p, Rodolfo 64 (og); Alesson 08, Jenison 28, 70, Higor Leite 32p, Itaqui 82]
+  (Louback 47p, Rodolfo 64 (og); Alesson 08, Jenison 28, 70, Higor Leite 32p, Itaqui 82)
 Central/PE            1-1  Ceará/CE
-  [Bruno Oliveira 44; Felipe Jonathan 29]
+  (Bruno Oliveira 44; Felipe Jonathan 29)
 Votuporanguense/SP    0-1  Ypiranga/RS
-  [Pedro Pires 57]
+  (Pedro Pires 57)
 Altos/PI              1-7  Santos/SP
-  [Luizão 05; Luis Felipe 11c, Derlis González 24, Alison 25, Carlos Sánchez 28, 40, Soteldo 73, Diego Pituca 82]
-[Feb 07]
+  (Luizão 05; Luis Felipe 11c, Derlis González 24, Alison 25, Carlos Sánchez 28, 40, Soteldo 73, Diego Pituca 82)
+_ Feb 07 _
 Ferroviário/CE        2-2  Corinthians/SP
-  [Edson Cariús 14, 54; Gustavo 19, 55]
+  (Edson Cariús 14, 54; Gustavo 19, 55)
 Americano/RJ          1-2  Londrina/PR
-  [Flamel 10p; Marcelinho 03, Anderson Oliveira 69]
-[Feb 12]
+  (Flamel 10p; Marcelinho 03, Anderson Oliveira 69)
+_ Feb 12 _
 Imperatriz/MA         1-1  Náutico/PE
-  [Daniel Barros 90+2p; André Krobel 45+1f]
+  (Daniel Barros 90+2p; André Krobel 45+1f)
 Aparecidense/GO       1-0  Ponte Preta/SP [Cancelled]  (Jogo foi anulado pelo STJD por influência externa em um gol anulado pela Ponte Preta)
-  [Uederson 28]
-[Feb 13]
+  (Uederson 28)
+_ Feb 13 _
 Bragantino/PA         1-0  ASA/AL
-  [Rafinha 54]
+  (Rafinha 54)
 Brasiliense/DF        0-0  CRB/AL
 Avenida/RS            1-0  Guarani/SP
-  [Flávio Torres 90]
+  (Flávio Torres 90)
 Brusque/SC            1-1  Atlético/GO
-  [Hélio Paraíba 45; André Luís 67]
+  (Hélio Paraíba 45; André Luís 67)
 Serra/ES              1-0  Remo/PA
-  [Rael 50c]
+  (Rael 50c)
 Boavista/RJ           1-2  Figueirense/SC
-  [Renan Donizete 67p; Kauê 35c, Alípio 63p]
+  (Renan Donizete 67p; Kauê 35c, Alípio 63p)
 Operário/MS           1-4  Botafogo/PB
-  [Alberto 33p; Dico 20, Nando 64, 75, Marcos Aurélio 66]
+  (Alberto 33p; Dico 20, Nando 64, 75, Marcos Aurélio 66)
 Campinense/PB         0-2  Botafogo/RJ
-  [Rodrigo Pimpão 32c, Alex Santana 53]
+  (Rodrigo Pimpão 32c, Alex Santana 53)
 Manaus/AM             1-1  Vila Nova/GO
-  [Hamilton 05; Alan Mineiro 55f]
+  (Hamilton 05; Alan Mineiro 55f)
 Rio Branco/AC         2-2  Bahia/BA
-  [Laécio 14, Custódio 89; Gilberto 08, 70]
+  (Laécio 14, Custódio 89; Gilberto 08, 70)
 Tombense/MG           3-0  Sport/PE
-  [Denilson 70, Marquinhos 90+4, 90+4]
+  (Denilson 70, Marquinhos 90+4, 90+4)
 Moto Club/MA          2-0  Vitória/BA
-  [Gleissinho 72, Juninho Arcanjo 90+2p]
+  (Gleissinho 72, Juninho Arcanjo 90+2p)
 Galvez/AC             0-1  ABC/RN
-  [Neto 74p]
+  (Neto 74p)
 Real Desportivo/RO    1-4  Avaí/SC
-  [Leandro 19; Daniel Amorim 14p, 25, 57, Getúlio 79]
+  (Leandro 19; Daniel Amorim 14p, 25, 57, Getúlio 79)
 São José/RS           0-0  Chapecoense/SC
 São Raimundo/PA       0-2  Criciúma/SC
-  [Daniel Costa 19p, Julimar 60]
+  (Daniel Costa 19p, Julimar 60)
 Sergipe/SE            0-2  Goiás/GO
-  [Jefferson 68, Renatinho 75]
+  (Jefferson 68, Renatinho 75)
 Ypiranga/AP           0-1  Cuiabá/MT
-  [Eduardo Ramos 45]
+  (Eduardo Ramos 45)
 São Raimundo/RR       0-0  América/MG
-[Feb 14]
+_ Feb 14 _
 Fast/AM               1-6  Oeste/SP
-  [Robinho 82; Alyson 20, Bruno Lopes 21, Elvis 48, Jheimy 80, 87, Bruno Xavier 86]
+  (Robinho 82; Alyson 20, Bruno Lopes 21, Elvis 48, Jheimy 80, 87, Bruno Xavier 86)
 Sinop/MT              1-2  Santa Cruz/PE
-  [Igor Peninha 90c; Elias 05, Pipico 73p]
+  (Igor Peninha 90c; Elias 05, Pipico 73p)
 URT/MG                3-2  Coritiba/PR
-  [Cascata 11, Reis 43, Gladstone 66; Rodrigão 12, Iago 58]
+  (Cascata 11, Reis 43, Gladstone 66; Rodrigão 12, Iago 58)
 Atlético Tubarão/SC   0-0  Brasil/RS
-[Apr 03]
+_ Apr 03 _
 Aparecidense/GO       2-0  Ponte Preta/SP
-  [Alex Henrique 52, Washington 72]
+  (Alex Henrique 52, Washington 72)
 
-Second Phase
+▪ Second Phase ▪
 
 Single Leg
-[Feb 19]
+_ Feb 19 _
 Londrina/PR           1-1  Paraná/PR [Pen 5-4]
-  [Luquinha 90+2f; Jenison 32]
-[Feb 20]
+  (Luquinha 90+2f; Jenison 32)
+_ Feb 20 _
 Corinthians/SP        4-2  Avenida/RS
-  [Henrique 45+1, Danilo Avelar 76c, Júnior Urso 87, Gustavo 90+2; Flávio Torres 03c, Tito 09]
+  (Henrique 45+1, Danilo Avelar 76c, Júnior Urso 87, Gustavo 90+2; Flávio Torres 03c, Tito 09)
 Santa Cruz/PE         1-1  Náutico/PE [Pen 4-2]
-  [Pipico 27; Jorge Henrique 34]
+  (Pipico 27; Jorge Henrique 34)
 Serra/ES              0-2  Vasco da Gama/RJ
-  [Lucas Mineiro 27c, Ribamar 90+3]
+  (Lucas Mineiro 27c, Ribamar 90+3)
 Luverdense/MT         1-0  Figueirense/SC
-  [Wilson Júnior 03c]
-[Feb 21]
+  (Wilson Júnior 03c)
+_ Feb 21 _
 Goiás/GO              1-1  CRB/AL [Pen 2-3]
-  [Renatinho 60p; Wellington Carvalho 46]
+  (Renatinho 60p; Wellington Carvalho 46)
 Criciúma/SC           0-0  Oeste/SP [Pen 7-6]
-[Feb 26]
+_ Feb 26 _
 Atlético Cearense/CE  0-4  Atlético/GO
-  [Pedro Raul 09, 61c, Matheus 30, Mike 69]
-[Feb 27]
+  (Pedro Raul 09, 61c, Matheus 30, Mike 69)
+_ Feb 27 _
 URT/MG                2-2  Vila Nova/GO [Pen 4-5]
-  [Juninho Potiguar 55, Cascata 87; Michel Douglas 21, Danilo 83]
+  (Juninho Potiguar 55, Cascata 87; Michel Douglas 21, Danilo 83)
 Botafogo/RJ           3-0  Cuiabá/MT
-  [Erik 45, 81p, Rodrigo Pimpão 72]
+  (Erik 45, 81p, Rodrigo Pimpão 72)
 Bragantino/PA          -   Aparecidense/GO   (Suspenso até que se resolva a questão do jogo entre Aparecidense x Ponte Preta)
 Foz do Iguaçu/PR      0-0  Ceará/CE [Pen 2-4]
-[Feb 28]
+_ Feb 28 _
 Juventude/RS          2-1  América/MG
-  [Genílson 45+4p, Breno 46; Jonatas Belusso 88p]
+  (Genílson 45+4p, Breno 46; Jonatas Belusso 88p)
 Tombense/MG           2-2  Botafogo/PB [Pen 6-7]
-  [Juan 26p, Edson 68c; Clayton 28, 64]
-[Mar 06]
+  (Juan 26p, Edson 68c; Clayton 28, 64)
+_ Mar 06 _
 Mixto/MT              1-2  Chapecoense/SC
-  [William Amendoim 75c; Perotti 89c, Everaldo 90+1]
+  (William Amendoim 75c; Perotti 89c, Everaldo 90+1)
 Fluminense/RJ         3-0  Ypiranga/RS
-  [Everaldo 04, Luciano 36, Ganso 45]
+  (Everaldo 04, Luciano 36, Ganso 45)
 Santa Cruz/RN         0-1  Bahia/BA
-  [Gilberto 28]
-[Mar 07]
+  (Gilberto 28)
+_ Mar 07 _
 ABC/RN                2-2  Moto Club/MA [Pen 5-3]
-  [Maurício 60, Rodrigo Rodrigues 87c; Márcio Diogo 38, 57]
+  (Maurício 60, Rodrigo Rodrigues 87c; Márcio Diogo 38, 57)
 Santos/SP             4-0  América/RN
-  [Derlis González 34, Jean Mota 60, Rodrygo 70, Felipe Aguilar 83]
+  (Derlis González 34, Jean Mota 60, Rodrygo 70, Felipe Aguilar 83)
 Avaí/SC               2-0  Brasil/RS
-  [Daniel Amorim 47, 56c]
-[Apr 10]
+  (Daniel Amorim 47, 56c)
+_ Apr 10 _
 Bragantino/PA         3-2  Aparecidense/GO
-  [Lukinha 36, Marco Goiano 60p, 85; Rayro 46, 64]
+  (Lukinha 36, Marco Goiano 60p, 85; Rayro 46, 64)
 
 Third Phase
 
 1st Leg
-[Mar 13]
+_ Mar 13 _
 Ceará/CE              1-3  Corinthians/SP
-  [Juninho 21p; Júnior Urso 08c, Vagner Love 64, Jadson 71]
+  (Juninho 21p; Júnior Urso 08c, Vagner Love 64, Jadson 71)
 Botafogo/PB           0-2  Londrina/PR
-  [Felipe 85, 85]
-[Mar 14]
+  (Felipe 85, 85)
+_ Mar 14 _
 Vasco da Gama/RJ      3-2  Avaí/SC
-  [Danilo Barcelos 34, Rossi 57, Thiago Galhardo 71; Pedro Castro 10, André Moritz 84]
-[Mar 27]
+  (Danilo Barcelos 34, Rossi 57, Thiago Galhardo 71; Pedro Castro 10, André Moritz 84)
+_ Mar 27 _
 Chapecoense/SC        3-2  Criciúma/SC
-  [Elicarlos 26, Gustavo Campanharo 38, Lourency 89; Sandro 65c, Bruno Cosendey 68c]
-[Apr 02]
+  (Elicarlos 26, Gustavo Campanharo 38, Lourency 89; Sandro 65c, Bruno Cosendey 68c)
+_ Apr 02 _
 CRB/AL                1-1  Bahia/BA
-  [Zé Carlos 21p; Arthur Caíke 76]
-[Apr 03]
+  (Zé Carlos 21p; Arthur Caíke 76)
+_ Apr 03 _
 ABC/RN                1-0  Santa Cruz/PE
-  [Rodrigo Rodrigues 80]
+  (Rodrigo Rodrigues 80)
 Luverdense/MT         0-0  Fluminense/RJ
-[Apr 04]
+_ Apr 04 _
 Botafogo/RJ           1-1  Juventude/RS
-  [Erik 50p; Paulo Sérgio 19]
+  (Erik 50p; Paulo Sérgio 19)
 Atlético/GO           1-0  Santos/SP
-  [Jorginho 82]
-[Apr 16]
+  (Jorginho 82)
+_ Apr 16 _
 Vila Nova/GO          2-0  Bragantino/PA
-  [Danilo 07p, Rafael Silva 70p]
+  (Danilo 07p, Rafael Silva 70p)
 
 2nd Leg
-[Apr 03]
+_ Apr 03 _
 Londrina/PR           3-3  Botafogo/PB
-  [Augusto 25, 53, Luquinha 79; Nando 40, 86, 86, Clayton 69]
+  (Augusto 25, 53, Luquinha 79; Nando 40, 86, 86, Clayton 69)
 Corinthians/SP        0-1  Ceará/CE
-  [Roger 88c]
-[Apr 09]
+  (Roger 88c)
+_ Apr 09 _
 Bahia/BA              1-0  CRB/AL
-  [Elton 90+8]
-[Apr 10]
+  (Elton 90+8)
+_ Apr 10 _
 Santa Cruz/PE         3-0  ABC/RN
-  [Pipico 41c, 48p, Charles 45+1f]
+  (Pipico 41c, 48p, Charles 45+1f)
 Avaí/SC               0-1  Vasco da Gama/RJ
-  [Yago Pikachu 70]
+  (Yago Pikachu 70)
 Criciúma/SC           0-2  Chapecoense/SC
-  [Victor Andrade 45, Rildo 77]
+  (Victor Andrade 45, Rildo 77)
 Fluminense/RJ         2-0  Luverdense/MT
-  [Yony González 48c, Luciano 82]
-[Apr 11]
+  (Yony González 48c, Luciano 82)
+_ Apr 11 _
 Santos/SP             3-0  Atlético/GO
-  [Carlos Sánchez 44, 84, Rodrygo 46]
+  (Carlos Sánchez 44, 84, Rodrygo 46)
 Juventude/RS          2-1  Botafogo/RJ
-  [Dalberto 89; Cícero 33]
-[Apr 20]
+  (Dalberto 89; Cícero 33)
+_ Apr 20 _
 Bragantino/PA         2-1  Vila Nova/GO
-  [Marco Goiano 39f, Paulo de Tarcio 78c; Facundo Boné 01]
+  (Marco Goiano 39f, Paulo de Tarcio 78c; Facundo Boné 01)
 
 Fourth Phase
 
 1st Leg
-[Apr 17]
+_ Apr 17 _
 Fluminense/RJ         2-0  Santa Cruz/PE
-  [Gilberto 18, Luciano 30]
+  (Gilberto 18, Luciano 30)
 Chapecoense/SC        1-0  Corinthians/SP
-  [Aylon 33]
+  (Aylon 33)
 Santos/SP             2-0  Vasco da Gama/RJ
-  [Rodrygo 47, Jean Mota 65]
-[Apr 18]
+  (Rodrygo 47, Jean Mota 65)
+_ Apr 18 _
 Bahia/BA              4-0  Londrina/PR
-  [Arthur Caíke 24, Nino Paraíba 28, Artur 76c, Fernandão 90+1c]
-[Apr 24]
+  (Arthur Caíke 24, Nino Paraíba 28, Artur 76c, Fernandão 90+1c)
+_ Apr 24 _
 Juventude/RS          0-0  Vila Nova/GO
 
 2nd Leg
-[Apr 24]
+_ Apr 24 _
 Corinthians/SP        2-0  Chapecoense/SC
-  [Mauro Boselli 18, Mateus Vital 69]
+  (Mauro Boselli 18, Mateus Vital 69)
 Vasco da Gama/RJ      2-1  Santos/SP
-  [Raul 12, Ricardo Graça 38c; Jorge 53]
-[Apr 25]
+  (Raul 12, Ricardo Graça 38c; Jorge 53)
+_ Apr 25 _
 Santa Cruz/PE         2-0  Fluminense/RJ [Pen 2-3]
-  [Jô 72, Pipico 74]
+  (Jô 72, Pipico 74)
 Londrina/PR           2-1  Bahia/BA
-  [Anderson Oliveira 00'42, Dagoberto 35p; Fernandão 21]
-[May 07]
+  (Anderson Oliveira 00'42, Dagoberto 35p; Fernandão 21)
+_ May 07 _
 Vila Nova/GO          0-0  Juventude/RS [Pen 3-4]
 
 
 Fifth Phase
 
 1st Leg
-[May 15]
+_ May 15 _
 Corinthians/SP        0-1  Flamengo/RJ
-  [Willian Arão 78c]
+  (Willian Arão 78c)
 Fluminense/RJ         1-1  Cruzeiro/MG
-  [João Pedro 90+3; Pedro Rocha 57]
+  (João Pedro 90+3; Pedro Rocha 57)
 Atlético/MG           0-0  Santos/SP
-[May 16]
+_ May 16 _
 Fortaleza/CE          0-0  Athletico/PR
-[May 22]
+_ May 22 _
 Juventude/RS          0-0  Grêmio/RS
 São Paulo/SP          0-1  Bahia/BA
-  [Élber 72]
+  (Élber 72)
 Sampaio Corrêa/MA     0-1  Palmeiras/SP
-  [Moisés 90+2f]
-[May 23]
+  (Moisés 90+2f)
+_ May 23 _
 Internacional/RS      3-1  Paysandu/PA
-  [Paolo Guerrero 25, 78c, Rodrigo Lindoso 56; Micael 47c]
+  (Paolo Guerrero 25, 78c, Rodrigo Lindoso 56; Micael 47c)
 
 2nd Leg
-[May 29]
+_ May 29 _
 Bahia/BA              1-0  São Paulo/SP
-  [Ernando 53]
+  (Ernando 53)
 Grêmio/RS             3-0  Juventude/RS
-  [Felipe Vizeu 39c, 68, Diego Tardelli 82]
+  (Felipe Vizeu 39c, 68, Diego Tardelli 82)
 Paysandu/PA           0-1  Internacional/RS
-  [Paolo Guerrero 85]
-[May 30]
+  (Paolo Guerrero 85)
+_ May 30 _
 Palmeiras/SP          2-0  Sampaio Corrêa/MA
-  [Mayke 39, Zé Rafael 48c]
-[Jun 04]
+  (Mayke 39, Zé Rafael 48c)
+_ Jun 04 _
 Flamengo/RJ           1-0  Corinthians/SP
-  [Rodrigo Caio 86]
-[Jun 05]
+  (Rodrigo Caio 86)
+_ Jun 05 _
 Cruzeiro/MG           2-2  Fluminense/RJ [Pen 3-1]
-  [Thiago Neves 58, 80p; Ganso 15p, João Pedro 90+6b]
+  (Thiago Neves 58, 80p; Ganso 15p, João Pedro 90+6b)
 Athletico/PR          1-0  Fortaleza/CE
-  [Marco Rúben 87]
-[Jun 06]
+  (Marco Rúben 87)
+_ Jun 06 _
 Santos/SP             1-2  Atlético/MG
-  [Gustavo Henrique 05c; Chará 36, 84]
+  (Gustavo Henrique 05c; Chará 36, 84)
 
 Sixth Phase
 
 1st Leg
-[Jul 10]
+_ Jul 10 _
 Athletico/PR          1-1  Flamengo/RJ
-  [Léo Pereira 50; Gabriel Barbosa 64]
+  (Léo Pereira 50; Gabriel Barbosa 64)
 Palmeiras/SP          1-0  Internacional/RS
-  [Zé Rafael 20c]
+  (Zé Rafael 20c)
 Grêmio/RS             1-1  Bahia/BA
-  [Everton 45+1p; Gilberto 48c]
-[Jul 11]
+  (Everton 45+1p; Gilberto 48c)
+_ Jul 11 _
 Cruzeiro/MG           3-0  Atlético/MG
-  [Pedro Rocha 13, Thiago Neves 27, Robinho 54]
+  (Pedro Rocha 13, Thiago Neves 27, Robinho 54)
 
 2nd Leg
-[Jul 17]
+_ Jul 17 _
 Flamengo/RJ           1-1  Athletico/PR [Pen 1-3]
-  [Gabriel Barbosa 63; Rony 76]
+  (Gabriel Barbosa 63; Rony 76)
 Internacional/RS      1-0  Palmeiras/SP [Pen 5-4]
-  [Patrick 40]
+  (Patrick 40)
 Bahia/BA              0-1  Grêmio/RS
-  [Alisson 64]
+  (Alisson 64)
 Atlético/MG           2-0  Cruzeiro/MG
-  [Cazares 34, Patric 90+2]
+  (Cazares 34, Patric 90+2)
 
-Semifinal
+▪ Semifinal ▪
 
 1st Leg
-[Aug 07]
+_ Aug 07 _
 Cruzeiro/MG           0-1  Internacional/RS
-  [Edenilson 75]
-[Aug 14]
+  (Edenilson 75)
+_ Aug 14 _
 Grêmio/RS             2-0  Athletico/PR
-  [André Felipe 23c, Jean Pyerre 72f]
+  (André Felipe 23c, Jean Pyerre 72f)
 
 2nd Leg
-[Sep 04]
+_ Sep 04 _
 Internacional/RS      3-0  Cruzeiro/MG
-  [Paolo Guerrero 39c, 69, Edenilson 89]
+  (Paolo Guerrero 39c, 69, Edenilson 89)
 Athletico/PR          2-0  Grêmio/RS [Pen 5-4]
-  [Nikão 16, Marco Rúben 48c]
+  (Nikão 16, Marco Rúben 48c)
 
-Final
+▪ Final ▪
 
 1st Leg
-[Sep 11]
+_ Sep 11 _
 Athletico/PR          1-0  Internacional/RS
-  [Bruno Guimarães 57]
+  (Bruno Guimarães 57)
 
 2nd Leg
-[Sep 18]
+_ Sep 18 _
 Internacional/RS      1-2  Athletico/PR
-  [Nico López 30; Léo Cittadini 23, Rony 90+6]
+  (Nico López 30; Léo Cittadini 23, Rony 90+6)
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Supercopa do Brasil 2020  ‹§supcb›
 
-<!-- start pre -->
 NB: between 2019 champions and cup winners
 
-[Feb 16, 2020, Brasília]
+(Feb 16, 2020, Brasília)
 Flamengo/RJ           3-0  Athletico/PR
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
 
 ==== Série B  ‹§sb›
 
-<!-- start pre -->
-Final Table:
+<!-- $table4$ -->
 
- 1.Bragantino           38  22  9  7  64-27  75  [P]  Promoted
- 2.Sport Recife          38  17 17  4  49-29  68  [R]  Promoted
- 3.Coritiba              38  18 12  8  48-34  66       Promoted
- 4.Atlético/GO           38  15 17  6  44-29  62       Promoted
-------------------------------------------------
- 5.América/MG            38  17 10 11  42-34  61  [R]
- 6.Paraná           38  14 14 10  34-33  56  [R]
- 7.CRB             38  15 10 13  44-43  55
- 8.Cuiabá                38  13 13 12  43-40  52  [P]
- 9.Botafogo/SP           38  13 11 14  38-38  50  [P]
-10.Operário Ferroviário  38  13 11 14  32-41  50  [P]
-11.Ponte Preta           38  11 14 13  41-39  47
-12.Vitória               38  11 12 15  42-48  45  [R]
-13.Guarani               38  12  8 18  27-37  44
-14.Brasil de Pelotas     38  11 11 16  31-47  44
-15.Oeste           38   8 17 13  41-49  41
-16.Figueirense           38   7 20 11  31-38  41
-------------------------------------------------
-17.Londrina              38  11  6 21  37-53  39       Relegated
-18.São Bento             38  10  9 19  46-54  39       Relegated
-19.Criciúma           38   8 15 15  30-38  39       Relegated
-20.Vila Nova             38   7 18 13  27-40  39       Relegated
 
 Promoted: Náutico, Sampaio Corrêa, Confiança, Juventude (Caxias)
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-‹2018, see page braz2018›
-
-‹2020/21, see page braz2020›
-
-‹list of champions, see page brazchamp›.
-
-‹list of 2nd division champions, see page braz2champ›.
-
-‹list of cup winners, see page brazcuphist›.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-Prepared and maintained by ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
-
-Author: RSSSF Brazil
-Last updated: 8 Dec 2025
 
 
-(C) Copyright RSSSF and RSSSF Brazil 2019/25
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-the author. All rights reserved.
+
+
+
+<!-- $about$ -->
+

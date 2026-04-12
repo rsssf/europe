@@ -6,7 +6,6 @@
 
 == VI Copa Brasil - 1980 [Brazilian Championship]
 
-<!-- start pre -->
 Participants
 Teams selected by record on previous state championship-
 
@@ -94,15 +93,15 @@ JOINVILLE Esporte Clube (Joinville)
 Sergipe (1)
 Associação Olímpica de ITABAIANA (Itabaiana)
 
-First Phase
+▪ First Phase ▪
 
-Group A
+▪ Group A ▪
 
-Round 1
-[Feb 23]
+▪ Round 1 ▪
+_ Feb 23 _
 Corinthians    3-2  Joinville
-  [Sócrates (2), Gil;  Ademir, Lico]
-[Feb 24]
+  (Sócrates (2), Gil;  Ademir, Lico)
+_ Feb 24 _
 Colorado       2-0  CRB
   [Jorge Nobre, Mug]
 Portuguesa     1-0  Bahia
@@ -112,90 +111,90 @@ Operário-MS    1-1  Cruzeiro
 Remo           1-3  Botafogo-RJ
   [Bebeto;  Mendonça, Marcelo, Gil]
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Botafogo-RJ    4-0  Portuguesa
-  [Marcelo (2), Silva, Édson]
+  (Marcelo (2), Silva, Édson)
 Cruzeiro       0-0  Remo
 CRB            2-0  Joinville
   [Joãozinho Paulista, Mundinho]
 Bahia          2-3  Corinthians
   [Osni, Beijoca;  Sócrates, Basílio, Djalma]
-[Feb 27]
+_ Feb 27 _
 Colorado       2-0  Operário-MS
-  [Tião Marçal (2)]
+  (Tião Marçal (2))
 
-Round 3
-[Mar 1]
+▪ Round 3 ▪
+_ Mar 1 _
 Bahia          1-0  CRB
   [Osni]
 Cruzeiro       0-0  Colorado
-[Mar 2]
+_ Mar 2 _
 Corinthians    2-0  Botafogo-RJ
   [Sócrates, Geraldo]
 Joinville      4-1  Portuguesa
-  [Zé Carlos Paulista (2), Naná, Britinho;  Caio]
+  (Zé Carlos Paulista (2), Naná, Britinho;  Caio)
 Operário-MS    0-1  Remo
   [Mesquita]
 
-Round 4
-[Mar 5]
+▪ Round 4 ▪
+_ Mar 5 _
 Botafogo-RJ    3-1  CRB
-  [Silva (2), Mendonça;  Enéas]
+  (Silva (2), Mendonça;  Enéas)
 Operário-MS    0-1  Corinthians
   [Geraldo]
 Remo           1-1  Bahia
   [Paulinho;  Osni]
 Joinville      1-1  Colorado
   [Zé Carlos Paulista;  Jaiminho]
-[Mar 12]
+_ Mar 12 _
 Portuguesa     0-3  Cruzeiro
   [Tião, Joãozinho, Nelinho]
 
-Round 5
-[Mar 8]
+▪ Round 5 ▪
+_ Mar 8 _
 Cruzeiro       2-1  Joinville
-  [Eli Carlos (2);  Vágner]
-[Mar 9]
+  (Eli Carlos (2);  Vágner)
+_ Mar 9 _
 Colorado       1-0  Remo
   [Tião Marçal]
 CRB            1-3  Operário-MS
-  [Élcio;  Lima (2), Iaúca]
+  (Élcio;  Lima (2), Iaúca)
 Bahia          3-2  Botafogo-RJ
-  [Gilcimar (2), Beijoca;  Mendonça, Ricardo]
+  (Gilcimar (2), Beijoca;  Mendonça, Ricardo)
 Corinthians    0-0  Portuguesa
 
-Round 6
-[Mar 12]
+▪ Round 6 ▪
+_ Mar 12 _
 Joinville      3-0  Remo
-  [Zé Carlos Paulista (2), Vágner]
-[Mar 15]
+  (Zé Carlos Paulista (2), Vágner)
+_ Mar 15 _
 Botafogo-RJ    2-0  Colorado
   [Mendonça, Alcir-Colorado (Own Goal)]
-[Mar 16]
+_ Mar 16 _
 Corinthians    3-1  Cruzeiro
-  [Sócrates (2), Geraldo; Nelinho]
+  (Sócrates (2), Geraldo; Nelinho)
 CRB            4-1  Portuguesa
   [Mundinho, Osmar Barão, Enéas, Joãozinho Paulista;  Caio]
 Operário-MS    1-0  Bahia
   [Lima]
 
-Round 7
-[Mar 19]
+▪ Round 7 ▪
+_ Mar 19 _
 Remo           1-0  Corinthians
   [Jaci]
 Botafogo-RJ    1-1  Operário-MS
   [Mendonça;  Arthurzinho]
 Bahia          0-0  Joinville
-[Mar 20]
+_ Mar 20 _
 Portuguesa     3-1  Colorado
   [Marinho-Colorado       (Own Goal), Enéas, Caio;  Humberto Ramos]
 Cruzeiro       0-0  CRB
 
-Round 8
-[Mar 23]
+▪ Round 8 ▪
+_ Mar 23 _
 Joinville      4-0  Operário-MS
-  [Zé Carlos Paulista (2), Jorge Luís, Ademir]
+  (Zé Carlos Paulista (2), Jorge Luís, Ademir)
 Portuguesa     0-1  Remo
   [Bebeto]
 Colorado       1-0  Bahia
@@ -205,14 +204,14 @@ CRB            1-2  Corinthians
 Cruzeiro       2-1  Botafogo-RJ
   [Nelinho, Luís Carlos;  Perivaldo]
 
-Round 9
-[Mar 30]
+▪ Round 9 ▪
+_ Mar 30 _
 Remo           1-0  CRB
   [Jaci]
 Operário-MS    2-1  Portuguesa
   [Cléber, Altimar;  Jorge Luís]
 Bahia          3-0  Cruzeiro
-  [Osni (2), Douglas]
+  (Osni (2), Douglas)
 Corinthians    4-1  Colorado
   [Sócrates, Wilsinho, Geraldo, Píter;  Carlos Alberto]
 Botafogo-RJ    0-0  Joinville
@@ -230,36 +229,36 @@ Table
  9-CRB             9  2  1  6   9-13   5
 10-Portuguesa      9  2  1  6   7-19   5
 
-Group B
+▪ Group B ▪
 
-Round 1
-[Feb 24]
+▪ Round 1 ▪
+_ Feb 24 _
 Palmeiras      1-1  Vitória
   [Jorginho;  Sivaldo]
 Ceará          2-1  Flamengo-PI
-  [Gílson (2);  Demir]
+  (Gílson (2);  Demir)
 Desportiva     1-0  Guarani
   [Luís Cláudio]
 América-RN     1-0  Vila Nova
   [Marinho]
 Fluminense     2-3  Atlético-MG
-  [Robertinho, Mário;  Toninho Cerezo (2), Reinaldo]
+  (Robertinho, Mário;  Toninho Cerezo (2), Reinaldo)
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Ceará          1-1  América-RN
   [Gílson;  Paulo César]
 Guarani        1-2  Fluminense
-  [Careca;  Robertinho (2)]
+  (Careca;  Robertinho (2))
 Flamengo-PI    0-0  Vitória
 Vila Nova      1-0  Desportiva
   [Miltão]
-[Feb 27]
+_ Feb 27 _
 Atlético-MG    2-0  Palmeiras
   [Pedrinho, Reinaldo]
 
-Round 3
-[Mar 2]
+▪ Round 3 ▪
+_ Mar 2 _
 Palmeiras      0-0  Guarani
 Vitória        1-1  Fluminense
   [Pita;  Cristóvão]
@@ -269,84 +268,84 @@ América-RN     1-1  Desportiva
 Atlético-MG    2-0  Flamengo-PI
   [Reinaldo, Palhinha]
 
-Round 4
-[Mar 5]
+▪ Round 4 ▪
+_ Mar 5 _
 Fluminense     4-0  Vila Nova
-  [Robertinho (2), Cristóvão, Zezé Gomes]
+  (Robertinho (2), Cristóvão, Zezé Gomes)
 Desportiva     1-4  Atlético-MG
-  [Botelho;  Palhinha (2), Pedrinho (2)]
+  (Botelho;  Palhinha (2), Pedrinho (2))
 Guarani        3-0  Flamengo-PI
-  [Careca (2), Chiquinho]
+  (Careca (2), Chiquinho)
 Vitória        0-5  Ceará
-  [Ivanir (2), Gílson, Carlinhos, Jangada]
-[Mar 6]
+  (Ivanir (2), Gílson, Carlinhos, Jangada)
+_ Mar 6 _
 Palmeiras      4-1  América-RN
-  [Baroninho (2), Pedrinho, César;  Paulo César]
+  (Baroninho (2), Pedrinho, César;  Paulo César)
 
-Round 5
-[Mar 9]
+▪ Round 5 ▪
+_ Mar 9 _
 Vila Nova      awd  Vitória                [awarded 0-1, orginally 1-0, V.Nova
   [Amarildo]                                used an ineligible player]
 Atlético-MG    2-0  Guarani
-  [Éder (2)]
+  (Éder (2))
 Flamengo-PI    3-0  América-RN
-  [Carlinhos (2), Caíco]
+  (Carlinhos (2), Caíco)
 Ceará          0-0  Desportiva
 Fluminense     0-0  Palmeiras
 
-Round 6
-[Mar 15]
+▪ Round 6 ▪
+_ Mar 15 _
 Palmeiras      4-0  Vila Nova
-  [Jorginho (2), Baroninho, Carlos Alberto]
-[Mar 16]
+  (Jorginho (2), Baroninho, Carlos Alberto)
+_ Mar 16 _
 Guarani        1-0  Ceará
   [Gomes]
 Flamengo-PI    2-2  Fluminense
   [Jorge, Israel;  Mário, Cristóvão]
 América-RN     0-0  Atlético-MG
 Vitória        4-2  Desportiva
-  [Pita (2), Sena, Sivaldo; Luís Cláudio (2)]
+  (Pita (2), Sena, Sivaldo; Luís Cláudio (2))
 
-Round 7
-[Mar 19]
+▪ Round 7 ▪
+_ Mar 19 _
 Atlético-MG    5-1  Vitória
-  [Reinaldo (2), Pedrinho, Palhinha, Éder;  Pita]
+  (Reinaldo (2), Pedrinho, Palhinha, Éder;  Pita)
 Desportiva     1-0  Palmeiras
   [Zuza]
 Vila Nova      2-1  Flamengo-PI
   [Triel, Edinho-Flamengo-PI    (Own Goal).
 Flamengo-PI: Caíco.
 Fluminense     4-2  Ceará
-  [Cristóvão, Mário, Robertinho, Osnir;  Ivanir (2)]
-[Mar 20]
+  (Cristóvão, Mário, Robertinho, Osnir;  Ivanir (2))
+_ Mar 20 _
 Guarani        1-1  América-RN
   [Zenon;  Tarso]
 
-Round 8
-[Mar 22]
+▪ Round 8 ▪
+_ Mar 22 _
 Fluminense     3-1  Desportiva
   [Zezé Gomes, Mário, Cristóvão;  Botelho]
-[Mar 23]
+_ Mar 23 _
 Flamengo-PI    1-4  Palmeiras
-  [Décio Costa;  César (2), Polozi ,Lúcio]
+  (Décio Costa;  César (2), Polozi ,Lúcio)
 Vitória        8-1  América-RN
-  [Sena (3), Pita (2), Válder, Tatá, Sivaldo;  Tarso]
+  (Sena (3), Pita (2), Válder, Tatá, Sivaldo;  Tarso)
 Ceará          2-1  Atlético-MG
   [Didi, Ivanir;  Palhinha]
 Vila Nova      1-1  Guarani
   [Luís Dario;  Careca]
 
-Round 9
-[Mar 30]
+▪ Round 9 ▪
+_ Mar 30 _
 Palmeiras      3-1  Ceará
   [Jorginho, Baroninho, Wílson;  Edmar]
 América-RN     0-0  Fluminense
 Atlético-MG    3-1  Vila Nova
-  [Palhinha (2), Reinaldo;  Zé Ronaldo]
+  (Palhinha (2), Reinaldo;  Zé Ronaldo)
 Guarani        2-0  Vitória
   [Careca, Zenon]
 Desportiva     3-1  Flamengo-PI
-  [Botelho (2), Dario;  Caíco]
+  (Botelho (2), Dario;  Caíco)
 
 Table
  1-Atlético-MG     9  7  1  1  22- 7  15  Qualified
@@ -361,39 +360,39 @@ Table
  9-Vila Nova       9  2  2  5   5-15   6
 10-Flamengo-PI     9  1  2  6   9-18   4
 
-Group C
+▪ Group C ▪
 
-Round 1
-[Feb 23]
+▪ Round 1 ▪
+_ Feb 23 _
 Internacional  1-2  Itabaiana
   [Bira;  João Carlos-Inter (Own Goal), Nílson]
-[Feb 24]
+_ Feb 24 _
 Santos         0-1  Flamengo-RJ
   [Zico]
 São Paulo-RS   3-2  Botafogo-PB
-  [Néia (2), João Carlos; Marquinhos, Evilásio]
+  (Néia (2), João Carlos; Marquinhos, Evilásio)
 Náutico        0-0  Ferroviário
 Mixto          1-3  Ponte Preta
-  [Rinaldo;  Ademir (3)]
+  (Rinaldo;  Ademir (3))
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Botafogo-PB    2-1  Itabaiana
   [Magno, Dão;  Mica]
-[Feb 27]
+_ Feb 27 _
 Internacional  3-1  Mixto
-  [Bira (2), Valdir Lima;  Advílson]
+  (Bira (2), Valdir Lima;  Advílson)
 Ferroviário    1-1  Santos
   [Nilsinho; Rubens Feijão]
-[Mar 12]
+_ Mar 12 _
 São Paulo-RS   1-1  Náutico
   [João Carlos;  Reinaldo]
 
-Round 3
-[Mar 1]
+▪ Round 3 ▪
+_ Mar 1 _
 Náutico        0-1  Botafogo-PB
   [Zé Eduardo]
-[Mar 2]
+_ Mar 2 _
 São Paulo-RS   1-1  Mixto
   [Marinho;  Elmo]
 Itabaiana      0-2  Santos
@@ -402,47 +401,47 @@ Ponte Preta    0-0  Ferroviário
 Flamengo-RJ    1-0  Internacional
   [Zico]
 
-Round 4
-[Mar 5]
+▪ Round 4 ▪
+_ Mar 5 _
 Santos         2-1  Ponte Preta
   [Gilberto Costa, Joãozinho; Humberto]
 Internacional  3-2  Ferroviário
-  [Bira (2), Popéia; Nilsinho (2)]
+  (Bira (2), Popéia; Nilsinho (2))
 Itabaiana      2-0  São Paulo-RS
   [Damião, Mica]
 Mixto          3-1  Náutico
-  [Elmo (2), Brecha;  Marquinhos]
-[Mar 6]
+  (Elmo (2), Brecha;  Marquinhos)
+_ Mar 6 _
 Flamengo-RJ    1-2  Botafogo-PB
   [Tita;  Soares, Zé Eduardo]
 
-Round 5
-[Mar 8]
+▪ Round 5 ▪
+_ Mar 8 _
 Náutico        0-2  Internacional
   [Batista, Cláudio Mineiro]
 Ferroviário    2-1  Itabaiana
   [Almir, Celso;  Misso]
-[Mar 9]
+_ Mar 9 _
 Santos         2-0  São Paulo-RS
   [Joãozinho, Rubens Feijão]
 Mixto          0-2  Flamengo-RJ
   [Carlos Henrique, Zico]
-[Mar 23]
+_ Mar 23 _
 Ponte Preta    6-2  Botafogo-PB
   [Serginho (2), Orlando Fumaça, Zé Mário, Parraga, Deca-Bota (Own Goal);  Zé
    Eduardo, Nicácio]
 
 Moved Matches
-[Mar 12]
+_ Mar 12 _
 Ponte Preta    3-1  Itabaiana
   [Aílton-Itabaiana (Own Goal), Osvaldo, Odirlei;  Mica.
 Flamengo-RJ    2-1  Ferroviário
-  [Zico (2);  Almir]
+  (Zico (2);  Almir)
 
-Round 6
-[Mar 16]
+▪ Round 6 ▪
+_ Mar 16 _
 Itabaiana      3-2  Mixto
-  [Mica, Aílton, Damião; Hilderaldo (2)]
+  (Mica, Aílton, Damião; Hilderaldo (2))
 Ferroviário    1-0  São Paulo-RS
   [Nilsinho]
 Internacional  1-0  Ponte Preta
@@ -452,36 +451,36 @@ Náutico        2-2  Flamengo-RJ
 Botafogo-PB    0-3  Santos
   [Aluísio, Joãozinho, Nílton Batata]
 
-Round 7
-[Mar 13]
+▪ Round 7 ▪
+_ Mar 13 _
 Botafogo-PB    2-1  Internacional
   [Zé Eduardo, Soares;  Bira]
-[Mar 19]
+_ Mar 19 _
 Ponte Preta    4-0  São Paulo-RS
-  [Osvaldo (2), Zé Mario, Parraga]
+  (Osvaldo (2), Zé Mario, Parraga)
 Ferroviário    1-2  Mixto
-  [Almir;  Tostão (2)]
-[Mar 20]
+  (Almir;  Tostão (2))
+_ Mar 20 _
 Flamengo-RJ    5-0  Itabaiana
-  [Zico (4), Tita]
-[Mar 23]
+  (Zico (4), Tita)
+_ Mar 23 _
 Santos         4-1  Náutico
-  [João Paulo (2), Miro, Aluísio; Reinaldo]
+  (João Paulo (2), Miro, Aluísio; Reinaldo)
 
-Round 8
-[Mar 23]
+▪ Round 8 ▪
+_ Mar 23 _
 São Paulo-RS   0-0  Flamengo-RJ
-[Mar 26]
+_ Mar 26 _
 Ponte Preta    1-2  Náutico
   [Humberto;  Marquinhos, Reinaldo]
-[Mar 27]
+_ Mar 27 _
 Santos         1-0  Internacional
   [Nílton Batata]
 Botafogo-PB    2-0  Mixto
-  [Dão (2)]
+  (Dão (2))
 
-Round 9
-[Mar 30]
+▪ Round 9 ▪
+_ Mar 30 _
 Mixto          1-2  Santos
   [Neto-Santos (Own Goal);  João Paulo, Rubens Feijão]
 Internacional  2-1  São Paulo-RS
@@ -489,7 +488,7 @@ Internacional  2-1  São Paulo-RS
 Ferroviário    1-1  Botafogo-PB
   [Almir;  Dão]
 Itabaiana      0-5  Náutico
-  [Evaristo (3), Paulinho, Reinaldo]
+  (Evaristo (3), Paulinho, Reinaldo)
 Flamengo-RJ    2-2  Ponte Preta
   [Nunes, Zico;  Serginho, Odirlei]
 
@@ -506,23 +505,23 @@ Table
  9-Mixto            9  2  1  6  11-18   5
 10-São Paulo-RS     9  1  3  5   6-15   5
 
-Group D
+▪ Group D ▪
 
-Round 1
-[Feb 23]
+▪ Round 1 ▪
+_ Feb 23 _
 Vasco da Gama  1-0  América-RJ
   [Jorge Mendonça]
-[Feb 24]
+_ Feb 24 _
 Gama           2-0  Maranhão
-  [Fantato (2)]
+  (Fantato (2))
 Grêmio         0-0  São Paulo-SP
 Atlético-GO    1-1  Coritiba
   [Alcino;  Freitas]
 Nacional       0-2  Santa Cruz
   [Joãozinho, Amílton Rocha]
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Gama           0-2  Nacional
   [Letiéri, Armando]
 Coritiba       2-2  Grêmio
@@ -534,98 +533,98 @@ Maranhão       0-1  América-RJ
 São Paulo-SP   1-2  Vasco da Gama
   [Serginho;  Orlando, Aílton]
 
-Round 3
-[Mar 1]
+▪ Round 3 ▪
+_ Mar 1 _
 América-RJ     2-4  Grêmio
-  [Alcides, Porto Real;  Baltazar(2), Paulo Isidoro, Eurico]
+  (Alcides, Porto Real;  Baltazar(2), Paulo Isidoro, Eurico)
 São Paulo-SP   2-0  Maranhão
   [Renato, Teodoro]
-[Mar 2]
+_ Mar 2 _
 Nacional       0-0  Atlético-GO
 Santa Cruz     1-1  Gama
   [Baiano;  Fantato]
 Vasco da Gama  0-1  Coritiba
   [Freitas]
 
-Round 4
-[Mar 5]
+▪ Round 4 ▪
+_ Mar 5 _
 Vasco da Gama  1-0  Nacional
   [Paulinho]
 Coritiba       2-0  Maranhão
   [Freitas, Escurinho]
-[Mar 6]
+_ Mar 6 _
 Grêmio         0-0  Santa Cruz
 América-RJ     0-0  Gama
-[Mar 26]
+_ Mar 26 _
 Atlético-GO    0-0  São Paulo-SP
 
-Round 5
-[Mar 8]
+▪ Round 5 ▪
+_ Mar 8 _
 São Paulo-SP   5-3  Coritiba
-  [Teodoro, Serginho, Getúlio, Renato, Zé Sérgio;  Duílio (2), Eduardo]
-[Mar 9]
+  (Teodoro, Serginho, Getúlio, Renato, Zé Sérgio;  Duílio (2), Eduardo)
+_ Mar 9 _
 Santa Cruz     2-1  América-RJ
   [Betinho, Tadeu Macrini; Alcides]
 Grêmio         3-1  Vasco da Gama
-  [Baltazar (2), Jurandir;  Jorge Mendonça]
+  (Baltazar (2), Jurandir;  Jorge Mendonça)
 Gama           1-1  Atlético-GO
   [Fantato;  Alexandre Bueno]
-[Mar 12]
+_ Mar 12 _
 Maranhão       0-0  Nacional
 
-Round 6
-[Mar 15]
+▪ Round 6 ▪
+_ Mar 15 _
 América-RJ     1-1  Atlético-GO
   [Celso;  Alcino]
-[Mar 16]
+_ Mar 16 _
 Coritiba       2-1  Gama
   [Escurinho, Santos;  Fantato]
 Vasco da Gama  2-0  Santa Cruz
-  [Jorge Mendonça (2)]
+  (Jorge Mendonça (2))
 Nacional       2-2  São Paulo-SP
   [Letiéri, Nílton; Serginho, Aílton Lira]
 Maranhão       1-1  Grêmio
   [Antônio Carlos;  Baltazar]
 
-Round 7
-[Mar 12]
+▪ Round 7 ▪
+_ Mar 12 _
 Atlético-GO    1-0  Vasco da Gama
   [Luís Poiâni]
-[Mar 19]
+_ Mar 19 _
 Grêmio         5-1  Gama
-  [Tarciso (2), Baltazar (2), Ancheta;  Santana]
+  (Tarciso (2), Baltazar (2), Ancheta;  Santana)
 São Paulo-SP   2-0  América-RJ
   [Renato, Zé Sérgio]
 Coritiba       3-0  Nacional
-  [Freitas (2), Santos]
+  (Freitas (2), Santos)
 Santa Cruz     1-1  Maranhão
   [Betinho;  Neco]
 
-Round 8
-[Mar 23]
+▪ Round 8 ▪
+_ Mar 23 _
 Gama           2-2  São Paulo-SP
   [Fantato, Robertinho;  Serginho, Aílton Lira]
 América-RJ     4-0  Nacional
-  [Uchoa (2), Alcides, Porto Real]
+  (Uchoa (2), Alcides, Porto Real)
 Grêmio         0-1  Atlético-GO
   [Gilberto]
 Santa Cruz     2-1  Coritiba
   [Frazão, Dario;  Escurinho]
-[Mar 26]
+_ Mar 26 _
 Maranhão       0-0  Vasco da Gama
 
-Round 9
-[Mar 30]
+▪ Round 9 ▪
+_ Mar 30 _
 Atlético-GO    5-1  Maranhão
-  [Alexandre Bueno (2), Gilberto (2), Alcino;  Djaro]
+  (Alexandre Bueno (2), Gilberto (2), Alcino;  Djaro)
 São Paulo-SP   3-1  Santa Cruz
-  [Serginho (2), Aílton Lira;  Valdarez]
+  (Serginho (2), Aílton Lira;  Valdarez)
 Coritiba       1-0  América-RJ
   [Escurinho]
 Nacional       0-3  Grêmio
-  [Baltazar (3)]
+  (Baltazar (3))
 Vasco da Gama  5-1  Gama
-  [Wilsinho (2), Dudu (2), João Luís; Roldão]
+  (Wilsinho (2), Dudu (2), João Luís; Roldão)
 
 Table
  1-Coritiba        9  5  2  2  16-11  12  Qualified
@@ -640,7 +639,7 @@ Table
  9-Nacional        9  1  3  5   4-15   5
 10-Maranhão        9  0  4  5   3-14   4
 
-Second Phase
+▪ Second Phase ▪
 
 Teams qualified from Taça de Prata to Second Phase
 
@@ -649,50 +648,50 @@ AMERICANO Futebol Clube (Campos-RJ)
 BANGU Esporte Clube (Rio de Janeiro-RJ)
 SPORT Clube do Recife (Recife-PE)
 
-Group E
+▪ Group E ▪
 
-Round 1
-[Apr 6]
+▪ Round 1 ▪
+_ Apr 6 _
 Corinthians    1-1  Vasco da Gama
   [Píter;  Iva]
 Vitória        1-0  Náutico
   [Sena]
 
-Round 2
-[Apr 3]
+▪ Round 2 ▪
+_ Apr 3 _
 Vasco da Gama  2-0  Vitória
   [Wilsinho, Jorge Mendonça]
-[Apr 13]
+_ Apr 13 _
 Náutico        1-2  Corinthians
   [Carlos Alberto Rocha;  Wilsinho, Geraldo]
 
-Round 3
-[Apr 9]
+▪ Round 3 ▪
+_ Apr 9 _
 Vasco da Gama  2-2  Náutico
   [Paulinho, Jorge Mendonça;  Evaristo, Cléber]
-[Apr 26]
+_ Apr 26 _
 Corinthians    5-0  Vitória
   [Wladimir, Geraldo, Carlinhos, Sócrates, Píter]
 
-Round 4
-[Apr 21]
+▪ Round 4 ▪
+_ Apr 21 _
 Vitória        2-6  Corinthians
-  [Pita (2);  Píter (2), Sócrates (2), Geraldo Souto-Vit-(Own Goal), Geraldo]
+  (Pita (2);  Píter (2), Sócrates (2), Geraldo Souto-Vit-(Own Goal), Geraldo)
 Náutico        0-1  Vasco da Gama
   [Guina]
 
-Round 5
-[May 3]
+▪ Round 5 ▪
+_ May 3 _
 Náutico        2-0  Vitória
   [Reinaldo, Evaristo]
-[May 4]
+_ May 4 _
 Vasco da Gama  5-2  Corinthians
-  [Roberto Dinamite (5);  Caçapava, Sócrates]
+  (Roberto Dinamite (5);  Caçapava, Sócrates)
 
-Round 6
-[May 7]
+▪ Round 6 ▪
+_ May 7 _
 Vitória        0-5  Vasco da Gama
-  [Roberto Dinamite (3), Catinha, Jorge Mendonça]
+  (Roberto Dinamite (3), Catinha, Jorge Mendonça)
 Corinthians    3-0  Náutico
   [Wilsinho, Toninho, Eli]
 
@@ -703,50 +702,50 @@ Table
  3-Náutico         6  1  1  4   5- 9   3
  4-Vitória         6  1  0  5   3-20   2
 
-Group F
+▪ Group F ▪
 
-Round 1
-[Apr 6]
+▪ Round 1 ▪
+_ Apr 6 _
 Americano      0-1  Ceará
   [Didi]
 Botafogo-RJ    3-3  São Paulo-SP
   [Renato Sá, Wesley, Mendonça;  Renato, Serginho, Assis]
 
-Round 2
-[Apr 13]
+▪ Round 2 ▪
+_ Apr 13 _
 Ceará          1-3  Botafogo-RJ
   [Jorge Luís;  Cláudio Adão, Perivaldo, Mendonça]
 Americano      0-0  São Paulo-SP
 
-Round 3
-[Apr 17]
+▪ Round 3 ▪
+_ Apr 17 _
 São Paulo-SP   2-1  Ceará
   [Assis, Serginho;  Ivanir]
 Botafogo-RJ    2-0  Americano
   [Mendonça, Perivaldo]
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 São Paulo-SP   3-0  Botafogo-RJ
-  [Serginho (2), Getúlio]
-[Apr 21]
+  (Serginho (2), Getúlio)
+_ Apr 21 _
 Ceará          0-0  Americano
 
-Round 5
-[Apr 27]
+▪ Round 5 ▪
+_ Apr 27 _
 Americano      1-0  Botafogo-RJ
   [Marinho]
 Ceará          3-3  São Paulo-SP
   [Jorge Nei, Edmar, Roberto Bacuri;  Aílton Lira, Zé Sérgio, Getúlio]
 
-Round 6
-[May 4]
+▪ Round 6 ▪
+_ May 4 _
 São Paulo-SP   4-1  Americano
-  [Serginho (2), Renato, Zizinho  Té]
+  (Serginho (2), Renato, Zizinho  Té)
 Botafogo-RJ    3-1  Ceará
   [Zuza, Renato Sá, Cláudio Adão; Jorginho]
 
-Group F
+▪ Group F ▪
 Table
  1-São Paulo-SP    6  3  3  0  15- 8   9  Qualified
  2-Botafogo-RJ     6  3  1  2  11- 9   7  Qualified
@@ -754,52 +753,52 @@ Table
  3-Ceará           6  1  2  3   7-11   4
  4-Americano       6  1  2  3   2- 7   4
 
-Group G
+▪ Group G ▪
 
-Round 1
-[Apr 6]
+▪ Round 1 ▪
+_ Apr 6 _
 Internacional  5-0  Bahia
-  [Jair (3), Bira, Batista]
+  (Jair (3), Bira, Batista)
 Atlético-GO    0-2  Atlético-MG
   [Palhinha, Éder]
 
-Round 2
-[Apr 9]
+▪ Round 2 ▪
+_ Apr 9 _
 Atlético-MG    1-2  Internacional
-  [Jorge Valença;  Bira (2)]
-[Apr 13]
+  (Jorge Valença;  Bira (2))
+_ Apr 13 _
 Bahia          2-1  Atlético-GO
   [Freitas, Douglas;  Gilberto]
 
-Round 3
-[Apr 3]
+▪ Round 3 ▪
+_ Apr 3 _
 Atlético-GO    1-4  Internacional
-  [Galli;  Bira (2), Mário Sérgio, Falcão]
-[Apr 20]
+  (Galli;  Bira (2), Mário Sérgio, Falcão)
+_ Apr 20 _
 Bahia          0-1  Atlético-MG
   [Pedrinho]
 
-Round 4
-[Apr 23]
+▪ Round 4 ▪
+_ Apr 23 _
 Internacional  1-3  Atlético-MG
-  [Bira;  Toninho Cerezo (2), Fernando Roberto]
-[Apr 27]
+  (Bira;  Toninho Cerezo (2), Fernando Roberto)
+_ Apr 27 _
 Atlético-GO    2-1  Bahia
-  [Chiquito (2);  Washington Luís]
+  (Chiquito (2);  Washington Luís)
 
-Round 5
-[May 4]
+▪ Round 5 ▪
+_ May 4 _
 Bahia          1-3  Internacional
-  [Severino;  Adílson (2), Batista]
+  (Severino;  Adílson (2), Batista)
 Atlético-MG    3-1  Atlético-GO
-  [Éder (2), Pedrinho; Valtair]
+  (Éder (2), Pedrinho; Valtair)
 
-Round 6
-[May 7]
+▪ Round 6 ▪
+_ May 7 _
 Internacional  4-0  Atlético-GO
-  [Jair (2), Falcão, Batista]
+  (Jair (2), Falcão, Batista)
 Atlético-MG    5-1  Bahia
-  [Fernando Roberto (2), Pedrinho (2), Éder;  Gilcimar]
+  (Fernando Roberto (2), Pedrinho (2), Éder;  Gilcimar)
 
 Table
  1-Internacional   6  5  0  1  19- 6  10  Qualified
@@ -808,47 +807,47 @@ Table
  3-Atlético-GO     6  1  0  5   5-16   2
  4-Bahia           6  1  0  5   5-17   2
 
-Group H
+▪ Group H ▪
 
-Round 1
-[Apr 5]
+▪ Round 1 ▪
+_ Apr 5 _
 Sport          2-1  Botafogo-PB
   [Lola, Nivaldo;  Dão]
-[Apr 6]
+_ Apr 6 _
 Cruzeiro       3-1  Fluminense
   [Luís Carlos, Nélio, Joãozinho;  Cristóvão]
 
-Round 2
-[Apr 12]
+▪ Round 2 ▪
+_ Apr 12 _
 Fluminense     2-1  Sport
   [Robertinho, Tulica;  Jorge Campos]
-[Apr 13]
+_ Apr 13 _
 Botafogo-PB    0-3  Cruzeiro
   [Nelinho, Joãozinho, Luís Carlos]
 
-Round 3
-[Apr 16]
+▪ Round 3 ▪
+_ Apr 16 _
 Sport          0-1  Cruzeiro
   [Luís Carlos]
-[Apr 17]
+_ Apr 17 _
 Botafogo-PB    1-1  Fluminense
   [Marquinhos;  Tulica]
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 Cruzeiro       1-1  Botafogo-PB
   [Alexandre;  Dão]
 Sport          1-1  Fluminense
   [Jorge Campos;  Ramirez-Sport (Own goal)]
 
-Round 5
-[Apr 27]
+▪ Round 5 ▪
+_ Apr 27 _
 Fluminense     0-0  Cruzeiro
 Botafogo-PB    1-1  Sport
   [Cícero-Sport (Own Goal);  Didi Duarte]
 
-Round 6
-[May 3]
+▪ Round 6 ▪
+_ May 3 _
 Cruzeiro       2-0  Sport
   [Tião, Eli Carlos]
 Fluminense     4-0  Botafogo-PB
@@ -861,45 +860,45 @@ Table
  3-Sport           6  1  2  3   5- 8   4
  4-Botafogo-PB     6  0  3  3   4-12   3
 
-Group I
+▪ Group I ▪
 
-Round 1
-[Apr 5]
+▪ Round 1 ▪
+_ Apr 5 _
 Santos         4-1  Guarani
-  [Nílton Batata (2), Claudinho, Rubens Feijão;  Zenon]
-[Apr 6]
+  (Nílton Batata (2), Claudinho, Rubens Feijão;  Zenon)
+_ Apr 6 _
 Joinville      1-1  América-RJ
   [Zé Carlos Paulista;  Porto Real]
 
-Round 2
-[Apr 13]
+▪ Round 2 ▪
+_ Apr 13 _
 Santos         0-1  América-RJ
   [Porto Real]
 Guarani        2-0  Joinville
   [Careca, Frank]
 
-Round 3
-[Apr 20]
+▪ Round 3 ▪
+_ Apr 20 _
 América-RJ     1-0  Guarani
   [Neca]
 Joinville      2-0  Santos
   [Zé Carlos Paulista, Jorge Luís]
 
-Round 4
-[Apr 23]
+▪ Round 4 ▪
+_ Apr 23 _
 América-RJ     0-2  Santos
   [Aluísio, João Luís-América (Own Goal)]
 Joinville      0-0  Guarani
 
-Round 5
-[Apr 27]
+▪ Round 5 ▪
+_ Apr 27 _
 Guarani        1-0  América-RJ
   [Heraldo-América (Own Goal)]
 Santos         2-0  Joinville
-  [Rubens Feijão (2)]
+  (Rubens Feijão (2))
 
-Round 6
-[May 4]
+▪ Round 6 ▪
+_ May 4 _
 América-RJ     2-2  Joinville
   [Uchoa, Porto Real;  Zé Carlos Paulista, Mateus]
 Guarani        1-1  Santos
@@ -916,47 +915,47 @@ Table
  3-América-RJ      6  2  2  2   5- 6   6
  4-Joinville       6  1  3  2   5- 7   5
 
-Round 1
-[Apr 6]
+▪ Round 1 ▪
+_ Apr 6 _
 Palmeiras      2-3  Bangu
-  [Mococa (2);  Luisão (2), Paulo Roberto]
+  (Mococa (2);  Luisão (2), Paulo Roberto)
 Santa Cruz     0-0  Flamengo-RJ
 
-Round 2
-[Apr 13]
+▪ Round 2 ▪
+_ Apr 13 _
 Bangu          1-1  Santa Cruz
   [Luisão;  Paulo Galvão]
 Flamengo-RJ    6-2  Palmeiras
-  [Tita (2), Zico (2), Toninho, Nunes;  Baroninho, Mococa]
+  (Tita (2), Zico (2), Toninho, Nunes;  Baroninho, Mococa)
 
-Round 3
-[Apr 16]
+▪ Round 3 ▪
+_ Apr 16 _
 Flamengo-RJ    2-1  Bangu
   [Zico, Nunes;  Ademir]
 Palmeiras      1-0  Santa Cruz
   [Pedrinho]
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 Bangu          0-1  Palmeiras
   [Mococa]
-[Apr 21]
+_ Apr 21 _
 Flamengo-RJ    2-1  Santa Cruz
   [Andrade, Júlio César;  Tadeu Macrini]
 
-Round 5
-[Apr 27]
+▪ Round 5 ▪
+_ Apr 27 _
 Palmeiras      2-2  Flamengo-RJ
   [Jorginho, Baroninho;  Tita, Carlos Henrique]
 Santa Cruz     4-1  Bangu
-  [Tadeu Macrini (3), Joãozinho; Dé]
+  (Tadeu Macrini (3), Joãozinho; Dé)
 
-Round 6
-[May 4]
+▪ Round 6 ▪
+_ May 4 _
 Santa Cruz     2-2  Palmeiras
   [Baiano, Betinho;  Lúcio, César]
 Bangu          0-3  Flamengo-RJ
-  [Tita (3)]
+  (Tita (3))
 
 Table
  1-Flamengo-RJ     6  4  2  0  15- 6  10  Qualified
@@ -965,48 +964,48 @@ Table
  3-Santa Cruz      6  1  3  2   8- 7   5
  4-Bangu           6  1  1  4   6-13   3
 
-Group K
+▪ Group K ▪
 
-Round 1
-[Apr 6]
+▪ Round 1 ▪
+_ Apr 6 _
 Remo           0-1  Coritiba
   [Escurinho]
 Desportiva     3-1  Ferroviário
   [Cacildo, Botelho, Zuza;  Almir.
 
-Round 2
-[Apr 12]
+▪ Round 2 ▪
+_ Apr 12 _
 Ferroviário    0-0  Remo
-[Apr 13]
+_ Apr 13 _
 Desportiva     0-0  Coritiba
 
-Round 3
-[Apr 16]
+▪ Round 3 ▪
+_ Apr 16 _
 Coritiba       7-1  Ferroviário
-  [Freitas (3), Escurinho (2), Gílson Paulino, João Carlos;  Ricardo]
+  (Freitas (3), Escurinho (2), Gílson Paulino, João Carlos;  Ricardo)
 Remo           5-0  Desportiva
-  [Jaci (4), Mego]
+  (Jaci (4), Mego)
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 Coritiba       1-0  Remo
   [Freitas]
 Ferroviário    0-1  Desportiva
   [Botelho]
 
-Round 5
-[Apr 26]
+▪ Round 5 ▪
+_ Apr 26 _
 Ferroviário    1-1  Coritiba
 
   [Paulo Henrique;  Vílson Tadei]
-[Apr 27]
+_ Apr 27 _
 Desportiva     3-1  Remo
   [Botelho, Cacildo, Gilberto; Marcelino]
 
-Round 6
-[May 4]
+▪ Round 6 ▪
+_ May 4 _
 Coritiba       7-1  Desportiva
-  [Claudinho (3), Gardel (2), Freitas, Rodinaldo;  Luís Cláudio]
+  (Claudinho (3), Gardel (2), Freitas, Rodinaldo;  Luís Cláudio)
 Remo           2-1  Ferroviário
   [Bebeto, Jasson;  Celso]
 
@@ -1017,50 +1016,50 @@ Table
  3-Remo            6  2  1  3   8- 6   5
  4-Ferroviário     6  0  2  4   4-14   2
 
-Group L
+▪ Group L ▪
 
-Round 1
-[Apr 5]
+▪ Round 1 ▪
+_ Apr 5 _
 Grêmio         0-2  Ponte Preta
   [Mauro-Grêmio (Own Goal), Serginho]
 Colorado       5-0  América-SP
-  [Tião Marçal (2), Jorge Lima-América (Own Goal), Caxias, Castor]
+  (Tião Marçal (2), Jorge Lima-América (Own Goal), Caxias, Castor)
 
-Round 2
-[Apr 13]
+▪ Round 2 ▪
+_ Apr 13 _
 Colorado       0-1  Ponte Preta
   [Osvaldo]
 América-SP     1-3  Grêmio
   [Marcelo;  Jurandir, Paulo Isidoro, Baltazar]
 
-Round 3
-[Apr 16]
+▪ Round 3 ▪
+_ Apr 16 _
 Grêmio         3-2  Colorado
-  [Paulo Isidoro (2), Tarciso; Buião, Tião Marçal]
+  (Paulo Isidoro (2), Tarciso; Buião, Tião Marçal)
 Ponte Preta    3-2  América-SP
   [Serginho, Dicá, Osvaldo; Mazola, Rota]
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 América-SP     2-0  Colorado
   [Rota, Mazola]
 Ponte Preta    0-1  Grêmio
   [Jurandir]
 
-Round 5
-[Apr 27]
+▪ Round 5 ▪
+_ Apr 27 _
 Colorado       0-1  Grêmio
   [Baltazar]
 América-SP     1-2  Ponte Preta
   [Rota;  Serginho, Toninho Oliveira]
 
-Round 6
-[May 3]
+▪ Round 6 ▪
+_ May 3 _
 Ponte Preta    0-2  Colorado
   [Jaiminho, Freitas]
-[May 4]
+_ May 4 _
 Grêmio         5-0  América-SP
-  [Baltazar (2), Paulo Isidoro (2), Tarciso]
+  (Baltazar (2), Paulo Isidoro (2), Tarciso)
 
 Table
  1-Grêmio          6  5  0  1  13- 5  10  Qualified
@@ -1071,26 +1070,26 @@ Table
 
 Third Phase
 
-Group M
+▪ Group M ▪
 
-Round 1
-[May 11]
+▪ Round 1 ▪
+_ May 11 _
 Vasco da Gama  1-1  Fluminense
   [Jorge Mendonça;  Edinho]
 São Paulo-SP   0-0  Atlético-MG
 
-Round 2
-[May 14]
+▪ Round 2 ▪
+_ May 14 _
 Fluminense     0-2  Atlético-MG
   [Éder, Angelo]
-[May 15]
+_ May 15 _
 Vasco da Gama  2-1  São Paulo-SP
   [Dudu, Wilsinho;  Leo-Vasco (Own goal)]
 
-Round 3
-[May 18]
+▪ Round 3 ▪
+_ May 18 _
 São Paulo-SP   3-2  Fluminense
-  [Getúlio (2), Zé Sérgio;  Edinho (2)]
+  (Getúlio (2), Zé Sérgio;  Edinho (2))
 Atlético-MG    0-0  Vasco da Gama
 
 Table
@@ -1100,24 +1099,24 @@ Table
  3-São Paulo-SP    3  1  1  1   4- 4   3
  4-Fluminense      3  0  1  2   3- 6   1
 
-Group N
+▪ Group N ▪
 
-Round 1
-[May 11]
+▪ Round 1 ▪
+_ May 11 _
 Cruzeiro       0-0  Palmeiras
 Guarani        1-2  Internacional
   [Zenon;  Cléo, Falcão]
 
-Round 2
-[May 14]
+▪ Round 2 ▪
+_ May 14 _
 Internacional  2-1  Palmeiras
-  [Adílson (2);  Mococa]
-[May 15]
+  (Adílson (2);  Mococa)
+_ May 15 _
 Cruzeiro       0-2  Guarani
   [Nardela, Capitão]
 
-Round 3
-[May 18]
+▪ Round 3 ▪
+_ May 18 _
 Palmeiras      0-0  Guarani
 Internacional  1-0  Cruzeiro
   [Cláudio Mineiro]
@@ -1129,26 +1128,26 @@ Table
  3-Palmeiras       3  0  2  1   1- 2   2
  4-Cruzeiro        3  0  1  2   0- 3   1
 
-Group O
+▪ Group O ▪
 
-Round 1
-[May 10]
+▪ Round 1 ▪
+_ May 10 _
 Santos         3-0  Ponte Preta
   [Pita, Rubens Feijão, Claudinho]
 Flamengo-RJ    3-0  Desportiva
-  [Zico (3)]
+  (Zico (3))
 
-Round 2
-[May 14]
+▪ Round 2 ▪
+_ May 14 _
 Ponte Preta    1-1  Flamengo-RJ
   [Humberto;  Nunes]
-[May 15]
+_ May 15 _
 Santos         0-0  Desportiva
 
-Round 3
-[May 18]
+▪ Round 3 ▪
+_ May 18 _
 Flamengo-RJ    2-0  Santos
-  [Zico (2)]
+  (Zico (2))
 Desportiva     2-1  Ponte Preta
   [Luís Cláudio, Botelho;  Parraga]
 
@@ -1159,24 +1158,24 @@ Table
  3-Desportiva      3  1  1  1   2- 4   3
  4-Ponte Preta     3  0  1  2   2- 6   1
 
-Group P
+▪ Group P ▪
 
-Round 1
-[May 11]
+▪ Round 1 ▪
+_ May 11 _
 Coritiba       1-0  Corinthians
   [Vílson Tadei]
 Grêmio         1-0  Botafogo-RJ
   [Kiese]
 
-Round 2
-[May 14]
+▪ Round 2 ▪
+_ May 14 _
 Coritiba       1-0  Botafogo-RJ
   [Gardel]
 Corinthians    5-0  Grêmio
-  [Geraldo (2), Sócrates (2), Biro-Biro]
+  (Geraldo (2), Sócrates (2), Biro-Biro)
 
-Round 3
-[May 17]
+▪ Round 3 ▪
+_ May 17 _
 Botafogo-RJ    1-1  Corinthians
   [Gil;  Vaguinho]
 Grêmio         1-0  Coritiba
@@ -1189,79 +1188,36 @@ Table
  3-Corinthians     3  1  1  1   6- 2   4
  4-Botafogo-RJ     3  0  1  2   1- 3   1
 
-Semifinals
+▪ Semifinals ▪
 
-[May 21 and 25]
+(May 21 and 25)
 Atlético-MG    1-1   3-0  Internacional
   [Reinaldo;  Cléo]
-  [Éder (2), Reinaldo]
+  (Éder (2), Reinaldo)
 Coritiba       0-2   3-4  Flamengo-RJ
-  [Zico (2)]
-  [Vílson Tadei, Aladim, Luís Freire;  Nunes (2), Carlos Alberto, Anselmo]
+  (Zico (2))
+  (Vílson Tadei, Aladim, Luís Freire;  Nunes (2), Carlos Alberto, Anselmo)
 
-Final
+▪ Final ▪
 
-[May 28]
+_ May 28 _
 Atlético-MG    1-0   2-3  Flamengo-RJ
   [Reinaldo]
-  [Reinaldo (2);  Nunes (2), Zico]
+  (Reinaldo (2);  Nunes (2), Zico)
 
 Flamengo wins due to better semifinal record.
 CR Flamengo are the 1980 Brazilian champions
 
-Final Table
- 1-Flamengo-RJ    22 14  6  2  46-20  34
- 2-Atlético-MG    22 15  4  3  46-16  34
- 3-Internacional  20 13  1  6  38-22  27
- 4-Coritiba       20 11  4  5  38-21  26
- 5-Corinthians    18 12  3  3  43-19  27
- 6-Grêmio         18 11  4  3  33-18  26
- 7-Santos         18 11  3  4  29-12  25
- 8-Vasco da Gama  18 10  5  3  31-14  25
- 9-São Paulo-SP   18  8  8  2  36-22  24
-10-Cruzeiro       18  7  7  4  19-14  21
-11-Fluminense     18  6  8  4  30-22  20
-12-Ponte Preta    18  8  3  7  30-23  19
-13-Palmeiras      18  6  7  5  27-22  19
-14-Botafogo-RJ    18  7  4  7  28-22  18
-15-Desportiva     18  7  4  7  20-32  18
-16-Guarani        18  6  6  6  17-15  18
-17-Santa Cruz     15  5  6  4  20-17  16
-18-Remo           15  6  3  6  14-14  15
-19-Colorado       15  6  2  7  18-17  14
-20-Botafogo-PB    15  5  4  6  18-28  14
-21-Joinville      15  4  6  5  20-16  14
-22-Ceará          15  4  5  6  20-22  13
-23-Atlético-GO    15  4  5  6  16-23  13
-24-América-RJ     15  4  4  7  14-17  12
-25-Vitória        15  4  3  8  19-37  11
-26-Bahia          15  4  2  9  15-26  10
-27-Náutico        15  3  4  8  17-23  10
-28-Ferroviário    15  2  6  7  13-24  10
-29-Sport           6  1  2  3   5- 8   4
-30-Americano       6  1  2  3   2- 7   4
-31-Bangu           6  1  1  4   6-13   3
-32-América-SP      6  1  0  5   6-18   2
-33-Operário-MS     9  3  2  4   8-12   8
-34-América-RN      9  1  5  3   6-18   7
-35-Itabaiana       9  3  0  6  10-22   6
-36-Vila Nova       9  2  2  5   5-15   6
-37-Gama            9  1  4  4   9-18   6
-38-CRB             9  2  1  6   9-13   5
-39-Mixto           9  2  1  6  11-18   5
-40-Portuguesa      9  2  1  6   7-19   5
-41-São Paulo-RS    9  1  3  5   6-15   5
-42-Nacional        9  1  3  5   4-15   5
-43-Flamengo-PI     9  1  2  6   9-18   4
-44-Maranhão        9  0  4  5   3-14   4
+<!-- $table1$ -->
+
 
 N.B. The table doesn't include the extra match between Guarani and América-RJ.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Brazilian Championship 1980 - 2nd Level (Taça De Prata)
 
 Participating Teams:
@@ -1330,67 +1286,67 @@ UNIÃO Esporte Clube (Rondonópolis-MT)
 VILLA NOVA Atlético Clube (Nova Lima-MG)
 VITÓRIA Futebol Clube (Vitória-ES)
 
-First Phase
+▪ First Phase ▪
 Group winners qualified to 2nd phase (promotion playoff) to dispute berths in
 "Copa Brasil" - 1st level.  Second and third places qualified to 3rd phase.
 
-Group A
+▪ Group A ▪
 
-Round 1
-[Feb 23]
+▪ Round 1 ▪
+_ Feb 23 _
 Moto Clube        1-1  Fast
 Rio Negro         0-3  Tuna Luso
-[Feb 24]
+_ Feb 24 _
 Sampaio Corrêa    0-0  Paysandu
 River             1-0  Piauí
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Fast              2-2  Sampaio Corrêa
 Paysandu          1-1  Moto Clube
-[Feb 28]
+_ Feb 28 _
 River             0-0  Rio Negro
 Tuna Luso         2-0  Piauí
 
-Round 3
-[Mar 1]
+▪ Round 3 ▪
+_ Mar 1 _
 Moto Clube        1-1  River
 Rio Negro         2-1  Fast
-[Mar 2]
+_ Mar 2 _
 Sampaio Corrêa    4-1  Piauí
 Paysandu          2-1  Tuna Luso
 
-Round 4
-[Mar 5]
+▪ Round 4 ▪
+_ Mar 5 _
 Fast              0-0  River
-[Mar 8]
+_ Mar 8 _
 Piauí             1-2  Paysandu
 Rio Negro         3-1  Moto Clube
-[Mar 9]
+_ Mar 9 _
 Sampaio Corrêa    3-1  Tuna Luso
 
-Round 5
-[Mar 12]
+▪ Round 5 ▪
+_ Mar 12 _
 River             4-1  Sampaio Corrêa
 Paysandu          5-0  Rio Negro
-[Mar 13]
+_ Mar 13 _
 Tuna Luso         3-3  Moto Clube
 Piauí             3-0  Fast
 
-Round 6
-[Mar 15]
+▪ Round 6 ▪
+_ Mar 15 _
 Rio Negro         1-3  Sampaio Corrêa
-[Mar 19]
+_ Mar 19 _
 Fast              1-1  Paysandu
 River             0-0  Tuna Luso
-[Mar 20]
+_ Mar 20 _
 Moto Clube        2-0  Piauí
 
-Round 7
-[Mar 22]
+▪ Round 7 ▪
+_ Mar 22 _
 Piauí             3-2  Rio Negro
 Tuna Luso         3-1  Fast
-[Mar 23]
+_ Mar 23 _
 Sampaio Corrêa    1-1  Moto Clube
 Paysandu          1-0  River
 
@@ -1406,60 +1362,60 @@ Table
  7-Piauí                 7  2  0  5   8-13   4
  8-Fast                  7  0  4  3   6-12   4
 
-Group B
+▪ Group B ▪
 
-Round 1
-[Feb 24]
+▪ Round 1 ▪
+_ Feb 24 _
 CSA               3-1  Americano
 Sergipe           0-1  ASA
 Botafogo-BA       2-0  Confiança
-[Mar 19]
+_ Mar 19 _
 Itabuna           0-2  Bonsucesso
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Americano         3-0  ASA
 Bonsucesso        3-1  Sergipe
 Confiança         0-1  Itabuna
-[Feb 28]
+_ Feb 28 _
 CSA               3-0  Botafogo-BA
 
-Round 3
-[Mar 1]
+▪ Round 3 ▪
+_ Mar 1 _
 Sergipe           1-2  Americano
-[Mar 2]
+_ Mar 2 _
 Itabuna           1-2  CSA
 ASA               1-1  Botafogo-BA
-[Mar 6]
+_ Mar 6 _
 Confiança         1-1  Bonsucesso
 
-Round 4
-[Mar 8]
+▪ Round 4 ▪
+_ Mar 8 _
 CSA               2-1  Sergipe
 Botafogo-BA       1-2  Itabuna
-[Mar 9]
+_ Mar 9 _
 Americano         4-2  Bonsucesso
 ASA               0-1  Confiança
 
-Round 5
-[Mar 12]
+▪ Round 5 ▪
+_ Mar 12 _
 Sergipe           3-2  Botafogo-BA
 Americano         2-0  Confiança
 Itabuna           0-2  ASA
 Bonsucesso        1-0  CSA
 
-Round 6
-[Mar 15]
+▪ Round 6 ▪
+_ Mar 15 _
 Botafogo-BA       0-7  Americano
 Confiança         1-2  CSA
-[Mar 16]
+_ Mar 16 _
 Itabuna           4-1  Sergipe
 ASA               0-0  Bonsucesso
 
-Round 7
-[Mar 22]
+▪ Round 7 ▪
+_ Mar 22 _
 CSA               1-2  ASA
-[Mar 23]
+_ Mar 23 _
 Americano         1-1  Itabuna
 Confiança         1-1  Sergipe
 Bonsucesso        1-0  Botafogo-BA
@@ -1476,60 +1432,60 @@ Table
  7-Sergipe               7  1  1  5   8-15   3
  8-Botafogo-BA           7  1  1  5   6-17   3
 
-Group C
+▪ Group C ▪
 
-Round 1
-[Feb 23]
+▪ Round 1 ▪
+_ Feb 23 _
 Sport             1-0  ABC
-[Feb 24]
+_ Feb 24 _
 Campinense        2-2  Treze
 Baraúnas          0-2  Fortaleza
 Leônico           0-0  Central
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Treze             0-0  Leônico
 ABC               2-1  Baraúnas
-[Mar 5]
+_ Mar 5 _
 Fortaleza         1-2  Sport
 Central           0-0  Campinense
 
-Round 3
-[Mar 1]
+▪ Round 3 ▪
+_ Mar 1 _
 ABC               0-0  Central
-[Mar 2]
+_ Mar 2 _
 Sport             0-0  Campinense
 Baraúnas          3-2  Treze
 Leônico           2-1  Fortaleza
 
-Round 4
-[Mar 9]
+▪ Round 4 ▪
+_ Mar 9 _
 Sport             1-0  Central
 Campinense        1-0  ABC
 Leônico           1-1  Baraúnas
-[Mar 20]
+_ Mar 20 _
 Fortaleza         3-1  Treze
 
-Round 5
-[Mar 12]
+▪ Round 5 ▪
+_ Mar 12 _
 ABC               3-0  Leônico
 Campinense        1-1  Fortaleza
 Central           2-0  Baraúnas
-[Mar 13]
+_ Mar 13 _
 Treze             0-0  Sport
 
-Round 6
-[Mar 15]
+▪ Round 6 ▪
+_ Mar 15 _
 Fortaleza         2-0  ABC
-[Mar 16]
+_ Mar 16 _
 Leônico           0-1  Sport
 Treze             0-0  Central
 Baraúnas          1-0  Campinense
 
-Round 7
-[Mar 22]
+▪ Round 7 ▪
+_ Mar 22 _
 Sport             4-0  Baraúnas
-[Mar 23]
+_ Mar 23 _
 ABC               2-0  Treze
 Campinense        0-0  Leônico
 Central           1-2  Fortaleza
@@ -1546,59 +1502,59 @@ Table
  7-Baraúnas              7  2  1  4   6-13   5
  8-Treze                 7  0  4  3   5-10   4
 
-Group D
+▪ Group D ▪
 
-Round 1
-[Feb 23]
+▪ Round 1 ▪
+_ Feb 23 _
 Operário-MT       0-0  Villa Nova
-[Feb 24]
+_ Feb 24 _
 Anapolina         3-0  Uberaba
 Itumbiara         3-1  União
 Brasília          2-1  Guará
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 União             1-0  Anapolina
 Uberaba           2-1  Itumbiara
-[Feb 28]
+_ Feb 28 _
 Brasília          1-0  Operário-MT
-[Mar 5]
+_ Mar 5 _
 Villa Nova        2-0  Guará
 
-Round 3
-[Mar 2]
+▪ Round 3 ▪
+_ Mar 2 _
 Anapolina         0-0  Operário-MT
 Itumbiara         2-1  Villa Nova
 Uberaba           3-2  Brasília
 Guará             1-1  União
 
-Round 4
-[Mar 8]
+▪ Round 4 ▪
+_ Mar 8 _
 Operário-MT       1-1  Uberaba
 Guará             0-2  Itumbiara
-[Mar 9]
+_ Mar 9 _
 Anapolina         3-2  Brasília
 União             1-0  Villa Nova
 
-Round 5
-[Mar 12]
+▪ Round 5 ▪
+_ Mar 12 _
 Uberaba           3-0  Guará
 Operário-MT       3-2  União
 Brasília          0-1  Itumbiara
-[Mar 13]
+_ Mar 13 _
 Villa Nova        1-1  Anapolina
 
-Round 6
-[Mar 16]
+▪ Round 6 ▪
+_ Mar 16 _
 Guará             0-2  Anapolina
 Villa Nova        0-1  Brasília
 União             0-1  Uberaba
 Itumbiara         1-0  Operário-MT
 
-Round 7
-[Mar 22]
+▪ Round 7 ▪
+_ Mar 22 _
 Brasília          4-0  União
-[Mar 23]
+_ Mar 23 _
 Anapolina         2-1  Itumbiara
 Uberaba           0-0  Villa Nova
 Operário-MT       2-1  Guará
@@ -1615,62 +1571,62 @@ Table
  7-União                 7  2  1  4   6-12   5
  8-Guará                 7  0  1  6   3-14   1
 
-Group E
+▪ Group E ▪
 
-Round 1
-[Feb 23]
+▪ Round 1 ▪
+_ Feb 23 _
 Comercial-MS      1-1  América-MG
 Rio Branco        1-1  Vitória-ES
 Goiânia           1-0  Uberlândia
-[Feb 24]
+_ Feb 24 _
 Caldense          0-0  Goiás
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Vitória-ES        1-1  Goiânia
 Uberlândia        3-1  Rio Branco
-[Feb 28]
+_ Feb 28 _
 Goiás             1-2  Comercial-MS
-[Mar 6]
+_ Mar 6 _
 América-MG        1-2  Caldense
 
-Round 3
-[Mar 1]
+▪ Round 3 ▪
+_ Mar 1 _
 Comercial-MS      2-0  Rio Branco
 Goiânia           0-0  Goiás
-[Mar 2]
+_ Mar 2 _
 Caldense          2-0  Vitória-ES
 América-MG        1-0  Uberlândia
 
-Round 4
-[Mar 8]
+▪ Round 4 ▪
+_ Mar 8 _
 Goiás             2-1  Vitória-ES
-[Mar 9]
+_ Mar 9 _
 Comercial-MS      1-2  Uberlândia
 Rio Branco        1-2  América-MG
 
-Round 5
-[Mar 12]
+▪ Round 5 ▪
+_ Mar 12 _
 América-MG        1-0  Goiânia
 Vitória-ES        2-1  Comercial-MS
 Uberlândia        1-0  Caldense
-[Mar 13]
+_ Mar 13 _
 Rio Branco        1-0  Goiás
 
-Round 6
-[Mar 15]
+▪ Round 6 ▪
+_ Mar 15 _
 Goiânia           0-0  Comercial-MS
-[Mar 16]
+_ Mar 16 _
 Goiás             1-1  América-MG
 Caldense          4-0  Rio Branco
 
 Moved Matches
-[Mar 20]
+_ Mar 20 _
 Vitória-ES        0-1  Uberlândia
 Goiânia           1-0  Caldense
 
-Round 7
-[Mar 23]
+▪ Round 7 ▪
+_ Mar 23 _
 Comercial-MS      1-0  Caldense
 América-MG        0-1  Vitória-ES
 Rio Branco        1-1  Goiânia
@@ -1688,56 +1644,56 @@ Table
  7-Goiás                 7  1  4  2   5- 6   6
  8-Rio Branco            7  1  2  4   5-13   4
 
-Group F
+▪ Group F ▪
 
-Round 1
-[Feb 24]
+▪ Round 1 ▪
+_ Feb 24 _
 Campo Grande      4-1  Goytacaz
 Internacional-SP  0-1  Noroeste
 Ferroviária       2-1  Bangu
 Botafogo-SP       5-1  Serrano
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Campo Grande      2-0  Internacional-SP
 Ferroviária       3-0  Noroeste
 Bangu             1-0  Botafogo-SP
-[Feb 28]
+_ Feb 28 _
 Goytacaz          1-0  Serrano
 
-Round 3
-[Mar 2]
+▪ Round 3 ▪
+_ Mar 2 _
 Serrano           1-0  Campo Grande
 Internacional-SP  2-0  Goytacaz
 Botafogo-SP       2-0  Ferroviária
-[Mar 19]
+_ Mar 19 _
 Bangu             2-0  Noroeste
 
-Round 4
-[Mar 9]
+▪ Round 4 ▪
+_ Mar 9 _
 Campo Grande      2-2  Bangu
 Noroeste          1-0  Botafogo-SP
 Ferroviária       1-1  Goytacaz
 Serrano           0-0  Internacional-SP
 
-Round 5
-[Mar 12]
+▪ Round 5 ▪
+_ Mar 12 _
 Botafogo-SP       3-0  Campo Grande
 Noroeste          1-1  Serrano
 Bangu             2-0  Goytacaz
 Ferroviária       1-2  Internacional-SP
 
-Round 6
-[Mar 16]
+▪ Round 6 ▪
+_ Mar 16 _
 Campo Grande      1-2  Ferroviária
 Goytacaz          1-0  Noroeste
 Internacional-SP  4-1  Botafogo-SP
 Serrano           1-4  Bangu
 
-Round 7
-[Mar 22]
+▪ Round 7 ▪
+_ Mar 22 _
 Goytacaz          0-0  Botafogo-SP
-[Mar 23]
+_ Mar 23 _
 Noroeste          2-1  Campo Grande
 Internacional-SP  0-1  Bangu
 Serrano           0-2  Ferroviária
@@ -1754,54 +1710,54 @@ Table
  7-Campo Grande          7  2  1  4  10-11   5
  8-Serrano               7  1  2  4   4-13   4
 
-Group G
+▪ Group G ▪
 
-Round 1
-[Feb 24]
+▪ Round 1 ▪
+_ Feb 24 _
 Caxias            1-0  XV de Novembro
 Figueirense       2-0  Avaí
 América-SP        3-1  Operário-PR
 Grêmio Maringá    3-0  Novo Hamburgo
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Operário-PR       1-2  Caxias
 Avaí              0-3  Grêmio Maringá
 XV de Novembro    1-3  América-SP
 Novo Hamburgo     1-0  Figueirense
 
-Round 3
-[Mar 2]
+▪ Round 3 ▪
+_ Mar 2 _
 Caxias            2-2  Figueirense
 América-SP        3-2  Avaí
 XV de Novembro    3-0  Novo Hamburgo
 Grêmio Maringá    2-0  Operário-PR
 
-Round 4
-[Mar 9]
+▪ Round 4 ▪
+_ Mar 9 _
 Caxias            1-1  Novo Hamburgo
 Operário-PR       1-0  Avaí
 Figueirense       0-1  XV de Novembro
 Grêmio Maringá    1-3  América-SP
 
-Round 5
-[Mar 12]
+▪ Round 5 ▪
+_ Mar 12 _
 XV de Novembro    2-2  Grêmio Maringá
 Figueirense       5-1  Operário-PR
 Novo Hamburgo     1-4  América-SP
-[Mar 13]
+_ Mar 13 _
 Avaí              0-1  Caxias
 
-Round 6
-[Mar 15]
+▪ Round 6 ▪
+_ Mar 15 _
 América-SP        6-2  Figueirense
-[Mar 16]
+_ Mar 16 _
 Grêmio Maringá    0-0  Caxias
 Avaí              2-1  Novo Hamburgo
 Operário-PR       2-1  XV de Novembro
 
-Round 7
-[Mar 23]
+▪ Round 7 ▪
+_ Mar 23 _
 Caxias            1-1  América-SP
 XV de Novembro    3-3  Avaí
 Figueirense       2-1  Grêmio Maringá
@@ -1819,57 +1775,57 @@ Table
  7-Operário-PR           7  2  0  5   6-14   4
  8-Avaí                  7  1  1  5   7-14   3
 
-Group H
+▪ Group H ▪
 
-Round 1
-[Feb 23]
+▪ Round 1 ▪
+_ Feb 23 _
 Atlético-PR       0-0  Juventude
-[Feb 24]
+_ Feb 24 _
 Juventus          1-0  Brasil
 Comercial-SP      0-0  Londrina
 Criciúma          1-0  Chapecoense
 
-Round 2
-[Feb 27]
+▪ Round 2 ▪
+_ Feb 27 _
 Brasil            2-2  Criciúma
 Juventude         1-3  Comercial-SP
 Chapecoense       0-1  Juventus
-[Feb 28]
+_ Feb 28 _
 Londrina          0-1  Atlético-PR
 
-Round 3
-[Mar 2]
+▪ Round 3 ▪
+_ Mar 2 _
 Atlético-PR       1-1  Juventus
 Comercial-SP      1-1  Brasil
 Juventude         4-0  Chapecoense
 Criciúma          1-2  Londrina
 
-Round 4
-[Mar 8]
+▪ Round 4 ▪
+_ Mar 8 _
 Atlético-PR       1-0  Chapecoense
-[Mar 9]
+_ Mar 9 _
 Londrina          2-1  Brasil
 Juventus          3-0  Juventude
 Criciúma          0-1  Comercial-SP
 
-Round 5
-[Mar 12]
+▪ Round 5 ▪
+_ Mar 12 _
 Brasil            2-2  Atlético-PR
 Juventude         3-1  Criciúma
 Juventus          4-1  Londrina
 Chapecoense       0-2  Comercial-SP
 
-Round 6
-[Mar 16]
+▪ Round 6 ▪
+_ Mar 16 _
 Criciúma          0-0  Atlético-PR
 Brasil            1-1  Chapecoense
 Londrina          2-0  Juventude
 Comercial-SP      3-0  Juventus
 
-Round 7
-[Mar 22]
+▪ Round 7 ▪
+_ Mar 22 _
 Atlético-PR       0-0  Comercial-SP
-[Mar 23]
+_ Mar 23 _
 Juventude         0-0  Brasil
 Juventus          2-1  Criciúma
 Chapecoense       1-3  Londrina
@@ -1891,10 +1847,10 @@ Knockout
 Winners qualified to second phase of "Copa Brasil" -1st Level
 Losers qualified to third phase of "Taça de Prata"
 
-[Mar 26 and 30]
+(Mar 26 and 30)
 Paysandu          2-1   0-2  Americano
 Juventus          2-0   0-2  América-SP
-[Mar 27 and 30]
+(Mar 27 and 30)
 Anapolina         1-1   0-3  Sport
 Uberlândia        2-0   0-4  Bangu
 
@@ -1902,32 +1858,32 @@ América-SP qualified due to better 1st phase record
 
 Third Phase
 
-Group I
+▪ Group I ▪
 
-Round 1
-[Apr 6]
+▪ Round 1 ▪
+_ Apr 6 _
 Fortaleza         3-0  Itumbiara
 Botafogo-SP       5-0  Goiânia
 
-Round 2
-[Apr 10]
+▪ Round 2 ▪
+_ Apr 10 _
 Goiânia           1-1  Fortaleza
-[Apr 12]
+_ Apr 12 _
 Itumbiara         3-1  Paysandu
 
-Round 3
-[Apr 16]
+▪ Round 3 ▪
+_ Apr 16 _
 Fortaleza         2-2  Botafogo-SP
-[Apr 17]
+_ Apr 17 _
 Paysandu          1-0  Goiânia
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 Botafogo-SP       6-1  Paysandu
 Goiânia           2-0  Itumbiara
 
-Round 5
-[Apr 27]
+▪ Round 5 ▪
+_ Apr 27 _
 Paysandu          0-0  Fortaleza
 Itumbiara         2-5  Botafogo-SP
 
@@ -1939,30 +1895,30 @@ Table
  4-Paysandu              4  1  1  2   3- 9   3
  5-Itumbiara             4  1  0  3   5-11   2
 
-Group J
+▪ Group J ▪
 
-Round 1
-[Apr 6]
+▪ Round 1 ▪
+_ Apr 6 _
 Sampaio Corrêa    3-2  Bonsucesso
 Londrina          2-1  Grêmio Maringá
 
-Round 2
-[Apr 13]
+▪ Round 2 ▪
+_ Apr 13 _
 Bonsucesso        2-2  Anapolina
 Grêmio Maringá    3-1  Sampaio Corrêa
 
-Round 3
-[Apr 16]
+▪ Round 3 ▪
+_ Apr 16 _
 Sampaio Corrêa    1-2  Londrina
 Anapolina         1-3  Grêmio Maringá
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 Londrina          3-0  Anapolina
 Grêmio Maringá    3-0  Bonsucesso
 
-Round 5
-[Apr 27]
+▪ Round 5 ▪
+_ Apr 27 _
 Anapolina         1-1  Sampaio Corrêa
 Bonsucesso        0-1  Londrina
 
@@ -1974,32 +1930,32 @@ Table
  4-Anapolina             4  0  2  2   4- 9   2
  5-Bonsucesso            4  0  1  3   4- 9   1
 
-Group K
+▪ Group K ▪
 
-Round 1
-[Apr 5]
+▪ Round 1 ▪
+_ Apr 5 _
 Tuna Luso         0-0  CSA
-[Apr 6]
+_ Apr 6 _
 Caxias            1-0  Comercial-SP
 
-Round 2
-[Apr 12]
+▪ Round 2 ▪
+_ Apr 12 _
 CSA               2-2  Caxias
-[Apr 13]
+_ Apr 13 _
 Comercial-SP      3-2  Uberlândia
 
-Round 3
-[Apr 16]
+▪ Round 3 ▪
+_ Apr 16 _
 Uberlândia        0-1  CSA
 Caxias            1-0  Tuna Luso
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 Tuna Luso         2-0  Uberlândia
 CSA               2-1  Comercial-SP
 
-Round 5
-[Apr 27]
+▪ Round 5 ▪
+_ Apr 27 _
 Uberlândia        1-0  Caxias
 Comercial-SP      3-0  Tuna Luso
 
@@ -2011,31 +1967,31 @@ Table
  4-Tuna Luso             4  1  1  2   2- 4   3
  5-Uberlândia            4  1  0  3   3- 6   2
 
-Group L
+▪ Group L ▪
 
-Round 1
-[Apr 6]
+▪ Round 1 ▪
+_ Apr 6 _
 Uberaba           0-0  Ferroviária
-[Apr 13]
+_ Apr 13 _
 América-MG        0-2  Ferroviária
 
-Round 2
-[Apr 9]
+▪ Round 2 ▪
+_ Apr 9 _
 ABC               3-2  Uberaba
 Ferroviária       2-1  Juventus
 
-Round 3
-[Apr 16]
+▪ Round 3 ▪
+_ Apr 16 _
 América-MG        3-4  ABC
 Juventus          0-1  Uberaba
 
-Round 4
-[Apr 20]
+▪ Round 4 ▪
+_ Apr 20 _
 ABC               2-2  Juventus
 Uberaba           3-0  América-MG
 
-Round 5
-[Apr 27]
+▪ Round 5 ▪
+_ Apr 27 _
 Juventus          1-1  América-MG
 Ferroviária       3-0  ABC
 
@@ -2047,24 +2003,24 @@ Table
  4-Juventus              4  0  2  2  4  6  2
  5-América-MG            4  0  1  3  4 10  1
 
-Semifinals
+▪ Semifinals ▪
 
-[Apr 4 and 7]
+(Apr 4 and 7)
 Botafogo-SP       1-2   0-1  Londrina
 CSA               1-0   1-0  Ferroviária
 
-Final
+▪ Final ▪
 
-[May 11 and 18]
+(May 11 and 18)
 CSA               1-1   0-4  Londrina
 Londrina Esporte Clube were the Champions of the 1980 Taça De Prata (2nd Level)
 Londrina and CSA are promoted
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<!-- start pre -->
+
+
+
 Brazilian Championship 1980-3rd Level (Taça De Bronze-Participating Teams)
 
 América Fc (Manaus, Am)
@@ -2100,26 +2056,10 @@ Taguatinga Ec (Brasília, Df)
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-‹Source, see page ../sources›: [pla]
-
-Prepared and maintained by Ricardo Pontes
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Ricardo Pontes,
-Julio Bovi Diogo
-and Marcelo Leme de Arruda
-
-Last updated: 4 Jan 2000
 
 
-(C) Copyright Ricardo Pontes, Julio Bovi Diogo,
-Marcelo Leme de Arruda and RSSSF 1999/2000
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+
+<!-- $about$ -->
+

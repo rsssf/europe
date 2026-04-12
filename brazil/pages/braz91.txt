@@ -6,7 +6,6 @@
 
 == Brazil 1991
 
-<!-- start pre -->
 
 First Level - Série A
 
@@ -33,14 +32,14 @@ Associação PORTUGUESA de Desportos (São Paulo-SP)
 SANTOS Futebol Clube (Santos-SP)
 SÃO PAULO Futebol Clube (São Paulo-SP)
 
-First Phase
+▪ First Phase ▪
 
-Round 1
-[Feb 2]
+▪ Round 1 ▪
+_ Feb 2 _
 Santos          0-0  Vasco da Gama
 Atlético-MG     0-3  São Paulo
-  [Eliel (2), Flávio]
-[Feb 3]
+  (Eliel (2), Flávio)
+_ Feb 3 _
 Corinthians     1-1  Vitória
   [Giba; Toby]
 Portuguesa      1-0  Sport
@@ -48,17 +47,17 @@ Portuguesa      1-0  Sport
 Fluminense      4-2  Palmeiras
   [Marcelo Gomes, Bobô, Julinho, Ézio; Betinho, Aguirregaray]
 Botafogo        2-0  Náutico
-  [Renato Gaúcho (2)]
+  (Renato Gaúcho (2))
 Bragantino      1-1  Bahia
   [Sílvio; Naldinho]
 Atlético-PR     3-0  Flamengo
   [Tico, Carlinhos, André]
 Cruzeiro        0-0  Internacional
 Grêmio          3-2  Goiás
-  [Nílson, Maurício, China; Túlio (2)]
+  (Nílson, Maurício, China; Túlio (2))
 
-Round 2
-[Feb 6]
+▪ Round 2 ▪
+_ Feb 6 _
 Flamengo        1-0  São Paulo
   [Paulo César]
 Bragantino      2-0  Corinthians
@@ -66,52 +65,52 @@ Bragantino      2-0  Corinthians
 Botafogo        2-0  Portuguesa
   [Renato Martins, Bujica]
 Cruzeiro        3-0  Vasco da Gama
-  [Charles (2), Marcinho]
+  (Charles (2), Marcinho)
 Bahia           2-2  Atlético-MG
   [Adil, Luís Henrique; Gérson, Marquinhos]
 Náutico         2-0  Santos
   [Barros, Newton]
 Sport           1-2  Palmeiras
-  [Mirandinha; Betinho (2)]
+  (Mirandinha; Betinho (2))
 Internacional   2-1  Vitória
   [Cuca, Márcio Santos; Missinho]
-[Feb 7]
+_ Feb 7 _
 Fluminense      3-2  Goiás
   [Bobô, Ézio, Zanata; Wallace, Lira]
 Atlético-PR     4-2  Grêmio
-  [André (3), Éder; Jorge Luís (own goal), Assis]
+  (André (3), Éder; Jorge Luís (own goal), Assis)
 
-Round 3
-[Feb 16]
+▪ Round 3 ▪
+_ Feb 16 _
 Corinthians     2-1  Botafogo
   [Wílson Manoe, Neto; Valdeir]
 Vasco da Gama   2-2  Bragantino
   [Róberson, Sorato; Mazinho, Sílvio]
-[Feb 17]
+_ Feb 17 _
 São Paulo       1-2  Santos
-  [Raí; Paulinho (2)]
+  (Raí; Paulinho (2))
 Palmeiras       0-2  Portuguesa
   [Arnaldo, Dener]
 Fluminense      0-2  Atlético-PR
   [André, Jorge Luís]
 Goiás           5-1  Flamengo
-  [Túlio (2), Josué, Agnaldo, Niltinho; Aílton]
+  (Túlio (2), Josué, Agnaldo, Niltinho; Aílton)
 Cruzeiro        2-2  Atlético-MG
   [Charles, Heider; Sergio Araújo, Paulão (own goal)]
 Bahia           0-1  Vitória
   [Júnior]
 Náutico         2-0  Sport
-  [Bizu (2)]
+  (Bizu (2))
 Grêmio          0-0  Internacional
 
-Round 4
-[Feb 23]
+▪ Round 4 ▪
+_ Feb 23 _
 São Paulo       1-0  Fluminense
   [Rinaldo]
 Portuguesa      0-0  Bragantino
 Bahia           2-1  Flamengo
   [Naldinho, Jorginho; Gaúcho]
-[Feb 24]
+_ Feb 24 _
 Corinthians     1-1  Cruzeiro
   [Neto; Charles]
 Palmeiras       2-0  Náutico
@@ -121,37 +120,37 @@ Botafogo        2-0  Vitória
 Atlético-MG     1-0  Grêmio
   [Marquinhos]
 Internacional   2-0  Atlético-PR
-  [Cuca (2), Helcinho]
+  (Cuca (2), Helcinho)
 Goiás           2-2  Vasco da Gama
-  [Agnaldo, Túlio; Júnior (2)]
-[Feb 25]
+  (Agnaldo, Túlio; Júnior (2))
+_ Feb 25 _
 Santos          3-1  Sport
   [Paulinho, Sérgio Santos, Luís Carlos; Hélio]
 
-Round 5
-[Mar 2]
+▪ Round 5 ▪
+_ Mar 2 _
 Vasco da Gama   0-1  Corinthians
   [Giba]
 Palmeiras       2-1  Goiás
-  [Careca (2); Túlio]
-[Mar 23]
+  (Careca (2); Túlio)
+_ Mar 23 _
 São Paulo       2-1  Atlético-PR
   [Raí, Cafu; Tico]
 Bragantino      1-1  Internacional
   [Alberto; Paulinho Criciúma]
 Bahia           0-0  Botafogo
 Fluminense      2-0  Grêmio
-  [Ézio (2)]
+  (Ézio (2))
 Vitória         0-0  Cruzeiro
 Sport           0-0  Atlético-MG
 Flamengo        1-0  Náutico
   [Paulo Nunes]
-[Mar 14]
+_ Mar 14 _
 Santos          1-1  Portuguesa
   [Edu Marangon; Vladimir]
 
-Round 6
-[Mar 6]
+▪ Round 6 ▪
+_ Mar 6 _
 Botafogo        0-0  Goiás
 Fluminense      2-0  Bahia
   [Dago, Ézio]
@@ -165,7 +164,7 @@ Cruzeiro        1-3  Bragantino
   [Nei (own goal); Mazinho, Alberto, Pintado]
 Sport           1-0  Internacional
   [Hélio]
-[Mar 7]
+_ Mar 7 _
 Palmeiras       2-0  Flamengo
   [Careca, Odair]
 Grêmio          1-1  Portuguesa
@@ -173,8 +172,8 @@ Grêmio          1-1  Portuguesa
 Atlético-MG     1-0  Atlético-PR
   [Moacir]
 
-Round 7
-[Mar 9]
+▪ Round 7 ▪
+_ Mar 9 _
 São Paulo       1-0  Bahia
   [Macedo]
 Internacional   1-1  Corinthians
@@ -191,19 +190,19 @@ Náutico         0-1  Fluminense
   [Ézio]
 Vitória         1-0  Grêmio
   [Antônio Carlos]
-[Mar 11]
+_ Mar 11 _
 Bragantino      3-0  Botafogo
-  [Mazinho (2), Sílvio]
-[Mar 13]
+  (Mazinho (2), Sílvio)
+_ Mar 13 _
 Goiás           0-1  Atlético-MG
   [Gérson]
 
-Round 8
-[Mar 16]
+▪ Round 8 ▪
+_ Mar 16 _
 Grêmio          0-0  Flamengo
 Goiás           1-1  São Paulo
   [Túlio; Macedo]
-[Mar 17]
+_ Mar 17 _
 Corinthians     0-0  Palmeiras
 Fluminense      0-0  Bragantino
 Portuguesa      1-0  Internacional
@@ -211,26 +210,26 @@ Portuguesa      1-0  Internacional
 Vasco da Gama   1-0  Bahia
   [Bebeto]
 Cruzeiro        5-1  Sport
-  [Charles (2), Gustavo, Luís Fernando, Paulão; Tato]
+  (Charles (2), Gustavo, Luís Fernando, Paulão; Tato)
 Atlético-MG     4-0  Náutico
-  [Gérson (3), Amauri]
-[Mar 18]
+  (Gérson (3), Amauri)
+_ Mar 18 _
 Santos          2-0  Vitória
   [César Sampaio, Paulinho]
-[Mar 20]
+_ Mar 20 _
 Atlético-PR     2-2  Botafogo
   [Éder, André; Bujica, Valdeir]
 
-Round 9
-[Mar 22]
+▪ Round 9 ▪
+_ Mar 22 _
 Palmeiras       1-0  Atlético-MG
   [Jorginho]
 São Paulo       2-0  Grêmio
   [Raí, Ronaldão]
-[Mar 23]
+_ Mar 23 _
 Botafogo        0-3  Santos
-  [Paulinho (3)]
-[Mar 24]
+  (Paulinho (3))
+_ Mar 24 _
 Flamengo        3-0  Vasco da Gama
   [Gaúcho, Marquinhos, Adílson]
 Internacional   2-1  Fluminense
@@ -246,13 +245,13 @@ Goiás           1-1  Bahia
 Corinthians     1-1  Atlético-PR
   [Neto; Serginho]
 
-Round 10
-[Mar 30]
+▪ Round 10 ▪
+_ Mar 30 _
 Flamengo        1-3  Atlético-MG
   [Alcindo; Aílton, Gérson, Sergio Araújo]
 Internacional   1-1  Santos
   [Lima; Paulinho]
-[Mar 31]
+_ Mar 31 _
 Vasco da Gama   1-1  Fluminense
   [Jorge Luís; Jorge Luís (own goal)]
 Portuguesa      0-2  Corinthians
@@ -264,29 +263,29 @@ Bahia           1-1  Atlético-PR
 Vitória         1-1  Sport
   [André Carpes; Hélio]
 Náutico         2-2  Goiás
-  [Bizu (2); Cacau (2)]
-[Apr 1]
+  (Bizu (2); Cacau (2))
+_ Apr 1 _
 Grêmio          0-1  Palmeiras
   [Betinho]
 Botafogo        3-2  Cruzeiro
   [Carlos Alberto Dias, Carlos Alberto Santos, Renato Gaúcho; Heider, Charles]
 
-Round 11
-[Apr 2]
+▪ Round 11 ▪
+_ Apr 2 _
 Sport           1-1  Corinthians
   [Agnaldo; Jairo]
-[Apr 3]
+_ Apr 3 _
 Santos          1-1  Fluminense
   [Paulinho; Renato]
 Portuguesa      1-1  Vasco da Gama
   [Lê; Zé Do Carmo]
 Internacional   2-0  Botafogo
-  [Lima (2)]
+  (Lima (2))
 Atlético-MG     2-0  Vitória
   [Edu Lima, Cléber]
 Atlético-PR     3-0  Náutico
   [Ratinho, Alceu, Tico]
-[Apr 4]
+_ Apr 4 _
 São Paulo       0-0  Palmeiras
 Bragantino      1-1  Flamengo
   [Alberto; Gaúcho]
@@ -294,8 +293,8 @@ Grêmio          0-0  Bahia
 Cruzeiro        2-1  Goiás
   [Charles, Adílson; Túlio]
 
-Round 12
-[Apr 5]
+▪ Round 12 ▪
+_ Apr 5 _
 Flamengo        2-3  Corinthians
   [Gaúcho, Wílson Gottardo; Paulo Sérgio, Dinei, Neto]
 Palmeiras       0-2  Bragantino
@@ -307,21 +306,21 @@ Bahia           1-1  Internacional
   [Adil; Zé Carlos]
 Náutico         0-0  Vasco da Gama
 Goiás           3-1  Sport
-  [Túlio (2), Jorge Batata; Neco]
+  (Túlio (2), Jorge Batata; Neco)
 Atlético-PR     3-1  Vitória
-  [Tico (2), Moreno; Cacau]
-[Apr 6]
+  (Tico (2), Moreno; Cacau)
+_ Apr 6 _
 Atlético-MG     4-1  Santos
   [Edu Lima, Paulo Roberto Prestes, Fernando, Alfinete; Paulinho]
-[May 4]
+_ May 4 _
 Portuguesa      1-2  Fluminense
   [Cléber; Ézio, Renato]
 
-Round 13
-[Apr 6]
+▪ Round 13 ▪
+_ Apr 6 _
 Portuguesa      1-1  Atlético-MG
   [Vágner Mancini; Moacir]
-[Apr 7]
+_ Apr 7 _
 Flamengo        2-1  Fluminense
   [Nélio, Jéferson; Renato]
 Corinthians     1-1  São Paulo
@@ -329,30 +328,30 @@ Corinthians     1-1  São Paulo
 Bahia           1-2  Palmeiras
   [Lima; Jorginho, Raniélli]
 Vasco da Gama   2-2  Internacional
-  [Jorge Raoli, Zé Do Carmo; Lima (2)]
+  (Jorge Raoli, Zé Do Carmo; Lima (2))
 Náutico         3-1  Grêmio
-  [Bizu (2), Newton; Mendonça]
+  (Bizu (2), Newton; Mendonça)
 Sport           1-1  Botafogo
   [Givaldo; Bujica]
 Vitória         1-2  Bragantino
   [Barbosa; Sílvio, Mazinho]
 Goiás           1-0  Atlético-PR
   [Túlio]
-[Apr 8]
+_ Apr 8 _
 Santos          4-0  Cruzeiro
   [Paulinho, Sérgio Manoel, Almir, Edu Marangon]
 
-Round 14
-[Apr 13]
+▪ Round 14 ▪
+_ Apr 13 _
 Goiás           1-0  Corinthians
   [Richard]
 Atlético-MG     1-1  Fluminense
   [Gérson; Bobô]
 Flamengo        1-1  Internacional
   [Marcelinho Carioca; Helcinho]
-[Apr 14]
+_ Apr 14 _
 Vasco da Gama   3-0  Botafogo
-  [Sorato (2), Bebeto]
+  (Sorato (2), Bebeto)
 São Paulo       1-0  Portuguesa
   [Muller]
 Bragantino      1-0  Santos
@@ -360,22 +359,22 @@ Bragantino      1-0  Santos
 Grêmio          2-0  Sport
   [Caio, Vílson]
 Atlético-PR     2-3  Cruzeiro
-  [Tico (2); Ramón, Adílson, Charles]
+  (Tico (2); Ramón, Adílson, Charles)
 Palmeiras       2-2  Vitória
-  [Lima, Odair; Júnior (2)]
+  (Lima, Odair; Júnior (2))
 Bahia           2-1  Náutico
   [Adil, Cláudio Adão; Levi]
 
-Round 15
-[Apr 18]
+▪ Round 15 ▪
+_ Apr 18 _
 Santos          1-0  Grêmio
   [Paulinho]
-[Apr 20]
+_ Apr 20 _
 Corinthians     3-1  Fluminense
   [Tupãzinho, Édson, Giba; Bobô]
 Vasco da Gama   2-2  São Paulo
-  [Eduardo, Sorato; Macedo (2)]
-[Apr 21]
+  (Eduardo, Sorato; Macedo (2))
+_ Apr 21 _
 Internacional   2-2  Atlético-MG
   [Helcinho, Cuca; Marquinhos, Moacir]
 Flamengo        0-0  Portuguesa
@@ -387,19 +386,19 @@ Vitória         3-1  Goiás
   [Barbosa, Toby, Missinho; Jorge Batata]
 Sport           2-0  Atlético-PR
   [Ademar (own goal), Hélio]
-[Apr 22]
+_ Apr 22 _
 Botafogo        0-0  Palmeiras
 
-Round 16
-[Apr 24]
+▪ Round 16 ▪
+_ Apr 24 _
 Bahia           1-0  Santos
   [Jorginho]
-[Apr 27]
+_ Apr 27 _
 Atlético-MG     2-0  Corinthians
   [Alfinete, Gérson]
 Fluminense      2-0  Cruzeiro
   [Renato, Pires]
-[Apr 28]
+_ Apr 28 _
 Botafogo        0-0  Flamengo
 São Paulo       2-0  Sport
   [Raí, Muller]
@@ -411,17 +410,17 @@ Goiás           1-0  Internacional
   [Túlio]
 Náutico         1-1  Vitória
   [Róbson; Jairo]
-[Apr 29]
+_ Apr 29 _
 Palmeiras       2-2  Vasco da Gama
-  [Careca (2); Bismarck, Sorato]
+  (Careca (2); Bismarck, Sorato)
 
-Round 17
-[Apr 2]
+▪ Round 17 ▪
+_ Apr 2 _
 Vasco da Gama   3-2  Atlético-PR
   [Sorato, Bismarck, William; Serginho, Moreno]
-[May 1]
+_ May 1 _
 Corinthians     2-1  Grêmio
-  [Neto (2); João Antônio]
+  (Neto (2); João Antônio)
 Vitória         1-2  São Paulo
   [Júnior; Muller, Raí]
 Bragantino      1-1  Atlético-MG
@@ -433,25 +432,25 @@ Internacional   1-2  Náutico
 Sport           1-2  Bahia
   [Sérgio Alves; Luís Henrique, Adil]
 Fluminense      awd  Botafogo              [awarded 1-0, abandoned at 0-0
-[May 2]                                     during halftime due to pitch
-Santos          1-1  Palmeiras              invasion by Botafogo's fans]
+(May 2]                                     during halftime due to pitch
+Santos          1-1  Palmeiras              invasion by Botafogo's fans)
   [Paulinho; Toninho]
-[May 10]
+_ May 10 _
 Cruzeiro        0-2  Flamengo
-  [Nélio (2)]
+  (Nélio (2))
 
-Round 18
-[Apr 9]
+▪ Round 18 ▪
+_ Apr 9 _
 Santos          3-0  Atlético-PR
-  [Paulinho (2), Almir]
-[Apr 12]
+  (Paulinho (2), Almir)
+_ Apr 12 _
 Náutico         1-0  Portuguesa
   [Lúcio Surubim]
-[May 11]
+_ May 11 _
 Bahia           1-1  Corinthians
   [Luís Henrique; Neto]
 Palmeiras       0-0  Internacional
-[May 12]
+_ May 12 _
 São Paulo       3-1  Cruzeiro
   [Raí, Leonardo, Antônio Carlos; Charles]
 Fluminense      3-0  Sport
@@ -465,11 +464,11 @@ Grêmio          3-0  Vasco da Gama
 Flamengo        2-1  Vitória
   [Marcelinho Carioca, Djalminha; Barbosa]
 
-Round 19
-[May 18]
+▪ Round 19 ▪
+_ May 18 _
 Internacional   1-0  São Paulo
   [Alex]
-[May 19]
+_ May 19 _
 Vasco da Gama   1-1  Atlético-MG
   [Zé do Carmo; Gérson]
 Corinthians     1-0  Náutico
@@ -477,17 +476,17 @@ Corinthians     1-0  Náutico
 Vitória         1-2  Fluminense
   [Júnior; Pires, Ézio]
 Botafogo        3-1  Grêmio
-  [Pichetti (2), Bujica; Chiquinho]
+  (Pichetti (2), Bujica; Chiquinho)
 Sport           2-1  Flamengo
   [Júnior (own goal), Moura; Marcelinho Carioca]
 Goiás           3-0  Santos
-  [Túlio (2), Cacau]
+  (Túlio (2), Cacau)
 Portuguesa      1-0  Bahia
   [Éder]
 Cruzeiro        2-0  Palmeiras
   [Marco Antônio Boiadeiro, Nonato]
 Atlético-PR     1-2  Bragantino
-  [Moreno; Sílvio (2)]
+  (Moreno; Sílvio (2))
 
 Table
  1-São Paulo       19 11  4  4  26-14  26  Qualified
@@ -513,22 +512,22 @@ Table
 19-Grêmio          19  3  6 10  15-24  12  Relegated
 20-Vitória         19  3  6 10  17-27  12  Relegated
 
-Semifinals
+▪ Semifinals ▪
 São Paulo and Bragantino won a bonus point due to better first phase record
 
-[May 25 and Jun 1]
+(May 25 and Jun 1)
 Atlético-MG     1-1   0-0  São Paulo
   [Cléber; Mário Tilico]
-[May 26 and Jun 1]
+(May 26 and Jun 1)
 Fluminense      0-1   1-1  Bragantino
   [Franklin]
   [Ézio; Franklin]
 
-Final
+▪ Final ▪
 
 Bragantino won a bonus point due to better season record
 
-[Jun 5 and 9]
+(Jun 5 and 9)
 
 São Paulo       1-0   0-0  Bragantino
   [Mário Tilico]
@@ -544,31 +543,11 @@ Alberto e João Santos (Franklin); Sílvio e Mazinho.
 Técnico: Carlos Alberto Parreira.
 SÃO PAULO: Zetti, Zé Teodoro, Antônio Carlos, Ricardo Rocha e Leonardo; Ronaldo, Bernardo,
 Cafu e Raí; Macedo e Müller (Flávio).
-Técnico: Telê Santana. <!-- end pre -->
-
+Técnico: Telê Santana. 
 <!-- start pre -->São Paulo FC Were The 1991 Brazilian Champions
 
-Final Table
- 1-São Paulo       23 12  7  4  28-15  31
- 2-Bragantino      23 10 10  3  29-16  30
- 3-Atlético-MG     21  8 10  3  29-20  26
- 4-Fluminense      21 10  5  6  29-21  25
- 5-Corinthians     19  8  8  3  23-17  24
- 6-Palmeiras       19  7  8  4  20-19  22
- 7-Internacional   19  5 10  4  19-16  20
- 8-Santos          19  7  5  7  23-20  19
- 9-Flamengo        19  7  5  7  20-24  19
-10-Portuguesa      19  5  9  5  14-15  19
-11-Vasco da Gama   19  4 11  4  22-26  19
-12-Botafogo        19  6  6  7  19-21  18
-13-Bahia           19  5  8  6  16-18  18
-14-Náutico         19  7  3  9  19-25  17
-15-Goiás           19  6  5  8  27-24  17
-16-Cruzeiro        19  5  6  8  23-28  16
-17-Atlético-PR     19  5  5  9  27-28  15
-18-Sport           19  4  5 10  15-30  13
-19-Grêmio          19  3  6 10  15-24  12
-20-Vitória         19  3  6 10  17-27  12
+<!-- $table1$ -->
+
 
 
 
@@ -576,9 +555,9 @@ Second Level 1991
 
 Segunda Divisão
 
-First Phase
+▪ First Phase ▪
 
-Group 1
+▪ Group 1 ▪
 
 Participants
 
@@ -672,7 +651,7 @@ Table
 7-Rio Negro           14  2  3   9  11-21   7
 8-Independência       14  1  5  8    6-22   7
 
-Group 2
+▪ Group 2 ▪
 
 Participants
 
@@ -766,7 +745,7 @@ Table
 7-Parnaíba            14  2   5  7  13-28   9
 8-Moto Clube          14  2  4   8  15-23   8
 
-Group 3
+▪ Group 3 ▪
 
 Participants
 
@@ -860,7 +839,7 @@ Table
 7-CRB                  14   2  7  5  10-20  11
 8-América-PE          14  1  6   7   4-13   8
 
-Group 4
+▪ Group 4 ▪
 
 Participants
 
@@ -954,7 +933,7 @@ Table
 7-Fluminense-BA       14  3  5  6  14-20   11
 8-Confiança           14  2   6  6  11-15  10
 
-Group 5
+▪ Group 5 ▪
 
 Participants
 
@@ -1048,7 +1027,7 @@ Table
 7-Atlético-GO         14  3  6  5   12-16  12
 8-Vila Nova           14  1  7   6   6-15   9
 
-Group 6
+▪ Group 6 ▪
 
 Participants
 
@@ -1142,7 +1121,7 @@ Table
 7-Esportivo-MG        14  2  7  5    6-11  11
 8-Rio Branco-MG       14  2  5  7  10-18    9
 
-Group 7
+▪ Group 7 ▪
 
 Participants
 
@@ -1236,7 +1215,7 @@ Table
 7-São José            14  2   4  8  12-23   8
 8-Ubiratan            14  1   5  8  12-22   7
 
-Group 8
+▪ Group 8 ▪
 
 Participants
 
@@ -1330,7 +1309,7 @@ Table
 7-Juventude           14  4  5   5  10-15  13
 8-Blumenau            14  1   6  7   8-22   8
 
-Second Phase
+▪ Second Phase ▪
 Knockout style, away goals rule applied
 
 ABC             0-0   0-0 Sampaio Corrêa  [pen 4-1]
@@ -1352,7 +1331,7 @@ Paraná          1-0   0-4   Coritiba
 
 
 
-Semifinals
+▪ Semifinals ▪
 Knockout style, away goals rule applied
 
   Americano -  Paysandu                         1-0 (08/05)     0-1 (14/05) [pen.4-5]
@@ -1360,10 +1339,10 @@ Knockout style, away goals rule applied
                                                 [Edgar]
 
   Coritiba  -  Guarani                          1-0 (09/05)     0-1 (13/05) [pen. 4-5]
-                                                [Heraldo 89']
-                                                [Pereira 45']
+                                                (Heraldo 89')
+                                                (Pereira 45')
 Finals
-[Domingo, 19 Maio 1991]
+(Domingo, 19 Maio 1991)
 Guarani 1-0 Paysandu
 Local: Brinco de Ouro da Princesa - Campinas
 Horário: 16:00 h
@@ -1376,7 +1355,7 @@ Cartões Vermelhos: Nadi e Vagner no 1o. tempo e César no 2o. tempo.
 GUARANI - Marcos Garça, Jura, Paulo Silva, Pereira e Julimar; Biro-biro, Valmir e Edson Abobrão; Vagner, Vonei (Paulinho) e Claudinho (Alex). Técnico: Pepe.
 PAYSANDU - Luís Carlos, César, Ari, Nadi e Paulo Cruz; Maurício, Oberdan e Rogerinho; Cacaio, Fernando e Mazinho. Técnico: Joel Martins.
 
-[Domingo, 26 Maio 1991]
+(Domingo, 26 Maio 1991)
 Paysandu 2-0 Guarani
 Local: Alacid Nunes (Mangueirão) - Belém
 Horário: 17:00 h
@@ -1435,7 +1414,7 @@ PARTICIPANTS
 31-Esporte Clube XV DE NOVEMBRO (Piracicaba-SP)
 32-Associação Desportiva CONFIANÇA (Aracaju-SE)
 
-FIRST PHASE
+▪ FIRST PHASE ▪
 
 21/02 - 28/02 Sampaio Corrêa    1-2  1-3   Botafogo
 21/02 - 28/02 Colatina          2-3  0-1   Santa Cruz
@@ -1454,7 +1433,7 @@ FIRST PHASE
 09/02 - 21/02 Rio Negro         1-1  0-5   Vasco
 20/02 - 28/02 Rio Branco        1-1  0-4   Remo
 
-SECOND PHASE
+▪ SECOND PHASE ▪
 
 14/03 - 17/03 Santa Cruz        0-1  0-3   Botafogo
 13/03 - 21/03 Coritiba          3-0  0-0   Paysandu
@@ -1472,7 +1451,7 @@ THIRD PHASE
 18/04 - 25/04 Goiás             0-0  0-3   Criciúma
 18/04 - 25/04 Remo              2-0  0-0   Vitória
 
-SEMIFINALS
+▪ SEMIFINALS ▪
 
 22/05 - 25/05 Coritiba          1-1  0-1   Grêmio
 12/05 - 19/05 Remo              0-1  0-2   Criciúma
@@ -1491,22 +1470,10 @@ Criciúma EC were the 1991 Copa do Brasil winners.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-== About this document
 
-Thanks to Ricardo Pontes.
 
-Source: Placar magazine.
 
-Prepared and maintained by RSSSF Brazil for the ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
+<!-- $about$ -->
 
-Author: RSSSF Brazil
-Last updated: 2 Apr 2005
-
-(C) Copyright RSSSF and RSSSF Brazil 1995/2005
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-RSSSF Brazil. All rights reserved.

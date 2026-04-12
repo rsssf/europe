@@ -6,7 +6,6 @@
 
 == Brazil 1989
 
-<!-- start pre -->
 1st LEVEL
 
 PARTICIPANTS
@@ -34,13 +33,13 @@ PARTICIPANTS
 22-SPORT CLUB CORINTHIANS PAULISTA (SÃO PAULO-SP)
 
 
-First Phase
+▪ First Phase ▪
 
-Round 1
-[Sep 6]
+▪ Round 1 ▪
+_ Sep 6 _
 Botafogo          2-1  Internacional-RS
   [Gustavo, Luisinho; Chiquinho]
-[Sep 7]
+_ Sep 7 _
 Atlético-PR       0-0  São Paulo
 Corinthians       0-2  Internacional-SP
   [Machado, Ronaldo Marques]
@@ -48,50 +47,50 @@ Flamengo          0-0  Atlético-MG
 Vitória           0-1  Guarani
   [Washington]
 
-Round 2
-[Sep 9]
+▪ Round 2 ▪
+_ Sep 9 _
 Guarani           1-3  Corinthians
   [Marcos Roberto; João Paulo, Viola, Fabinho]
-[Sep 10]
+_ Sep 10 _
 Atlético-PR       1-1  Flamengo
   [Jacenir; Fernando]
 Internacional-SP  3-2  Náutico
-  [Machado (2), Edvaldo] Náutico: Nivaldo (2)]
+  (Machado (2), Edvaldo] Náutico: Nivaldo (2))
 Internacional-RS  1-0  Atlético-MG
   [Edu Lima]
 São Paulo         0-0  Vitória
 
-Round 3
-[Sep 16]
+▪ Round 3 ▪
+_ Sep 16 _
 Náutico           3-3  São Paulo
-  [Bizu (2), Levi; Edivaldo, Paulo César, Bobô]
+  (Bizu (2), Levi; Edivaldo, Paulo César, Bobô)
 Botafogo          3-0  Atlético-PR
   [Maurício, Mílton Cruz, Carlos Alberto]
 Vitória           0-2  Internacional-RS
   [Luvanor, Zé Carlos]
-[Sep 17]
+_ Sep 17 _
 Guarani           0-0  Internacional-SP
 Flamengo          0-1  Corinthians
   [Neto]
 
-Round 4
-[Sep 20]
+▪ Round 4 ▪
+_ Sep 20 _
 Vitória           2-1  Internacional-SP
   [Quirino, Alberto; Ronaldo Marques]
 Flamengo          1-0  Botafogo
   [Aílton]
 Atlético-MG       4-1  São Paulo
-  [Robertinho (2), Gérson, Carlão; Benê]
+  (Robertinho (2), Gérson, Carlão; Benê)
 Guarani           0-1  Atlético-PR
   [Geraldo]
 Náutico           1-0  Corinthians
   [Nivaldo]
 
-Round 5
-[Sep 23]
+▪ Round 5 ▪
+_ Sep 23 _
 Atlético-MG       2-0  Botafogo
   [Gérson, Batista]
-[Sep 24]
+_ Sep 24 _
 Corinthians       2-1  São Paulo
   [João Paulo, Neto; Bobô]
 Vitória           0-0  Flamengo
@@ -99,11 +98,11 @@ Náutico           1-2  Guarani
   [Bizu; Tato, Marcos Roberto]
 Internacional-RS  0-0  Atlético-PR
 
-Round 6
-[Sep 30]
+▪ Round 6 ▪
+_ Sep 30 _
 São Paulo         2-1  Internacional-RS
   [Edmílson, Mário Tilico; Nélson]
-[Oct 1]
+_ Oct 1 _
 Corinthians       2-0  Vitória
   [Viola, Neto]
 Guarani           2-0  Botafogo
@@ -111,13 +110,13 @@ Guarani           2-0  Botafogo
 Internacional-SP  0-2  Atlético-MG
   [Aílton, Gérson]
 Atlético-PR       3-0  Náutico
-  [Geraldo (2), Marquinhos]
+  (Geraldo (2), Marquinhos)
 
-Round 7
-[Sep 28]
+▪ Round 7 ▪
+_ Sep 28 _
 Flamengo          2-1  Guarani
   [Nando, Júnior; Washington]
-[Oct 4]
+_ Oct 4 _
 Atlético-MG       1-1  Corinthians
   [Éder; Fabinho]
 Vitória           2-1  Atlético-PR
@@ -126,11 +125,11 @@ Botafogo          1-1  Náutico
   [Gustavo] Náutico: Vavá]
 Internacional-RS  0-0  Internacional-SP
 
-Round 8
-[Oct 7]
+▪ Round 8 ▪
+_ Oct 7 _
 São Paulo         1-1  Botafogo
   [Bobô; Paulinho Criciúma]
-[Oct 8]
+_ Oct 8 _
 Internacional-SP  1-1  Atlético-PR
   [Machado; Marquinhos]
 Náutico           4-0  Vitória
@@ -138,11 +137,11 @@ Náutico           4-0  Vitória
 Internacional-RS  0-0  Flamengo
 Atlético-MG       0-0  Guarani
 
-Round 9
-[Oct 14]
+▪ Round 9 ▪
+_ Oct 14 _
 Flamengo          2-0  Náutico
   [Zico, Renato]
-[Oct 15]
+_ Oct 15 _
 Internacional-SP  0-0  São Paulo
 Botafogo          2-0  Vitória
   [Paulinho Criciúma, Donizete]
@@ -151,12 +150,12 @@ Corinthians       1-0  Internacional-RS
 Atlético-PR       2-2  Atlético-MG
   [Marquinhos, Manguinha; Marquinhos, Osvaldo (own goal)]
 
-Round 10
-[Oct 18]
+▪ Round 10 ▪
+_ Oct 18 _
 Atlético-PR       0-1  Corinthians
   [Giba]
 Náutico           3-2  Atlético-MG
-  [Bizu (2), Nivaldo; Gérson, Aílton]
+  (Bizu (2), Nivaldo; Gérson, Aílton)
 Guarani           0-1  Internacional-RS
   [Nenê (own goal)]
 São Paulo         3-0  Flamengo
@@ -164,12 +163,12 @@ São Paulo         3-0  Flamengo
 Botafogo          1-0  Internacional-SP
   [Mílton Cruz]
 
-Round 11
-[Oct 21]
+▪ Round 11 ▪
+_ Oct 21 _
 São Paulo         0-0  Guarani
 Internacional-SP  1-0  Flamengo
   [Sídnei]
-[Oct 22]
+_ Oct 22 _
 Corinthians       0-0  Botafogo
 Atlético-MG       0-0  Vitória
 Internacional-RS  0-1  Náutico
@@ -189,13 +188,13 @@ Tables
 10-Atlético-PR        10  2  5  3   9-10   9
 11-Vitória            10  2  3  5   4-13   7
 
-Group B
+▪ Group B ▪
 
-Round 1
-[Sep 6]
+▪ Round 1 ▪
+_ Sep 6 _
 Bahia             1-2  Fluminense
   [Dico; Hélio, Donizete]
-[Sep 7]
+_ Sep 7 _
 Coritiba          2-1  Grêmio
   [Serginho, Carlos Alberto; Nando]
 Cruzeiro          0-1  Vasco da Gama
@@ -204,25 +203,25 @@ Palmeiras         0-0  Santos
 Sport             0-1  Goiás
   [Carlos Magno]
 
-Round 2
-[Sep 9]
+▪ Round 2 ▪
+_ Sep 9 _
 Santos            0-1  Fluminense
   [Marcelo Henrique]
-[Sep 10]
+_ Sep 10 _
 Bahia             3-2  Grêmio
-  [Charles (2), Dico; Jandir, Cuca]
+  (Charles (2), Dico; Jandir, Cuca)
 Goiás 2-1  Portuguesa
-  [Túlio (2); Roberto Dinamite]
+  (Túlio (2); Roberto Dinamite)
 Sport             1-1  Palmeiras
   [Joécio; Gaúcho]
 Vasco da Gama     1-1  Coritiba
   [Vivinho; Carlos Alberto]
 
-Round 3
-[Sep 16]
+▪ Round 3 ▪
+_ Sep 16 _
 Portuguesa        4-1  Fluminense
   [Roberto Dinamite, Jorginho, Toninho, Sinval; Marcelo Henrique]
-[Sep 17]
+_ Sep 17 _
 Cruzeiro          2-0  Bahia
   [Édson Pezinho, Gílson Jáder]
 Palmeiras         2-0  Goiás
@@ -232,8 +231,8 @@ Santos            1-2  Vasco da Gama
 Grêmio            2-0  Sport
   [Cuca, Lino]
 
-Round 4
-[Sep 20]
+▪ Round 4 ▪
+_ Sep 20 _
 Grêmio            2-0  Cruzeiro
   [Gílson, Assis]
 Fluminense        2-0  Coritiba
@@ -241,92 +240,92 @@ Fluminense        2-0  Coritiba
 Santos            0-0  Goiás
 Portuguesa        1-1  Sport
   [Toninho; Heraldo]
-[Oct 12]
+_ Oct 12 _
 Palmeiras         2-0  Bahia
   [Buião, Édson]
 
-Round 5
-[Sep 23]
+▪ Round 5 ▪
+_ Sep 23 _
 Coritiba          0-0  Cruzeiro
-[Sep 24]
+_ Sep 24 _
 Vasco da Gama     2-2  Bahia
-  [Bismarck (2); Charles (2)]
+  (Bismarck (2); Charles (2))
 Fluminense        2-0  Sport
-  [Vânder Luís (2)]
+  (Vânder Luís (2))
 Grêmio            0-0  Santos
 Portuguesa        1-0  Palmeiras
   [Roberto Dinamite]
 
-Round 6
-[Sep 30]
+▪ Round 6 ▪
+_ Sep 30 _
 Sport             2-0  Santos
   [Dinho, Marcus Vinicíus]
-[Oct 1]
+_ Oct 1 _
 Goiás             2-3  Coritiba
-  [Túlio, Carlos Magno; Carlos Alberto (2), Carlos Magno]
+  (Túlio, Carlos Magno; Carlos Alberto (2), Carlos Magno)
 Cruzeiro          2-1  Palmeiras
   [Édson Pezinho, Careca; Gaúcho]
 Fluminense        0-0  Vasco da Gama
 Bahia             0-0  Portuguesa
 
-Round 7
-[Sep 27]
+▪ Round 7 ▪
+_ Sep 27 _
 Palmeiras         2-0  Grêmio
   [Trasante (own goal), Ditinho Souza]
 Santos            3-1  Bahia
-  [Paulinho (2), Ernâni; Ronaldo Silva]
+  (Paulinho (2), Ernâni; Ronaldo Silva)
 Portuguesa        0-0  Cruzeiro
-[Oct 4]
+_ Oct 4 _
 Coritiba          2-1  Sport
   [Moreno, Ronaldo; Barbosa]
 Vasco da Gama     4-1  Goiás
   [Bismarck, Bebeto, Mazinho, Célio; Túlio]
 
-Round 8
-[Oct 4]
+▪ Round 8 ▪
+_ Oct 4 _
 Coritiba          1-3  Palmeiras
   [Chicão; Paulinho Carioca, Gaúcho, Bandeira]
-[Oct 8]
+_ Oct 8 _
 Santos            1-1  Portuguesa
   [Carlinhos; Jorginho]
 Goiás             1-0  Bahia
   [Túlio]
 Vasco da Gama     3-1  Grêmio
-  [Bismarck (2), William; Cuca]
+  (Bismarck (2), William; Cuca)
 Fluminense        1-1  Cruzeiro
   [Marcelo Henrique; Hêider]
 
-Round 9
-[Oct 14]
+▪ Round 9 ▪
+_ Oct 14 _
 Goiás             2-0  Fluminense
   [Luís Carlos, Túlio]
 Grêmio            2-1  Portuguesa
   [Kita, Cuca; Hélcio (own goal)]
-[Oct 15]
+_ Oct 15 _
 Cruzeiro          0-0  Santos
 Bahia             1-1  Coritiba
   [Ronaldo Silva; Tostão]
-[Oct 25]
+_ Oct 25 _
 Sport             0-1  Vasco da Gama
   [Tato]
 
-Round 10
-[Oct 18]
+▪ Round 10 ▪
+_ Oct 18 _
 Bahia             1-2  Sport
   [Marcelo; Lopes, Barbosa]
 Cruzeiro          2-1  Goiás
   [Édson Pezinho, Hamílton; Túlio]
 Portuguesa        3-0  Coritiba
-  [Roberto Dinamite (2), Toninho]
+  (Roberto Dinamite (2), Toninho)
 Palmeiras         1-0  Vasco da Gama
   [Gaúcho]
 Grêmio            1-0  Fluminense
   [Edinho]
 
-Round 11
-[Oct 21]
+▪ Round 11 ▪
+_ Oct 21 _
 Vasco da Gama     0-0  Portuguesa
-[Oct 22]
+_ Oct 22 _
 Goiás             0-0  Grêmio
 Sport             2-1  Cruzeiro
   [Marcus Vinicíus, Barbosa; Careca]
@@ -353,38 +352,38 @@ Table
 
 * - Lost 5 points and was eliminated from the tournament and relegated
 
-Second Phase
+▪ Second Phase ▪
 
 Groups A and B
 
-Round 12
-[Oct 28]
+▪ Round 12 ▪
+_ Oct 28 _
 Grêmio            2-0  Internacional-SP
   [Kita, Paulo Egídio]
 Portuguesa        2-0  Flamengo
   [Lê, Toninho]
 Botafogo          1-2  Cruzeiro
   [Mílton Cruz; Édson Pezinho, Israel (own goal)]
-[Oct 29]
+_ Oct 29 _
 Atlético-MG       3-0  Goiás
-  [Mauricinho (2), Gérson]
+  (Mauricinho (2), Gérson)
 Corinthians       0-0  Santos
 Náutico           3-2  Fluminense
-  [Vavá (2), Erasmo; Rinaldo, Hélio]
+  (Vavá (2), Erasmo; Rinaldo, Hélio)
 Vasco da Gama     0-0  São Paulo
-[Nov 2]
+_ Nov 2 _
 Palmeiras         1-0  Internacional-RS
   [Gaúcho]
 
-Round 13
-[Nov 4]
+▪ Round 13 ▪
+_ Nov 4 _
 Corinthians       0-1  Cruzeiro
   [Hamílton]
 Goiás             1-2  Botafogo
   [Vânderson; Mazolinha, Mílton Cruz]
-[Nov 5]
+_ Nov 5 _
 São Paulo         2-2  Palmeiras
-  [Mário Tilico (2); Paulinho Carioca, Dida]
+  (Mário Tilico (2); Paulinho Carioca, Dida)
 Atlético-MG       2-0  Fluminense
   [Jason, Gérson]
 Santos            2-1  Internacional-RS
@@ -394,10 +393,10 @@ Portuguesa        2-0  Internacional-SP
 Náutico           1-1  Grêmio
   [Vavá; Assis]
 Flamengo          2-0  Vasco da Gama
-  [Bujica (2)]
+  (Bujica (2))
 
-Round 14
-[Nov 11]
+▪ Round 14 ▪
+_ Nov 11 _
 São Paulo         3-0  Santos
   [Edivaldo, Ney, Flávio]
 Atlético-MG       0-0  Grêmio
@@ -405,7 +404,7 @@ Internacional-SP  2-2  Vasco da Gama
   [Carioca, China; Tita, Bismarck]
 Náutico           1-1  Portuguesa
   [Bizu; Roberto Dinamite]
-[Nov 12]
+_ Nov 12 _
 Goiás             1-1  Corinthians
   [Tiãozinho; Aílton]
 Palmeiras         1-1  Flamengo
@@ -415,15 +414,15 @@ Cruzeiro          4-2  Internacional-RS
 Botafogo          0-2  Fluminense
   [Rinaldo, João Santos]
 
-Round 15
-[Nov 18]
+▪ Round 15 ▪
+_ Nov 18 _
 Flamengo          1-0  Santos
   [Luís Carlos (own goal)]
 Portuguesa        1-0  Atlético-MG
   [Roberto Dinamite]
 Internacional-RS  2-2  Goiás
   [Luvanor, Aguirregaray; Túlio, Fagundes]
-[Nov 19]
+_ Nov 19 _
 São Paulo         2-0  Cruzeiro
   [Ney, Raí]
 Fluminense        1-1  Corinthians
@@ -431,17 +430,17 @@ Fluminense        1-1  Corinthians
 Grêmio            0-1  Botafogo
   [Maurício]
 Vasco da Gama     4-2  Náutico
-  [Bebeto (2), Bismarck, Cássio; Bizu, Léo]
-[Nov 23]
+  (Bebeto (2), Bismarck, Cássio; Bizu, Léo)
+_ Nov 23 _
 Internacional-SP  1-1  Palmeiras
   [Zé Cláudio; Careca]
 
-Round 16
-[Nov 23]
+▪ Round 16 ▪
+_ Nov 23 _
 Flamengo          0-0  Goiás
 São Paulo         3-1  Fluminense
   [Ney, Mário Tilico, Raí; Sílvio]
-[Nov 29]
+_ Nov 29 _
 Palmeiras         1-0  Atlético-MG
   [Mirandinha]
 Vasco da Gama     2-2  Botafogo
@@ -451,37 +450,37 @@ Santos            2-1  Náutico
 Corinthians       1-0  Portuguesa
   [Cláudio Adão]
 Internacional-RS  2-0  Grêmio
-  [Nélson (2)]
+  (Nélson (2))
 Internacional-SP  1-1  Cruzeiro
   [Machado; Hêider]
 
-Round 17
-[Nov 25]
+▪ Round 17 ▪
+_ Nov 25 _
 Grêmio            3-0  Corinthians
-  [Assis (2), Fábio]
+  (Assis (2), Fábio)
 Botafogo          2-1  Portuguesa
   [Maurício, Luisinho; Roberto Dinamite]
-[Nov 26]
+_ Nov 26 _
 Fluminense        0-0  Internacional-RS
 Vasco da Gama     1-1  Atlético-MG
   [Bismarck; Saulo]
 Santos            2-0  Internacional-SP
-  [Paulinho (2)]
+  (Paulinho (2))
 Náutico           2-2  Palmeiras
   [Bizu, Nivaldo; Gaúcho, Bandeira]
 Cruzeiro          2-0  Flamengo
   [Hêider, Balu]
 Goiás             0-0  São Paulo
 
-Round 18
-[Dec 2]
+▪ Round 18 ▪
+_ Dec 2 _
 Fluminense        0-5  Flamengo
   [Bujica, Renato Gaúcho, Uidemar, Zico, Luís Carlos]
 Internacional-RS  1-2  Portuguesa
-  [ Chiquinho; Lê (2)]
+  ( Chiquinho; Lê (2))
 Cruzeiro          4-0  Náutico
-  [Betinho (2), Édson Pezinho, Ademir]
-[Dec 3]
+  (Betinho (2), Édson Pezinho, Ademir)
+_ Dec 3 _
 Atlético-MG       2-1  Santos
   [Aílton, Paulo Roberto Prestes; Paulinho]
 Internacional-SP  0-1  Goiás
@@ -493,29 +492,29 @@ Corinthians       0-1  Vasco da Gama
 Grêmio            1-3  São Paulo
   [Kita; Raí, Edivaldo, Mário Tilico]
 
-Round 19
-[Dec 9]
+▪ Round 19 ▪
+_ Dec 9 _
 Flamengo          1-1  Grêmio
   [Marcelinho Carioca; Gílson]
 Fluminense        0-1  Internacional-SP
   [China]
-[Dec 10]
+_ Dec 10 _
 Portuguesa        0-1  São Paulo
   [Edivaldo]
 Palmeiras         0-1  Corinthians
   [Cláudio Adão]
 Internacional-RS  0-2  Vasco da Gama
-  [Bebeto (2)]
+  (Bebeto (2))
 Cruzeiro          1-0  Atlético-MG
   [Hêider]
 Santos            0-1  Botafogo
   [Paulinho Criciúma]
 Goiás             2-1  Náutico
-  [Túlio (2); Bizu]
+  (Túlio (2); Bizu)
 
 Tables
 
-Group A
+▪ Group A ▪
  1-São Paulo          18  7  9  2  25-15  23  Qualified to final
  2-Botafogo           18  9  4  5  20-16  22
  3-Corinthians        18  8  5  5  15-13  21
@@ -525,7 +524,7 @@ Group A
  7-Internacional-SP   18  4  7  7  13-19  15
  8-Internacional-RS   18  4  5  9  14-19  13
 
-Group B
+▪ Group B ▪
  1-Vasco da Gama      18  8  8  2  26-16  24  Qualified to final
  2-Cruzeiro           18  9  5  4  23-14  23
  3-Palmeiras          18  8  6  4  21-13  22
@@ -537,68 +536,68 @@ Group B
 
 Relegation Tournament
 
-Round 1
-[Oct 29]
+▪ Round 1 ▪
+_ Oct 29 _
 Atlético-PR       3-0  Vitória
-  [Manguinha (2), Vanderlei]
+  (Manguinha (2), Vanderlei)
 Bahia             0-0  Vitória
 
-Round 2
-[Nov 5]
+▪ Round 2 ▪
+_ Nov 5 _
 Sport             0-0  Atlético-PR
 Bahia             2-1  Vitória
   [Gil, Charles; Renato]
 
-Round 3
-[Nov 12]
+▪ Round 3 ▪
+_ Nov 12 _
 Bahia             2-0  Sport
   [Marquinhos, Naldinho]
 Guarani           0-1  Vitória
   [Quirino]
 
-Round 4
-[Nov 19]
+▪ Round 4 ▪
+_ Nov 19 _
 Sport             1-3  Guarani
-  [Dinho; Élcio, Aírton (2)]
+  (Dinho; Élcio, Aírton (2))
 Atlético-PR       0-0  Bahia
 
-Round 5
-[Nov 22]
+▪ Round 5 ▪
+_ Nov 22 _
 Vitória           2-0  Sport
-  [Renato (2)]
+  (Renato (2))
 
-Round 6
-[Nov 26]
+▪ Round 6 ▪
+_ Nov 26 _
 Vitória           1-1  Atlético-PR
   [André Carpes; Mazinho]
 Guarani           1-1  Bahia
   [Pereira; Charles]
 
-Round 7
-[Dec 3]
+▪ Round 7 ▪
+_ Dec 3 _
 Atlético-PR       1-1  Sport
   [Luís Fernando; André Luís]
 Bahia             0-3  Vitória
-  [Hugo (3)]
+  (Hugo (3))
 
-Round 8
-[Dec 6]
+▪ Round 8 ▪
+_ Dec 6 _
 Sport             0-1  Bahia
   [Adenílton]
 Vitória           2-1  Guarani
   [Toby, Jairo; Hugo (own goal)]
 
 
-Round 9
-[Dec 10]
+▪ Round 9 ▪
+_ Dec 10 _
 Bahia             0-0  Atlético-PR
 Guarani           2-1  Sport
   [Aírton, Élcio; Jorge Veras]
 
-Round 10
-[Dec 14]
+▪ Round 10 ▪
+_ Dec 14 _
 Atlético-PR       4-1  Guarani
-  [Mazinho (2), Geraldo, Osvaldo; Élcio]
+  (Mazinho (2), Geraldo, Osvaldo; Élcio)
 Sport             0-0  Vitória
 
 Table
@@ -609,13 +608,13 @@ Table
  4-Guarani             8  2  3  3   8-10   7  Relegated
  5-Sport               8  0  3  5   3-11   3  Relegated
 
-Final
+▪ Final ▪
 
 Since Vasco da Gama had a better season record, they earned a bonus point to
 the final, the right to choose were the first leg would be held (the choice
 was the city of São Paulo).
 
-[Dec 16]
+_ Dec 16 _
 São Paulo         0-1  Vasco da Gama
 Local: Morumbi (São Paulo-SP);
 Juiz: Wilson Carlos dos Santos (RJ);
@@ -634,29 +633,8 @@ Técnico: Nelsinho Rosa
 No second leg was held since Vasco da Gama reached 3 points
 CR Vasco da Gama were the 1989 Brazilian Champions
 
-Final Table
- 1-Vasco da Gama      19  9  8  2  27-16  26
- 2-São Paulo          19  7  9  3  25-16  23
- 3-Cruzeiro           18  9  5  4  23-14  23
- 4-Botafogo           18  9  4  5  20-16  22
- 5-Palmeiras          18  8  6  4  21-13  22
- 6-Corinthians        18  8  5  5  15-13  21
- 7-Portuguesa         18  7  6  5  21-13  20
- 8-Atlético-MG        18  6  7  5  21-13  19
- 9-Flamengo           18  6  7  5  16-13  19
-10-Goiás              18  6  6  6  17-21  18
-11-Grêmio             18  6  5  7  19-19  17
-12-Santos             18  5  6  7  13-16  16
-13-Náutico            18  5  5  8  27-34  15
-14-Internacional-SP   18  4  7  7  13-19  15
-15-Fluminense         18  5  4  9  15-25  14
-16-Internacional-RS   18  4  5  9  14-19  13
-17-Vitória            18  6  5  7  14-20  17
-18-Bahia              18  4  7  7  15-22  15
-19-Atlético-PR        18  4 11  3  18-13  19
-20-Guarani            18  5  6  7  15-18  16
-21-Sport              18  3  5 10  12-23  11
-22-Coritiba           10  3  3  4  10-15   4*
+<!-- $table1$ -->
+
 
 * - Lost 5 points and was eliminated from the tournament and relegated
 
@@ -666,11 +644,11 @@ CAMPEONATO BRASILEIRO 1989
 DIVISÃO ESPECIAL
 2nd LEVEL
 
-FIRST PHASE
+▪ FIRST PHASE ▪
 
 16 groups of 6, top 2 qualified.  Teams disqualified automatically were excluded from the 1990 2nd level
 
-GROUP A
+▪ GROUP A ▪
 
 Participants
 
@@ -726,7 +704,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Mixto             10    8    4   0   6    9   13    -4
 6-Princesa          10    7    3   1   6   12   21    -9
 
-GROUP B
+▪ GROUP B ▪
 
 
 Participants
@@ -785,7 +763,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Taguatinga        10    9    3   3   4   12   13    -1
 6-Atlético          10    8    3   2   5   11   13    -2
 
-GROUP C
+▪ GROUP C ▪
 
 Participants
 
@@ -844,7 +822,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Sampaio Corrêa    10    7    2   3   5    6   13    -7
 6-Tuna Luso         10    6    1   4   5    7   12    -5
 
-GROUP D
+▪ GROUP D ▪
 
 Participants
 
@@ -900,7 +878,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Ferroviário       10    8    3   2   5    9   10    -1
 6-4 de Julho        10    4    1   2   7   10   17    -7
 
-GROUP E
+▪ GROUP E ▪
 
 Participants
 
@@ -958,7 +936,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Botafogo          10    7    3   1   6    9   14    -5
 6-Baraúnas          10    6    1   4   5    4   11    -7
 
-GROUP F
+▪ GROUP F ▪
 
 Participants
 
@@ -1016,7 +994,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-CSA               10    7    3   1   6    5   14    -9
 6-América           10    1    0   1   9    2   19   -17
 
-GROUP G
+▪ GROUP G ▪
 
 Participants
 
@@ -1074,7 +1052,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Sergipe           10    8    1   6   3    6    9    -3
 6-Lagarto           10    4    0   4   6    2   14   -12
 
-GROUP H
+▪ GROUP H ▪
 
 Participants
 
@@ -1132,7 +1110,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Desportiva        10    7    3   1   6    7   17   -10
 6-Colatina          10    4    1   2   7    7   17   -10
 
-GROUP I
+▪ GROUP I ▪
 
 Participants
 
@@ -1189,7 +1167,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Goiânia           10    8    3   2   5   10   14    -4
 6-América           10    8    1   6   3    3    5    -2
 
-GROUP J
+▪ GROUP J ▪
 
 
 Participants
@@ -1247,7 +1225,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Esportivo         10    7    2   3   5    2    7    -5
 6-Santo André       10    6    2   2   6    7   11    -4
 
-GROUP L
+▪ GROUP L ▪
 
 Participants
 
@@ -1304,7 +1282,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Valeriodoce       10    8    3   2   5    9   10    -1
 6-Tupi              10    7    2   3   5    7   11    -4
 
-GROUP M
+▪ GROUP M ▪
 
 Participants
 
@@ -1361,7 +1339,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-América           10    7    2   3   5    9    9     0
 6-Ponte Preta       10    6    2   2   6    7   12    -5
 
-GROUP N
+▪ GROUP N ▪
 
 Participants
 
@@ -1417,7 +1395,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Ubiratan          10    8    2   4   4    9   14    -5
 6-União             10    6    1   4   5    4    7    -3
 
-GROUP O
+▪ GROUP O ▪
 
 Participants
 
@@ -1474,7 +1452,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Marcílio Dias     10    8    4   0   6   11   14    -3
 6-Esportivo         10    2    0   2   8    5   16   -11
 
-GROUP P
+▪ GROUP P ▪
 
 Participants
 
@@ -1534,7 +1512,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Caxias            10    8    2   4   4    4    7    -3
 6-Pinheiros         10    5    1   3   6    4   13    -9
 
-GROUP Q
+▪ GROUP Q ▪
 
 Participants
 
@@ -1591,7 +1569,7 @@ TEAM                P    Pts   W   D   L   GF   GA   DIF
 5-Pelotas           10    8    2   4   4    6   11    -5
 6-Avaí              10    7    2   3   5    8   13    -5
 
-SECOND PHASE
+▪ SECOND PHASE ▪
 
 Knockout style.  Away goal rule applied.  Two equal scores and vacancy would be decided in a penalties shootout.
 All qualified to third phase, also qualified for the 1990 2nd Level.
@@ -1629,7 +1607,7 @@ Operário-PR      2-2   1-1   Juventude
 Criciúma         2-1   0-0   Joinville
 
 
-QUARTERFINALS
+▪ QUARTERFINALS ▪
 
 Same rules as Third Phase
 
@@ -1639,7 +1617,7 @@ São José         0-0   0-0   Juventude     [pen.S.José 6-5]
 Criciúma         1-0   0-3   Bragantino
 
 
-SEMIFINALS
+▪ SEMIFINALS ▪
 
 Same rules as Third Phase
 Finalists were promoted to the 1990 1st Level
@@ -1789,22 +1767,10 @@ Grêmio FBPA were the 1989 winners of the Copa do Brasil.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-== About this document
 
-Thanks to Ricardo Pontes.
 
-Source: Placar magazine.
 
-Prepared and maintained by RSSSF Brazil for the ‹Rec.Sport.Soccer Statistics Foundation› and ‹RSSSF Brazil›
+<!-- $about$ -->
 
-Author: RSSSF Brazil
-Last updated: 2 Apr 2005
-
-(C) Copyright RSSSF and RSSSF Brazil 1995/2005
-You are free to copy
-this document in whole or part provided that proper acknowledgement is given to
-RSSSF Brazil. All rights reserved.

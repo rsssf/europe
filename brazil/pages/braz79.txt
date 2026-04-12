@@ -6,8 +6,7 @@
 
 == V COPA BRASIL - 1979 [Brazilian Championship]
 
-<!-- start pre -->
-First Phase
+▪ First Phase ▪
 Top 4 from Groups A through F  Qualified along with the four best fifth places in those groups.  Top 8 in groups G and H  Qualified.
 
 Byes:
@@ -19,7 +18,7 @@ Fluminense FC (Rio de Janeiro-RJ)         CR Vasco da Gama (Rio de Janeiro-RJ)
 AA Francana (Franca-SP)                   EC XV de Novembro (Jaú-SP)
 Goytacaz FC (Campos-RJ)                   EC XV de Novembro (Piracicaba-SP)
 
-Group A
+▪ Group A ▪
 
 AA Anapolina (Anápolis-GO)                Joinville EC (Joinville-SC)
 Avaí FC (Florianópolis-SC)                EC Juventude (Caxias do Sul-RS)
@@ -27,29 +26,29 @@ Colorado EC (Curitiba-PR)                 Londrina EC (Londrina-PR)
 AD Confiança (Aracaju-SE)                 EC Novo Hamburgo (Novo Hamburgo-RS)
 Goiânia EC (Goiânia-GO)                   Sergipe SC (Aracaju-SE)
 
-[Sep 22]
+_ Sep 22 _
 Goiânia           1-1  Avaí
   [Pedro Ornelas; Zé Paulo]
 
-[Sep 23]
+_ Sep 23 _
 Confiança         2-1  Londrina
   [Nininho, Deca; Paulinho]
 Anapolina         2-0  Sergipe
   [Zé Carlos Paulista, Jorge Cruz]
 
-[Sep 25]
+_ Sep 25 _
 Anapolina         2-1  Avaí
   [Maurício, Sídnei; Bira Lopes]
 Joinville         2-1  Juventude
   [Francisco, Vanil; Lula]
 
-[Sep 26]
+_ Sep 26 _
 Goiânia           1-1  Sergipe
   [Pedro Ornelas; Mica]
 
-[Sep 30]
+_ Sep 30 _
 Joinville         3-0  Novo Hamburgo
-  [Mateus (2), Sídnei]
+  (Mateus (2), Sídnei)
 Colorado          1-1  Confiança
   [Jorge Nobre; Deca]
 Avaí              1-1  Londrina
@@ -57,34 +56,34 @@ Avaí              1-1  Londrina
 Juventude         2-0  Anapolina
   [Cacau, Lula]
 
-[Oct 3]
+_ Oct 3 _
 Londrina          1-0  Anapolina
   [Paulinho]
 
-[Oct 4]
+_ Oct 4 _
 Colorado          1-0  Joinville
   [Tião Marçal]
 
-[Oct 6]
+_ Oct 6 _
 Juventude         0-0  Colorado
 Confiança         0-1  Goiânia
   [Divino]
 Joinville         0-0  Londrina
 Sergipe           0-0  Novo Hamburgo
 
-[Oct 10]
+_ Oct 10 _
 Londrina          1-0  Novo Hamburgo
   [Paulinho]
 Avaí              0-1  Colorado
   [Jorge Nobre]
 
-[Oct 11]
+_ Oct 11 _
 Anapolina         1-0  Joinville
   [Zé Carlos Paulista]
 Goiânia           2-1  Juventude
-  [Nivaldo (2); Lula]
+  (Nivaldo (2); Lula)
 
-[Oct 14]
+_ Oct 14 _
 Novo Hamburgo     1-0  Anapolina
   [Passos]
 Juventude         2-1  Confiança
@@ -92,7 +91,7 @@ Juventude         2-1  Confiança
 Londrina          2-2  Sergipe
   [Zé Roberto, Zé Antônio; Mica, Mário Jorge]
 
-[Oct 17]
+_ Oct 17 _
 Juventude         2-0  Sergipe
   [Plein, Adílson]
 Novo Hamburgo     0-0  Colorado
@@ -100,29 +99,29 @@ Joinville         0-0  Goiânia
 Avaí              1-1  Confiança
   [Orivaldo (own goal); Orivaldo]
 
-[Oct 20]
+_ Oct 20 _
 Novo Hamburgo     1-0  Goiânia
   [Toninho]
 Juventude         2-2  Avaí
   [Plein, Casper; Veiga, Dirceu]
 
-[Oct 21]
+_ Oct 21 _
 Confiança         0-2  Sergipe
-  [Mica (2)]
+  (Mica (2))
 Colorado          1-2  Londrina
   [Tião Marçal; Zé Roberto, Paulinho]
 
-[Oct 23]
+_ Oct 23 _
 Colorado          3-2  Anapolina
   [Tião Marçal, Jorge Nobre, Zé Carlos; Nei, Zé Carlos Paulista]
 
-[Oct 25]
+_ Oct 25 _
 Confiança         1-0  Novo Hamburgo
   [Luís Carlos]
 Avaí              0-2  Sergipe
   [Valdo, Mica]
 
-[Oct 28]
+_ Oct 28 _
 Novo Hamburgo     1-1  Juventude
   [Passos; Cacau]
 Anapolina         2-1  Goiânia
@@ -132,13 +131,13 @@ Sergipe           1-1  Colorado
 Joinville         3-2  Avaí
   [Vágner, Paulinho, Vargas; Dirceu, Veiga]
 
-[Nov 1]
+_ Nov 1 _
 Goiânia           0-1  Londrina
   [Éverton]
 Confiança         1-3  Joinville
-  [Deca; Vargas (2), Lico]
+  (Deca; Vargas (2), Lico)
 
-[Nov 3]
+_ Nov 3 _
 Londrina          1-1  Juventude
   [Alcione; Lula]
 Sergipe           2-1  Joinville
@@ -146,7 +145,7 @@ Sergipe           2-1  Joinville
 Colorado          2-0  Goiânia
   [Buião, Osmarzinho]
 Anapolina         4-0  Confiança
-  [Zé Carlos Paulista(2), Jorge Cruz, Nei]
+  (Zé Carlos Paulista(2), Jorge Cruz, Nei)
 Novo Hamburgo     1-1  Avaí
   [Itamar; Júlio César]
 
@@ -163,7 +162,7 @@ Table
  9-Confiança          9  2  2  5   7-15   6
 10-Avaí               9  0  5  4   9-14   5
 
-Group B
+▪ Group B ▪
 
 GE Brasil (Pelotas-RS)                    Criciúma EC (Criciúma-SC)
 AA Caldense (Poços de Caldas-MG)          Assoc. Desportiva FVRD (Cariacica-ES)
@@ -171,14 +170,14 @@ SER Caxias (Caxias do Sul-RS)             Grêmio de Esp. Maringá (Maringá-PR)
 A Chapecoense de Futebol (Chapecó-SC)     Operário FEC (Ponta Grossa-PR)
 AA Colatina (Colatina-ES)                 SC São Paulo (Rio Grande-RS)
 
-[Sep 23]
+_ Sep 23 _
 Colatina          0-0  Brasil
 Caxias            0-1  Caldense
   [Natal]
 Grêmio Maringá    2-0  Desportiva
   [Negunho, Zé Carlos Amaral]
 
-[Sep 26]
+_ Sep 26 _
 São Paulo-RS      1-2  Desportiva
   [Dario (own goal); Dario, Cacildo]
 Grêmio Maringá    3-2  Caldense
@@ -186,20 +185,20 @@ Grêmio Maringá    3-2  Caldense
 Operário-PR       1-1  Brasil
   [Líder; Flecha]
 
-[Sep 28]
+_ Sep 28 _
 Grêmio Maringá    0-0  Caxias
 
-[Sep 29]
+_ Sep 29 _
 Desportiva        0-0  Chapecoense
 
-[Sep 30]
+_ Sep 30 _
 Criciúma          4-0  Operário-PR
-  [Helinho (2), Ademir, Naldo]
+  (Helinho (2), Ademir, Naldo)
 Brasil            0-0  Grêmio Maringá
 Colatina          0-1  São Paulo-RS
   [Soares]
 
-[Oct 3]
+_ Oct 3 _
 Criciúma          2-0  Caldense
   [Edvaldo, Pradera]
 Colatina          1-1  Chapecoense
@@ -209,21 +208,21 @@ São Paulo-RS      1-1  Grêmio Maringá
 Caxias            3-0  Operário-PR
   [Lutércio, Ademir, Morse]
 
-[Oct 6]
+_ Oct 6 _
 Desportiva        2-0  Operário-PR
   [Zuza, Dario]
 Caldense          1-0  São Paulo-RS
   [Mirandinha]
 Criciúma          0-0  Caxias
 
-[Oct 10]
+_ Oct 10 _
 Grêmio Maringá    2-0  Colatina
   [Hamílton, Zé Carlos Amaral]
 Caxias            0-0  Brasil
 Chapecoense       1-2  São Paulo-RS
   [Claudinho; Motor, João Carlos]
 
-[Oct 14]
+_ Oct 14 _
 Caldense          2-0  Chapecoense
   [Baiano, Paulo Roberto]
 Operário-PR       1-0  Colatina
@@ -231,7 +230,7 @@ Operário-PR       1-0  Colatina
 Brasil            3-0  Criciúma
   [Valdeci, Flecha, Édson]
 
-[Oct 17]
+_ Oct 17 _
 Brasil            2-0  Caldense
   [Renato Cogo, Flecha]
 Desportiva        1-0  Criciúma
@@ -241,7 +240,7 @@ Colatina          0-1  Caxias
 Chapecoense       2-3  Grêmio Maringá
   [Loreno, Barbieri; Décio (own goal), Itamar, Paulo César]
 
-[Oct 20]
+_ Oct 20 _
 Criciúma          0-1  Colatina
   [Luís Carlos]
 Brasil            1-1  Desportiva
@@ -249,11 +248,11 @@ Brasil            1-1  Desportiva
 São Paulo-RS      2-1  Caxias
   [Rubenval, Toquinho; Clóvis]
 
-[Oct 21]
+_ Oct 21 _
 Operário-PR       1-0  Chapecoense
   [Paulo Borges]
 
-[Oct 23]
+_ Oct 23 _
 Criciúma          2-1  São Paulo-RS
   [Serrano, Helinho; Toquinho]
 Operário-PR       0-2  Grêmio Maringá
@@ -261,11 +260,11 @@ Operário-PR       0-2  Grêmio Maringá
 Desportiva        2-0  Caldense
   [Célio, Zezinho]
 
-[Oct 25]
+_ Oct 25 _
 Caxias            5-1  Chapecoense
-  [Zé Guimaraes (2), Zezinho, Jerônimo, Flávio; Barbiéri]
+  (Zé Guimaraes (2), Zezinho, Jerônimo, Flávio; Barbiéri)
 
-[Oct 28]
+_ Oct 28 _
 Colatina          0-0  Desportiva
 São Paulo-RS      1-1  Brasil
   [Toquinho; Jorge Luís]
@@ -274,9 +273,9 @@ Caldense          1-0  Operário-PR
 Chapecoense       0-1  Criciúma
   [Laerte]
 
-[Nov 3]
+_ Nov 3 _
 Grêmio Maringá    2-0  Criciúma
-  [Itamar (2)]
+  (Itamar (2))
 Chapecoense       1-1  Brasil
   [Claudinho; Flecha]
 Desportiva        2-1  Caxias
@@ -284,8 +283,8 @@ Desportiva        2-1  Caxias
 Caldense          3-0  Colatina
   [Armando, Mirandinha, Natal]
 São Paulo-RS      awd  Operário-PR         [points awarded to S.Paulo after
-  [Paquito]                                 Operário had only 6 players in the
-                                            field at 85', originally 0-1]
+  (Paquito]                                 Operário had only 6 players in the
+                                            field at 85', originally 0-1)
 
 Table
  1-Grêmio Maringá     9  6  3  0  15- 5  15  Qualified
@@ -300,7 +299,7 @@ Table
  9-Colatina           9  1  3  5   2- 9   5
 10-Chapecoense        9  0  3  6   6-16   3
 
-Group C
+▪ Group C ▪
 
 Atlético C Goianiense (Goiânia-GO)        CR Guará (Brasília-DF)
 Brasília EC (Brasília-DF)                 Itabuna AC (Itabuna-BA)
@@ -308,38 +307,38 @@ EC Comerical (Campo Grande-MS)            Itumbiara EC (Itumbiara-GO)
 Fluminense FC (Feira de Santana-BA)       Mixto EC (Cuiabá-MT)
 SE Gama (Brasília-DF)                     EC Operário Varz. (Várzea Grande-MT)
 
-[Sep 23]
+_ Sep 23 _
 Operário-MT       3-0  Brasília
   [Mosca, Ernâni, Ramón]
 Itumbiara         3-1  Guará
   [Wílson, Roberto, Joãozinho; Edvaldo]
 Gama              4-3  Atlético-GO
-  [Robertinho (2), Péricles (2); Reinaldo (2), Gilberto]
+  (Robertinho (2), Péricles (2); Reinaldo (2), Gilberto)
 
-[Sep 26]
+_ Sep 26 _
 Mixto             3-0  Guará
-  [Bife (2), Gonçalves]
+  (Bife (2), Gonçalves)
 Atlético-GO       4-1  Comercial-MS
   [Celso, Alcino, Érico, Tostão; Corisco]
 
-[Sep 30]
+_ Sep 30 _
 Mixto             1-0  Itumbiara
   [Toninho Campos]
 Comercial-MS      0-1  Operário-MT
 Brasília          1-0  Guará
   [Flávio]
 
-[Oct 3]
+_ Oct 3 _
 Brasília          2-2  Comercial-MS
-  [Julinho (2); Daniel, Reacir]
+  (Julinho (2); Daniel, Reacir)
 Gama              1-0  Itabuna
   [Péricles]
 Atlético-GO       2-2  Operário-MT
-  [Alcino (2); Gérson Lopes, Ruiter]
+  (Alcino (2); Gérson Lopes, Ruiter)
 Fluminense-BA     1-1  Guará
   [Edinho; Paulo]
 
-[Oct 6]
+_ Oct 6 _
 Itabuna           0-1  Mixto
   [Bife]
 Atlético-GO       3-0  Guará
@@ -349,21 +348,21 @@ Itumbiara         1-0  Gama
 Comercial-MS      2-0  Fluminense-BA
   [Daniel, Trajano]
 
-[Oct 10]
+_ Oct 10 _
 Operário-MT       1-0  Fluminense-BA
   [Gérson Lopes]
 
-[Oct 11]
+_ Oct 11 _
 Gama              2-1  Mixto
   [Roldão, Santana; Marquinhos]
 Itumbiara         1-1  Itabuna
   [Serginho; Chiquinho]
 
-[Oct 14]
+_ Oct 14 _
 Gama              2-0  Guará
   [Fantato, Santana]
 Mixto             4-3  Operário-MT
-  [Bife(3), Marcinho; Gérson Lopes (2), Ernâni]
+  (Bife(3), Marcinho; Gérson Lopes (2), Ernâni)
 Fluminense-BA     1-0  Atlético-GO
   [Darla]
 Itabuna           1-1  Comercial-MS
@@ -371,7 +370,7 @@ Itabuna           1-1  Comercial-MS
 Itumbiara         2-1  Brasília
   [Joãozinho, Serginho; Flávio]
 
-[Oct 17]
+_ Oct 17 _
 Itabuna           1-0  Atlético-GO
   [Chiquinho]
 Comercial-MS      2-0  Mixto
@@ -380,47 +379,47 @@ Operário-MT       0-0  Gama
 Fluminense-BA     1-0  Itumbiara
   [Zé Raimundo]
 
-[Oct 20]
+_ Oct 20 _
 Brasília          2-1  Mixto
   [Williams, Edmar; Bife]
 Comercial-MS      3-1  Gama
-  [Laerte (2), Brecha; Roldão]
+  (Laerte (2), Brecha; Roldão)
 Atlético-GO       3-2  Itumbiara
   [Darci Meneses, Gilberto, Bugre; Wílson, Roberto]
 
-[Oct 21]
+_ Oct 21 _
 Operário-MT       1-4  Itabuna
-  [Gérson Lopes; Silvinho (3), Chiquinho]
+  (Gérson Lopes; Silvinho (3), Chiquinho)
 
-[Oct 23]
+_ Oct 23 _
 Atlético-GO       2-1  Brasília
-  [Alcino (2); Williams]
+  (Alcino (2); Williams)
 
-[Oct 25]
+_ Oct 25 _
 Itumbiara         1-0  Operário-MT
   [Wílson]
 Itabuna           0-0  Guará
 Mixto             1-1  Fluminense-BA
   [Gonçalves; Reginaldo]
 
-[Oct 28]
+_ Oct 28 _
 Gama              4-1  Brasília
-  [Péricles (2), Fantato, Roldão; Edu]
+  (Péricles (2), Fantato, Roldão; Edu)
 Itabuna           1-0  Fluminense-BA
   [Chiquinho]
 
-[Nov 1]
+_ Nov 1 _
 Fluminense-BA     1-0  Brasília
   [Sabino]
 
-[Nov 3]
+_ Nov 3 _
 Brasília          3-2  Itabuna
-  [Vilmar, Banana, Williams; Zé Carlos (2)]
+  (Vilmar, Banana, Williams; Zé Carlos (2))
 Mixto             2-0  Atlético-GO
   [Bife, Gonçalves]
 Fluminense-BA     0-0  Gama
 Comercial-MS      3-1  Itumbiara
-  [Anderson (2), Ninho; Maurinho]
+  (Anderson (2), Ninho; Maurinho)
 Guará 0-1  Operário-MT
   [Luiz Cláudio]
 
@@ -439,7 +438,7 @@ Table
  9-Brasília           9  3  1  5  11-17   7
 10-Guará              8  0  2  6   2-14   2
 
-Group D
+▪ Group D ▪
 
 América FC (Belo Horizonte-MG)            Paysandu SC (Belém-PA)
 Botafogo FC (João Pessoa-PB)              At. Rio Negro Clube (Manaus-AM)
@@ -447,22 +446,22 @@ Campinense Clube (Campina Grande-PB)      Treze FC (Campina Grande-PB)
 Campo Grande AC (Rio de Janeiro-RJ)       Tuna Luso Brasileira (Belém-PA)
 Nacional Fast Clube (Manaus-AM)           Villa Nova AC (Nova Lima-MG)
 
-[Sep 22]
+_ Sep 22 _
 Tuna Luso         2-0  Treze
   [Adílton, Puma]
 Villa Nova-MG     2-0  Paysandu
-  [Aguillar(2)]
+  (Aguillar(2))
 
-[Sep 25]
+_ Sep 25 _
 América-MG        2-0  Paysandu
 
   [Luís Carlos Gaúcho, Maneca]
 Tuna Luso         2-2  Botafogo-PB
-  [Puma (2); Magno (2)]
+  (Puma (2); Magno (2))
 Villa Nova-MG     1-0  Treze
   [Aguillar]
 
-[Sep 30]
+_ Sep 30 _
 Campinense        2-0  Rio Negro
   [Joãozinho Paulista, Mazinho]
 Campo Grande      1-0  América-MG
@@ -470,17 +469,17 @@ Campo Grande      1-0  América-MG
 Botafogo-PB       3-0  Fast
   [Vandinho, Hélio, Noé Silva]
 
-[Oct 3]
+_ Oct 3 _
 América-MG        3-2  Rio Negro
   [Gilmarzinho, Maneca, Vágner; Orlandinho, Marquinhos]
 Campo Grande      2-1  Paysandu
   [Luís Carlos, César; Dario]
 
-[Oct 4]
+_ Oct 4 _
 Fast              0-1  Villa Nova-MG
   [Elísio]
 
-[Oct 6]
+_ Oct 6 _
 Campo Grande      3-0  Tuna Luso
   [Luís Cláudio, Rocha, Zé Dias]
 Botafogo-PB       0-1  Treze
@@ -490,78 +489,78 @@ Campinense        3-0  Fast
 Rio Negro         0-1  Villa Nova-MG
   [Elísio]
 
-[Oct 10]
+_ Oct 10 _
 Botafogo-PB       2-0  Campinense
   [Noé Silva, Magno]
 Fast              1-3  América-MG
-  [Marcão; Luís Carlos Gaúcho (2), Amauri]
+  (Marcão; Luís Carlos Gaúcho (2), Amauri)
 
-[Oct 13]
+_ Oct 13 _
 Paysandu          1-0  Tuna Luso
   [Roberto Bacuri]
 Rio Negro         0-0  Campo Grande
 Campinense        1-0  Treze
   [Alberi]
 
-[Oct 17]
+_ Oct 17 _
 Treze             3-1  Rio Negro
-  [Gil (2), Dadá; Piau]
+  (Gil (2), Dadá; Piau)
 América-MG        0-0  Villa Nova-MG
 Campo Grande      1-0  Campinense
   [Luís Carlos]
 Paysandu          4-2  Botafogo-PB
-  [Roberto Bacuri (3), André; Noé Silva, Cabral]
+  (Roberto Bacuri (3), André; Noé Silva, Cabral)
 Fast              3-2  Tuna Luso
-  [Gordinho (2), Orange; Paulo César, Adílton]
+  (Gordinho (2), Orange; Paulo César, Adílton)
 
-[Oct 20]
+_ Oct 20 _
 América-MG        3-0  Botafogo-PB
 Fast              1-1  Paysandu
   [Gordinho; Patrulheiro]
 Villa Nova-MG     0-0  Campinense
 Rio Negro         1-4  Tuna Luso
 
-[Oct 21]
+_ Oct 21 _
 Treze             2-0  Campo Grande
   [Dadá, Messias]
 
-[Oct 23]
+_ Oct 23 _
 Fast              3-1  Rio Negro
-  [Ronaldo (2), Carioca; Almeida]
+  (Ronaldo (2), Carioca; Almeida)
 Tuna Luso         0-1  Villa Nova-MG
   [Guta]
 Botafogo-PB       2-0  Campo Grande
   [Magno, Hélio]
 
-[Oct 25]
+_ Oct 25 _
 Paysandu          2-2  Treze
   [Eider, Nílson; Porto, Dadá]
 Campinense        0-1  América-MG
   [Luís Carlos Gaúcho]
 
-[Oct 27]
+_ Oct 27 _
 Tuna Luso         2-1  América-MG
   [Edinho, Adílton; Maneca]
 
-[Oct 28]
+_ Oct 28 _
 Treze             6-1  Fast
-  [Adelmo (2), Danilo (2), Messias, Levi; Orange]
+  (Adelmo (2), Danilo (2), Messias, Levi; Orange)
 Rio Negro         0-0  Botafogo-PB
 
-[Nov 1]
+_ Nov 1 _
 Paysandu          0-1  Campinense
   [Gabriel]
 Villa Nova-MG     1-2  Campo Grande
   [Aguillar; Valdo, Zé Dias]
 
-[Nov 3]
+_ Nov 3 _
 Botafogo-PB       4-2  Villa Nova-MG
-  [Hélio (2), Noé Silva, Cabral; Jurandi, Aguillar]
+  (Hélio (2), Noé Silva, Cabral; Jurandi, Aguillar)
 Campinense        1-0  Tuna Luso
   [Joãozinho Paulista]
 Campo Grande      0-0  Fast
 América-MG        2-1  Treze
-  [Vágner (2); Wílson]
+  (Vágner (2); Wílson)
 Paysandu          1-2  Rio Negro
   [Roberto Bacuri; Tuiúca, Zezinho Macapá]
 
@@ -578,7 +577,7 @@ Table
  9-Paysandu           9  2  2  5  10-14   6
 10-Rio Negro          9  1  2  6   7-17   4
 
-Group E
+▪ Group E ▪
 
 Central SC (Caruaru-PE)                   River AC (Teresina-PI)
 Maranhão AC (São Luís-MA)                 Sampaio Corrêa FC (São Luís-MA)
@@ -586,21 +585,21 @@ Moto Clube (São Luís-MA)                  SE Tiradentes (Teresina-PI)
 C Náutico Capibaribe (Recife-PE)          Uberaba SC (Uberaba-MG)
 Piauí EC (Teresina-PI)                    Uberlândia EC (Uberlândia-MG)
 
-[Sep 16]
+_ Sep 16 _
 River             2-1  Moto Clube
-  [Sima (2); Galego]
+  (Sima (2); Galego)
 
-[Sep 23]
+_ Sep 23 _
 Maranhão          1-1  Uberlândia
   [Riba; Luís Roberto]
 Tiradentes        1-1  Sampaio Corrêa
   [Hélio Rocha; Zé Iva]
 Piauí             0-0  Moto Clube
 
-[Sep 26]
+_ Sep 26 _
 Piauí             0-0  Uberlândia
 
-[Sep 27]
+_ Sep 27 _
 Náutico           0-1  Uberaba
   [Nei]
 Central           1-1  Tiradentes
@@ -608,23 +607,23 @@ Central           1-1  Tiradentes
 Maranhão          3-0  Sampaio Corrêa
   [Riba, Jorge Santos, Jorge]
 
-[Sep 30]
+_ Sep 30 _
 River             1-2  Uberaba
   [Sima; Donizetti Cabeça, Hilton]
 Uberlândia        0-1  Náutico
   [Silvano]
 
-[Oct 3]
+_ Oct 3 _
 Moto Clube        1-0  Tiradentes
   [Bassi]
 
-[Oct 4]
+_ Oct 4 _
 Uberaba           2-1  Central
   [Ilton, Nei; Guiga]
 Sampaio Corrêa    4-2  Piauí
-  [Cabecinha (2), Jorge, Queiróz; Aníbal, Batista (own goal)]
+  (Cabecinha (2), Jorge, Queiróz; Aníbal, Batista (own goal))
 
-[Oct 6]
+_ Oct 6 _
 Maranhão          3-0  Moto Clube
   [Osni, Riba, Djaro]
 Uberaba           3-1  Uberlândia
@@ -635,57 +634,57 @@ Piauí             2-2  Tiradentes
 Náutico           1-1  Central
   [Valtinho; Zezinho]
 
-[Oct 10]
+_ Oct 10 _
 Náutico           2-0  Sampaio Corrêa
   [Valtinho, Silvano]
 Central           1-0  River
   [Marcos Décio]
 
-[Oct 11]
+_ Oct 11 _
 Uberlândia        2-0  Moto Clube
   [Dante, Binga]
 
-[Oct 14]
+_ Oct 14 _
 Central           2-2  Maranhão
   [Zequinha, Marcos Décio; Riba, Osni]
 Uberaba           3-0  Piauí
-  [Luís Carlos (2), Donizetti Cabeça]
+  (Luís Carlos (2), Donizetti Cabeça)
 Uberlândia        2-1  River
   [Mairon César, Israel; Sima]
 Tiradentes        0-1  Náutico
   [Armando]
 
-[Oct 17]
+_ Oct 17 _
 Central           2-0  Sampaio Corrêa
   [Paulinho, Zequinha]
 Náutico           2-2  Piauí
-  [Carlos Alberto Rocha (2); Maninho (2)]
+  (Carlos Alberto Rocha (2); Maninho (2))
 Moto Clube        2-0  Uberaba
   [Vandinho (own goal), Luís Paulo]
 
-[Oct 20]
+_ Oct 20 _
 Tiradentes        3-1  River
   [Rogério, Hélio Rocha, Djalma; Sima]
 Piauí             0-2  Central
   [Zito, Sanatiel (own goal)]
 
-[Oct 21]
+_ Oct 21 _
 Uberaba           0-1  Maranhão
   [Osni]
 
-[Oct 23]
+_ Oct 23 _
 Náutico           2-3  Maranhão
-  [Carlos Alberto Rocha, Tataco (own goal); Naldo (2), Juarez]
+  (Carlos Alberto Rocha, Tataco (own goal); Naldo (2), Juarez)
 Moto Clube        2-1  Central
   [Luís Paulo, Geraldo; Guiga]
 Uberlândia        4-0  Tiradentes
   [Morais, Dick, Eli Mendes, Dante]
 
-[Oct 27]
+_ Oct 27 _
 Maranhão          1-0  River
   [Djaro]
 
-[Oct 28]
+_ Oct 28 _
 Uberaba           2-0  Tiradentes
   [Nei, Toizinho]
 Sampaio Corrêa    1-0  Moto Clube
@@ -693,20 +692,20 @@ Sampaio Corrêa    1-0  Moto Clube
 Central           2-0  Uberlândia
   [Paulinho, Marcos Décio]
 
-[Oct 30]
+_ Oct 30 _
 River             3-1  Náutico
-  [Dario (2), Douglas (own goal); Paulinho]
+  (Dario (2), Douglas (own goal); Paulinho)
 Maranhão          1-1  Piauí
   [Osni; Geraldo]
 
-[Nov 1]
+_ Nov 1 _
 Uberlândia        4-1  Sampaio Corrêa
 
-[Nov 3]
+_ Nov 3 _
 Náutico           1-0  Moto Clube
   [Valtinho]
 Tiradentes        0-3  Maranhão
-  [Osni (2), Antônio Carlos]
+  (Osni (2), Antônio Carlos)
 River             1-1  Piauí
   [Israel; Rodrigues]
 Sampaio Corrêa    0-2  Uberaba
@@ -725,7 +724,7 @@ Table
  9-Piauí              9  0  6  3   8-15   6
 10-Tiradentes         9  1  3  5   7-16   5
 
-Group F
+▪ Group F ▪
 
 ABC FC (Natal-RN)                         Ferroviário AC (Fortaleza-CE)
 América FC (Natal-RN)                     Fortaleza EC (Fortaleza-CE)
@@ -733,17 +732,17 @@ Agr. Sp. Arapiraq. - ASA (Arapiraca-AL)   AO Itabaiana (Itabaiana-SE)
 Clube de Regatas Brasil - CRB (Maceió-AL) AD Leônico (Salvador-BA)
 Centro Sport. Alagoano - CSA (Maceió-AL)  ACD Potiguar (Mossoró-RN)
 
-[Sep 23]
+_ Sep 23 _
 ASA               1-0  Itabaiana
   [Carioca]
 
-[Sep 25]
+_ Sep 25 _
 Potiguar          0-0  CSA
 ABC               4-2  CRB
-  [Dentinho (3), Berg; Enéias, Alberto]
+  (Dentinho (3), Berg; Enéias, Alberto)
 Fortaleza         0-0  Ferroviário
 
-[Sep 30]
+_ Sep 30 _
 Potiguar          1-2  Ferroviário
   [Xavier; Dedé, Jacinto]
 América-RN        2-0  ASA
@@ -753,7 +752,7 @@ ABC               1-0  Fortaleza
 Itabaiana         2-0  CRB
   [Nílson, Damião]
 
-[Oct 3]
+_ Oct 3 _
 ASA               1-1  CRB
   [Joãozinho; Enéias]
 Itabaiana         3-1  Fortaleza
@@ -761,9 +760,9 @@ Itabaiana         3-1  Fortaleza
 Potiguar          1-1  ABC
   [Nego Chico; Joel]
 América-RN        2-1  CSA
-  [Marinho (2); Almir]
+  (Marinho (2); Almir)
 
-[Oct 6]
+_ Oct 6 _
 CSA               2-1  ASA
   [Aílton, Gilmar; Freitas]
 Fortaleza         0-1  Potiguar
@@ -775,11 +774,11 @@ Ferroviário       1-1  Itabaiana
 ABC               1-0  América-RN
   [Dentinho]
 
-[Oct 10]
+_ Oct 10 _
 CSA               2-1  Leônico
   [Ênio, Gilmar; Zé Eduardo]
 
-[Oct 14]
+_ Oct 14 _
 ASA               0-2  Ferroviário
   [Jacinto, Dedeu]
 CSA               1-0  CRB
@@ -789,9 +788,9 @@ Potiguar          1-0  América-RN
 ABC               1-1  Itabaiana
   [Paulinho; Ricardo]
 Fortaleza         3-1  Leônico
-  [Osvaldinho (2), Florisvaldo; Luís Ferreira]
+  (Osvaldinho (2), Florisvaldo; Luís Ferreira)
 
-[Oct 17]
+_ Oct 17 _
 CRB               1-0  América-RN
   [Jorge da Sorte]
 ASA               2-0  Fortaleza
@@ -802,7 +801,7 @@ Leônico           1-0  ABC
 Ferroviário       1-1  CSA
   [Babá; Odilon]
 
-[Oct 20]
+_ Oct 20 _
 Itabaiana         1-0  América-RN
   [Ricardo]
 ABC               1-2  ASA
@@ -810,33 +809,33 @@ Ferroviário       0-0  CRB
 Leônico           2-0  Potiguar
   [Tinteiro, Jacozinho]
 
-[Oct 21]
+_ Oct 21 _
 CSA               3-0  Fortaleza
-  [Almir (2), Jorge Siri]
+  (Almir (2), Jorge Siri)
 
-[Oct 23]
+_ Oct 23 _
 Leônico           4-0  América-RN
-  [Jacozinho (2), Renato, Chiquinho]
+  (Jacozinho (2), Renato, Chiquinho)
 
-[Oct 28]
+_ Oct 28 _
 CRB               3-0  Potiguar
   [Enéias, Luís Bacurau, Silva]
 ASA               2-1  Leônico
   [Geraldo Moreira, Esquerdinha; Chiquinho]
 Ferroviário       0-3  ABC
-  [Danilo Meneses(2), Paulinho]
+  (Danilo Meneses(2), Paulinho)
 
-[Oct 30]
+_ Oct 30 _
 Itabaiana         2-1  CSA
   [Ricardo, Aílton; Ênio]
 Fortaleza         3-1  América-RN
-  [Bosco(2), Chiquinho; Marinho]
+  (Bosco(2), Chiquinho; Marinho)
 
-[Nov 1]
+_ Nov 1 _
 Leônico           1-0  Ferroviário
   [Macedo]
 
-[Nov 3]
+_ Nov 3 _
 Fortaleza         0-0  CRB
 Leônico           1-0  Itabaiana
   [Bira]
@@ -844,7 +843,7 @@ América-RN        0-0  Ferroviário
 Potiguar          1-2  ASA
   [Chico Alves; Freitas, Esquerdinha]
 CSA               3-1  ABC
-  [Almir (2), Ênio; Danilo Meneses]
+  (Almir (2), Ênio; Danilo Meneses)
 
 Table
  1-CSA                9  5  2  2  14- 8  12  Qualified
@@ -859,7 +858,7 @@ Table
  9-Fortaleza          9  2  2  5   7-12   6
 10-América-RN         9  2  1  6   5-12   5
 
-Group G
+▪ Group G ▪
 
 América FC (Rio de Janeiro-RJ)            SC Internacional (Porto Alegre-RS)
 Clube Atlético Paranaense (Curitiba-PR)   Operário FC (Campo Grande-MS)
@@ -867,28 +866,28 @@ Coritiba FC (Curitiba-PR)                 Rio Branco AC (Cariacica-ES)
 Grêmio FBPA (Porto Alegre-RS)             Santa Cruz FC (Recife-PE)
 Figueirense FC (Florianópolis-SC)         Sport Club do Recife (Recife-PE)
 
-[Sep 23]
+_ Sep 23 _
 Atlético-PR       0-0  Internacional-RS
 Grêmio            4-1  Coritiba
-  [Baltasar (2), Nardela, Vantuir; Luís Freire]
+  (Baltasar (2), Nardela, Vantuir; Luís Freire)
 Operário-MS       4-0  Rio Branco
-  [Baianinho (2), Arthur (2)]
+  (Baianinho (2), Arthur (2))
 
-[Sep 26]
+_ Sep 26 _
 Grêmio            4-0  Sport
-  [Baltasar (3), Leandro]
+  (Baltasar (3), Leandro)
 Atlético-PR       0-2  Operário-MS
   [Alberneir, Baianinho]
 Santa Cruz        1-2  Internacional-RS
   [Joãozinho; Bira, Adílson]
 
-[Sep 30]
+_ Sep 30 _
 Internacional-RS  1-0  Figueirense
   [Casagrande (own goal)]
 Santa Cruz        0-0  Coritiba
 Rio Branco        0-0  Grêmio
 
-[Oct 3]
+_ Oct 3 _
 Sport             2-2  Figueirense
   [Roberto, Pita; Cabral, Édson]
 Operário-MS       0-3  Grêmio
@@ -896,36 +895,36 @@ Operário-MS       0-3  Grêmio
 Rio Branco        1-1  Atlético-PR
   [Da Silva; Rota]
 
-[Oct 6]
+_ Oct 6 _
 Rio Branco        2-0  Sport
   [Jonas, Da Silva]
 Coritiba          1-1  Atlético-PR
   [Serginho; Flavinho]
 América-RJ        3-0  Operário-MS
-  [César (2), Silvinho]
+  (César (2), Silvinho)
 Internacional-RS  1-0  Grêmio
   [Jair]
 
-[Oct 10]
+_ Oct 10 _
 América-RJ        3-1  Rio Branco
   [Nélson Borges, Uchoa, Daniel (own goal); Da Silva]
 
-[Oct 11]
+_ Oct 11 _
 Sport             0-3  Internacional-RS
-  [Jair (2), Adílson]
+  (Jair (2), Adílson)
 
-[Oct 13]
+_ Oct 13 _
 Atlético-PR       0-1  Santa Cruz
   [Cidinho]
 Coritiba          0-3  Internacional-RS
-  [Jair (2), Adílson]
+  (Jair (2), Adílson)
 
-[Oct 14]
+_ Oct 14 _
 Figueirense       0-0  Operário-MS
 Grêmio            1-3  América-RJ
-  [Nardela; César (2), Silvinho]
+  (Nardela; César (2), Silvinho)
 
-[Oct 17]
+_ Oct 17 _
 Grêmio            1-0  Santa Cruz
   [Paulo César]
 América-RJ        1-0  Figueirense
@@ -933,26 +932,26 @@ América-RJ        1-0  Figueirense
 Operário-MS       2-0  Coritiba
   [Zé Luís, Arthur]
 
-[Oct 18]
+_ Oct 18 _
 Sport             2-2  Atlético-PR
   [Didi Duarte, Roberto; João Carlos, Rota]
 
-[Oct 20]
+_ Oct 20 _
 Coritiba          1-1  Rio Branco
   [Freitas; Da Silva]
 Santa Cruz        0-1  Sport
 Internacional-RS  1-1  América-RJ
   [Chico Spina; Léo Oliveira]
 
-[Oct 21]
+_ Oct 21 _
 Figueirense       2-1  Grêmio
   [Paulo Taborda, Vantuir (own goal); Baltasar]
 
-[Oct 23]
+_ Oct 23 _
 Rio Branco        1-1  Figueirense
   [Jonas; Cabral]
 
-[Oct 25]
+_ Oct 25 _
 Santa Cruz        1-0  América-RJ
   [Deinha]
 Atlético-PR       1-0  Grêmio
@@ -960,7 +959,7 @@ Atlético-PR       1-0  Grêmio
 Operário-MS       1-0  Sport
   [Biluca]
 
-[Oct 28]
+_ Oct 28 _
 Coritiba          1-0  Figueirense
   [Duílio]
 Sport             0-2  América-RJ
@@ -969,21 +968,21 @@ Internacional-RS  5-1  Rio Branco
 Operário-MS       0-5  Santa Cruz
   [Joãozinho, Biluca (own goal), Deinha, Betinho, Givanildo]
 
-[Oct 30]
+_ Oct 30 _
 Coritiba          2-0  Sport
   [Freitas, Luís Freire]
 Figueirense       1-1  Santa Cruz
   [Cabral; Paulo César]
 
-[Nov 1]
+_ Nov 1 _
 América-RJ        1-3  Atlético-PR
-  [César; Rota (2), Evans]
+  (César; Rota (2), Evans)
 
-[Nov 3]
+_ Nov 3 _
 América-RJ        3-0  Coritiba
   [Merica, Nélson Borges, Silvinho]
 Santa Cruz        3-3  Rio Branco
-  [Cidinho, Paulo César, Joãozinho; Baiano (2), Da Silva]
+  (Cidinho, Paulo César, Joãozinho; Baiano (2), Da Silva)
 Figueirense       1-0  Atlético-PR
   [Marquinhos]
 Internacional-RS  2-2  Operário-MS
@@ -1002,7 +1001,7 @@ Table
  9-Rio Branco         9  1  5  3  10-18   7
 10-Sport              9  1  2  6   5-18   4
 
-Group H
+▪ Group H ▪
 
 C Atlético Mineiro (Belo Horizonte-MG)    Goiás EC (Goiânia-GO)
 EC Bahia (Salvador-BA)                    Nacional FC (Manaus-AM)
@@ -1010,120 +1009,120 @@ Ceará SC (Fortaleza-CE)                   Clube do Remo (Belém-PA)
 Cruzeiro EC (Belo Horizonte-MG)           Vila Nova FC (Goiânia-GO)
 CE Dom Bosco (Cuiabá-MT)                  EC Vitória (Salvador-BA)
 
-[Sep 23]
+_ Sep 23 _
 Remo              1-2  Dom Bosco
   [Jaci; Adílson, Jorge Nei]
 Vila Nova-GO      0-1  Cruzeiro
   [Mauro]
 Atlético-MG       0-0  Goiás
 
-[Sep 27]
+_ Sep 27 _
 Dom Bosco         0-1  Goiás
   [Chiquito]
 
-[Sep 30]
+_ Sep 30 _
 Cruzeiro          1-1  Dom Bosco
   [Roberto César; Jorge Nei]
 Vila Nova-GO      2-1  Remo
-  [Puruca (2); Mesquita]
+  (Puruca (2); Mesquita)
 Nacional          0-0  Atlético-MG
 
-[Oct 3]
+_ Oct 3 _
 Nacional          0-0  Vitória
 Ceará             4-1  Remo
-  [Geraldinho (2), Darci, Ivanir; Darci (own goal)]
+  (Geraldinho (2), Darci, Ivanir; Darci (own goal))
 Bahia             2-1  Dom Bosco
   [Dil, Douglas; Adílson]
 
-[Oct 4]
+_ Oct 4 _
 Goiás             3-1  Cruzeiro
   [Pastoril, Éber, Ramón; Roberto César]
 Atlético-MG       0-0  Vila Nova-GO
 
-[Oct 6]
+_ Oct 6 _
 Atlético-MG       1-1  Cruzeiro
   [Reinaldo; Joãozinho]
 Bahia             1-2  Vitória
-  [Botelho; Pita (2)]
+  (Botelho; Pita (2))
 Remo              3-0  Nacional
-  [Mesquita (2), Jaci]
+  (Mesquita (2), Jaci)
 Vila Nova-GO      2-1  Goiás
-  [Puruca (2); Pastoril]
+  (Puruca (2); Pastoril)
 Dom Bosco         2-5  Ceará
-  [Bargas (2); Geraldinho (2), Devanir (2), Edmar]
+  (Bargas (2); Geraldinho (2), Devanir (2), Edmar)
 
-[Oct 10]
+_ Oct 10 _
 Vitória           0-0  Vila Nova-GO
 Cruzeiro          3-0  Remo
   [Joãozinho, Roberto César, Mauro]
 Ceará             3-1  Bahia
   [Tércio, Aluísio, Ivanir; Bezerra]
 
-[Oct 11]
+_ Oct 11 _
 Goiás             2-0  Nacional
-  [Éber (2)]
+  (Éber (2))
 
-[Oct 14]
+_ Oct 14 _
 Nacional          1-0  Bahia
   [Édson]
 Atlético-MG       3-1  Ceará
   [Jangada (own goal), Toninho Cerezo, Rômulo; Pedro Basílio]
 Vitória           2-4  Cruzeiro
-  [Sena, Pita; Roberto César (2), Joãozinho, Mauro]
+  (Sena, Pita; Roberto César (2), Joãozinho, Mauro)
 Vila Nova-GO      1-1  Dom Bosco
   [Puruca; Bargas]
 
-[Oct 17]
+_ Oct 17 _
 Bahia             1-0  Goiás
   [Fito]
 Ceará             2-4  Vila Nova-GO
-  [Neto, Tiquinho; Puruca (2), Henrique, Darci (own goal)]
+  (Neto, Tiquinho; Puruca (2), Henrique, Darci (own goal))
 Remo              2-2  Atlético-MG
   [China, Jaci; Paulo Isidoro, Ricardo]
 Cruzeiro          4-1  Nacional
-  [Mauro (2), Nélio, Joãozinho; Careca]
+  (Mauro (2), Nélio, Joãozinho; Careca)
 
-[Oct 20]
+_ Oct 20 _
 Dom Bosco         2-1  Nacional
   [Cidele, Adílson; Raul]
 Ceará             0-2  Goiás
 Bahia             0-1  Atlético-MG
   [Ângelo]
 
-[Oct 21]
+_ Oct 21 _
 Remo              1-1  Vitória
   [Jasson; Sena]
 
-[Oct 23]
+_ Oct 23 _
 Vitória           4-1  Ceará
-  [Sena (3), Marquinhos; Chinesinho]
+  (Sena (3), Marquinhos; Chinesinho)
 
-[Oct 25]
+_ Oct 25 _
 Cruzeiro          5-0  Bahia
-  [Alexandre (2), Joãozinho, Roberto César, Erivelto]
+  (Alexandre (2), Joãozinho, Roberto César, Erivelto)
 
-[Oct 27]
+_ Oct 27 _
 Nacional          1-1  Ceará
   [Dão; Solo (own goal)]
 
-[Oct 28]
+_ Oct 28 _
 Atlético-MG       1-1  Vitória
   [Nei Dias; Sivaldo]
 Vila Nova-GO      0-0  Bahia
 
-[Oct 30]
+_ Oct 30 _
 Remo              1-0  Goiás
   [Demir]
 
-[Nov 1]
+_ Nov 1 _
 Vitória           0-2  Dom Bosco
   [Bargas, Adílson]
 
-[Nov 3]
+_ Nov 3 _
 Bahia             1-0  Remo
   [Severinho]
 Nacional          2-4  Vila Nova-GO
-  [Bendelack (2); Tulica (2), Puruca, Danival]
+  (Bendelack (2); Tulica (2), Puruca, Danival)
 Dom Bosco         1-1  Atlético-MG
   [Bargas; Alves]
 Ceará             1-1  Cruzeiro
@@ -1144,56 +1143,56 @@ Table
  9-Remo               9  2  2  5  10-15   6
 10-Nacional           9  1  3  5   6-16   5
 
-Second Phase
+▪ Second Phase ▪
 
 Byes: Palmeiras and Guarani
 
-Group I
+▪ Group I ▪
 
-[Nov 7]
+_ Nov 7 _
 Colorado          2-1  América-RJ
   [Buião, Adriano; Uchoa]
 Brasil            0-1  Coritiba
   [Freitas]
 
-[Nov 8]
+_ Nov 8 _
 Campinense        1-1  Atlético-MG
   [Joãozinho Paulista; Hélcio Jacaré (own goal)]
 Mixto             0-1  Francana
   [Norival]
 
-[Nov 11]
+_ Nov 11 _
 Francana          2-1  Brasil
   [Póli, Delém; Renato Mineiro]
 Atlético-MG       2-1  Colorado
   [Alves, Valença; Tião Marçal]
 
-[Nov 12]
+_ Nov 12 _
 Coritiba          5-0  Mixto
-  [Luís Freire (2), Freitas (2), Aladim]
+  (Luís Freire (2), Freitas (2), Aladim)
 América-RJ        0-1  Campinense
   [Hélcio Jacaré]
 
-[Nov 15]
+_ Nov 15 _
 América-RJ        4-1  Francana
-  [Merica (2), César, Eraldo; Delém]
+  (Merica (2), César, Eraldo; Delém)
 Colorado          1-1  Brasil
   [Gassem; Jorge Luís]
 Mixto             0-2  Atlético-MG
   [Reinaldo, Fernando]
 
-[Nov 17]
+_ Nov 17 _
 Atlético-MG       1-0  Coritiba
   [Rômulo]
 Mixto             0-0  Campinense
 
-[Nov 18]
+_ Nov 18 _
 Brasil            1-1  América-RJ
   [Valdeci; César]
 Colorado          2-1  Francana
-  [Tião Marçal (2); Assis]
+  (Tião Marçal (2); Assis)
 
-[Nov 21]
+_ Nov 21 _
 Brasil            2-1  Atlético-MG
   [Flecha, Valdeci; Luís Alberto]
 Coritiba          1-0  Colorado
@@ -1201,30 +1200,30 @@ Coritiba          1-0  Colorado
 Francana          1-0  Campinense
   [Assis]
 
-[Nov 22]
+_ Nov 22 _
 América-RJ        6-1  Mixto
-  [César (3), Silvinho (2), Luís Carlos (own goal); Gonçalves]
+  (César (3), Silvinho (2), Luís Carlos (own goal); Gonçalves)
 
-[Nov 25]
+_ Nov 25 _
 Coritiba          2-1  Francana
   [Freitas, Aladim; Sérgio Ramos]
 Mixto             3-2  Colorado
-  [Bife (2), Arildo; Jorge Nobre, Adriano]
+  (Bife (2), Arildo; Jorge Nobre, Adriano)
 Atlético-MG       2-1  América-RJ
   [Reinaldo, Fernando Roberto; Osmar (own goal)]
 Campinense        2-0  Brasil
   [Bebeto, Gabriel]
 
-[Nov 28]
+_ Nov 28 _
 Campinense        2-1  Colorado
-  [Alberi (2); Adriano]
+  (Alberi (2); Adriano)
 Francana          0-0  Atlético-MG
 Brasil            3-0  Mixto
-  [Valdeci (2), Jorge Luís]
+  (Valdeci (2), Jorge Luís)
 América-RJ        1-1  Coritiba
   [César; Aladim]
 
-[Nov 30]
+_ Nov 30 _
 Campinense        0-1  Coritiba
   [Luís Freire]
 
@@ -1239,62 +1238,62 @@ Table
  7-Colorado           7  2  1  4   9-11   5
  8-Mixto              7  1  1  5   4-19   3
 
-Group J
+▪ Group J ▪
 
-[Nov 7]
+_ Nov 7 _
 Botafogo-RJ       6-1  São Bento
-  [Gil (3), Mendonça, Perivaldo, Ziza; Campos]
+  (Gil (3), Mendonça, Perivaldo, Ziza; Campos)
 
-[Nov 8]
+_ Nov 8 _
 Grêmio Maringá    1-0  Joinville
   [Itamar]
 Operário-MS       2-0  Comercial-MS
   [Tadeu Macrini, Garcia]
 
-[Nov 11]
+_ Nov 11 _
 São Bento         2-2  Operário-MS
-  [Campos, Cremílson; Garcia(2)]
+  (Campos, Cremílson; Garcia(2))
 Joinville         3-2  ABC
-  [Vargas, Jorge Luís, Paulinho; Lula (2)]
+  (Vargas, Jorge Luís, Paulinho; Lula (2))
 Figueirense       0-0  Grêmio Maringá
 Comercial-MS      1-1  Botafogo-RJ
   [Bira; Mendonça]
 
-[Nov 15]
+_ Nov 15 _
 Grêmio Maringá    1-4  Operário-MS
-  [Florisvaldo; Tadeu Macrini (2), Arthur, Escurinho]
+  (Florisvaldo; Tadeu Macrini (2), Arthur, Escurinho)
 Botafogo-RJ       0-0  Figueirense
 ABC               1-2  Comercial-MS
   [Dentinho; Zico, Ninho]
 Joinville         2-1  São Bento
   [Vanil, Vargas; Campos]
 
-[Nov 18]
+_ Nov 18 _
 Figueirense       2-0  Comercial-MS
   [Russo, Pinga]
 Operário-MS       4-1  Joinville
-  [Albeneir (2), Tadeu Macrini, Arthur; Vargas]
+  (Albeneir (2), Tadeu Macrini, Arthur; Vargas)
 Botafogo-RJ       1-0  ABC
   [Perivaldo]
 Grêmio Maringá    2-3  São Bento
-  [Itamar, Zé Carlos; Cremílson (2), Campos]
+  (Itamar, Zé Carlos; Cremílson (2), Campos)
 
-[Nov 21]
+_ Nov 21 _
 Joinville         0-0  Botafogo-RJ
 São Bento         1-0  ABC
   [Campos]
 Comercial-MS      1-0  Grêmio Maringá
   [Brecha]
 
-[Nov 22]
+_ Nov 22 _
 Operário-MS       1-1  Figueirense
   [Tadeu Macrini; Cabral]
 
-[Nov 24]
+_ Nov 24 _
 Botafogo-RJ       1-0  Grêmio Maringá
   [Mendonça]
 
-[Nov 25]
+_ Nov 25 _
 Figueirense       1-1  Joinville
   [Russo; Serginho (own goal)]
 ABC               0-1  Operário-MS
@@ -1302,11 +1301,11 @@ ABC               0-1  Operário-MS
 Comercial-MS      0-1  São Bento
   [Brandão]
 
-[Nov 28]
+_ Nov 28 _
 Joinville         1-0  Comercial-MS
   [Lico]
 São Bento         2-0  Figueirense
-  [Cacá (2)]
+  (Cacá (2))
 Operário-MS       2-0  Botafogo-RJ
   [Tadeu Santos, Arthur]
 
@@ -1324,36 +1323,36 @@ Table
  7-Grêmio Maringá     6  1  1  4   4- 9   3
  8-ABC                5  0  0  5   3- 8   0
 
-Group K
+▪ Group K ▪
 
-[Nov 7]
+_ Nov 7 _
 Internacional-RS  1-0  Goytacaz
   [Mauro]
 São Paulo-RS      1-1  Caldense
   [Romário; Armando]
 
-[Nov 8]
+_ Nov 8 _
 Desportiva        2-2  Internacional-SP
   [Vicente, Célio; Marquinhos, Escurinho]
 Atlético-PR       3-1  Anapolina
-  [Evans (2), Paulinho; Jorge Nei]
+  (Evans (2), Paulinho; Jorge Nei)
 
-[Nov 10]
+_ Nov 10 _
 Goytacaz          2-0  Caldense
   [Rogério, Zé Neto]
 
-[Nov 11]
+_ Nov 11 _
 Internacional-SP  0-0  Atlético-PR
 Desportiva        2-1  Anapolina
   [Sílvio, Zuza; Zé Carlos Paulista]
 Internacional-RS  3-1  São Paulo-RS
   [Jair, Bira, Mário Sérgio; João Carlos]
 
-[Nov 14]
+_ Nov 14 _
 Atlético-PR       1-0  São Paulo-RS
   [João Carlos]
 
-[Nov 15]
+_ Nov 15 _
 Anapolina         0-2  Internacional-SP
   [Camargo, Isidoro]
 Caldense          1-1  Internacional-RS
@@ -1361,7 +1360,7 @@ Caldense          1-1  Internacional-RS
 Goytacaz          0-1  Desportiva
   [Sílvio]
 
-[Nov 18]
+_ Nov 18 _
 Internacional-SP  1-1  Caldense
   [Mazinho; Mirandinha]
 Desportiva        1-0  Atlético-PR
@@ -1369,35 +1368,35 @@ Desportiva        1-0  Atlético-PR
 São Paulo-RS      1-0  Goiás
 Internacional-RS  0-0  Anapolina
 
-[Nov 21]
+_ Nov 21 _
 Caldense          1-0  Desportiva
   [Natal]
 Internacional-SP  2-0  Goytacaz
   [Mazinho, Guiga]
 
-[Nov 22]
+_ Nov 22 _
 Atlético-PR       0-0  Internacional-RS
 Anapolina         1-1  São Paulo-RS
   [Mário; Motor]
 
-[Nov 25]
+_ Nov 25 _
 Caldense          1-0  Anapolina
   [Jânio]
 Internacional-RS  4-0  Desportiva
-  [Bira (3), Batista]
+  (Bira (3), Batista)
 Goytacaz          0-1  Atlético-PR
   [Paulo Bolívar]
 São Paulo-RS      0-0  Internacional-SP
 
-[Nov 28]
+_ Nov 28 _
 Desportiva        4-0  São Paulo-RS
-  [Dario(2), Célio, Evandro]
+  (Dario(2), Célio, Evandro)
 Internacional-SP  0-1  Internacional-RS
   [Valdomiro]
 Anapolina         2-1  Goytacaz
   [Jorge Cruz, Nílton; Raimundinho]
 
-[Nov 29]
+_ Nov 29 _
 Atlético-PR       1-0  Caldense
   [Rota]
 
@@ -1412,21 +1411,21 @@ Table
  7-Anapolina          7  1  2  4   5-10   4
  8-Goytacaz           7  1  0  6   3- 8   2
 
-Group L
+▪ Group L ▪
 
-[Nov 7]
+_ Nov 7 _
 Santa Cruz        2-0  Gama
   [Paulo César, Joãozinho]
 
-[Nov 8]
+_ Nov 8 _
 Grêmio            1-0  Náutico
   [Dimas (own goal)]
 Bahia             0-1  Londrina
   [Zé Roberto]
 Flamengo          3-0  XV de Novembro/P
-  [Cláudio Adão (2), Almeida (own goal)]
+  (Cláudio Adão (2), Almeida (own goal))
 
-[Nov 11]
+_ Nov 11 _
 Gama              0-2  Londrina
   [Éverton, Marinho]
 Santa Cruz        1-0  Bahia
@@ -1436,7 +1435,7 @@ Flamengo          2-0  Náutico
 XV de Novembro/P  3-0  Grêmio
   [Zé Luís, Oriel, Fernando]
 
-[Nov 15]
+_ Nov 15 _
 Náutico           2-1  XV de Novembro/P
   [Armando, Luís Poiani; Rogério]
 Gama              1-2  Flamengo
@@ -1444,9 +1443,9 @@ Gama              1-2  Flamengo
 Grêmio            2-0  Bahia
   [Baltasar, Éder]
 Londrina          6-2  Santa Cruz
-  [Nivaldo (2), Zé Roberto, Marinho, Zé Antônio, Paulinho; Volnei (2)]
+  (Nivaldo (2), Zé Roberto, Marinho, Zé Antônio, Paulinho; Volnei (2))
 
-[Nov 18]
+_ Nov 18 _
 Santa Cruz        2-0  Náutico
   [Betinho, Volnei]
 XV de Novembro/P  2-1  Londrina
@@ -1454,34 +1453,34 @@ XV de Novembro/P  2-1  Londrina
 Flamengo          2-0  Grêmio
   [Carpeggiani, Cláudio Adão]
 Bahia             2-1  Gama
-  [Marciano (2); Quidão]
+  (Marciano (2); Quidão)
 
-[Nov 21]
+_ Nov 21 _
 Náutico           0-1  Bahia
   [Douglas]
 Grêmio            2-0  Santa Cruz
   [Baltasar, Tarciso]
 XV de Novembro/P  5-0  Gama
-  [Ronaldo (3), Zé Luís, Oriel]
+  (Ronaldo (3), Zé Luís, Oriel)
 Londrina          1-1  Flamengo
   [Alcione; Cláudio Adão]
 
-[Nov 25]
+_ Nov 25 _
 Gama              0-3  Grêmio
-  [Jésum (2), Baltasar]
+  (Jésum (2), Baltasar)
 Bahia             1-2  XV de Novembro/P
   [Severino; Fio, Rogério]
 Santa Cruz        0-0  Flamengo
 Londrina          4-2  Náutico
-  [Paulinho, Zé Roberto, Sartori, Dimas; Luís Poiani (2)]
+  (Paulinho, Zé Roberto, Sartori, Dimas; Luís Poiani (2))
 
-[Nov 28]
+_ Nov 28 _
 Flamengo          4-0  Bahia
-  [Cláudio Adão (3), Jorge Luís (own goal)]
+  (Cláudio Adão (3), Jorge Luís (own goal))
 XV de Novembro/P  2-1  Santa Cruz
   [Oriel, Zé Luís; Tecão]
 Náutico           2-2  Gama
-  [Marquinhos, Jair; Fantato (2)]
+  (Marquinhos, Jair; Fantato (2))
 Grêmio            1-0  Londrina
   [Iúra]
 
@@ -1496,25 +1495,25 @@ Table
  7-Náutico            7  1  1  5   6-13   3
  8-Gama               7  0  1  6   4-18   1
 
-Group M
+▪ Group M ▪
 
-[Nov 7]
+_ Nov 7 _
 Ceará             2-1  Central
   [Jangada, Aluísio; Nardélio]
 
-[Nov 8]
+_ Nov 8 _
 Goiás             4-0  ASA
-  [Ramón (3), Pastoril]
+  (Ramón (3), Pastoril)
 Vasco da Gama     5-1  Operário-MT
-  [Zandonaide (2), Paulinho, Guina, Roberto Dinamite; Ernâni]
+  (Zandonaide (2), Paulinho, Guina, Roberto Dinamite; Ernâni)
 América-MG        1-0  Botafogo-PB
   [Luís Carlos Gaúcho]
 
-[Nov 10]
+_ Nov 10 _
 Vasco da Gama     3-0  Ceará
-  [Paulinho (2), Roberto Dinamite]
+  (Paulinho (2), Roberto Dinamite)
 
-[Nov 11]
+_ Nov 11 _
 ASA               2-2  América-MG
   [Marcos Itabaiana, Esquerdinha; Luís Carlos Gaúcho, Maneca]
 Operário-MT       2-1  Central
@@ -1522,18 +1521,18 @@ Operário-MT       2-1  Central
 Goiás             3-1  Botafogo-PB
   [Marco Antônio, Éber, Pastoril; Nélson]
 
-[Nov 14]
+_ Nov 14 _
 América-MG        1-1  Ceará
   [Maneca; Tiquinho]
 
-[Nov 15]
+_ Nov 15 _
 Central           0-0  Vasco da Gama
 Botafogo-PB       3-1  ASA
   [Noé Silva, Hélio, Nélson; Joãozinho]
 Operário-MT       1-1  Goiás
   [Coquinho; Éber]
 
-[Nov 18]
+_ Nov 18 _
 ASA               2-1  Central
   [Ésio, Freitas; Zequinha]
 Vasco da Gama     4-0  Botafogo-PB
@@ -1542,27 +1541,27 @@ Operário-MT       0-0  Ceará
 Goiás             2-0  América-MG
   [Éber, Pastoril]
 
-[Nov 21]
+_ Nov 21 _
 Central           1-1  Goiás
   [Domi; Ramón]
 ASA               2-2  Operário-MT
-  [Freitas (2); Tim, Gérson Lopes]
+  (Freitas (2); Tim, Gérson Lopes)
 Botafogo-PB       2-1  Ceará
   [Deca, Nélson; Tiquinho]
 América-MG        0-0  Vasco da Gama
 
-[Nov 24]
+_ Nov 24 _
 Operário-MT       0-2  América-MG
   [Luís Carlos Gaúcho, Amauri]
 
-[Nov 25]
+_ Nov 25 _
 Vasco da Gama     0-0  Goiás
 Central           2-1  Botafogo-PB
   [Paulinho, Erasmo; Cabral]
 Ceará             5-0  ASA
-  [Lucinho (2), Leônidas, Tiquinho, Cícero]
+  (Lucinho (2), Leônidas, Tiquinho, Cícero)
 
-[Nov 28]
+_ Nov 28 _
 América-MG        0-0  Central
 Goiás             1-0  Ceará
   [Éber]
@@ -1582,9 +1581,9 @@ Table
  7-Central            7  1  2  4   6- 8   4
  8-ASA                7  1  2  4   7-18   4
 
-Group N
+▪ Group N ▪
 
-[Nov 8]
+_ Nov 8 _
 Vila Nova-GO      2-0  Vitória
   [Zé Ronaldo, Danival]
 Maranhão          1-0  XV de Novembro/J
@@ -1592,51 +1591,51 @@ Maranhão          1-0  XV de Novembro/J
 Campo Grande      1-1  Fluminense-RJ
   [César; Cristóvão]
 
-[Nov 11]
+_ Nov 11 _
 XV de Novembro/J  2-2  Fluminense-RJ
   [Fernando Pirulito, Paulinho; Cléber, Robertinho]
 Itabaiana         1-1  Vila Nova-GO
   [Damião; Puruca]
 Campo Grande      5-0  Maranhão
-  [César (3), Rocha (2)]
+  (César (3), Rocha (2))
 Vitória           3-0  Uberlândia
   [Tonho, Joel Zanata, Sivaldo]
 
-[Nov 15]
+_ Nov 15 _
 Vila Nova-GO      2-2  Fluminense-RJ
   [Tulica, Serginho; Zezé Gomes, Robertinho]
 Uberlândia        2-1  Campo Grande
   [Dirceu Lopes, Nené Ramos; Lulinha]
 Vitória           3-1  XV de Novembro/J
-  [Zé Júlio (2), Sivaldo; Sousa]
+  (Zé Júlio (2), Sivaldo; Sousa)
 Maranhão          1-0  Itabaiana
   [Tica]
 
-[Nov 17]
+_ Nov 17 _
 Vila Nova-GO      0-0  XV de Novembro/J
 Fluminense-RJ     2-1  Vitória
   [Edinho, Zezé Gomes; Sena]
 
-[Nov 18]
+_ Nov 18 _
 Maranhão          0-1  Uberlândia
   [Arlindo]
 Campo Grande      2-1  Itabaiana
   [Lulinha, César; Nílson]
 
-[Nov 21]
+_ Nov 21 _
 Campo Grande      0-0  Vila Nova-GO
 Fluminense-RJ     5-0  Itabaiana
-  [Mário (2), Cristóvão (2), Cléber]
+  (Mário (2), Cristóvão (2), Cléber)
 Vitória           2-1  Maranhão
   [Joel Zanata, Sena; Djaro]
 XV de Novembro/J  1-2  Uberlândia
   [Fernando Pirulito; Eli Mendes, Arlindo]
 
-[Nov 23]
+_ Nov 23 _
 Uberlândia        3-0  Itabaiana
-  [Arlindo (2), Moacir]
+  (Arlindo (2), Moacir)
 
-[Nov 25]
+_ Nov 25 _
 Itabaiana         1-2  Vitória
   [Misso; Joel Zanata, Zé Júlio]
 Uberlândia        0-0  Fluminense-RJ
@@ -1645,15 +1644,15 @@ Maranhão          0-1  Vila Nova-GO
 Campo Grande      1-2  XV de Novembro/J
   [Rocha; Paulinho, Sousa]
 
-[Nov 28]
+_ Nov 28 _
 XV de Novembro/J  2-1  Itabaiana
-  [Roberval (2); Misso]
+  (Roberval (2); Misso)
 Vitória           1-0  Campo Grande
   [Zé Júlio]
 
-[Nov 29]
+_ Nov 29 _
 Fluminense-RJ     6-0  Maranhão
-  [Cristóvão (2), Zezé Gomes (2), Edevaldo, Mário]
+  (Cristóvão (2), Zezé Gomes (2), Edevaldo, Mário)
 Vila Nova-GO      0-0  Uberlândia
 
 Table
@@ -1667,33 +1666,33 @@ Table
  7-Maranhão           7  2  0  5   3-15   4
  8-Itabaiana          7  0  1  6   4-16   1
 
-Group O
+▪ Group O ▪
 
-[Nov 7]
+_ Nov 7 _
 CSA               1-0  Villa Nova-MG
   [Jorge Siri]
 Cruzeiro          4-0  Dom Bosco
-  [Alexandre (2), Roberto César (2)]
+  (Alexandre (2), Roberto César (2))
 Comercial-SP      1-0  Uberaba
   [Fiao]
 
-[Nov 8]
+_ Nov 8 _
 Leônico           2-2  Americano
   [Bira, Zé Eduardo; Té, Luís Carlos]
 
-[Nov 10]
+_ Nov 10 _
 Dom Bosco         2-1  Leônico
-  [Adílson (2); Tinteiro]
+  (Adílson (2); Tinteiro)
 Villa Nova-MG     0-1  Comercial-SP
   [Luís Alberto]
 
-[Nov 11]
+_ Nov 11 _
 Uberaba           1-0  CSA
   [Nei]
 Americano         2-5  Cruzeiro
-  [Té, Rubinho; Alexandre (2), Joãozinho, Eduardo, Mauro]
+  (Té, Rubinho; Alexandre (2), Joãozinho, Eduardo, Mauro)
 
-[Nov 15]
+_ Nov 15 _
 Leônico           1-1  Uberaba
   [Jacozinho; Luís Carlos]
 Cruzeiro          2-1  Comercial-SP
@@ -1702,17 +1701,17 @@ Dom Bosco         0-1  Villa Nova-MG
   [Aguillar]
 CSA               0-0  Americano
 
-[Nov 18]
+_ Nov 18 _
 CSA               1-0  Leônico
   [Jorge Siri]
 Comercial-SP      2-3  Dom Bosco
-  [Vânder, Luís Alberto; Adílson (2), Bargas]
+  (Vânder, Luís Alberto; Adílson (2), Bargas)
 Cruzeiro          4-1  Villa Nova-MG
-  [Roberto César (2), Mauro, Paulo Sousa (own goal); Jurandi]
+  (Roberto César (2), Mauro, Paulo Sousa (own goal); Jurandi)
 Americano         1-0  Uberaba
   [Luís Carlos]
 
-[Nov 21]
+_ Nov 21 _
 Comercial-SP      1-0  Americano
   [Luís Alberto]
 Dom Bosco         3-1  CSA
@@ -1720,15 +1719,15 @@ Dom Bosco         3-1  CSA
 Uberaba           2-2  Cruzeiro
   [Toinzinho, Silvinho; Mauro, Nelinho]
 
-[Nov 22]
+_ Nov 22 _
 Villa Nova-MG     1-4  Leônico
-  [Márcio Gomes; Chiquinho (2), Luís Ferreira, Jacozinho]
+  (Márcio Gomes; Chiquinho (2), Luís Ferreira, Jacozinho)
 
-[Nov 24]
+_ Nov 24 _
 Americano         1-0  Dom Bosco
   [Alcides]
 
-[Nov 25]
+_ Nov 25 _
 Uberaba           2-0  Villa Nova-MG
   [Nei, Dario]
 CSA               2-1  Cruzeiro
@@ -1736,15 +1735,15 @@ CSA               2-1  Cruzeiro
 Leônico           1-1  Comercial-SP
   [Bira; Anselmo]
 
-[Nov 28]
+_ Nov 28 _
 Villa Nova-MG     3-2  Americano
-  [Jurandi (2), Dirceu; Alcides, Sousa]
+  (Jurandi (2), Dirceu; Alcides, Sousa)
 Comercial-SP      1-0  CSA
   [Anselmo]
 Dom Bosco         0-1  Uberaba
   [Silvinho]
 
-[Nov 29]
+_ Nov 29 _
 Cruzeiro          1-0  Leônico
   [Alexandre]
 
@@ -1761,22 +1760,22 @@ Table
 
 Third Phase
 
-Group P
+▪ Group P ▪
 
-[Dec 2]
+_ Dec 2 _
 XV de Novembro/P  0-2  Guarani
   [Zenon, Capitão]
 
-[Dec 4]
+_ Dec 4 _
 Coritiba          4-0  Vitória
-  [Freitas (2), Duílio, Serginho]
+  (Freitas (2), Duílio, Serginho)
 
-[Dec 6]
+_ Dec 6 _
 Vitória           3-1  XV de Novembro/P
-  [Sena (2), Sivaldo; Oriel]
+  (Sena (2), Sivaldo; Oriel)
 Guarani           0-0  Coritiba
 
-[Dec 8]
+_ Dec 8 _
 Coritiba          1-0  XV de Novembro/P
   [Toninho Moura]
 Vitória           3-0  Guarani
@@ -1789,21 +1788,21 @@ Table
  3-Guarani            3  1  1  1   2- 3   3
  4-XV de Novembro/P   3  0  0  3   1- 6   0
 
-Group Q
+▪ Group Q ▪
 
-[Dec 2]
+_ Dec 2 _
 Palmeiras         5-1  Comercial-SP
-  [César (2), Polozi, Jorginho, Jorge Mendonça; Carlos Hansen]
+  (César (2), Polozi, Jorginho, Jorge Mendonça; Carlos Hansen)
 Flamengo          4-0  São Bento
-  [Zico (2), Cláudio Adão, Reinaldo]
+  (Zico (2), Cláudio Adão, Reinaldo)
 
-[Dec 5]
+_ Dec 5 _
 Comercial-SP      0-2  Flamengo
   [Carlos Henrique, Zico]
 Palmeiras         4-0  São Bento
   [Jorginho, Jorge Mendonça, César, Carlos Alberto]
 
-[Dec 9]
+_ Dec 9 _
 São Bento         2-2  Comercial-SP
   [Brandão, Candinho; Anselmo, Jáder]
 Flamengo          1-4  Palmeiras
@@ -1816,19 +1815,19 @@ Table
  3-Comercial-SP       3  0  1  2   3- 9   1
  4-São Bento          3  0  1  2   2-10   1
 
-Group R
+▪ Group R ▪
 
-[Dec 2]
+_ Dec 2 _
 Cruzeiro          0-0  Atlético-MG
 Internacional-RS  1-0  Goiás
   [Mário Sérgio]
 
-[Dec 4]
+_ Dec 4 _
 Cruzeiro          2-3  Internacional-RS
   [Falcão, Valdomiro, Zezinho Figueroa (own goal); Alexandre, Joãozinho]
 Goiás             dns  Atlético-MG         [Atlético forfeited the tournament,
                                             points awarded to Goiás]
-[Dec 8]
+_ Dec 8 _
 Goiás             1-1  Cruzeiro
   [Éber; Roberto César]
 Atlético-MG       dns  Internacional-RS     [Atlético forfeited the tournament,
@@ -1840,27 +1839,27 @@ Table
  3-Cruzeiro           3  0  2  1   3- 4   2
  4-Atlético-MG        3  0  1  2   0- 0   1
 
-Group S
+▪ Group S ▪
 
-[Dec 2]
+_ Dec 2 _
 Atlético-PR       1-1  Vasco da Gama
   [Paulo Bolívar; Wilsinho]
 
-[Dec 4]
+_ Dec 4 _
 Operário-MS       3-0  Uberlândia
-  [Tadeu Macrini (2), Arthur]
+  (Tadeu Macrini (2), Arthur)
 
-[Dec 6]
+_ Dec 6 _
 Vasco da Gama     5-0  Uberlândia
-  [Roberto Dinamite (3), Paulinho, Wilsinho]
+  (Roberto Dinamite (3), Paulinho, Wilsinho)
 Operário-MS       1-0  Atlético-PR
   [Baianinho]
 
-[Dec 8]
+_ Dec 8 _
 Vasco da Gama     4-0  Operário-MS
-  [Roberto (2), Orlando, Antônio Carlos (own goal)]
+  (Roberto (2), Orlando, Antônio Carlos (own goal))
 Uberlândia        3-2  Atlético-PR
-  [Nivaldo, Paulinho; Nenê Ramos (2), Binga]
+  (Nivaldo, Paulinho; Nenê Ramos (2), Binga)
 
 Table
  1-Vasco da Gama      3  2  1  0  10- 1   5  Qualified
@@ -1869,124 +1868,30 @@ Table
  3-Uberlândia         3  0  2  1   3-10   2
  4-Atlético-PR        3  0  1  2   3- 5   1
 
-Semifinal
+▪ Semifinal ▪
 
-First Leg
-[Dec 12 and 16]
+▪ First Leg ▪
+(Dec 12 and 16)
 Coritiba          1-1   1-2  Vasco da Gama
   [Luís Freire; Catinha]
   [Roberto Dinamite, Paulinho; Gardel]
-[Dec 13 and 16]
+(Dec 13 and 16)
 Palmeiras         2-3   1-1  Internacional-RS
-  [Jorge Mendonça, Baroninho; Falcão (2), Jair]
+  (Jorge Mendonça, Baroninho; Falcão (2), Jair)
   [Jair; Mococa]
 
-Final
+▪ Final ▪
 
-First Leg
-[Dec 20 and 23]
+▪ First Leg ▪
+(Dec 20 and 23)
 Vasco da Gama     0-2   1-2  Internacional-RS
-  [Chico Spina (2)]
+  (Chico Spina (2))
   [Jair, Falcão; Wilsinho]
 
 SC Internacional are the 1979 undefeated Brazilian champions
 
-Final Table
-Table
- 1-Internacional-RS  23 16  7  0  40-13  39
- 2-Vasco da Gama     14  8  4  2  27- 8  20
- 3-Coritiba          21  9  6  6  24-20  24
- 4-Palmeiras          5  3  1  1  16- 6   7
- 5-Operário-MS       19 11  4  4  31-22  26
- 6-Cruzeiro          19 10  6  3  43-21  26
- 7-Goiás             19 10  5  4  23-10  25
- 8-Vitória           19  9  4  6  28-23  22
- 9-Uberlândia        19  8  6  5  25-24  22
-10-Atlético-MG       19  6 10  3  18-11  22
-11-Atlético-PR       19  6  7  6  17-16  19
-12-Flamengo          10  7  2  1  21- 6  16
-13-XV de Novembro/P  10  5  0  5  16-14  10
-14-Comercial-SP      10  4  2  4  11-15  10
-15-São Bento         10  4  2  4  13-22  10
-16-Guarani            3  1  1  1   2- 3   3
-17-Uberaba           16 10  2  4  22-11  22
-18-Desportiva        16  9  4  3  20-13  22
-19-Londrina          16  8  5  3  25-15  21
-20-América-MG        16  8  5  3  21-12  21
-21-Vila Nova-GO      16  6  9  1  19-11  21
-22-Grêmio            16  9  1  6  23-13  19
-23-América-RJ        16  8  3  5  31-16  19
-24-Campinense        16  8  3  5  14- 8  19
-25-CSA               16  8  3  5  19-14  19
-26-Maranhão          16  8  3  5  21-21  19
-27-Campo Grande      16  7  4  5  19-13  18
-28-Grêmio Maringá    15  7  4  4  19-14  18
-29-Joinville         16  7  4  5  20-17  18
-30-Caldense          16  7  3  6  15-15  17
-31-Colorado          16  6  5  5  19-17  17
-32-Brasil (Pelotas)  16  4  9  3  17-12  17
-33-Villa Nova-MG     16  7  2  7  15-20  16
-34-Santa Cruz        16  6  4  6  20-18  16
-35-Operário-MT       16  5  6  5  19-23  16
-36-Leônico           16  6  3  7  21-17  15
-37-Comercial-MS      15  6  3  6  18-18  15
-38-Botafogo-PB       16  6  3  7  23-25  15
-39-Dom Bosco         16  6  3  7  20-24  15
-40-ASA               16  6  3  7  18-28  15
-41-Central           16  5  5  6  19-16  15
-42-São Paulo-RS      16  5  5  6  13-19  15
-43-Anapolina         16  6  2  8  18-19  14
-44-Mixto             16  6  2  8  18-29  14
-45-Ceará             16  5  4  7  27-27  14
-46-Figueirense       15  3  8  4  11-12  14
-47-Náutico           16  5  3  8  17-23  13
-48-Gama              16  5  3  8  18-27  13
-49-Itabaiana         16  4  4  8  14-22  12
-50-Bahia             16  5  1 10  10-24  11
-51-ABC               14  4  2  8  16-18  10
-52-Fluminense-RJ      7  3  4  0  18- 6  10
-53-Botafogo-RJ        7  3  3  1   9- 4   9
-54-Internacional-SP   7  2  4  1   7- 4   8
-55-Francana           7  3  1  3   7- 9   7
-56-XV de Novembro/J   7  2  2  3   8-10   6
-57-Americano          7  2  2  3   8-11   6
-58-Goytacaz           7  1  0  6   3- 8   2
-59-Juventude          9  3  4  2  12- 9  10
-60-Sergipe            9  3  4  2  10- 9  10
-61-Treze              9  4  1  4  15-10   9
-62-Atlético-GO        9  4  1  4  17-14   9
-63-Criciúma           9  4  1  4   9- 8   9
-64-Itumbiara          9  4  1  4  11-11   9
-65-Caxias             9  3  3  3  11- 6   9
-66-Itabuna            9  3  3  3  10- 8   9
-67-CRB                9  3  3  3   8- 8   9
-68-Fluminense-BA      9  3  3  3   5- 6   9
-69-Ferroviário        9  2  5  2   6- 7   9
-70-Novo Hamburgo      9  2  4  3   4- 7   8
-71-Tuna Luso          9  3  1  5  12-13   7
-72-Moto Clube         9  3  1  5   6-10   7
-73-Brasília           9  3  1  5  11-17   7
-74-Goiânia            9  2  3  4   6- 9   7
-75-Potiguar           9  2  3  4   5-10   7
-76-Rio Branco         9  1  5  3  10-18   7
-77-Paysandu           9  2  2  5  10-14   6
-78-Remo               9  2  2  5  10-15   6
-79-Fortaleza          9  2  2  5   7-12   6
-80-Confiança          9  2  2  5   7-15   6
-81-Sampaio Corrêa     9  2  2  5   7-16   6
-82-Fast               9  2  2  5   9-20   6
-83-River              9  1  4  4   9-12   6
-84-Piauí              9  0  6  3   8-15   6
-85-América-RN         9  2  1  6   5-12   5
-86-Operário-PR        9  2  1  6   3-13   5
-87-Colatina           9  1  3  5   2- 9   5
-88-Tiradentes-PI      9  1  3  5   7-16   5
-89-Nacional           9  1  3  5   6-16   5
-90-Avaí               9  0  5  4   9-14   5
-91-Rio Negro          9  1  2  6   7-17   4
-92-Sport              9  1  2  6   5-18   4
-93-Chapecoense        9  0  3  6   6-16   3
-94-Guará              8  0  2  6   2-14   2
+<!-- $table1$ -->
+
 
 ‹1978, see page braz78›
 
@@ -1997,25 +1902,10 @@ Table
 ‹list of 2nd division champions, see page braz2champ›.
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-‹Source, see page ../sources›: [pla]
-
-Prepared and maintained by Ricardo Pontes
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Author:
-Ricardo Pontes
-
-Last updated: 2 Apr 2005
 
 
-(C) Copyright Ricardo Pontes
-and RSSSF 1998/2005
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the author. All rights reserved.
+
+<!-- $about$ -->
+

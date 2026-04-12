@@ -6,7 +6,6 @@
 
 == Brazil 1988
 
-<!-- start pre -->
 II Copa União (1st level)
 
 PARTICIPANTS
@@ -35,19 +34,19 @@ PARTICIPANTS
 23-SOCIEDADE ESPORTIVA PALMEIRAS (SÃO PAULO-SP)
 24-SPORT CLUB CORINTHIANS PAULISTA (SÃO PAULO-SP)
 
-First Phase
+▪ First Phase ▪
 
 First Stage
 Teams in Group A played against the teams in Group B.
 
 Groups A and B
 
-Round 1
-[Sep 2]
+▪ Round 1 ▪
+_ Sep 2 _
 Bahia          1-1  Bangu          [pen 6-5]
   [Renato; André Luís]
 Vitória        0-0  América        [pen 5-3]
-[Sep 4]
+_ Sep 4 _
 Santa Cruz     0-1  Sport
   [Baiano]
 Goiás          0-1  Guarani
@@ -68,8 +67,8 @@ Coritiba       1-0  Atlético-PR
 Criciúma       1-1  Portuguesa     [pen 4-5]
   [Paulo Gaúcho; Toninho]
 
-Round 2
-[Sep 7]
+▪ Round 2 ▪
+_ Sep 7 _
 Goiás          0-2  Vasco da Gama
   [Roberto Dinamite, Bismarck]
 Sport          0-0  Cruzeiro       [pen 5-4]
@@ -77,7 +76,7 @@ Grêmio         3-0  São Paulo
   [Jorge Veras, Marcus Vinícius, Cristóvao]
 Corinthians    0-0  Fluminense     [pen 3-2]
 Portuguesa     3-1  Coritiba
-  [Kita (2), Capitão; Tostão]
+  (Kita (2), Capitão; Tostão)
 Palmeiras      2-1  Santa Cruz
   [Tato, Edu Manga; Gílson Gênio]
 América        1-2  Flamengo
@@ -87,15 +86,15 @@ Bahia          1-0  Vitória
 Atlético-MG    1-0  Botafogo
   [Aílton]
 Criciúma       1-3  Internacional
-  [Grizzo; Luís Fernando Flores (2), Dadinho]
+  (Grizzo; Luís Fernando Flores (2), Dadinho)
 Atlético-PR    1-1  Santos         [pen 1-4]
   [Adílson; Leandro]
-[Nov 2]
+_ Nov 2 _
 Bangu          0-1  Guarani
   [Cilinho]
 
-Round 3
-[Sep 11]
+▪ Round 3 ▪
+_ Sep 11 _
 Flamengo       1-0  Corinthians
   [Zinho]
 Guarani        1-0  Atlético-MG
@@ -107,7 +106,7 @@ Cruzeiro       0-0  Atlético-PR    [pen 9-10]
 Vitória        2-0  Santa Cruz
   [Hugo, Rosinaldo]
 Vasco da Gama  4-2  Portuguesa
-  [William, Sorato, Vivinho, Leonardo; Toninho (2)]
+  (William, Sorato, Vivinho, Leonardo; Toninho (2))
 Sport          0-0  Grêmio         [pen 3-2]
 São Paulo      1-0  Botafogo
   [Renatinho]
@@ -117,8 +116,8 @@ Bangu          2-0  América
   [Rached, Ézio]
 Coritiba       0-0  Goiás          [pen 5-4]
 
-Round 4
-[Sep 17]
+▪ Round 4 ▪
+_ Sep 17 _
 Corinthians    2-1  Vitória
   [Paulinho Gaúcho, Wílson Mano; André Carpes]
 Santos         2-0  Bangu
@@ -127,7 +126,7 @@ Fluminense     2-0  Criciúma
   [Washington, Eduardo]
 América        0-1  Portuguesa
   [Toninho]
-[Sep 18]
+_ Sep 18 _
 Bahia          1-0  Flamengo
   [Bobô]
 Santa Cruz     3-0  Goiás
@@ -143,12 +142,12 @@ Guarani        0-0  Sport          [pen 5-4]
 Atlético-MG    1-0  Grêmio
   [Aílton]
 
-Round 5
-[Sep 24]
+▪ Round 5 ▪
+_ Sep 24 _
 Botafogo       0-0  Internacional  [pen 4-3]
 São Paulo      1-0  América
   [Raí]
-[Sep 25]
+_ Sep 25 _
 Palmeiras      2-3  Vasco da Gama
   [Célio, Gaúcho; Ernâni, Roberto Dinamite, Vivinho]
 Grêmio         1-2  Fluminense
@@ -168,22 +167,22 @@ Sport          2-0  Corinthians
 Vitória        1-1  Guarani        [pen 4-2]
   [Vágner (own goal); Mário]
 Coritiba       1-2  Atlético-MG
-  [Henrique; Renato (2)]
+  (Henrique; Renato (2))
 
-Round 6
-[Sep 2]
+▪ Round 6 ▪
+_ Sep 2 _
 São Paulo      1-0  Santos
   [Edivaldo]
-[Oct 1]
+_ Oct 1 _
 Guarani        3-1  Palmeiras
   [Toninho (own goal), Careca, Vágner; Gaúcho]
 Fluminense     2-1  Santa Cruz
-  [Edinho (2); Gersinho]
+  (Edinho (2); Gersinho)
 Portuguesa     5-2  Cruzeiro
-  [Catatau (2), Wanks, Kita, Toninho; Hamílton (2)]
-[Oct 2]
+  (Catatau (2), Wanks, Kita, Toninho; Hamílton (2))
+_ Oct 2 _
 Flamengo       2-2  Botafogo       [pen 5-4]
-  [Sérgio (2); Jéferson, Paulinho Criciúma]
+  (Sérgio (2); Jéferson, Paulinho Criciúma)
 Atlético-MG    1-1  Bahia          [pen 4-1]
   [Adílson; Zé Carlos]
 Bangu          0-2  Grêmio
@@ -197,8 +196,8 @@ Criciúma       1-1  Goiás          [pen 2-4]
 América        1-1  Sport          [pen 4-5]
   [Régis; Dinho]
 
-Round 7
-[Oct 8]
+▪ Round 7 ▪
+_ Oct 8 _
 Fluminense     1-0  Cruzeiro
   [Ademir (own goal)]
 Santos         1-1  Vitória        [pen 2-4]
@@ -206,7 +205,7 @@ Santos         1-1  Vitória        [pen 2-4]
 América        0-0  Goiás          [pen 6-7]
 Atlético-PR    1-1  Guarani        [pen 3-4]
   [Marquinhos; Neto]
-[Oct 9]
+_ Oct 9 _
 Flamengo       0-0  Grêmio         [pen 4-2]
 Santa Cruz     1-0  São Paulo
   [Cosme]
@@ -222,15 +221,15 @@ Bahia          1-1  Sport          [pen 5-4]
 Corinthians    0-2  Palmeiras
   [Gaúcho, Sílvio]
 
-Round 8
-[Oct 15]
+▪ Round 8 ▪
+_ Oct 15 _
 Goiás          2-1  Botafogo
   [Niltinho, Válter; Paulinho Criciúma]
 Guarani        1-0  São Paulo
   [Cilinho]
 Grêmio         2-0  Palmeiras
   [Marcus Vinícius, Cuca]
-[Oct 16]
+_ Oct 16 _
 Corinthians    0-1  Atlético-MG
   [Aílton]
 Flamengo       1-0  Santos
@@ -240,7 +239,7 @@ Bahia          2-0  Atlético-PR
 Coritiba       0-1  Fluminense
   [Romerito]
 Cruzeiro       5-1  Vitória
-  [Hamílton (2), Careca (2), Róbson; Bigu]
+  (Hamílton (2), Careca (2), Róbson; Bigu)
 Vasco da Gama  1-1  Bangu          [pen 5-4]
   [Roberto Dinamite; Manu]
 Santa Cruz     1-0  Portuguesa
@@ -250,13 +249,13 @@ Internacional  2-0  América
 Sport          2-1  Criciúma
   [Robertinho, Zico; Sílvio Laguna]
 
-Round 9
-[Oct 22]
+▪ Round 9 ▪
+_ Oct 22 _
 Sport          1-0  Botafogo
   [Nando]
 São Paulo      0-2  Bahia
   [Zé Carlos, Bobô]
-[Oct 23]
+_ Oct 23 _
 Santos         0-1  Goiás
   [Barbosa]
 Palmeiras      2-0  Cruzeiro
@@ -276,25 +275,25 @@ Atlético-PR    1-2  Grêmio
 Vitória        1-0  Coritiba
   [Hélio]
 
-Round 10
-[Oct 19]
+▪ Round 10 ▪
+_ Oct 19 _
 Santa Cruz     1-1  Atlético-PR    [pen 4-2]
   [Cosme; Agnaldo]
-[Oct 28]
+_ Oct 28 _
 Flamengo       3-0  Criciúma
-  [Bebeto (2), Zico]
-[Oct 29]
+  (Bebeto (2), Zico)
+_ Oct 29 _
 Atlético-MG    1-0  Santos
   [Luizinho]
 Botafogo       1-0  Bangu
   [Paulinho Criciúma]
-[Oct 30]
+_ Oct 30 _
 Grêmio         1-0  Vitória
   [Marcus Vinícius]
 Portuguesa     1-0  Guarani
   [Toninho]
 Corinthians    2 -2  Internacional  [pen 3-4]
-  [Marcos Roberto, Sérgio Gil; Nílson (2)]
+  (Marcos Roberto, Sérgio Gil; Nílson (2))
 Vasco da Gama  1-1  São Paulo      [pen 4-3]
   [Bismarck; Paulo César]
 Fluminense     2-0  América
@@ -306,15 +305,15 @@ Coritiba       1-0  Sport
 Goiás          3-0  Cruzeiro
   [Wallace, Niltinho, Péricles]
 
-Round 11
-[Oct 26]
+▪ Round 11 ▪
+_ Oct 26 _
 Bangu          2-0  Santa Cruz
   [Macula, Robinho]
-[Nov 5]
+_ Nov 5 _
 Fluminense     0-0  Guarani        [pen 5-3]
 Vitória        1-2  Botafogo
   [Hélio; Gustavo, Paulinho Criciúma]
-[Nov 6]
+_ Nov 6 _
 São Paulo      1-0  Criciúma
   [Mário Tilico]
 Santos         3-0  Sport
@@ -327,16 +326,16 @@ Vasco da Gama  2-0  Atlético-MG
   [Sorato, Geovani]
 Cruzeiro       0-0  Flamengo       [pen 2-4]
 Internacional  3-0  Bahia
-  [Nílson (3)]
+  (Nílson (3))
 Goiás          0-0  Corinthians    [pen 4-2]
 Atlético-PR    3-0  América
   [Carlinhos, Agnaldo, Roberto Cavalo]
 
-Round 12
-[Nov 2]
+▪ Round 12 ▪
+_ Nov 2 _
 Criciúma       0-1  Vitória
   [Hélio]
-[Nov 9]
+_ Nov 9 _
 Coritiba       2-2  Flamengo       [pen 3-2]
   [Osvaldo, Tostão; Bebeto, Zico]
 Bangu          2-1  Corinthians
@@ -352,7 +351,7 @@ Grêmio         2-0  Goiás
 Santa Cruz     1-1  Atlético-MG    [pen 5-4]
   [Pedro Haroldo; Renato]
 Sport          2-3  Vasco da Gama
-  [Robertinho (2); Vivinho, Bismarck, Mazinho]
+  (Robertinho (2); Vivinho, Bismarck, Mazinho)
 Portuguesa     0-0  Bahia          [pen 4-5]
 Santos         2-1  Fluminense
   [Leonardo, Mendonça; Romerito]
@@ -360,7 +359,7 @@ Guarani        0-0  Internacional  [pen 2-4]
 
 Tables
 
-Group A
+▪ Group A ▪
  1-Fluminense     12  7  2/ 2  1  15- 5  27  Qualified to the quarterfinals
  2-Internacional  12  6  4/ 1  1  18- 8  27  Qualified to the quarterfinals
 -------------------------------------------
@@ -375,7 +374,7 @@ Group A
 11-Palmeiras      12  4  1/ 1  6  12-14  15
 12-Bangu          12  3  2/ 2  5   8-10  15
 
-Group B
+▪ Group B ▪
  1-Vasco da Gama  12  7  3/ 0  2  19-11  27  Qualified to the quarterfinals
  2-Grêmio         12  7  0/ 3  2  15- 5  24  Qualified to the quarterfinals
 -------------------------------------------
@@ -396,26 +395,26 @@ earned only 1 point.
 
 Second Stage
 
-Group A
+▪ Group A ▪
 
-Round 1
-[Nov 12]
+▪ Round 1 ▪
+_ Nov 12 _
 Fluminense     0-2  Atlético-PR
   [Serginho, Juninho]
-[Nov 13]
+_ Nov 13 _
 Palmeiras      1-1  São Paulo      [pen 5-6]
   [Zanata; Lê]
 Internacional  3-1  Flamengo
-  [Nílson (2), Edu Lima; Zico]
+  (Nílson (2), Edu Lima; Zico)
 Goiás          6-1  Vitória
-  [Túlio (2), Marquinhos, Tiaozinho, Uidemar, Benevan; Hélio]
+  (Túlio (2), Marquinhos, Tiaozinho, Uidemar, Benevan; Hélio)
 Sport          1-0  Bangu
   [Dinho]
 Atlético-MG    0-3  Portuguesa
-  [Kita (3)]
+  (Kita (3))
 
-Round 2
-[Nov 17]
+▪ Round 2 ▪
+_ Nov 17 _
 Portuguesa     1-0  Goiás
   [Henrique]
 São Paulo      2-0  Internacional
@@ -427,8 +426,8 @@ Flamengo       1-1  Palmeiras      [pen 4-5]
   [Bebeto; Mauro]
 Atlético-PR    0-0  Sport          [pen 2-3]
 
-Round 3
-[Nov 20]
+▪ Round 3 ▪
+_ Nov 20 _
 Vitória        2-2  São Paulo      [pen 1-2]
   [Odair, Benjy; Mazinho Loiola, Raí]
 Palmeiras      1-1  Atlético-PR    [pen 4-5]
@@ -436,18 +435,18 @@ Palmeiras      1-1  Atlético-PR    [pen 4-5]
 Internacional  2-1  Portuguesa
   [Luís Fernando Flores, Nenê; Jorginho]
 Atlético-MG    2-2  Fluminense     [pen 6-5]
-  [Élder, Renato; Romerito (2)]
+  (Élder, Renato; Romerito (2))
 Flamengo       2-1  Sport
   [Bebeto, Luís Antônio; Robertinho]
 Goiás          1-1  Bangu          [pen 4-5]
   [Túlio; Arturzinho]
 
-Round 4
-[Nov 23]
+▪ Round 4 ▪
+_ Nov 23 _
 Fluminense     3-0  Portuguesa
-  [Franklin (2), Cacau]
+  (Franklin (2), Cacau)
 Goiás          0-0  Internacional  [pen 4-2]
-[Nov 24]
+_ Nov 24 _
 Sport          1-0  Palmeiras
   [Marco Antônio]
 Atlético-MG    3-1  Bangu
@@ -457,15 +456,15 @@ Atlético-PR    1-0  Vitória
 São Paulo      2-1  Flamengo
   [Edivaldo, Raí; Alcindo]
 
-Round 5
-[Nov 26]
+▪ Round 5 ▪
+_ Nov 26 _
 Goiás          2-0  Fluminense
   [Péricles, Uidemar]
-[Nov 27]
+_ Nov 27 _
 Portuguesa     1-0  Palmeiras
   [Jorginho]
 São Paulo      3-0  Sport
-  [Edivaldo (2), Renatinho]
+  (Edivaldo (2), Renatinho)
 Flamengo       0-1  Vitória
   [Hélio]
 Internacional  2-2  Atlético-MG    [pen 6-5]
@@ -473,8 +472,8 @@ Internacional  2-2  Atlético-MG    [pen 6-5]
 Bangu          2-1  Atlético-PR
   [Arturzinho, Oliveira; Serginho]
 
-Round 6
-[Nov 30]
+▪ Round 6 ▪
+_ Nov 30 _
 Atlético-MG    0-0  Sport          [pen 5-6]
 Vitória        1-2  Internacional
   [Hélio; Edu Lima, Maurício]
@@ -482,17 +481,17 @@ Palmeiras      2-0  Goiás
   [André, Bandeira]
 Fluminense     0-1  Flamengo
   [Bebeto]
-[Dec 1]
+_ Dec 1 _
 Bangu          0-0  São Paulo      [pen 3-4]
 Atlético-PR    0-0  Portuguesa     [pen 3-2]
 
-Round 7
-[Dec 3]
+▪ Round 7 ▪
+_ Dec 3 _
 Vitória        1-0  Fluminense
   [Cláudio José]
 Atlético-MG    1-0  Palmeiras
   [Luís Cláudio]
-[Dec 4]
+_ Dec 4 _
 São Paulo      0-1  Portuguesa
   [Bentinho]
 Sport          1-0  Goiás
@@ -502,15 +501,15 @@ Flamengo       2-1  Atlético-PR
 Internacional  1-1  Bangu          [pen 4-5]
   [Luís Fernando Flores; Arturzinho]
 
-Round 8
-[Dec 7]
+▪ Round 8 ▪
+_ Dec 7 _
 Sport          2-1  Fluminense
   [Nando, Marco Antônio; Sílvio]
-[Dec 8]
+_ Dec 8 _
 Palmeiras      2-1  Internacional
   [Bandeira, Gaúcho; Maurício]
 Portuguesa     0-2  Flamengo
-  [Bebeto (2)]
+  (Bebeto (2))
 Atlético-PR    1-1  São Paulo      [pen 4-5]
   [Agnaldo; Mazinho Loiola]
 Bangu          1-1  Vitória        [pen 3-1]
@@ -518,8 +517,8 @@ Bangu          1-1  Vitória        [pen 3-1]
 Goiás          1-1  Atlético-MG    [pen 3-5]
   [Niltinho; Carlão]
 
-Round 9
-[Dec 11]
+▪ Round 9 ▪
+_ Dec 11 _
 Portuguesa     1-0  Sport
   [Bentinho]
 Palmeiras      1-0  Vitória
@@ -533,22 +532,22 @@ Flamengo       2-0  Bangu
 Fluminense     2-2  Internacional  [pen 5-6]
   [Sílvio, Alexandre Torres; Diego Aguirre, Aguirregaray]
 
-Round 10
-[Dec 12]
+▪ Round 10 ▪
+_ Dec 12 _
 Fluminense     1-0  São Paulo
   [Cacau]
-[Dec 15]
+_ Dec 15 _
 Internacional  3-3  Sport          [pen 4-5]
-  [Nílson (2), Luís Fernando Flores; Édson, Nando, Jair]
+  (Nílson (2), Luís Fernando Flores; Édson, Nando, Jair)
 Goiás          0-0  Flamengo       [pen 6-5]
 Vitória        3-2  Portuguesa
-  [Dorotéo Silva (2), Edvaldo; Kita, Jorginho]
+  (Dorotéo Silva (2), Edvaldo; Kita, Jorginho)
 Bangu          1-1  Palmeiras      [pen 4-3]
   [Manu; Zanata]
 Atlético-MG    0-0  Atlético-PR    [pen 1-2]
 
-Round 11
-[Dec 18]
+▪ Round 11 ▪
+_ Dec 18 _
 Atlético-PR    0-1  Internacional
   [Maurício]
 Palmeiras      0-0  Fluminense     [pen 3-1]
@@ -576,14 +575,14 @@ Table
 11-Vitória        11  3  0/ 3  5  11-17  12
 12-Fluminense     11  2  1/ 3  5   9-12  11
 
-Group B
+▪ Group B ▪
 
-Round 1
-[Nov 12]
+▪ Round 1 ▪
+_ Nov 12 _
 Santos         0-0  Guarani        [pen 3-2]
 Santa Cruz     1-1  Vasco da Gama  [pen 3-2]
   [Rinaldo; Vivinho]
-[Nov 13]
+_ Nov 13 _
 Botafogo       0-2  Corinthians
   [Viola, Gilberto Costa]
 América        1-1  Grêmio         [pen 2-4]
@@ -592,8 +591,8 @@ Coritiba       0-0  Criciúma       [pen 3-5]
 Bahia          2-1  Cruzeiro
   [Sandro, Zé Carlos; Vilmar]
 
-Round 2
-[Nov 16]
+▪ Round 2 ▪
+_ Nov 16 _
 Corinthians    1-0  Coritiba
   [Viola]
 Botafogo       1-0  Santa Cruz
@@ -601,46 +600,46 @@ Botafogo       1-0  Santa Cruz
 Criciúma       0-1  Santos
   [Heraldo]
 Vasco da Gama  0-0  Bahia          [pen 5-3]
-[Nov 19]
+_ Nov 19 _
 Cruzeiro       3-0  Grêmio
   [Careca, Hamílton, Wladimir]
 Guarani        2-0  América
-  [Neto (2)]
+  (Neto (2))
 
-Round 3
-[Nov 19]
+▪ Round 3 ▪
+_ Nov 19 _
 Coritiba       3-0  Botafogo
-  [Chicao (2), Carlos Alberto]
+  (Chicao (2), Carlos Alberto)
 Vasco da Gama  4-0  Santos
-  [Bismarck (3), Paulo Roberto Costa]
-[Nov 20]
+  (Bismarck (3), Paulo Roberto Costa)
+_ Nov 20 _
 Guarani        0-0  Bahia          [pen 3-4]
 Santa Cruz     2-2  Criciúma       [pen 5-4]
   [Rinaldo, Cosme; Adílson Heleno, Sérgio Oliveira]
 América        1-2  Cruzeiro
-  [Pedro Paulo; Betinho (2)]
+  (Pedro Paulo; Betinho (2))
 Grêmio         0-0  Corinthians    [pen 3-4]
 
-Round 4
-[Nov 23]
+▪ Round 4 ▪
+_ Nov 23 _
 Grêmio         0-2  Vasco da Gama
   [Vivinho, Bismarck]
 Santos         2-0  América
   [Leonardo, Heraldo]
 Guarani        1-3  Coritiba
-  [Everaldo (own goal); Carlos Alberto (2), Tostão]
-[Nov 24]
+  (Everaldo (own goal); Carlos Alberto (2), Tostão)
+_ Nov 24 _
 Bahia          0-1  Botafogo
   [Carlos Magno]
 Criciúma       0-0  Cruzeiro       [pen 6-5]
 Corinthians    2-0  Santa Cruz
   [João Paulo, Viola]
 
-Round 5
-[Nov 26]
+▪ Round 5 ▪
+_ Nov 26 _
 Coritiba       2-0  Santos
   [Chicão, Tostão]
-[Nov 27]
+_ Nov 27 _
 Bahia          2-0  Corinthians
   [Charles, Pereira]
 Santa Cruz     1-0  Guarani
@@ -651,55 +650,55 @@ Botafogo       1-0  Grêmio
 América        1-1  Criciúma       [pen 2-4]
   [Vágner; Edmílson]
 
-Round 6
-[Dec 1]
+▪ Round 6 ▪
+_ Dec 1 _
 Criciúma       0-1  Bahia
   [Charles]
 Santa Cruz     0-0  Coritiba       [pen 5-6]
 Vasco da Gama  3-0  Botafogo
-  [Mazinho (2), Geovani]
+  (Mazinho (2), Geovani)
 Santos         1-3  Cruzeiro
-  [Giba; Betinho (2), Heriberto]
+  (Giba; Betinho (2), Heriberto)
 Corinthians    3-2  América
-  [Sérgio Gil (2), Dama; Anderson, Vágner]
+  (Sérgio Gil (2), Dama; Anderson, Vágner)
 Grêmio         2-1  Guarani
-  [Cuca (2); Mário]
+  (Cuca (2); Mário)
 
-Round 7
-[Dec 4]
+▪ Round 7 ▪
+_ Dec 4 _
 Santos         2-1  Grêmio
   [Sócrates, Heraldo; Bonamigo]
 Corinthians    0-0  Vasco da Gama  [pen 3-4]
 Guarani        4-1  Criciúma
-  [Tôni (2), Neto, Mário; Grizzo]
+  (Tôni (2), Neto, Mário; Grizzo)
 Coritiba       2-0  Bahia
-  [Chicão (2)]
+  (Chicão (2))
 América        1-0  Santa Cruz
   [Vágner]
 Botafogo       1-1  Cruzeiro       [pen 1-3]
   [Gilmar; Careca]
 
-Round 8
-[Dec 7]
+▪ Round 8 ▪
+_ Dec 7 _
 Corinthians    3-0  Criciúma
   [Paulinho Carioca, Ronaldo Marques, Marcos Roberto]
 Grêmio         3-2  Santa Cruz
   [Jorge Veras, Marcus Vinícius, Bonamigo; Ramón, Pedro Haroldo]
 Bahia          5-1  Santos
-  [Zé Carlos (2), Cássio (own goal), Marquinhos, Charles; Sócrates]
+  (Zé Carlos (2), Cássio (own goal), Marquinhos, Charles; Sócrates)
 Botafogo       0-0  América        [pen 5-6]
-[Dec 8]
+_ Dec 8 _
 Vasco da Gama  1-0  Coritiba
   [Sorato]
 Cruzeiro       1-0  Guarani
   [Hamílton]
 
-Round 9
-[Dec 10]
+▪ Round 9 ▪
+_ Dec 10 _
 Santa Cruz     0-0  Santos         [pen 3-4]
 Criciúma       0-2  Botafogo
   [Gustavo, Vítor]
-[Dec 11]
+_ Dec 11 _
 Guarani        0-0  Vasco da Gama  [pen 3-4]
 Bahia          3-1  Grêmio
   [Marquinhos, Zé Carlos, Pereira; Cuca]
@@ -708,13 +707,13 @@ Cruzeiro       1-1  Corinthians    [pen 3-4]
 América        0-1  Coritiba
   [Tostão]
 
-Round 10
-[Dec 14]
+▪ Round 10 ▪
+_ Dec 14 _
 Corinthians    1-2  Santos
   [Dida; Giba, César Ferreira]
 Botafogo       3-0  Guarani
   [Gustavo, Luisinho, Vágner]
-[Dec 15]
+_ Dec 15 _
 América        0-1  Vasco da Gama
   [Pedro Paulo (own goal)]
 Criciúma       1-1  Grêmio         [pen 5-6]
@@ -724,17 +723,17 @@ Coritiba       0-2  Cruzeiro
 Santa Cruz     2-1  Bahia
   [Sérgio China, Alexandre; Marquinhos]
 
-Round 11
-[Dec 18]
+▪ Round 11 ▪
+_ Dec 18 _
 Guarani        2-2  Corinthians    [pen 4-5]
-  [Vágner Paulista (2); Marcos Roberto, Gilberto Costa]
+  (Vágner Paulista (2); Marcos Roberto, Gilberto Costa)
 Santos         0-0  Botafogo       [pen 9-10]
 Cruzeiro       2-0  Santa Cruz
   [Róbson, Careca]
 Grêmio         1-1  Coritiba       [pen 2-3]
   [Jorginho; Kazu]
 Vasco da Gama  3-2  Criciúma
-  [Vivinho (2), França; Adílson Heleno (2)]
+  (Vivinho (2), França; Adílson Heleno (2))
 Bahia          2-1  América
   [Marquinhos, Zé Carlos; Valmir]
 
@@ -784,13 +783,13 @@ Final Table - First Phase
 awarded to Bahia who had the better first phase record among the other 17
 teams.
 
-Quarterfinals
+▪ Quarterfinals ▪
 The penalties shootouts rule no longer applied in the quarterfinals.
 
-[Jan 28 and Feb 2/1989]
+(Jan 28 and Feb 2/1989)
 Grêmio         0-0  1-0  Flamengo
   [Cuca]
-[Jan 29 and Feb 1/1989]
+(Jan 29 and Feb 1/1989)
 Sport          1-1  0-0  Bahia           [aet 0-0]
   [Nando; Charles]
 Fluminense     1-0  1-2  Vasco da Gama   [aet 2-0]
@@ -802,22 +801,21 @@ Cruzeiro       0-0  0-2  Internacional
 
 Bahia qualified due to better first phase record
 
-Semifinals
+▪ Semifinals ▪
 The penalties shootouts rule no longer applied in the semifinals.
 
-[Feb 9 and 12/1989]
+(Feb 9 and 12/1989)
 Grêmio         0-0  1-2  Internacional
-  [Marcus Vinícius; Nílson (2)]
+  (Marcus Vinícius; Nílson (2))
 Fluminense     0-0  1-2  Bahia
   [Washington; Bobô, Gil]
 
 Finals
 The penalties shootouts rule no longer applied in the finals.
 
-[Feb 15 and 19/1989]
+(Feb 15 and 19/1989)
 Bahia          2-1  0-0  Internacional
-  [Bobô (2); Leomir]<!-- end pre -->
-
+  (Bobô (2); Leomir)
 <!-- start pre -->19/fevereiro/1989
 INTERNACIONAL 0X0 BAHIA
 Local: Beira Rio (Porto Alegre-RS);
@@ -829,35 +827,11 @@ Luís Fernando e Luís Carlos Martins; Maurício (Hêider), Nílson e Edu Lima (
 Técnico: Abel Braga.
 BAHIA : Ronaldo, Tarantini, João Marcelo, Claudir (Newmar) e Paulo Róbson; Paulo Rodrigues,
 Gil Sergipano, Zé Carlos e Bobô (Osmar); Charles e Marquinhos.
-Técnico: Evaristo de Macedo. <!-- end pre -->
-
+Técnico: Evaristo de Macedo. 
 <!-- start pre -->EC Bahia were the 1988 Brazilian Champions
 
-Final Table
- 1-Bahia          29 13  4/ 3 (4)  5  33-23  52
- 2-Internacional  29 12  6/ 4 (3)  4  40-26  53
- 3-Fluminense     27 10  3/ 5 (1)  8  27-21  41
- 4-Grêmio         27 10  2/ 5 (2)  8  27-24  40
- 5-Vasco da Gama  25 14  7/ 1 (0)  3  36-16  56
- 6-Flamengo       25 11  3/ 4 (1)  6  32-20  44
- 7-Sport          25  9  6/ 2 (2)  6  21-21  43
- 8-Cruzeiro       25  8  1/ 8 (1)  7  26-23  35
- 9-Portuguesa     23 12  2/ 3      6  28-21  43
-10-Atlético-MG    23  8  6/ 4      5  22-22  40
-11-São Paulo      23  9  4/ 4      6  21-18  39
-12-Coritiba       23  8  5/ 2      8  20-17  36
-13-Goiás          23  5  8/ 3      7  21-21  34
-14-Guarani        23  7  2/ 7      7  20-22  32
-15-Corinthians    23  6  5/ 4      8  21-22  32
-16-Palmeiras      23  7  3/ 4      9  21-22  31
-17-Santos         23  7  3/ 4      9  19-25  31
-18-Botafogo       23  7  3/ 4      9  17-22  31
-19-Atlético-PR    23  5  5/ 6      7  18-17  31
-20-Vitória        23  7  3/ 3     10  21-30  30
-21-Bangu          23  4  6/ 4      9  15-22  28
-22-Santa Cruz     23  5  5/ 2     11  19-28  27
-23-Criciúma       23  1  3/ 5     14  12-34  14
-24-América-RJ     23  2  1/ 5     15  11-31  13
+<!-- $table1$ -->
+
 
 In parenthesis, the number of draws not decided by penalties shootouts
 
@@ -895,63 +869,63 @@ Participants
 Matches ended in draws were decided in penalties shootouts.
 Wins were worth 3 points, penalties wins 2 and penalties loss 1.
 
-First Phase
+▪ First Phase ▪
 
-Group C
+▪ Group C ▪
 
-[09 Outubro]
+(09 Outubro)
 Náutico         1-0  Ceará                           [other source: 2-0]
 Central         0-0  Catuense           [pen 4-3]
 Treze           1-1  Fluminense         [pen 3-2]
 
-[12 Outubro]
+(12 Outubro)
 Central         0-0  Ceará              [pen 2-1]
 Treze           2-2  Catuense           [pen 6-7]
 Náutico         0-0  Fluminense         [pen 6-7]
 
-[15 Outubro]
+(15 Outubro)
 Fluminense      0-0  Central            [pen 8-7]
 Náutico         1-0  Treze
    [Augusto]
-[16 Outubro]
+(16 Outubro)
 Ceará           1-1  Catuense           [pen 4-1]
 
-[19 Outubro]
+(19 Outubro)
 Ceará           1-0  Treze
 Central         0-1  Náutico
    [Nivaldo]
 Catuense        1-1  Fluminense         [pen 4-2]
 
-[22 Outubro]
+(22 Outubro)
 Treze           1-0  Central
 Catuense        2-1  Náutico
    [N: Nivaldo]
 Fluminense      1-0  Ceará
 
-[26 Outubro]
+(26 Outubro)
 Catuense        2-0  Ceará
 Treze           0-0  Náutico            [pen 5-6]
 Central         0-0  Fluminense         [pen 3-1]
 
-[29 Outubro]
+(29 Outubro)
 Fluminense      3-0  Catuense
 Náutico         1-0  Central
    [Fernando Borges]
 Treze           0-1  Ceará
 
-[02 Novembro]
+(02 Novembro)
 Ceará           1-3  Náutico
-   [N: Nivaldo(2) e Leo]
+   (N: Nivaldo(2) e Leo)
 Catuense        3-0  Central
 Fluminense      1-1  Treze              [pen 3-2]
 
-[05 Novembro]
+(05 Novembro)
 Central         2-1  Treze
 Náutico         3-1  Catuense
-   [N: Nivaldo(2) e Marcão]
+   (N: Nivaldo(2) e Marcão)
 Ceará           1-2  Fluminense
 
-[09 Novembro]
+(09 Novembro)
 Ceará           1-1  Central            [pen 5-4]
 Catuense        3-1  Treze
 Fluminense      1-0  Náutico
@@ -966,69 +940,69 @@ Table
 - - - - - - - - - - - - - - - - - - - - - - - -
 6-Treze              10   1  1/ 3  5   7-12   8  Relegated
 
-Group D
+▪ Group D ▪
 
-[08 Outubro]
+(08 Outubro)
 Juventus        0-0  Valeriodoce        [pen 3-4]
 América         1-1  Ponte Preta        [pen 5-4]
   [Marcinho; Ricardo(og)]
-[09 Outubro]
+(09 Outubro)
 Americano       3-1  Rio Branco
 
-[12 Outubro]
+(12 Outubro)
 Valeriodoce     1-0  Ponte Preta
   [Mauricinho]
 Rio Branco      0-3  Juventus
 América         2-1  Americano
 
-[15 Outubro]
+(15 Outubro)
 Valeriodoce     1-0  América
 Ponte Preta     4-0  Rio Branco
   [Roberto Teixeira, Jorge Mendonça, Márcio Luís e Binhão]
 Americano        -  Juventus (adiado para 24 Out)
 
-[19 Outubro]
+(19 Outubro)
 Ponte Preta     1-2  Americano
   [Márcio Luís; Alexandre e Marcinho]
 Juventus        0-0  América            [pen 4-1]
 Rio Branco      2-1  Valeriodoce
 
-[22 Outubro]
+(22 Outubro)
 Juventus        0-1  Ponte Preta
   [Sílvio]
 Americano       2-0  Valeriodoce
 América         2-0  Rio Branco
 
-[24 Outubro]
+(24 Outubro)
 Americano       1-0  Juventus
 
-[26 Outubro]
+(26 Outubro)
 Ponte Preta     1-0  América
   [Sílvio]
 Rio Branco      1-1  Americano          [pen 4-3]
 Valeriodoce     2-1  Juventus
 
-[29 Outubro]
+(29 Outubro)
 América         1-0  Juventus
-[30 Outubro]
+(30 Outubro)
 Americano       1-1  Ponte Preta        [pen 3-4]
   [Silvano; Jorge Mendonça]
 Valeriodoce     4-0  Rio Branco
 
-[02 Novembro]
+(02 Novembro)
 Juventus        2-2  Americano          [pen 4-3]
 América         2-2  Valeriodoce        [pen 2-4]
 Rio Branco      1-1  Ponte Preta        [pen 7-6]
   [Arildo Borges; Alexandre]
 
-[05 Novembro]
+(05 Novembro)
 Ponte Preta     1-1  Juventus           [pen 4-3]
   [Jorge Mendonça; Betinho]
 Valeriodoce     1-1  Americano          [pen 3-4]
-[06 Novembro]
+(06 Novembro)
 Rio Branco      0-2  América
 
-[09 Novembro]
+(09 Novembro)
 Ponte Preta     2-0  Valeriodoce
   [Márcio Luís e Binhão]
 Juventus        2-1  Rio Branco
@@ -1044,57 +1018,57 @@ Table
 - - - - - - - - - - - - - - - - - - - - - - - -
 6-Rio Branco-ES      10  1  2/ 0  7   6-23   7  Relegated
 
-Group E
+▪ Group E ▪
 
 First Stage
 
-[08 Outubro]
+(08 Outubro)
 Operário        2-1  Uberlândia
-[09 Outubro]
+(09 Outubro)
 Grêmio Maringá  0-2  Internacional
 Atlético        0-0  Botafogo           [pen 6-7]
 
-[12 Outubro]
+(12 Outubro)
 Uberlândia      1-0  Botafogo
 Internacional   1-0  Operário
 Atlético        3-0  Grêmio Maringá
 
-[15 Outubro]
+(15 Outubro)
 Botafogo        2-1  Operário
 Uberlândia      0-0  Grêmio Maringá     [pen 4-5]
 Internacional   2-1  Atlético
 
-[19 Outubro]
+(19 Outubro)
 Operário        3-3  Atlético           [pen 4-3]
 Grêmio Maringá  1-1  Botafogo           [pen 7-6]
 Uberlândia      1-1  Internacional      [pen 4-3]
 
-[23 Outubro]
+(23 Outubro)
 Atlético        4-2  Uberlândia
 Botafogo        0-0  Internacional      [pen 3-5]
 Operário        2-0  Grêmio Maringá
 
-[26 Outubro]
+(26 Outubro)
 Atlético        2-2  Operário           [pen 3-5]
 Botafogo        4-2  Grêmio Maringá
 Internacional   2-1  Uberlândia
 
-[29 Outubro]
+(29 Outubro)
 Internacional   0-0  Grêmio Maringá    [pen 4-3]
 Uberlândia      1-1  Operário          [pen 9-8]
 Botafogo        1-0  Atlético
 
-[02 Novembro]
+(02 Novembro)
 Operário        1-0  Botafogo
 Grêmio Maringá  1-0  Uberlândia
 Atlético        2-1  Internacional
 
-[05 Novembro]
+(05 Novembro)
 Uberlândia      1-2  Atlético
 Internacional   1-0  Botafogo
 Grêmio Maringá  2-1  Operário
 
-[09 Novembro]
+(09 Novembro)
 Botafogo        2-1  Uberlândia
 Grêmio Maringá  1-0  Atlético
 Operario        1-1  Internacional      [pen 2-3]
@@ -1109,64 +1083,64 @@ Table
 - - - - - - - - - - - - - - - - - - - - - - - -
 6-Uberlândia         10  1  2/ 1   6   9-15   8  Relegated
 
-Group F
+▪ Group F ▪
 
-[08 Outubro]
+(08 Outubro)
 Caxias          2-2  Joinville          [pen 4-3]
 Pelotas         2-0  Avaí
-[09 Outubro]
+(09 Outubro)
 Londrina        0-1  Juventude
 
-[12 Outubro]
+(12 Outubro)
 Pelotas         1-0  Londrina
 Caxias          1-1  Avaí               [pen 3-2]
 Joinville       1-0  Juventude
 
-[15 Outubro]
+(15 Outubro)
 Avaí            4-0  Londrina
-[16 Outubro]
+(16 Outubro)
 Joinville       1-1  Pelotas            [pen 5-4]
 Juventude       1-0  Caxias
   [Neni]
 
-[19 Outubro]
+(19 Outubro)
 Londrina        1-1  Caxias             [pen 6-5]
 Juventude       1-0  Pelotas
 Joinville       1-1  Avaí               [pen 5-4]
 
-[23 Outubro]
+(23 Outubro)
 Juventude       0-2  Avaí
 Pelotas         0-1  Caxias
 Londrina        1-4  Joinville
 
-[25 Outubro]
+(25 Outubro)
 Avaí            0-0  Joinville         [pen 1-3]
-[26 Outubro]
+(26 Outubro)
 Caxias          1-0  Londrina
 Pelotas         1-1  Juventude          [pen 3-5]
 
-[29 Outubro]
+(29 Outubro)
 Pelotas         0-0  Joinville          [pen 4-3]
 Caxias          2-1  Juventude
   [Gerson Lopes e Silvio; Batista]
-[30 Outubro]
+(30 Outubro)
 Londrina        2-0  Avaí
 
-[01 Novembro]
+(01 Novembro)
 Avaí            0-0  Caxias             [pen 5-4]
-[02 Novembro]
+(02 Novembro)
 Londrina        2-0  Pelotas
 Juventude       1-3  Joinville
 
-[05 Novembro]
+(05 Novembro)
 Juventude       0-0  Avaí               [pen 4-3]
 Caxias          3-2  Pelotas
-[06 Novembro]
+(06 Novembro)
 Joinville       1-1  Londrina           [pen 5-4]
 
-[08 Novembro]
+(08 Novembro)
 Avaí            2-0  Pelotas
-[09 Novembro]
+(09 Novembro)
 Joinville       3-2  Caxias
 Juventude       0-1  Londrina
 
@@ -1180,33 +1154,33 @@ Table
 - - - - - - - - - - - - - - - - - - - - - - - -
 6-Pelotas            10  2  1/ 2  5   8-12  10  Relegated
 
-Second Phase
+▪ Second Phase ▪
 
-Group G
+▪ Group G ▪
 
-[12 Novembro]
+(12 Novembro)
 Caxias          4-1  Juventude
-  [Silvio(2), Gerson Lopes e João Carlos; Claudinho]
+  (Silvio(2), Gerson Lopes e João Carlos; Claudinho)
 Operário        3-1  Botafogo
 
-[16 Novembro]
+(16 Novembro)
 Botafogo        1-1  Caxias             [pen 5-4]
-[17 Novembro]
+(17 Novembro)
 Juventude       0-2  Operário
 
-[19 Novembro]
+(19 Novembro)
 Caxias          3-0  Operário
 Botafogo        2-0  Juventude
 
-[22 Novembro]
+(22 Novembro)
 Caxias          1-0  Botafogo
 Operário        1-0  Juventude
 
-[24 Novembro]
+(24 Novembro)
 Operário        2-0  Caxias
 Juventude       1-1  Botafogo           [pen 4-2]
 
-[26 Novembro]
+(26 Novembro)
 Botafogo        0-1  Operário
 Juventude       0-1  Caxias
   [Noronha]
@@ -1218,30 +1192,30 @@ Table
 3-Botafogo-SP         6  1  1/ 1  3   5- 7   6
 4-Juventude           6  0  1/ 0  5   2-11   2
 
-Group H
+▪ Group H ▪
 
-[12 Novembro]
+(12 Novembro)
 Internacional   5-1  Atlético
 Avaí            3-0   Joinville
 
-[16 Novembro]
+(16 Novembro)
 Joinville       3-0  Internacional
 Atlético        4-1  Avaí
 
-[19 Novembro]
+(19 Novembro)
 Atlético        1-0  Joinville
-[20 Novembro]
+(20 Novembro)
 Avaí            1-3  Internacional
 
-[22 Novembro]
+(22 Novembro)
 Internacional   0-0  Joinville          [pen 4-3]
 Avaí            2-0  Atlético
 
-[24 Novembro]
+(24 Novembro)
 Internacional   2-1  Avaí
 Joinville       1-0  Atlético
 
-[26 Novembro]
+(26 Novembro)
 Atlético        0-1  Internacional
 Joinville       1-0  Avaí
 
@@ -1252,27 +1226,27 @@ Table
 3-Atlético-GO         6  2  0/ 0  4   6- 6   6
 4-Avaí                6  2  0/ 0  4   8- 6   6
 
-Group I
+▪ Group I ▪
 
-[12 Novembro]
+(12 Novembro)
 Fluminense      0-1  Americano
 
-[16 Novembro]
+(16 Novembro)
 Fluminense      1-0  Ponte Preta
    [Quirino]
 
-[19 Novembro]
+(19 Novembro)
 Americano       0-1  Ponte Preta
    [Monga]
 
-[22 Novembro]
+(22 Novembro)
 Americano       1-0  Fluminense
 
-[24 Novembro]
+(24 Novembro)
 Ponte Preta     2-1  Fluminense
-   [Jorge Mendonça(2); Osmar Guarnelli(og)]
+   (Jorge Mendonça(2); Osmar Guarnelli(og))
 
-[26 Novembro]
+(26 Novembro)
 Ponte Preta     2-1  Americano
    [Tuta e Marcio Luís; Ricardo Eugênio]
 
@@ -1284,33 +1258,33 @@ Table
 
 Obs.: Alleging financial problems, Ceará abandoned the competition.
 
-Group J
+▪ Group J ▪
 
-[12 Novembro]
+(12 Novembro)
 América         3-0  Náutico
 Catuense        1-1  Valeriodoce        [pen 4-5]
 
-[16 Novembro]
+(16 Novembro)
 Náutico         2-1  Catuense
    [N: Fernando Borges e Nivaldo]
 Valeriodoce     1-0  América
 
-[19 Novembro]
+(19 Novembro)
 Catuense        0-1  América
 Náutico         2-2  Valeriodoce        [pen 1-4]
    [N: Levi e Fernando Borges]
 
-[22 Novembro]
+(22 Novembro)
 Náutico         2-0  América
    [Fernando Borges e Erasmo]
 Valeriodoce     2-1  Catuense
 
-[24 Novembro]
+(24 Novembro)
 América         3-0  Catuense
 Valeriodoce     0-1  Náutico
    [Nivaldo]
 
-[26 Novembro]
+(26 Novembro)
 América         0-1  Valeriodoce
 Catuense        1-2  Náutico
    [N: Erasmo e Augusto]
@@ -1324,34 +1298,34 @@ Table
 
 Third Phase
 
-Group K
+▪ Group K ▪
 
-[29 Novembro]
+(29 Novembro)
 Operário        1-1  Valeriodoce        [pen 4-3]
 Internacional   3-1  Náutico
    [Na: Erasmo]
 
-[01 Dezembro]
+(01 Dezembro)
 Operário        0-3  Internacional
 Valeriodoce     2-4  Náutico
-   [Na: Newton(2), Erasmo e Haroldo]
+   (Na: Newton(2), Erasmo e Haroldo)
 
-[03 Dezembro]
+(03 Dezembro)
 Valeriodoce     0-2  Internacional
 Náutico         2-1  Operário
    [Na: Gena e Bizu]
 
-[05 Dezembro]
+(05 Dezembro)
 Internacional   1-1  Operário           [pen 4-1]
 Náutico         2-0  Valeriodoce
    [Nivaldo e Erasmo]
 
-[07 Dezembro]
+(07 Dezembro)
 Valeriodoce     4-0  Operário
 Náutico         2-2  Internacional      [pen 6-5]
    [Na: Bizu e Augusto]
 
-[09 Dezembro]
+(09 Dezembro)
 Operário        0-0  Náutico            [pen 4-2]  [other source(1)[pk 3-4]]
 Internacional   4-2  Valeriodoce
 
@@ -1365,33 +1339,33 @@ Table
 
 (1) Naútico Retrospecto, Celso Cordeiro e Luciano Cordeiro
 
-Group L
+▪ Group L ▪
 
-[29 Novembro]
+(29 Novembro)
 Joinville       1-1  Ponte Preta        [pen 4-5]
    [Geraldo; Monga]
 Caxias          1-2  Americano
 
-[01 Dezembro]
+(01 Dezembro)
 Caxias          3-1  Ponte Preta
    [Jairo, Leco e João Carlos; Rildo]
 Joinville       3-0  Americano
 
-[03 Dezembro]
+(03 Dezembro)
 Americano       0-0  Ponte Preta        [pen 3-4]
 Caxias          2-0  Joinville
 
-[05 Dezembro]
+(05 Dezembro)
 Ponte Preta     2-0  Caxias
    [Wilson e Sorriso(og)]
 Americano       0-0  Joinville          [pen 4-5]
 
-[07 Dezembro]
+(07 Dezembro)
 Ponte Preta     3-0  Joinville
    [Jorge Mendonça, Monga e Rildo]
 Americano       2-1  Caxias
 
-[09 Dezembro]
+(09 Dezembro)
 Joinville       2-1  Caxias
 Ponte Preta     1-2  Americano
    [Tuca; Gilson e Gilmar]
@@ -1405,35 +1379,35 @@ Table
 
 Final Phase
 
-[13 Dezembro]
+(13 Dezembro)
 Ponte Preta     3-2  Internacional
    [Luiz Müller, Jorge Mendonça e Monga; Edvaldo e China]
 Americano       0-0  Náutico            [pen 4-5]
 
-[15 Dezembro]
+(15 Dezembro)
 Internacional   1-0  Americano
 Náutico         2-1  Ponte Preta
    [Erasmo e Romildo; Luiz Müller]
 
-[17 Dezembro]
+(17 Dezembro)
 Nautico         1-1  Internacional      [pen 3-4]
    [N: Newton]
-[18 Dezembro]
+(18 Dezembro)
 Americano       0-1  Ponte Preta
    [Márcio Luís]
 
-[28 Janeiro 1989]
+(28 Janeiro 1989)
 Internacional   1-1  Ponte Preta       [pen 6-5]
    [Machado; Márcio Luís]
 Náutico         2-1  Americano
-   [Júnior Guimarães 18' e Augusto 65'; Zé Paulo 85']
+   (Júnior Guimarães 18' e Augusto 65'; Zé Paulo 85')
 
-[31 Janeiro 1989]
+(31 Janeiro 1989)
 Ponte Preta     3-0  Americano
    [Monga, Roberto e Jorge Mendonça]
 Internacional   1-0  Náutico
 
-[02 Fevereiro 1989]
+(02 Fevereiro 1989)
 Americano       1-1  Internacional      [pen 3-4]
 Ponte Preta     1-1  Náutico            [pen 3-4]
    [Monga; Barros]
@@ -1475,11 +1449,11 @@ Third Level 1988
 Matches ended in draws were decided in penalties shootouts.
 Wins were worth 3 points, penalties wins 2 and penalties loss 1.
 
-First Phase
+▪ First Phase ▪
 
 (from 22/10 to 08/11)
 
-Group 1
+▪ Group 1 ▪
 
 Participats
 ABC FC (Natal-RN)
@@ -1507,7 +1481,7 @@ Table
  3.Ferroviário-CE         6  2  0/ 0  4   6- 9   6
  4.América-RN             6  1  1/ 0  4   7-10   5
 
-Group 2
+▪ Group 2 ▪
 
 Participants
 Alecrim FC (Natal-RN)
@@ -1535,7 +1509,7 @@ Table
  3.Auto Esporte-PB        6  2  1/ 0  3   5- 9   8
  4.Alecrim                6  0  1/ 3  2   2- 4   5
 
-Group 3
+▪ Group 3 ▪
 
 Participants
 CS Capelense (Capela-AL)
@@ -1556,7 +1530,7 @@ Table
 --------------------------------------------------
  3.Capelense              4  1  0/ 1  2   1- 4   4
 
-Group 4
+▪ Group 4 ▪
 
 Participants
 Alagoinhas Atlético Clube (BA)
@@ -1570,7 +1544,7 @@ Table
  1.Lagarto                2  1  1/ 0  0   2- 1   5  Qualified
  2.Atlético-BA            2  0  0/ 1  1   1- 2   1  Qualified
 
-Group 5
+▪ Group 5 ▪
 
 Participants
 Anápolis FC (GO)
@@ -1598,7 +1572,7 @@ Table
  3.Taguatinga             6  1  1/ 1  3   3- 5   6
  4.Mixto                  6  1  1/ 1  3   4- 8   6
 
-Group 6
+▪ Group 6 ▪
 
 Participants
 América FC (São José do Rio Preto-SP) - forfeited the tournament
@@ -1619,7 +1593,7 @@ Table
 --------------------------------------------------
  3.Douradense             4  1  0/ 1  2   3- 6   4
 
-Group 7
+▪ Group 7 ▪
 
 Participants
 Associação Ferroviária de Esportes (Araraquara-SP)
@@ -1639,7 +1613,7 @@ Table
 --------------------------------------------------
  3.XV de Novembro (Jaú)   4  0  1/ 2  1   4- 5   4
 
-Group 8
+▪ Group 8 ▪
 
 Participants
 AA Cabofriense (Cabo Frio-RJ)
@@ -1667,7 +1641,7 @@ Table
  3.Tupi                   6  1  2/ 2  1   7- 9   9
  4.AA Cabofriense         6  0  1/ 3  2   4- 6   5
 
-Group 9
+▪ Group 9 ▪
 
 Participants
 Clube Esportivo Passense (Passos-MG)
@@ -1695,7 +1669,7 @@ Table
  3.Fabril                 6  2  0/ 1  3   5- 7   7
 4. Mogi-Mirim             6  1  1/ 1  3   4- 7   7
 
-Group 10
+▪ Group 10 ▪
 
 Participants
 Colorado EC (Curitiba-PR)
@@ -1723,7 +1697,7 @@ Table
  3.XV de Novembro (Pir)   6  1  1/ 3  1   5- 4   9
  4.Colorado               6  0  1/ 1  4   4-11   3
 
-Group 11
+▪ Group 11 ▪
 
 Participants
 Brusque FC (SC)
@@ -1752,7 +1726,7 @@ Table
  3.Esportivo-RS           6  2  1/ 1  2   6- 8   9
  4.Internacional/SM-RS    6  1  0/ 3  2   4- 4   6
 
-Group 12
+▪ Group 12 ▪
 
 Participants
 Blumenau EC (SC)
@@ -1780,10 +1754,10 @@ Table
  3.Iguaçu                 6  2  1/ 0  3   8- 8   8
  4.Guarany/CA-RS          6  0  0/ 1  5   5-14   1
 
-Second Phase
+▪ Second Phase ▪
 (from 12/11 to 27/11)
 
-Group 13
+▪ Group 13 ▪
 
 ABC             1-1  Botafogo         [pen 5-4]
 ABC             2-0  Campinense
@@ -1805,7 +1779,7 @@ Table
  3.ABC                    6  2  1/ 0  3   5- 8   8
  4.Paulistano             6  2  0/ 0  4   6- 9   6
 
-Group 14
+▪ Group 14 ▪
 
 Atlético        2-0  Confiança
 Atlético        0-0  Lagarto          [pen 4-5]
@@ -1827,7 +1801,7 @@ Table
  3.Sergipe                6  2  0/ 2  2   5- 4   8
  4.Confiança              6  1  1/ 0  4   3- 7   5
 
-Group 15
+▪ Group 15 ▪
 
 Anápolis        0-0  Comercial        [pen 5-4]
 Anápolis        1-4  Tiradentes
@@ -1849,7 +1823,7 @@ Table
  3.Comercial-MS           6  2  0/ 1  3   7- 5   7
  4.Ubiratan               6  2  0/ 1  3   5- 8   7
 
-Group 16
+▪ Group 16 ▪
 
 Desportiva      1-3  Esportivo
 Desportiva      0-1  Porto Alegre
@@ -1871,7 +1845,7 @@ Table
  3.Porto Alegre           6  2  1/ 0  3   6- 7   8
  4.Desportiva             6  1  2/ 0  3   4- 8   7
 
-Group 17
+▪ Group 17 ▪
 
 Blumenau        1-1  Brusque          [pen 4-3]
 Blumenau        1-1  Santo André      [pen 9-8]
@@ -1893,7 +1867,7 @@ Table
  3.Blumenau               6  1  3/ 0  2   5- 6   9
  4.Brusque                6  1  0/ 2  3   4- 9   5
 
-Group 18
+▪ Group 18 ▪
 
 Ferroviária     2-0  Figueirense
 Ferroviária     1-1  Marcílio Dias    [pen 4-2]
@@ -1918,7 +1892,7 @@ Table
 Third Phase
 (from 03/12 to 13/12)
 
-Group 19
+▪ Group 19 ▪
 
 Botafogo        2-1  Esportivo
 Botafogo        2-0  Lagarto
@@ -1933,7 +1907,7 @@ Table
  2.Botafogo-PB            4  2  0/ 0  2   5- 7   6
  3.Lagarto                4  1  0/ 1  2   2- 7   4
 
-Group 20
+▪ Group 20 ▪
 
 Marcílio Dias   2-1  Tiradentes
 Marcílio Dias   2-1  União São João
@@ -1948,9 +1922,9 @@ Table
  2.Marcílio Dias          4  2  0/ 0  2   4- 4   6
  3.Tiradentes-DF          4  1  1/ 0  2   3- 5   5
 
-Final
+▪ Final ▪
 
-[Dec 16 and 18]
+(Dec 16 and 18)
 Esportivo-MG    1-1   2-2  União São João
 União São João won due to better season record
 
@@ -1966,25 +1940,10 @@ clubs.
 
 ‹list of 2nd division champions, see page braz2champ›.
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-‹Source, see page ../sources›: [pla].
-
-Prepared and maintained by Ricardo Pontes and Marcelo Leme de Arruda
-for the
-‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Ricardo Pontes and Marcelo Leme de Arruda
-
-Last updated: 2 Apr 2005
 
 
-(C) Copyright Ricardo Pontes, Marcelo Leme de Arruda and RSSSF 1999/2005
 
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+<!-- $about$ -->
+

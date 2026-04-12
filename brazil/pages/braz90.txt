@@ -6,7 +6,6 @@
 
 == Brazil 1990
 
-<!-- start pre -->
 CAMPEONATO BRASILEIRO DE 1990
 1990 BRAZILIAN CHAMPIONSHIP (1st LEVEL)
 
@@ -33,7 +32,7 @@ SANTOS Futebol Clube (Santos-SP)
 SÃO JOSÉ Esporte Clube (São José dos Campos-SP)
 SÃO PAULO Futebol Clube (São Paulo-SP)
 
-FIRST PHASE
+▪ FIRST PHASE ▪
 
 2 stages and 2 groups of 10 teams.  Group winners in both stages and 4 teams
 with better first phase record qualified to the quarterfinals.
@@ -42,7 +41,7 @@ played teams of their own group.
 
 FIRST STAGE
 
-ROUND 1
+▪ ROUND 1 ▪
 
 GROUPS A and B
 
@@ -81,7 +80,7 @@ Goals Júnior and André Carpes.
 PALMEIRAS 1 x INTERNACIONAL-RS 0
 Goal Betinho.
 
-ROUND 2
+▪ ROUND 2 ▪
 
 GROUPS A and B
 
@@ -113,7 +112,7 @@ Goals Atlético-MG: Gérson (2), Éder and Paulo Roberto Prestes. Fluminense: Ri
 SANTOS 1 x SÃO PAULO 0
 Goal César Sampaio.
 
-ROUND 3
+▪ ROUND 3 ▪
 
 GROUPS A and B
 
@@ -141,7 +140,7 @@ GRÊMIO 0 x ATLÉTICO-MG 0
 
 SÃO JOSÉ 0 x VASCO 0
 
-ROUND 4
+▪ ROUND 4 ▪
 
 GROUPS A and B
 
@@ -172,7 +171,7 @@ Goal Gérson.
 BAHIA 0 x VITÓRIA 1
 Goal Júnior.
 
-ROUND 5
+▪ ROUND 5 ▪
 
 GROUPS A and B
 
@@ -202,7 +201,7 @@ Goals Internacional-SP: Pecos. Portuguesa: Vladimir.
 PALMEIRAS 1 x BAHIA 2
 Goals Palmeiras: Mirandinha. Bahia: Charles and Naldinho.
 
-ROUND 6
+▪ ROUND 6 ▪
 
 GROUPS A and B
 
@@ -230,7 +229,7 @@ SANTOS 0 x FLAMENGO 0
 INTERNACIONAL-RS 1 x SÃO PAULO 2
 Goals Internacional-RS: Letelier. São Paulo: Raí and Ronaldão.
 
-ROUND 7
+▪ ROUND 7 ▪
 
 GROUPS A and B
 
@@ -258,7 +257,7 @@ INERNACIONAL-SP 0 x SANTOS 0
 SÃO JOSÉ 0 x BRAGANTINO 1
 Goal Franklin.
 
-ROUND 8
+▪ ROUND 8 ▪
 
 GROUPS A and B
 
@@ -289,7 +288,7 @@ INTERNACIONAL-RS 0 x VITÓRIA 0
 
 SANTOS 0 x GRÊMIO 0
 
-ROUND 9
+▪ ROUND 9 ▪
 
 GROUPS A and B
 
@@ -318,7 +317,7 @@ Goals Internacional-SP: Ribamar. Internacional-RS: Edu Lima and Alberto.
 CRUZEIRO 1 x SANTOS 1
 Goals Cruzeiro: Édson. Santos: Edu Marangon.
 
-ROUND 10
+▪ ROUND 10 ▪
 
 GROUPS A and B
 
@@ -345,7 +344,7 @@ Goals Mazinho, Barbosa and Carlos Augusto.
 GOIÁS 3 x FLUMINENSE 0
 Goals Túlio (2) and Rubens Carlos.
 
-GROUP A
+▪ GROUP A ▪
 TEAM                Pts   P   W   D   L   GF   GA   DIF
 1-ATLÉTICO-MG       16   10   6   4   0   13    5     8     Qualified
 2-CORINTHIANS       14   10   6   2   2   10    8     2
@@ -358,7 +357,7 @@ TEAM                Pts   P   W   D   L   GF   GA   DIF
 9-INTERNACIONAL-RS   7   10   1   5   4    9   13    -4
 10-PORTUGUESA        7   10   1   5   4   11   16    -5
 
-GROUP B
+▪ GROUP B ▪
 TEAM                Pts   P   W   D   L   GF   GA   DIF
 1-GRÊMIO            13   10   4   5   1   12    6     6     Qualified
 2-CRUZEIRO          12   10   4   4   2    9    9     0
@@ -373,9 +372,9 @@ TEAM                Pts   P   W   D   L   GF   GA   DIF
 
 SECOND STAGE
 
-ROUND 1
+▪ ROUND 1 ▪
 
-GROUP A
+▪ GROUP A ▪
 
 10/oct/90
 
@@ -393,7 +392,7 @@ Goals Atlético-MG: Altair and Gilberto Costa. Internacional-RS: Luís Fernando.
 BOTAFOGO 0 x BAHIA 1
 Goal Gil.
 
-GROUP B
+▪ GROUP B ▪
 
 10/oct/90
 
@@ -407,9 +406,9 @@ FLUMINENSE 0 x NÁUTICO 0
 CRUZEIRO 4 x GRÊMIO 0
 Goals Luís Gustavo (2) and Ramón (2).
 
-ROUND 2
+▪ ROUND 2 ▪
 
-GROUP A
+▪ GROUP A ▪
 
 14/oct/90
 
@@ -422,7 +421,7 @@ Goals Bebeto, Bismarck and Luciano.
 BOTAFOGO 2 x GOIÁS 0
 Goals Vivinho and Wílson Gottardo.
 
-GROUP B
+▪ GROUP B ▪
 
 13/oct/90
 
@@ -441,9 +440,9 @@ Goal Adílson.
 GRÊMIO 2 x FLUMINENSE 1
 Goals Grêmio: Assis and Vílson. Fluminense: Denílson.
 
-ROUND 3
+▪ ROUND 3 ▪
 
-GROUP A
+▪ GROUP A ▪
 
 21/oct/90
 
@@ -460,7 +459,7 @@ Goals Hamílton and Célio.
 BOTAFOGO 2 x VASCO 2
 Goals Botafogo: Wílson Gottardo and Gílson Jáder. Vasco: Bismarck and Sorato.
 
-GROUP B
+▪ GROUP B ▪
 
 20/oct/90
 
@@ -477,9 +476,9 @@ CRUZEIRO 0 x SÃO JOSÉ 0
 FLAMENGO 2 x FLUMINENSE 1
 Goals Flamengo: Gaúcho and Renato Gaúcho. Fluminense: Dedei.
 
-ROUND 4
+▪ ROUND 4 ▪
 
-GROUP A
+▪ GROUP A ▪
 
 24/oct/90
 
@@ -494,7 +493,7 @@ INTERNACIONAL-RS 0 x BRAGANTINO 0
 
 BAHIA 0 x PORTUGUESA 0
 
-GROUP B
+▪ GROUP B ▪
 
 24/oct/90
 
@@ -512,9 +511,9 @@ Goals São José: Henrique. Grêmio: Caio.
 FLUMINENSE 0 x CRUZEIRO 1
 Goal Luís Fernando Flores.
 
-ROUND 5
+▪ ROUND 5 ▪
 
-GROUP A
+▪ GROUP A ▪
 
 27/oct/90
 
@@ -531,7 +530,7 @@ Goals Bahia: Carlos Augusto-Bragantino (own goal). Bragantino: Souza.
 PORTUGUESA 3 x BOTAFOGO 1
 Goals Portuguesa: Vágner Mancini (2) and Vladimir. Botafogo: Valdeir.
 
-GROUP B
+▪ GROUP B ▪
 
 28/oct/90
 
@@ -546,9 +545,9 @@ Goal Raí.
 NÁUTICO 1 x CRUZEIRO 0
 Goal Augusto.
 
-ROUND 6
+▪ ROUND 6 ▪
 
-GROUP A
+▪ GROUP A ▪
 
 3/nov/90
 
@@ -563,7 +562,7 @@ Goal Dinei.
 BRAGANTINO 0 x GOIÁS 0
 PORTUGUESA 0 x ATLÉTICO-MG 0
 
-GROUP B
+▪ GROUP B ▪
 
 3/nov/90
 
@@ -580,9 +579,9 @@ Goal Nílson.
 CRUZEIRO 1 x SÃO PAULO 2
 Goals Cruzeiro: Luís Fernando Flores. São Paulo: Mário Tilico and Ivan.
 
-ROUND 7
+▪ ROUND 7 ▪
 
-GROUP A
+▪ GROUP A ▪
 
 10/nov/90
 
@@ -600,7 +599,7 @@ Goals Botafogo: Luisinho. Atlético-MG: Mauricinho.
 BAHIA 2 x INTERNACIONAL-RS 1
 Goals Bahia: Charles (2). Internacional-RS: Caçapava.
 
-GROUP B
+▪ GROUP B ▪
 
 10/nov/90
 
@@ -617,9 +616,9 @@ Goals Cruzeiro: Hêider. Flamengo: Nélio and Fernando.
 GRÊMIO 1 x VITÓRIA 0
 Goal Caio.
 
-ROUND 8
+▪ ROUND 8 ▪
 
-GROUP A
+▪ GROUP A ▪
 
 14/nov/90
 
@@ -636,7 +635,7 @@ GOIÁS 0 x BAHIA 0
 SANTOS 2 x BOTAFOGO 1
 Goals Santos: Almir and Axel. Botafogo: Gílson Jáder.
 
-GROUP B
+▪ GROUP B ▪
 
 14/nov/90
 
@@ -654,9 +653,9 @@ Goals Flamengo: Aílton, Uidemar and Rogério. Internacional-SP: Márcio Florên
 SÃO PAULO 1 x GRÊMIO 0
 Goal Elivélton.
 
-ROUND 9
+▪ ROUND 9 ▪
 
-GROUP A
+▪ GROUP A ▪
 
 18/nov/90
 
@@ -671,7 +670,7 @@ Goals Vasco: Bismarck and Luciano. Santos: Sérgio Manoel and Ney.
 BAHIA 2 x ATLÉTICO-MG 0
 Goals Charles and Luís Henrique.
 
-GROUP B
+▪ GROUP B ▪
 
 18/nov/90
 
@@ -686,7 +685,7 @@ CRUZEIRO 2 x VITÓRIA 1
 Goals Cruzeiro: Édson and Dinho. Vitória: Catatau.
 
 SECOND STAGE - FINAL TABLE
-GROUP A
+▪ GROUP A ▪
 TEAM                Pts   P   W   D   L   GF   GA   DIF
 1-SANTOS            11    9   4   3   2   10    6     4     Qualified
 2-BAHIA             11    9   3   5   1    6    3     3
@@ -699,7 +698,7 @@ TEAM                Pts   P   W   D   L   GF   GA   DIF
 9-CORINTHIANS        8    9   2   4   3    7   10    -3
 10-ATLÉTICO-MG       7    9   1   5   3    6   11    -5
 
-GROUP B
+▪ GROUP B ▪
 TEAM                Pts   P   W   D   L   GF   GA   DIF
 1-PALMEIRAS         15    9   6   3   0   13    6     7     Qualified
 2-SÃO PAULO         13    9   5   3   1   11    4     7
@@ -737,9 +736,9 @@ TEAM                Pts   P   W   D   L   GF   GA   DIF
 
 * - Qualified due to better first phase record.
 
-QUARTERFINALS
+▪ QUARTERFINALS ▪
 
-FIRST LEG
+▪ FIRST LEG ▪
 
 24/nov/90
 
@@ -753,7 +752,7 @@ BRAGANTINO 1 x BAHIA 1
 Goals Bragantino: João Santos. Bahia: Ivair-Bragantino (own goal).
 
 
-SECOND LEG
+▪ SECOND LEG ▪
 
 1/dec/90
 
@@ -765,9 +764,9 @@ SÃO PAULO 1 x SANTOS 1
 Goals São Paulo: Eliel. Santos: Paulinho.
 ATLÉTICO-MG 0 x CORINTHIANS 0
 
-SEMIFINALS
+▪ SEMIFINALS ▪
 
-FIRST LEG
+▪ FIRST LEG ▪
 
 5/dec/90
 
@@ -776,7 +775,7 @@ Goals Raí (2).
 CORINTHIANS 2 x BAHIA 1
 Goals Corinthians: Neto. Bahia: Paulo Rodrigues and Vágner Basílio-Corinthians (own goal).
 
-SECOND LEG
+▪ SECOND LEG ▪
 
 8/dec/90
 
@@ -789,7 +788,7 @@ BAHIA 0 x CORINTHIANS 0
 
 FINALS
 
-FIRST LEG
+▪ FIRST LEG ▪
 
 13/dec/90
 
@@ -797,7 +796,7 @@ CORINTHIANS 1 x SÃO PAULO 0
 Goal Wílson Mano.
 
 
-SECOND LEG
+▪ SECOND LEG ▪
 
 16/dec/90
 
@@ -831,12 +830,12 @@ CAMPEONATO BRASILEIRO DE 1990
 
 SEGUNDA DIVISÃO (2ND LEVEL)
 
-FIRST PHASE
+▪ FIRST PHASE ▪
 
 4 groups of 6.  Top 4 qualified to second phase, worst 4 teams among the
 disqualified were relegated to 3rd level.
 
-GROUP A
+▪ GROUP A ▪
 
 PARTICIPANTS
 
@@ -900,7 +899,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 5-Joinville        10    9    2  5  3    8- 8    0
 6-Coritiba         10    6    2  2  6    6-14   -8
 
-GROUP B
+▪ GROUP B ▪
 
 PARTICIPANTS
 
@@ -964,7 +963,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 5-Rio Branco       10    8    2  4  4    7-15   -8
 6-Anapolina        10    7    1  5  4    9-15   -6
 
-GROUP C
+▪ GROUP C ▪
 
 PARTICIPANTS
 
@@ -1028,7 +1027,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 5-Central          10    7    1  5  4    4- 8   -4
 6-Americano        10    6    2  2  6    4-13   -9
 
-GROUP D
+▪ GROUP D ▪
 
 PARTICIPANTS
 
@@ -1103,11 +1102,11 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 23-Americano       10    6    2  2  6    4-13   -9     Relegated
 24-Treze           10    6    1  4  5    4-12   -8     Relegated
 
-SECOND PHASE
+▪ SECOND PHASE ▪
 
 4 groups of 4 teams, top 2 qualified to third phase.
 
-GROUP E
+▪ GROUP E ▪
 
 FIRST STAGE
 
@@ -1138,7 +1137,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 3-XV de Novembro    6    5    2  1  3    5- 8   -3
 4-Blumenau          6    5    1  3  2    5- 6   -1
 
-GROUP F
+▪ GROUP F ▪
 
 FIRST STAGE
 
@@ -1169,7 +1168,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 3-Botafogo          6    6    2  2  2    4- 3    1
 4-Grêmio Maringá    6    1    0  1  5    3-12   -9
 
-GROUP G
+▪ GROUP G ▪
 
 FIRST STAGE
 
@@ -1200,7 +1199,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 3-Juventus          6    6    3  0  3    5- 5    0
 4-Ceará             6    5    2  1  3    3- 5   -2
 
-GROUP H
+▪ GROUP H ▪
 
 FIRST STAGE
 
@@ -1237,7 +1236,7 @@ THIRD PHASE
 
 2 groups of 4 teams, winners were promoted to 1st level and qualified to the final.
 
-GROUP I
+▪ GROUP I ▪
 
 FIRST STAGE
 
@@ -1268,7 +1267,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 3-Juventude         6    6    2  2  2    6- 7   -1
 4-Moto Clube        6    1    0  1  5    5-14   -9
 
-GROUP J
+▪ GROUP J ▪
 
 FIRST STAGE
 
@@ -1311,11 +1310,11 @@ CAMPEONATO BRASILEIRO DE 1990
 TERCEIRA DIVISÃO (3RD LEVEL)
 
 
-FIRST PHASE
+▪ FIRST PHASE ▪
 
 6 groups of 5 teams, winners qualified to quarterfinals along with the two best group's runners-up.
 
-GROUP A
+▪ GROUP A ▪
 
 PARTICIPANTS
 
@@ -1344,7 +1343,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 4-Tiradentes        4    3    1  1  2    4- 6   -2
 5-Nacional          4    0    0  0  4    2- 9   -7
 
-GROUP B
+▪ GROUP B ▪
 
 PARTICIPANTS
 
@@ -1373,7 +1372,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 4-América-PE        4    2    0  2  2    0- 2   -2
 5-Campinense        4    2    0  2  2    2- 5   -3
 
-GROUP C
+▪ GROUP C ▪
 
 PARTICIPANTS
 
@@ -1402,7 +1401,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 4-Fluminense        4    3    1  1  2    3- 4   -1
 5-Lagarto           4    2    0  2  2    1- 4   -3
 
-GROUP D
+▪ GROUP D ▪
 
 PARTICIPANTS
 
@@ -1431,7 +1430,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 4-União             4    2    1  0  3    2- 5   -3
 5-Ubiratan          4    0    0  0  4    2-10   -8
 
-GROUP E
+▪ GROUP E ▪
 
 PARTICIPANTS
 
@@ -1463,7 +1462,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 NOTE: Unsure of what tiebreaking criterion was used to place Bangu in 1st.  Either it was
 goal difference or the fact that Bangu defeated Noroeste.
 
-GROUP F
+▪ GROUP F ▪
 
 PARTICIPANTS
 
@@ -1495,7 +1494,7 @@ TEAM                P   Pts   W  D  L   GF-GA  DIF
 4-União Bandeirante 4    3    1  1  2    3- 5  -2
 5-América           4    2    1  0  3    1- 4  -3
 
-SECOND PHASE
+▪ SECOND PHASE ▪
 
 Knockout style.  Teams with better first phase record hosted the second leg and in the case of obtaining
 two equal results were qualified. Quarterfinals winners were promoted to the 1991 2nd level.
@@ -1505,7 +1504,7 @@ Fortaleza         0-0   0-1   América-RN
 Gama              1-0   0-4   Atlético
 Bangu             1-1   0-0   Paraná
 
-SEMIFINALS
+▪ SEMIFINALS ▪
 
 América-MG        1-0   1-1   Paraná
 América-RN        0-2   2-5   Atlético
@@ -1560,7 +1559,7 @@ PARTICIPANTS
 31-SÃO JOSÉ Esporte Clube de São José dos Campos
 32-Club Sportivo SERGIPE (Aracaju-SE)
 
-FIRST PHASE
+▪ FIRST PHASE ▪
 
 22/06 - 27/06 Juventus          1-0 0-1    Rio Negro     [pen.R.Negro 4x3]
 23/06 - 27/06 Vila Nova         0-0 0-5    Atlético-MG
@@ -1579,7 +1578,7 @@ FIRST PHASE
 22/06 - 27/06 Ríver             2-2 0-1    Ceará
 19/06 - 27/06 Treze             0-1 0-2    Náutico
 
-SECOND PHASE
+▪ SECOND PHASE ▪
 
 11/07 - 15/07 Rio Negro         0-1 0-2    Atlético-MG
 11/07 - 15/07 Operário-MS       0-1 0-5    Goiás
@@ -1597,7 +1596,7 @@ THIRD PHASE
 25/07 - 28/07 Bahia             1-1 0-1    Flamengo
 29/08 - 05/09 Remo              3-1 0-4    Náutico
 
-SEMIFINALS
+▪ SEMIFINALS ▪
 
 12/09 - 26/09 Criciúma          1-0 0-1    Goiás         [pen.Goiás 3x1]
 13/09 - 16/10 Flamengo          3-0 2-2    Náutico
@@ -1619,27 +1618,10 @@ CR Flamengo were the 1990 Copa do Brasil champions
 
 
 
-<!-- end pre -->
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-== About this document  ‹§about›
-
-‹Source, see page ../sources›: [pla]
-
-Prepared and maintained by Ricardo Pontes,
-Marcelo Leme de Arruda and Julio Bovi Diogo
-for the ‹Rec.Sport.Soccer Statistics Foundation›
 
 
-Authors: Ricardo Pontes,
-Marcelo Leme de Arruda
-and Julio Bovi Diogo
-
-Last updated: 18 Feb 2000
 
 
-(C) Copyright Ricardo Pontes, Marcelo Leme de Arruda,
-Julio Bovi Diogo and RSSSF 1999/2000
-You are free to copy this document in whole or part provided that proper
-acknowledgement is given to the authors. All rights reserved.
+
+<!-- $about$ -->
+
