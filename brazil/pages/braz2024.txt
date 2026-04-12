@@ -617,7 +617,7 @@ Bragantino      2-3 Athletico/PR
 Atlético/MG     3-0 CRB
 Bahia           1-0 Botafogo
 Palmeiras       1-0 Flamengo
-Grêmio          0-0 Corinthians     [1-3 pen]
+Grêmio          0-0 Corinthians     (1-3 pen)
 Fluminense      2-2 Juventude
 _ Aug 8 _
 Goiás           0-0 São Paulo
@@ -635,7 +635,7 @@ Juventude       2-1 Corinthians
 ▪ Second Legs ▪
 _ Sep 11 _
 Corinthians     3-1 Juventude
-Athletico/PR    2-1 Vasco da Gama   [4-5 pen]
+Athletico/PR    2-1 Vasco da Gama   (4-5 pen)
 _ Sep 12 _
 Atlético/MG     0-0 São Paulo
 Flamengo        1-0 Bahia

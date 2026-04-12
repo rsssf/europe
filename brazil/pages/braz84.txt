@@ -1341,11 +1341,11 @@ Coritiba       2-2   0-5  Fluminense
 Flamengo       2-0   1-4  Corinthians
   [Élder, Bebeto]
   [Biro-Biro, Wladimir, Édson Boaro, Ataliba; Paulinho (own goal)]
-(May 1 and 5)
+_ May 1 and 5 _
 Portuguesa     2-5   3-4  Vasco da Gama
   (Gérson Sodré, Mendonça; Arthurzinho (2), Roberto Dinamite (2), Mário)
   (Roberto Dinamite (3), Arthurzinho; Pires (own goal), Toquinho, Ramirez)
-(May 1 and 6)
+_ May 1 and 6 _
 Náutico        2-3   1-3  Grêmio
   [Édson Gaúcho, Baiano; Caio, Tarciso, César]
   [Édson Gaúcho (own goal), Osvaldo, Tarciso; Mirandinha]
@@ -1353,18 +1353,18 @@ Náutico        2-3   1-3  Grêmio
 ▪ Semifinals ▪
 
 ▪ First Leg ▪
-(May 12 and 19)
+_ May 12 and 19 _
 Grêmio         1-0   0-3  Vasco da Gama
   [Tarciso]
   (Roberto Dinamite (2), Marquinho Carioca)
-(May 13 and 20)
+_ May 13 and 20 _
 Corinthians    0-2   0-0  Fluminense
   [Assis, Tato]
 
 ▪ Final ▪
 
 
-(May 24 and 28)
+_ May 24 and 28 _
 Vasco da Gama  0-1   0-0  Fluminense
   [Romerito]
 
@@ -1414,10 +1414,10 @@ EC XV de Novembro (Piracicaba-SP)
 
 ▪ First Phase ▪
 
-(Feb 25 and 28)
+_ Feb 25 and 28 _
 Sergipe              0-0   1-2  Sport
 Remo                 2-0   1-2  Rio Negro
-(Feb 26 and 28)
+_ Feb 26 and 28 _
 Guarani-SP           3-2   5-2  Avaí
 XV de Novembro/Pir.  1-0   3-2  Novo Hamburgo
 Uberlândia           3-0   1-2  Nacional-GO
@@ -1430,19 +1430,19 @@ Icasa                1-2   1-1  Botafogo-PB
 Asa                  2-0   2-4  Itabuna             [Pen 2-4 (1-3?)]
 Campo Grande         0-1   1-2  Pinheiros
 União-MT             0-1   0-1  Comercial-MS
-(Feb 26 and 29)
+_ Feb 26 and 29 _
 Tiradentes-DF        1-1   0-2  Itumbiara
-(Feb 27 and 29)
+_ Feb 27 and 29 _
 América-MG           2-1   0-3  Volta Redonda
 
 ▪ Second Phase ▪
 
-(Mar 2 and 10)
+_ Mar 2 and 10 _
 Itabuna              0-0   1-1  Pinheiros           [Pen 4-1]
 Internacional/SM-RS  1-0   2-0  Volta Redonda
 Botafogo-PB          2-2   2-0  Sport
 Desportiva           2-1   1-2  Comercial-MS        [Pen 4-5]
-(Mar 2 and 11)
+_ Mar 2 and 11 _
 Remo                 1-0   2-1  Maranhão
 Itumbiara            2-1   1-1  XV De Novembro/Pirac.
 Uberlândia           0-0   1-0  Guarani-SP
@@ -1450,16 +1450,16 @@ Ceará                0-0   1-1  Central             [Pen 1-3]
 
 Third Phase (Quarterfinals)
 
-(Mar 14 and 17)
+_ Mar 14 and 17 _
 Itabuna              2-2   0-2   Botafogo-PB
-(Mar 15 and 17)
+_ Mar 15 and 17 _
 Internacional/SM-RS  2-0   1-1   Central
 Comercial-MS         1-1   2-3   Remo
 Itumbiara            1-2   1-1   Uberlândia
 
 ▪ Semifinals ▪
 
-(Mar 21 and 24)
+_ Mar 21 and 24 _
 Internacional/SM-RS  0-0   0-3   Remo
 Botafogo-PB          0-4   0-2   Uberlândia
 

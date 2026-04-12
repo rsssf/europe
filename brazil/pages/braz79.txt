@@ -1871,11 +1871,11 @@ Table
 ▪ Semifinal ▪
 
 ▪ First Leg ▪
-(Dec 12 and 16)
+_ Dec 12 and 16 _
 Coritiba          1-1   1-2  Vasco da Gama
   [Luís Freire; Catinha]
   [Roberto Dinamite, Paulinho; Gardel]
-(Dec 13 and 16)
+_ Dec 13 and 16 _
 Palmeiras         2-3   1-1  Internacional-RS
   (Jorge Mendonça, Baroninho; Falcão (2), Jair)
   [Jair; Mococa]
@@ -1883,7 +1883,7 @@ Palmeiras         2-3   1-1  Internacional-RS
 ▪ Final ▪
 
 ▪ First Leg ▪
-(Dec 20 and 23)
+_ Dec 20 and 23 _
 Vasco da Gama     0-2   1-2  Internacional-RS
   (Chico Spina (2))
   [Jair, Falcão; Wilsinho]

@@ -550,7 +550,7 @@ First Round [Jan 27-Mar 5]
 S.Correa(MA)   0-0 0-4 Sao Paulo(SP)
 Picos(PI)      1-1 0-8 Vasco da Gama(RJ)
 S.Raimundo(AM) 0-1 0-4 Botafogo(RJ)      [2nd leg abd at 4-0 to Botafogo in 72';
-America(MG)    1-0 0-1 Internacional(RS) [4-2 pen]                 result stood]
+America(MG)    1-0 0-1 Internacional(RS) (4-2 pen)                 result stood]
 Portuguesa(SP) 2-1 2-4 Sport(PE)
 Botafogo(PB)   2-3 2-1 Bahia(BA)
 Operario(MT)   2-2 1-3 Vitoria(BA)
@@ -1996,8 +1996,8 @@ Table
 ▪ SECOND PHASE ▪
 Knockout style
 
-(Oct 7 and 11)
-São Raimundo      1-1  0-0  São Francisco       [5-3 pen]
+_ Oct 7 and 11 _
+São Raimundo      1-1  0-0  São Francisco       (5-3 pen)
 Vênus             0-0  0-4  Moto Clube
 Limoeiro          3-1  2-1  Picos
 Confiança         3-1  0-1  Botafogo
@@ -2012,29 +2012,29 @@ Mogi Mirim        2-2  1-2  15 de Novembro
 São José          0-2  1-2  São Caetano
 Caxias            3-2  0-2  Avaí
 Figueirense       0-1  1-2  Brasil
-(Oct 8 and 12)
-Viana             1-1  1-1  Potiguar            [4-5 pen]
+_ Oct 8 and 12 _
+Viana             1-1  1-1  Potiguar            (4-5 pen)
 
 THIRD PHASE
 Knockout style
 
-(Oct 18 and 24)
+_ Oct 18 and 24 _
 Limoeiro          3-1  1-2  Confiança
 São Caetano       1-0  3-1  Anápolis
 Anapolina         2-0  2-1  América-RJ
 Avaí              4-0  1-1  Santo André
 Brasil            1-0  3-3  Noroeste
-Rio Branco-SP     2-2  2-2  15 de Novembro      [4-3 pen]
-(Oct 18 and 25)
+Rio Branco-SP     2-2  2-2  15 de Novembro      (4-3 pen)
+_ Oct 18 and 25 _
 São Raimundo      3-0  1-2  Moto Clube
 Itabaiana         2-0  1-2  Potiguar
 
 ▪ QUARTERFINALS ▪
-(Nov 1 and 8)
+_ Nov 1 and 8 _
 São Caetano       2-0  1-1  Rio Branco-SP
-Brasil            2-2  2-2  Avaí                [2-4 pen]
+Brasil            2-2  2-2  Avaí                (2-4 pen)
 Anapolina         5-0  1-1  Limoeiro
-Itabaiana         2-2  1-1  São Raimundo        [4-3 pen]
+Itabaiana         2-2  1-1  São Raimundo        (4-3 pen)
 
 
 FINAL PHASE

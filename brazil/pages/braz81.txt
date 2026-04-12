@@ -1050,16 +1050,16 @@ Table
 ▪ 1/8 Finals ▪
 
 ▪ First Leg ▪
-(Apr 8 and 11)
+_ Apr 8 and 11 _
 Bahia             0-0   0-2  Flamengo
   (Nunes (2))
-(Apr 8 and 12)
+_ Apr 8 and 12 _
 Sport             0-0   1-3  Operário-MS
   (Dêno;  Arthurzinho (2), Pastoril)
 Santos            0-2   1-2  São Paulo
   (Serginho (2))
   [Pita;  Paulo César, Serginho]
-(Apr 9 and 12)
+_ Apr 9 and 12 _
 Náutico           0-0   1-2  Ponte Preta
   [Piter;  Serginho, Lola]
 Fluminense        0-2   3-2  Vasco da Gama
@@ -1076,13 +1076,13 @@ CSA               0-0   0-2  Botafogo
 
 ▪ Quarterfinals ▪
 
-(Apr 15 and 18)
+_ Apr 15 and 18 _
 Vasco da Gama     0-0   0-0  Ponte Preta
-(Apr 15 and 19)
+_ Apr 15 and 19 _
 Grêmio            2-0   1-0  Operário-MS
   [Vílson Tadei, Tarciso]
   [Baltazar]
-(Apr 16 and 19)
+_ Apr 16 and 19 _
 Internacional-RS  0-1   0-2  São Paulo
   [Éverton]
   (Serginho (2))
@@ -1095,11 +1095,11 @@ Ponte Preta qualified due to better 1/8 finals record
 ▪ Semifinals ▪
 
 ▪ First Leg ▪
-(Apr 22 and 26)
+_ Apr 22 and 26 _
 Botafogo          1-0   2-3  São Paulo
   [Marcelo]
   (Éverton (2), Serginho; Jérson, Mendonça)
-(Apr 23 and 26)
+_ Apr 23 and 26 _
 Ponte Preta       2-3   1-0  Grêmio
   (Lola (2);  Paulo Isidoro, Víldon Tadei, Tarciso)
   [Osvaldo]
@@ -1687,13 +1687,13 @@ Table
 
 ▪ Semifinals ▪
 
-(Mar 7 and 14)
+_ Mar 7 and 14 _
 Comercial-MS      1-2   0-3  Guarani
 Remo              2-3   3-4  Anapolina
 
 ▪ Final ▪
 
-(Mar 21 and 27)
+_ Mar 21 and 27 _
 Anapolina         2-4   1-1  Guarani
 
 Guarani           (Campinas-SP) Champions Of Taça De Prata 1981.

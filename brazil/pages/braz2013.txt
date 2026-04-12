@@ -1144,7 +1144,7 @@ First Round (03/04 to 25/04)
  1 Remo (PA) - Flamengo (RJ)                    0-1 (03/04)     0-3 (17/04)     [e]
                                                 (Rafinha 54)
                                                 (Hernane 35, 49, 70)
- 2 Campinense (PB) - Sampaio Corrêa (MA)        0-1 (10/04)     1-0 (17/04)     [7-6pen]
+ 2 Campinense (PB) - Sampaio Corrêa (MA)        0-1 (10/04)     1-0 (17/04)     (7-6pen)
                                                 (Edgar 90+1)
                                                 (Ricardo Maranhão 84)
  3 Ceilândia (DF) - Ceará (CE)                  0-0 (03/04)     3-4 (10/04)
@@ -1198,7 +1198,7 @@ First Round (03/04 to 25/04)
                                                 (júnior 57 ; Schwenk 19, Paulo Victor 90+1)
 23 Desportiva (ES) - Figueirense (SC)           1-4 (10/04)     n/p (17/04)
                                                 (Flávio Santos 15 ; Thiego 47, Douglas 53, Maylson 58, Botti 86)
-24 Arapongas (PR) - São Caetano (SP)            1-0 (10/04)     0-1 (17/04)     [3-1pen]
+24 Arapongas (PR) - São Caetano (SP)            1-0 (10/04)     0-1 (17/04)     (3-1pen)
                                                 (Edu Amparo 45+1)
                                                 (Gabriel 37)
 25 CSA (AL) - Cruzeiro (MG)                     0-3 (10/04)     n/p (25/04)
@@ -1237,10 +1237,10 @@ First Round (03/04 to 25/04)
 38 Tupi (MG) - Luverdense (MT)                  1-0 (10/04)     0-3 (17/04)
                                                 (Diego 8)
                                                 (Tozim 14, Rafael tavares 28, Marcelo Maciel 36)
-39 Confiança (SE) - Guarani (SP)                1-0 (10/04)     0-1 (17/04)     [4-1pen] [j]
+39 Confiança (SE) - Guarani (SP)                1-0 (10/04)     0-1 (17/04)     (4-1pen) [j]
                                                 (Da Silva 28)
                                                 (Fernando Gaúcho 90+3)
-40 Luziânia (DF) - Fortaleza (CE)               0-0 (10/04)     0-0 (17/04)     [2-3pen]
+40 Luziânia (DF) - Fortaleza (CE)               0-0 (10/04)     0-0 (17/04)     (2-3pen)
 
 [e] 2nd leg played in Volta Redonda
 [f] Sousa EC (PB) contested the berth of CSP (see note [b] adove) and was awarded by Paraíba
@@ -1257,7 +1257,7 @@ Second Round (01/05 to 22/05)
 41 Campinense - Flamengo                        1-2 (01/05)     1-2 (15/05)     [k]
                                                 (Jeferson Maranhense 5 ; Renato Abreu 27, 59)
                                                 (Bismarck 7 ; Roberto Dias 5og, Elias 77)
-42 ASA - Ceará                                  3-0 (01/05)     0-3 (08/05)     [4-3pen]
+42 ASA - Ceará                                  3-0 (01/05)     0-3 (08/05)     (4-3pen)
                                                 (Léo Gamalho 18, 67, Didira 76)
                                                 (Rafael Vaz 9, Pingo 32, Mota 65)
 43 Santa Cruz (PE) - Internacional              0-0 (01/05)     0-2 (15/05)
@@ -1330,7 +1330,7 @@ Third Round (03/07 to 24/07)
 65 Ponte Preta - Nacional                       0-1 (10/07)     0-1 (24/07)
                                                 (Danilo Rios 73)
                                                 (Leonardo 18)
-66 Botafogo - Figueirense                       1-0 (03/07)     0-1 (24/07)     [5-4pen]     [s]
+66 Botafogo - Figueirense                       1-0 (03/07)     0-1 (24/07)     (5-4pen)     [s]
                                                 (Rafael Marques 28)
                                                 (Ricardo Bueno 9)
 67 Cruzeiro - Atlético (GO)                     5-0 (09/07)     1-0 (17/07)
@@ -1405,7 +1405,7 @@ Third Round (03/07 to 24/07)
 
 ▪ Quarterfinals ▪
 
-79 Corinthians - Grêmio                         0-0 (25/09)     0-0 (23/10)     [5-4pen]
+79 Corinthians - Grêmio                         0-0 (25/09)     0-0 (23/10)     (5-4pen)
 80 Internacional - Atlético (PR)                1-1 (25/09)     0-0 (23/10)     [u]
 81 Goiás - Vasco                                2-1 (25/09)     2-3 (24/10)
                                                 (Walter 6pen, Roni 73 ; Edmilson 2)

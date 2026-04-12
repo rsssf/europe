@@ -859,7 +859,7 @@ Obs.: In each match (from Third Round on), the second mentioned team plays the 2
                                                 (Carlos Henrique 26 ; Juninho 67, Arthur 90+3)
 43 Remo - Internacional                         1-2 (21/02)
                                                 (Felipe Marques 18 ; Leandro Damião 24, Edenílson 29)
-44 Criciúma - Cianorte                          1-1 (21/02)      [4-5pen]
+44 Criciúma - Cianorte                          1-1 (21/02)      (4-5pen)
                                                 (Mailson 39 ; Rafael Carrilho 12)
 45 Fluminense - Salgueiro                       5-0 (15/02)
                                                 (Gilberto 6, 54, Marcos Júnior 19, Robinho 66, Sornoza 82)
@@ -867,14 +867,14 @@ Obs.: In each match (from Third Round on), the second mentioned team plays the 2
                                                 (Marquinhos 67, Rômulo 72)
 47 Uberlândia - Coritiba                        0-2 (22/02)
                                                 (Rafael Estevam 30og, Júlio Rusch 56)
-48 Goiás - Boa                                  0-0 (21/02)      [6-5pen]
+48 Goiás - Boa                                  0-0 (21/02)      (6-5pen)
 49 Ponte Preta - Internacional (SP)             1-0 (21/02)
                                                 (Yuri 63)
 50 Sampaio Corrêa - Paraná                      1-0 (22/02)
                                                 (Uilliam 71pen)
 51 CSA - São Paulo                              0-2 (15/02)
                                                 (Nenê 48, Cueva 61)
-52 Novo Hamburgo - CRB                          1-1 (15/02)      [3-4pen]
+52 Novo Hamburgo - CRB                          1-1 (15/02)      (3-4pen)
                                                 (Ricardo Lobo 75 ; Neto Baiano 45+1)
 53 Vitória - Corumbaense                        3-0 (15/02)
                                                 (Yago 33, André Lima 52, Jonatas Belusso 73)
@@ -884,9 +884,9 @@ Obs.: In each match (from Third Round on), the second mentioned team plays the 2
                                                 (Roger Guedes 27, Cazares 60, Ricardo Oliveira 66, Luan 81)
 56 Figueirense - Oeste                          2-1 (21/02)
                                                 (André Luís 19, Cleberson 90+1 ; Raphael Luz 29)
-57 Sport - Ferroviário (CE)                     3-3 (15/02)      [3-4pen]
+57 Sport - Ferroviário (CE)                     3-3 (15/02)      (3-4pen)
                                                 (Anselmo 39, Fabrício 56, Marlone 71 ; Mazinho 75, 83, Valdeci 86)
-58 Vila Nova (GO) - Joinville                   2-2 (22/02)      [4-2pen]
+58 Vila Nova (GO) - Joinville                   2-2 (22/02)      (4-2pen)
                                                 (Keké 74, Ramon 86 ; Evaldo 51, Rafael Grampola 70)
 59 Cuiabá - Aparecidense                        3-1 (21/02)
                                                 (Magno 60, Weverton 78, 86 ; Nonato 38)
@@ -895,7 +895,7 @@ Obs.: In each match (from Third Round on), the second mentioned team plays the 2
 
 ▪ Third Round ▪
 
-61 Atlético (PR) - Ceará                        0-0 (28/02)     1-1 (15/03)      [6-5pen]
+61 Atlético (PR) - Ceará                        0-0 (28/02)     1-1 (15/03)      (6-5pen)
                                                 (Guilherme 14 ; Felipe Azevedo 33)
 62 Internacional - Cianorte                     2-0 (01/03)     2-0 (14/03)
                                                 (Iago 52, Edenílson 67)
@@ -906,14 +906,14 @@ Obs.: In each match (from Third Round on), the second mentioned team plays the 2
 64 Goiás - Coritiba                             1-0 (28/02)     1-1 (14/03)
                                                 (Jefferson 53)
                                                 (Carlos Eduardo 29 ; Wilson 49pen)
-65 Ponte Preta - Sampaio Corrêa                 0-0 (28/02)     0-0 (15/03)      [3-5pen]
+65 Ponte Preta - Sampaio Corrêa                 0-0 (28/02)     0-0 (15/03)      (3-5pen)
 66 São Paulo - CRB                              2-0 (28/02)     3-0 (14/03)
                                                 (Valdívia 34, Éder Militão 40)
                                                 (Marcos Guilherme 5, Valdívia 47, Rodrigo Caio 58)
 67 Bragantino - Vitória                         1-0 (28/02)     0-3  (15/03)
                                                 (Matheus Peixoto 38)
                                                 (Neílton 20, 63, 72)
-68 Figueirense - Atlético (MG)                  0-1 (28/02)     2-1 (14/03)      [2-4pen]
+68 Figueirense - Atlético (MG)                  0-1 (28/02)     2-1 (14/03)      (2-4pen)
                                                 (Otero 31)
                                                 (Zé Antônio 21, Jorge Henrique 70 ; Ricardo Oliveira 25)
 69 Ferroviário - Vila Nova                      1-1 (28/02)     1-0 (15/03)
@@ -934,7 +934,7 @@ Obs.: In each match (from Third Round on), the second mentioned team plays the 2
 73 Avaí - Goiás                                 2-2 (11/04)     0-2 (18/04)
                                                 (Rômulo 87, Rodrigão 90+2 ; Breno 74, Júnior Viçosa 89)
                                                 (Giovanni 36pen, Carlos Eduardo 81)
-74 Internacional - Vitória                      2-1 (11/04)     0-1 (19/04)     [3-4pen]
+74 Internacional - Vitória                      2-1 (11/04)     0-1 (19/04)     (3-4pen)
                                                 (Patrick 17, D'Alessandro 89 ; Denílson 42)
                                                 (Neílton 80pen)
 75 Atlético (MG) - Ferroviário                  4-0 (04/04)     2-2 (18/04)
@@ -943,7 +943,7 @@ Obs.: In each match (from Third Round on), the second mentioned team plays the 2
 
 ▪ 1/8 Finals ▪
 
-76 Atlético (MG) - Chapecoense                  0-0 (02/05)     0-0 (16/05)     [3-4pen]
+76 Atlético (MG) - Chapecoense                  0-0 (02/05)     0-0 (16/05)     (3-4pen)
 77 Atlético (PR) - Cruzeiro                     1-2 (16/05)     1-1 (16/07)
                                                 (Thiago Carleto 41 ; Henrique 79, Raniel 90+2)
                                                 (Bergson 90+1 ; Arrascaeta 85)
@@ -967,7 +967,7 @@ Obs.: In each match (from Third Round on), the second mentioned team plays the 2
 
 ▪ Quarterfinals ▪
 
-84 Santos - Cruzeiro                            0-1 (01/08)     2-1 (15/08)     [0-3pen]
+84 Santos - Cruzeiro                            0-1 (01/08)     2-1 (15/08)     (0-3pen)
                                                 (Raniel 80)
                                                 (Gabriel 44, Bruno Henrique 83)
 85 Corinthians - Chapecoense                    1-0 (01/08)     1-0 (15/08)

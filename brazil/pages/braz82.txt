@@ -1177,7 +1177,7 @@ Third Phase
 Knockout
 
 ▪ First Leg ▪
-(Mar 28 and 31)
+_ Mar 28 and 31 _
 Vasco da Gama     1-1   0-1  Grêmio
   [Pedrinho;  Baltazar]
   [Paulo Isidoro]
@@ -1207,11 +1207,11 @@ Fourth Phase
 Knockout
 
 ▪ First Leg ▪
-(Apr 3 and 6)
+_ Apr 3 and 6 _
 Flamengo          2-1   1-1  Santos
   [Tita, Marinho;  Gilberto]
   [Zico;  Paulinho Batistote]
-(Apr 4 and 7)
+_ Apr 4 and 7 _
 Grêmio            1-1   2-1  Fluminense
   [Baltazar;  Amauri]
   [Tonho, Paulo Isidoro;  Mário]
@@ -1227,11 +1227,11 @@ Corinthians qualified due to better Third Phase record
 ▪ Semifinals ▪
 
 ▪ First Leg ▪
-(Apr 11 and 14)
+_ Apr 11 and 14 _
 Corinthians       1-2   1-3  Grêmio
   [Sócrates;  Tarciso, Paulo Roberto Costa]
   [Casagrande;  Baltazar, Tarciso, Paulo Isidoro]
-(Apr 11 and 15)
+_ Apr 11 and 15 _
 Flamengo          2-1   3-2  Guarani
   [Peu, Zico;  Lúcio]
   (Zico (3);  Jorge Mendonça (2))
@@ -1656,11 +1656,11 @@ Itabaiana qualified due to better Taça De Ouro 1st phase record.
 
 4th Phase (Quarterfinals)
 
-(Mar 14 and 20)
+_ Mar 14 and 20 _
 River             2-3   0-4  Campo Grande
 CSA               3-1   2-1  Mixto
 Joinville         1-0   2-2  Tiradentes-PI
-(Mar 17 and 20)
+_ Mar 17 and 20 _
 Itabaiana         1-4   0-3  Uberaba
 
 ▪ Semifinals ▪
@@ -1673,7 +1673,7 @@ CSA qualified due to better 4th phase record.
 
 ▪ Final ▪
 
-(Apr 11 and 18)
+_ Apr 11 and 18 _
 CSA               4-3   1-2  Campo Grande
 
 3rd Leg (Tie-Breaker)

@@ -861,21 +861,21 @@ Second Round (22/02 to 01/03)
                                                 (Aldair 24pen)
 45 Cruzeiro - São Francisco                     6-0 (22/02)
                                                 (Rafael Sóbis 4, 21, 25, 36, Robinho 17, Arrascaeta 76)
-46 Murici - América (MG)                        0-0 (22/02)      [5-4pen]
+46 Murici - América (MG)                        0-0 (22/02)      (5-4pen)
 47 Sinop - Fluminense                           1-3 (22/02)
                                                 (Alex 17 ; Sornoza 52, 81, Henrique Dourado 72pen)
-48 Criciúma - Altos                             2-2 (22/02)      [4-3pen]
+48 Criciúma - Altos                             2-2 (22/02)      (4-3pen)
                                                 (Adalgiso Pitbull 12, Douglas Moreira 88 ; Uilliam 82, Thiaguinho 90+4)
 49 Internacional - Oeste                        4-1 (22/02)
                                                 (Brenner 4, 56pen, Carlos 14, Charles 34 ; Tiago Adan 49)
 50 Sampaio Corrêa - Guarani-J                   2-0 (26/02)
                                                 (Giovani 49, Breno 66)
-51 Brusque - Corinthians                        0-0 (01/03)      [4-5pen]
-52 Avaí - Luverdense                            1-1 (01/03)      [2-3pen]
+51 Brusque - Corinthians                        0-0 (01/03)      (4-5pen)
+52 Avaí - Luverdense                            1-1 (01/03)      (2-3pen)
                                                 (Júnior Dutra 65 ; Diogo Sodré 13)
-53 Ponte Preta - Cuiabá                         1-1 (02/03)      [4-5pen]
+53 Ponte Preta - Cuiabá                         1-1 (02/03)      (4-5pen)
                                                 (Lucca 19, Cleberson Tiarinha 37)
-54 Boa - Goiás                                  0-0 (01/03)      [2-3pen]
+54 Boa - Goiás                                  0-0 (01/03)      (2-3pen)
 55 Vila Nova - Vasco                            1-2 (01/03)
                                                 (Wallyson 31pen ; Thalles 16, Wagner 84)
 56 Vitória - Bragantino                         3-2 (22/02)
@@ -886,7 +886,7 @@ Second Round (22/02 to 01/03)
                                                 (Eduardo Brock 50, Renatinho 83)
 59 PSTC - São Paulo                             2-4 (01/03)  [e]
                                                 (Lucão 14, Carlos Henrique 44 ; Cícero 13, 35, 71, Cueva 42pen)
-60 ABC - Osasco Audax                           1-1 (01/03)      [4-1pen]
+60 ABC - Osasco Audax                           1-1 (01/03)      (4-1pen)
                                                 (Caio Mancha 85 ; Léo Arthur 79)
 
 [e] Matched played in Londrina.
@@ -917,7 +917,7 @@ Third Round (08 to 15/03)
 68 Vasco - Vitória                              1-1 (09/03)     0-1 (16/03)
                                                 (Nenê 90+3pen ; Patric 78pen)
                                                 (Alan Costa 58)
-69 ASA - Paraná                                 0-0 (16/03)     0-0 (06/04)      [1-4pen]
+69 ASA - Paraná                                 0-0 (16/03)     0-0 (06/04)      (1-4pen)
 70 São Paulo - ABC                              3-1 (08/03)     1-1 (15/03)
                                                 (Luiz Araújo 27, 49, Lucas Pratto 55 ; Márcio Passos 52)
                                                 (Cueva 37 ; Márcio Passos 1)
@@ -926,7 +926,7 @@ Third Round (08 to 15/03)
 
 Fourth Round (05 to 19/04)
 
-71 Sport - Joinville                            2-1 (12/04)     1-2 (19/04)      [4-3pen]
+71 Sport - Joinville                            2-1 (12/04)     1-2 (19/04)      (4-3pen)
                                                 (Rithely 24, Juninho 83 ; Bruno Batata 47)
                                                 (Leandro Pereira 27 ; Bruno Rodrigues 76, Marlyson 89)
 72 Vitória - Paraná                             0-2 (13/04)     0-0 (19/04)
@@ -934,7 +934,7 @@ Fourth Round (05 to 19/04)
 73 Goiás - Fluminense                           2-1 (13/04)     0-3 (19/04)  [f]
                                                 (Jean Carlos 83, Léo Gamalho 87pen ; Marcos Junior 9)
                                                 (Henrique 57, Nogueira 61, Pedro 82)
-74 Internacional - Corinthians                  1-1 (12/04)     1-1 (19/04)      [4-3pen]
+74 Internacional - Corinthians                  1-1 (12/04)     1-1 (19/04)      (4-3pen)
                                                 (Rodrigo Dourado 56 ; Romero 52)
                                                 (Fagner 73og ; Maycon 7)
 75 São Paulo - Cruzeiro                         0-2 (13/04)     2-1 (19/04)
@@ -984,13 +984,13 @@ Semifinals (16/08 to 23/08)
 
 88 Botafogo - Flamengo                          0-0 (16/08)     0-1 (23/08)
                                                 (Diego 70)
-89 Grêmio - Cruzeiro                            1-0 (16/08)     0-1 (23/08)      [2-3pen]
+89 Grêmio - Cruzeiro                            1-0 (16/08)     0-1 (23/08)      (2-3pen)
                                                 (Lucas Barrios 45)
                                                 (Hudson 51)
 
 ▪ FINAL ▪
 
-   Flamengo - Cruzeiro                          1-1 (07/09)     0-0 (27/09)      [3-5pen]
+   Flamengo - Cruzeiro                          1-1 (07/09)     0-0 (27/09)      (3-5pen)
                                                 (Lucas Paquetá 75 ; Arrascaeta 83)
 
 CRUZEIRO champions of Copa do Brasil 2017 and classified to Copa Libertadores 2018.
