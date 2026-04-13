@@ -1163,9 +1163,9 @@ Tranmere Rovers          2-3 Newcastle United
    Ferguson 59)
 
 ▪ Semifinals ▪
-[Apr 2, Wembley]
+_ Apr 2 _, Wembley
 Bolton Wanderers         0-0 Aston Villa              (aet, 1-4 pen)
-(Apr 9, Wembley)
+_ Apr 9 _, Wembley
 Newcastle United         1-2 Chelsea
   (Robert Lee 66; Gustavo Poyet 17, 72)
 
@@ -1352,7 +1352,7 @@ Leicester City          1-0  Aston Villa
 ▪ Final ▪  Feb 27, London
 Leicester City          2-1 Tranmere Rovers
   (Matt Elliott 29, 81; David Kelly 78)
-  (red card: Clint Hill (Tranmere) 64)
+  [red card: Clint Hill (Tranmere) 64]
   [ref: Alan Wilkie (Phil Richards, 59); att: 74,313]
   Leicester: 1-Tim Flowers; 2-Frank Sinclair, 4-Gerry Taggart, 18-Matt Elliott
              (captain), 11-Steve Guppy, 29-Stefen Oakes (24-Andy Impey, 77),

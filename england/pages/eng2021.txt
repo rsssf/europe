@@ -794,9 +794,9 @@ Chelsea                 2-0 Shefffield United
 Leicester City          3-1 Manchester United
 
 ▪ Semifinals ▪
-[Apr 17, London]
+_ Apr 17 _, London
 Chelsea                 1-0 Manchester City
-(Apr 18, London)
+_ Apr 18 _, London
 Leicester City          1-0 Southampton
 
 ▪ Final ▪  May 15, London
@@ -832,7 +832,7 @@ Brentford     3-1 Bournemouth
 Swansea       1-1 Barnsley
   (Grimes 39; Woodrow 71)
 
-▪ Final ▪  May 29, Wembley; att; 11,689
+Final [May 29, Wembley; att; 11,689]
 Brentford     2-0 Swansea
   (Toney 10pen, Marcondes 20)
 

@@ -45,12 +45,12 @@ Charlton Athletic       2-1 Portsmouth
   (Euell 23, Unsworth 87og; Berger 53)
 Crystal Palace          1-3 Everton
   (Hudson 9;Gravesen 19pen, 62 Bent 82)
-  (red card: Naysmith (E) 71)
+  [red card: Naysmith (E) 71]
 Fulham                  2-0 Bolton Wanderers
   (Cole 5,82)
 Liverpool               2-1 Manchester City
   (Baros 48, Gerrard 75; Anelka 45)
-  (red card: Dunne (M) 85)
+  [red card: Dunne (M) 85]
 Manchester United       2-1 Norwich City
   (Belllion 32, Smith 50; McVeigh 75)
 Newcastle United        0-1 Tottenham Hotspur
@@ -95,7 +95,7 @@ Aston Villa             4-2 Newcastle United
   (Mellberg 4, Cole 53, Barry 71, Angel 82; Kluivert 28, O'Brien 36)
 Blackburn Rovers        1-1 Manchester United
   (Dickov 17; Smith 90)
-  (red card: Amoruso (B) 70)
+  [red card: Amoruso (B) 70]
 Chelsea                 2-1 Southampton
   (Beattie 34og, Lampard 40; Beattie 1)
 Everton                 2-1 West Bromwich Albion
@@ -126,7 +126,7 @@ Liverpool               3-0 West Bromwich Albion
   (Gerrard 16, Finnan 42, Luis Garcia 60)
 Manchester City         0-1 Everton
   (Cahill 60)
-  (red card: Cahill (E) 61)
+  [red card: Cahill (E) 61]
 Middlesbrough           2-1 Birmingham City
   (Viduka 27, 48; Heskey 42)
 Newcastle United        3-0 Blackburn Rovers
@@ -144,7 +144,7 @@ Arsenal                 2-2 Bolton Wanderers
   (Henry 31, Pires 66; Jaidi 63, Pedersen 85)
 Birmingham City         1-1 Charlton Athletic
   (Yorke 68; Young 49)
-  (red card: Johnson (B) 57)
+  [red card: Johnson (B) 57]
 Blackburn Rovers        1-0 Portsmouth
   (Jansen 75)
 Crystal Palace          1-2 Manchester City
@@ -152,7 +152,7 @@ Crystal Palace          1-2 Manchester City
 Norwich City            0-0 Aston Villa
 West Bromwich Albion    1-1 Fulham
   (Kanu 88; Cole 72)
-  (red cards: Clement (W) 84, Bouba Diop (F) 61, Cole (F) 85)
+  [red cards: Clement (W) 84, Bouba Diop (F) 61, Cole (F) 85]
 _ Sep 19 _
 Chelsea                 0-0 Tottenham Hotspur
 Everton                 1-0 Middlesbrough
@@ -179,7 +179,7 @@ Middlesbrough           0-1 Chelsea
   (Drogba 81)
 Newcastle United        3-1 West Bromwich Albion
   (Kluivert 70, Milner 78, Shearer 86; Horsfield 87)
-  (red card: Purse (W) 63)
+  [red card: Purse (W) 63]
 Tottenham Hotspur       0-1 Manchester United
   (Van Nistelrooy 42pen)
 _ Sep 26 _
@@ -212,7 +212,7 @@ Manchester United       1-1 Middlesbrough
 _ Oct 4 _
 Crystal Palace          2-0 Fulham
   (Johnson 53, Riihilahti 69)
-  (red card: Pearce (F) 6)
+  [red card: Pearce (F) 6]
 
 ▪ Round 9 ▪
 _ Oct 16 _
@@ -221,14 +221,14 @@ Arsenal                 3-1 Aston Villa
 Birmingham City         0-0 Manchester United
 Blackburn Rovers        0-4 Middlesbrough
   (Hasselbaink 46, 57, 90, Boateng 50)
-  (red card: Tugay (B) 30)
+  [red card: Tugay (B) 30]
 Bolton Wanderers        1-0 Crystal Palace
   (Davies 45)
 Everton                 1-0 Southampton
   (Osman 88)
 Fulham                  2-4 Liverpool
   (Boa Morte 24, 30; Knight 50og, Baros 71, Alonso 79, Biscan 90)
-  (red card: Josemi (L) 77)
+  [red card: Josemi (L) 77]
 Manchester City         1-0 Chelsea
   (Anelka 11pen)
 West Bromwich Albion    0-0 Norwich City
@@ -300,18 +300,18 @@ Liverpool               0-1 Birmingham City
   (Anderton 77)
 Norwich City            1-1 Blackburn Rovers
   (Svensson 56; Dickov 86)
-  (red card: Bothroyd (B) 44)
+  [red card: Bothroyd (B) 44]
 Southampton             2-2 West Bromwich Albion
   (A Svensson 28, 87; Earnshaw 29, 37)
 Tottenham Hotspur       2-3 Charlton Athletic
   (Keane 69pen, Defoe 79; Bartlett 17, 39, Thomas 50)
-  (red card: Bartlett (C) 68)
+  [red card: Bartlett (C) 68]
 _ Nov 7 _
 Manchester United       0-0 Manchester City
-  (red card: Smith (U) 89)
+  [red card: Smith (U) 89]
 Middlesbrough           1-1 Bolton Wanderers
   (Boateng 90; Pedersen 72)
-  (red card: Jaaskelainen (B) 86)
+  [red card: Jaaskelainen (B) 86]
 Newcastle United        1-4 Fulham
   (Bellamy 77; John 28, Malbranque 65, 71pen, Boa Morte 76)
 
@@ -329,7 +329,7 @@ Liverpool               3-2 Crystal Palace
   (Baros 23pen, 45, 90pen; Kolkka 44, Hughes 52)
 Manchester City         1-1 Blackburn Rovers
   (Sibierski 45; Dickov 78pen)
-  (red card: Mills (M) 77)
+  [red card: Mills (M) 77]
 Southampton             2-1 Portsmouth
   (Blackstock 18, Phillips 71; Jakobsson 12og)
 Tottenham Hotspur       4-5 Arsenal
@@ -376,10 +376,10 @@ Charlton Athletic       0-4 Chelsea
   (Duff 4, Terry 47, 50, Gudjohnsen 59)
 Fulham                  0-2 Blackburn Rovers
   (Gallagher 10, Dickov 77pen)
-  (red card: Knight (F) 76)
+  [red card: Knight (F) 76]
 Manchester City         2-0 Aston Villa
   (Macken 29, Wright-Phillips 38)
-  (red card: Hendrie (A) 90)
+  [red card: Hendrie (A) 90]
 Southampton             2-2 Crystal Palace
   (Phillips 50, Jakobsson 76; Johnson 48, Routledge 54)
 West Bromwich Albion    0-3 Manchester United
@@ -391,7 +391,7 @@ Newcastle United        1-1 Everton
   (Bellamy 5; Carsley 56)
 Tottenham Hotspur       2-0 Middlesbrough
   (Defoe 49, Kanoute 76)
-  (red card: Quedrue (M) 40)
+  [red card: Quedrue (M) 40]
 
 ▪ Round 16 ▪
 _ Dec 4 _
@@ -421,7 +421,7 @@ Middlesbrough           3-2 Manchester City
 ▪ Round 17 ▪
 _ Dec 11 _
 Crystal Palace          0-0 Blackburn Rovers
-  (red card: Thompson (B) 88)
+  [red card: Thompson (B) 88]
 Everton                 1-0 Liverpool
   (Carsley 68)
 Manchester City         0-1 Tottenham Hotspur
@@ -461,7 +461,7 @@ Tottenham Hotspur       5-1 Southampton
 _ Dec 19 _
 Liverpool               3-1 Newcastle United
   (Bramble 35og, Mellor 38, Baros 61; Kluivert 32)
-  (red card: Bowyer (N) 77)
+  [red card: Bowyer (N) 77]
 Portsmouth              0-1 Arsenal
   (Campbell 75)
 _ Dec 20 _
@@ -481,7 +481,7 @@ Crystal Palace          0-1 Portsmouth
   (Primus 69)
 Everton                 2-1 Manchester City
   (Cahill 22, Bent 63; Fowler 42)
-  (red card: Negouai (M) 83)
+  [red card: Negouai (M) 83]
 Manchester United       2-0 Bolton Wanderers
   (Giggs 10, Scholes 89)
 Norwich City            0-2 Tottenham Hotspur
@@ -489,7 +489,7 @@ Norwich City            0-2 Tottenham Hotspur
 Southampton             0-0 Charlton Athletic
 West Bromwich Albion    0-5 Liverpool
   (Riise 17, Sinama Pongolle 51, Gerrard 55, Riise 82, Luis Garcia 89)
-  (red card: Contra (W) 39)
+  [red card: Contra (W) 39]
 
 ▪ Round 20 ▪
 _ Dec 28 _
@@ -499,14 +499,14 @@ Bolton Wanderers        0-1 Blackburn Rovers
   (Dickov 6)
 Charlton Athletic       2-0 Everton
   (El Karkouri 82, Hreidarsson 85)
-  (red card: Ferguson (E) 83)
+  [red card: Ferguson (E) 83]
 Fulham                  2-3 Birmingham City
   (Legwinski 34, Radzinski 90; Heskey 25, Carter 41, Savage 53)
 Liverpool               1-0 Southampton
   (Sinama-Pongolle 44)
 Manchester City         1-1 West Bromwich Albion
   (Anelka 32; Dunne 85og)
-  (red card: Gaardsoe (W) 17)
+  [red card: Gaardsoe (W) 17]
 Middlesbrough           2-0 Norwich City
   (Job 52, 54)
 Portsmouth              0-2 Chelsea
@@ -536,7 +536,7 @@ Newcastle United        2-1 Birmingham City
   (Ameobi 6, Bowyer 44; Heskey 64)
 Portsmouth              1-1 Norwich City
   (Yakubu 61pen; Francis 9)
-  (red card: Edworthy (N) 5)
+  [red card: Edworthy (N) 5]
 Tottenham Hotspur       5-2 Everton
   (Marney 16, 80, Ziegler 27, Mendes 59, Keane 68; Cahill 40, McFadden 87)
 
@@ -573,14 +573,14 @@ Charlton Athletic       3-1 Birmingham City
   (El Karkouri 9, Bartlett 67, Murphy 75; Melchiot 55)
 Liverpool               0-1 Manchester United
   (Rooney 21)
-  (red card: Brown (M) 65)
+  [red card: Brown (M) 65]
 Manchester City         3-1 Crystal Palace
   (S Wright-Phillips 12, 90, Fowler 15; Powell 32)
 Newcastle United        2-1 Southampton
   (Shearer 9pen, Bramble 38; Crouch 42)
 Portsmouth              0-1 Blackburn Rovers
   (Pedersen 55)
-  (red cards: Lua Lua (P) 51, Faye (P) 90)
+  [red cards: Lua Lua (P) 51, Faye (P) 90]
 Tottenham Hotspur       0-2 Chelsea
   (Lampard 39pen, 90)
 _ Jan 16 _
@@ -619,17 +619,17 @@ Blackburn Rovers        0-1 Bolton Wanderers
 _ Feb 1 _
 Arsenal                 2-4 Manchester United
   (Vieira 8, Bergkamp 36; Giggs 18, Ronaldo 54, 58, O'Shea 89)
-  (red card: Silvestre (M) 69)
+  [red card: Silvestre (M) 69]
 Bolton Wanderers        3-1 Tottenham Hotspur
   (Diouf 49pen, Ben Haim 86, Davies 87; Defoe 66)
-  (red card: Kanoute (T) 68)
+  [red card: Kanoute (T) 68]
 Charlton Athletic       1-2 Liverpool
   (Bartlett 20; Morientes 61, Riise 79)
 Portsmouth              2-1 Middlesbrough
   (Taylor 40, Queudrue 58og; Christie 35)
 West Bromwich Albion    2-2 Crystal Palace
   (Campbell 82, Earnshaw 90; Johnson 47, Riihilahti 90)
-  (red card: Sorondo (C) 12)
+  [red card: Sorondo (C) 12]
 _ Feb 2 _
 Birmingham City         2-1 Southampton
   (Pandiani 12, Blake 41pen; Camara 52)
@@ -654,7 +654,7 @@ Manchester United       2-0 Birmingham City
   (Keane 55, Rooney 78)
 Middlesbrough           1-0 Blackburn Rovers
   (Queudrue 35)
-  (red card: Parlour (M) 89)
+  [red card: Parlour (M) 89]
 Newcastle United        1-1 Charlton Athletic
   (Dyer 52; Rommedahl 53)
 Norwich City            3-2 West Bromwich Albion
@@ -675,7 +675,7 @@ Blackburn Rovers        3-0 Norwich City
 Bolton Wanderers        0-0 Middlesbrough
 Everton                 0-1 Chelsea
   (Gudjohnsen 69)
-  (red card: Beattie (E) 8)
+  [red card: Beattie (E) 8]
 Portsmouth              1-2 Aston Villa
   (Yakubu 24pen; De Zeeuw 17og, Hitzlsperger 73)
 _ Feb 13 _
@@ -703,7 +703,7 @@ Manchester United       2-1 Portsmouth
   (Rooney 8, 81; O'Neil 47)
 Southampton             1-1 Arsenal
   (Crouch 67; Ljungberg 45)
-  (red cards: Prutton (S) 45, Van Persie (A) 52)
+  [red cards: Prutton (S) 45, Van Persie (A) 52]
 Tottenham Hotspur       2-0 Fulham
   (Kanoute 78, Keane 90)
 _ Feb 27 _
@@ -714,7 +714,7 @@ Newcastle United        2-1 Bolton Wanderers
 _ Feb 28 _
 Norwich City            2-3 Manchester City
   (Ashton 12, McKenzie 16; Siberski 25, Fowler 37, 90)
-  (red card: Jonson (N) 66)
+  [red card: Jonson (N) 66]
 _ Mar 15 _
 Chelsea                 1-0 West Bromwich Albion
   (Drogba 26)
@@ -728,7 +728,7 @@ Arsenal                 3-0 Portsmouth
 Aston Villa             2-0 Middlesbrough
   (Laursen 64, Moore 79)
 Crystal Palace          0-0 Manchester United
-  (red card: Lakis (C) 64)
+  [red card: Lakis (C) 64]
 Fulham                  0-0 Charlton Athletic
 Newcastle United        1-0 Liverpool
   (Robert 70)
@@ -753,7 +753,7 @@ Bolton Wanderers        1-0 Norwich City
   (Stelios 42)
 Charlton Athletic       1-4 West Bromwich Albion
   (Johansson 24; Horsfield 9, Earnshaw 73, 84, 90pen)
-  (red card: El Karkouri (C) 29)
+  [red card: El Karkouri (C) 29]
 Chelsea                 4-1 Crystal Palace
   (Lampard 29, Cole 54, Kezman 78, 90; Riihilahti 42)
 Manchester United       1-0 Fulham
@@ -767,7 +767,7 @@ Birmingham City         2-0 Aston Villa
   (Heskey 52, Gray 89)
 Liverpool               2-1 Everton
   (Gerrard 27, Luis Garcia 32; Cahill 82)
-  (red card: Baros (L) 77)
+  [red card: Baros (L) 77]
 Middlesbrough           1-3 Southampton
   (Hasselbaink 41; Jakobsson 14, Crouch 60, 67)
 
@@ -786,7 +786,7 @@ Liverpool               1-0 Bolton Wanderers
 Manchester United       0-0 Blackburn Rovers
 Newcastle United        0-3 Aston Villa
   (Angel 5, Barry 73pen, 80pens)
-  (red cards: Taylor (N) 73, Bowyer (N) 82, Dyer (N) 82)
+  [red cards: Taylor (N) 73, Bowyer (N) 82, Dyer (N) 82]
 Southampton             1-3 Chelsea
   (Phillips 69; Lampard 22, Gudjohnsen 39, 83)
 _ Apr 3 _
@@ -801,7 +801,7 @@ Blackburn Rovers        3-0 Southampton
   (Pedersen 11, Jakobsson 48og, Reid 55)
 Bolton Wanderers        3-1 Fulham
   (Okocha 13pen, Nolan 33, Stelios 54; Boa Morte 47)
-  (red card: Jensen (F) 12)
+  [red card: Jensen (F) 12]
 Chelsea                 1-1 Birmingham City
   (Drogba 82; Pandiani 65)
 Manchester City         1-0 Liverpool
@@ -815,7 +815,7 @@ Portsmouth              4-2 Charlton Athletic
 _ Apr 10 _
 Aston Villa             1-1 West Bromwich Albion
   (Vassell 27; Robinson 90)
-  (red cards: Ridgewell (A) 61, Greening (W) 61)
+  [red cards: Ridgewell (A) 61, Greening (W) 61]
 Everton                 4-0 Crystal Palace
   (Areta 7, Cahill 47, 54, Vaughan 87)
 Tottenham Hotspur       1-0 Newcastle United
@@ -860,7 +860,7 @@ Blackburn Rovers        1-0 Crystal Palace
 Chelsea                 0-0 Arsenal
 Everton                 1-0 Manchester United
   (Ferguson 55)
-  (red cards: Gary Neville (M) 72, Scholes (M) 90)
+  [red cards: Gary Neville (M) 72, Scholes (M) 90]
 Manchester City         3-0 Birmingham City
   (Taylor 55og, Dunne 80, Siberski 86pen)
 Norwich City            2-1 Newcastle United
@@ -902,7 +902,7 @@ Bolton Wanderers        0-2 Chelsea
   (Lampard 60, 76)
 Fulham                  2-0 Everton
   (John 15, McBride 39)
-  (red card: Diop (F) 76)
+  [red card: Diop (F) 76]
 Liverpool               1-1 Middlesbrough
   (Gerrard 52; Nemeth 4)
 Manchester City         2-0 Portsmouth
@@ -914,7 +914,7 @@ Southampton             4-3 Norwich City
 _ May 1 _
 Charlton Athletic       0-4 Manchester United
   (Scholes 34, Fletcher 44, Smith 62, Rooney 67)
-  (red card: Perry (C) 85)
+  [red card: Perry (C) 85]
 Tottenham Hotspur       5-1 Aston Villa
   (Kanoute 6, 27, King 19, Reid 67, Kelly 90; Barry 45pen)
 _ May 2 _
@@ -927,22 +927,22 @@ Aston Villa             1-2 Manchester City
   (Angel 61; S Wright-Phillips 5, Musampa 12)
 Blackburn Rovers        1-3 Fulham
   (Neill 6; Malbranque 20, 77, McBride 53)
-  (red cards: Short (B) 69, Rosenior (F) 70)
+  [red cards: Short (B) 69, Rosenior (F) 70]
 Chelsea                 1-0 Charlton Athletic
   (Makelele 90)
 Crystal Palace          2-2 Southampton
   (Hall 34, Ventola 72; Crouch 37pen, Higginbotham 90)
-  (red cards: Sorondo (P) 58, Crouch (S) 58)
+  [red cards: Sorondo (P) 58, Crouch (S) 58]
 Everton                 2-0 Newcastle United
   (Weir 43, Cahill 59)
-  (red card: Ameobi (N) 56)
+  [red card: Ameobi (N) 56]
 Manchester United       1-1 West Bromwich Albion
   (Giggs 21; Earnshaw 63pen)
 Middlesbrough           1-0 Tottenham Hotspur
   (Boateng 11)
 Norwich City            1-0 Birmingham City
   (Ashton 45pen)
-  (red card: Johnson (B) 31)
+  [red card: Johnson (B) 31]
 Portsmouth              1-1 Bolton Wanderers
   (Yakubu 72; Diouf 11)
 _ May 8 _
@@ -954,7 +954,7 @@ Birmingham City         2-1 Arsenal
   (Pandiani 80, Heskey 90; Bergkamp 88)
 Bolton Wanderers        3-2 Everton
   (Jaidi 53, Davies 61, Stelios 66; Cahill 9, Carsley 53)
-  (red card: N'Gotty (B) 45)
+  [red card: N'Gotty (B) 45]
 Charlton Athletic       2-2 Crystal Palace
   (Hughes 30, Fortune 82; Freedman 58, Johnson 71pen)
 Fulham                  6-0 Norwich City
@@ -1042,7 +1042,7 @@ Macclesfield           2-0 Alfreton [Parkin 54,Sheron 78 - 1,783]
 Carlisle               1-0 Bristol R [aet: Vieria 109 - 4,813]
 _ Wed Nov 24 _
 Bournemouth            3-1 Forest Green [Connell 10,Spicer 70,Rodrigues 90; Lyttle 88 - 5,489]
-_ Thur Nov 25 _
+_ Thu Nov 25 _
 Brentford              1-1 Bristol C [aet 4-3 pens: Frampton 44; Heffernan 77 - 3,706]
 
 ▪ 2nd Round ▪
@@ -1148,30 +1148,30 @@ Chelsea                2-0 Birmingham [Huth 6,Terry 80 - 40,379]
 ▪ 4th Round Replays ▪
 _ Sat Feb 12 _
 Fulham                 4-2 Derby
- (aet: Diop 45p,Boa Morte 50,John 94,Jensen 105; Rasiak 4,Peschisolido 86 - 15,528)
+ [aet: Diop 45p,Boa Morte 50,John 94,Jensen 105; Rasiak 4,Peschisolido 86 - 15,528]
 Hartlepool             0-1 Brentford [Rankin 48 - 7,580]
 Tottenham              3-1 West Brom [Keane 45p,Defoe 50,55; Kanu 12 - 27,860]
 _ Sun Feb 13 _
 Sheff Utd              1-1 West Ham [aet 3-1 pens: Liddell 8; Sheringham 63p - 15,067]
 
 ▪ 5th Round ▪
-_ Sat 19 Feb _
+_ Sat Feb 19 _
 Bolton                 1-0 Fulham [Davies 12 - 16,151]
 Everton                0-2 Man Utd [Fortune 23,Ronaldo 58 - 38,664]
 Charlton               1-2 Leicester [Bartlett 45; Dabizas 4,Dublin 90 - 23,719]
 Southampton            2-2 Brentford [Camara 4,36; Rankin 40,Sodje 58 - 24,741]
 Arsenal                1-1 Sheff Utd [Pires 78; Gray 90p - 36,891]
-_ Sun 20 Feb _
+_ Sun Feb 20 _
 Burnley                0-0 Blackburn [21,468]
 Newcastle              1-0 Chelsea [Kluivert 4 - 45,740]
 Tottenham              1-1 Nottm Forest [Defoe 45; Taylor 56 - 35,640]
 
 ▪ 5th Round Replays ▪
-_ Tue 1 Mar _
+_ Tue Mar 1 _
 Blackburn              2-1 Burnley [Tugay 31,Pedersen 86; Hyde 42 - 28,691]
 Brentford              1-3 Southampton [Hutchinson 4; Crouch 11,90,Phillips 67 - 11,720]
 Sheff Utd              0-0 Arsenal [aet 2-4 pens: 27,595]
-_ Wed 2 Mar _
+_ Wed Mar 2 _
 Nottm Forest           0-3 Tottenham [Pamarot 60,Keane 72,Mido 90 - 28,062]
 
 ▪ Quarter Finals ▪
@@ -1233,7 +1233,7 @@ Ipswich              2-0 Brentford
   (Miller 73, Westlake 90)
 Kidderminster        1-1 Cardiff              (aet, 4-5 pen)
   (Brown 32; Earnshaw 28)
-  (red card: Vidmar (C) 112)
+  [red card: Vidmar (C) 112]
 Leeds                1-0 Huddersfield
   (Pugh 23)
 Leyton Orient        1-3 Bournemouth
@@ -1242,7 +1242,7 @@ Lincoln City         3-1 Derby County
   (Taylor-Fletcher 79pen, Yeo 80, McCombe 90; Idiakez 28)
 Oldham               2-1 Stoke
   (Eyres 72, 76pen; Asaba 25)
-  (red card: Thomas(S) 59)
+  [red card: Thomas(S) 59]
 Peterborough         0-3 MK Dons
   (McLeod 63, Smart 80, Kamara 90)
 QPR                  3-0 Swansea
@@ -1326,7 +1326,7 @@ Blackburn Rovers     3-3 Bournemouth          (aet, 6-7 pen)
    Spicer 115)
 Boston               1-4 Fulham
   (Beevers 56; Radzinski 9, 70, Malbranque 28, McBride 34)
-  (red card: Rosenior (F) 90)
+  [red card: Rosenior (F) 90]
 Bristol City         2-2 Everton              (aet, 3-4 pen)
   (Stubbs 50og, Lita 53; Ferguson 30pen, Chadwick 45)
 Coventry City        1-0 Sheffield Wednesday
@@ -1345,7 +1345,7 @@ Leicester            2-3 Preston              (aet)
 _ Oct 26 _
 Bournemouth          3-3 Cardiff              (aet, 4-5 pen)
   (Hayter 8, 90, Stock 118; Lee 24, Bullock 49, Jerome 108)
-  (red card: Vidmar (C) 117)
+  [red card: Vidmar (C) 117]
 Burnley              3-1 Aston Villa
   (Branch 9, Camara 65, Vaiois 86; Angel 31)
 Crewe                0-3 Manchester Utd
@@ -1365,12 +1365,12 @@ Bolton               3-4 Tottenham            (aet)
    Bunjevcevic 84, Brown 95)
 Charlton             1-2 Crystal Palace
   (Hreidarsson 5; Freedman 41, Torghelle 54)
-  (red card: Torghelle (CP) 70)
+  [red card: Torghelle (CP) 70]
 Chelsea              1-0 West Ham
   (Kezman 57)
 Everton              2-0 Preston
   (Carsley 52, Bent 89)
-  (red card: Carsley (E) 72)
+  [red card: Carsley (E) 72]
 Manchester City      1-2 Arsenal
   (Fowler 90; Van Persie 78, Karbassiyoon 90)
 Middlesbrough        3-0 Coventry
@@ -1578,7 +1578,7 @@ Wigan          0-0 Burnley [9,746]
 _ Wed Sep 15 _
 Coventry       2-2 Gillingham [Morrell 31,John 49p; Agyemang 65,76 - 11,966]
 
-_ Sat 18 Sep _
+_ Sat Sep 18 _
 Brighton       2-3 QPR [Hinshelwood 23,Currie 44; Gallen 16,Furlong 74,Rose 90 - 6,612]
 Cardiff        0-2 Derby [Reich 34,Taylor 49 - 12,008]
 Coventry       0-0 Rotherham [13,834]
@@ -1590,15 +1590,15 @@ Stoke          0-0 Notts Forest [21,115]
 Sunderland     3-1 Preston [Elliott 27,52,Carter 45; Alexander 39p - 24,264]
 West Ham       1-1 Ipswich [Mackay 11; Counago 57 - 28,812]
 Wigan          4-0 Sheff Utd [Ellington 29,35,Roberts 33,90 - 10,682]
-_ Sun 19 Sep _
+_ Sun Sep 19 _
 Millwall       0-2 Watford [Webber 65,Helguson 76 - 10,865]
 
-_ Wed 22 Sep _
+_ Wed Sep 22 _
 Millwall       3-1 Derby [Wise 2,Simpson 48,Ifill 90; Reich 49 - 9,132]
 
-_ Fri 24 Sep _
+_ Fri Sep 24 _
 Leeds          0-1 Sunderland [Robinson 65 - 28,926]
-_ Sat 25 Sep _
+_ Sat Sep 25 _
 Burnley        2-2 Stoke [Moore 3,Blake 19p; Akinbiyi 34,50 - 12,981]
 Derby          1-1 Wigan [Smith 17; McCulloch 19 - 26,113]
 Gillingham     0-1 Brighton [Knight 79p - 8,365]
@@ -1609,10 +1609,10 @@ Rotherham      1-1 Millwall [Sedgwick 87; Ifill 77 - 5,062]
 Sheff Utd      1-1 Coventry [Black 30; Morrell 15 - 16,337]
 Watford        0-1 Reading [Sidwell 65 - 13,389]
 Wolves         2-3 Cardiff [Cort 12,Ince 85; Parry 11,Thorne 48,Kavanagh 59 - 27,896]
-_ Sun 26 Sep _
+_ Sun Sep 26 _
 Notts Forest   2-1 West Ham [Evans 84,King 90; Harewood 58 - 25,615]
 
-_ Tue 28 Sep _
+_ Tue Sep 28 _
 Burnley        1-0 Cardiff [Chaplow 88 - 7,200]
 Gillingham     0-2 Leicester [Heath 49,Dublin 71 - 6,089]
 Ipswich        1-1 Reading [Kuqi 10; Kitson 26 - 23,167]
@@ -1622,11 +1622,11 @@ QPR            4-1 Coventry [Cureton 32,41,74,Furlong 90; Barrett 49 - 14,680]
 Rotherham      2-3 Crewe [Burchill 17,S Barker 87; Ashton 19p,71,Lunt 61 - 4,498]
 Sheff Utd      1-0 Sunderland [Shaw 67 - 17,908]
 Watford        0-0 Wigan [11,161]
-_ Wed 29 Sep _
+_ Wed Sep 29 _
 Derby          1-1 West Ham [Johnson 6; Etherington 11 - 23,112]
 Notts Forest   0-1 Brighton [Virgo 25 - 20,109]
 
-_ Sat 2 Oct _
+_ Sat Oct 2 _
 Brighton       1-1 Sheff Utd [Currie 22; Shaw 62 - 6,418]
 Cardiff        0-0 Leeds [17,006]
 Crewe          3-0 Watford [S Jones 20,Sorvel 23,38 - 6,382]
@@ -1637,13 +1637,13 @@ Stoke          0-1 QPR [Gallen 69 - 16,877]
 Sunderland     0-0 Derby [29,881]
 West Ham       1-0 Wolves [Sheringham 75 - 29,585]
 Wigan          2-0 Rotherham [Roberts 11,Mahon 63 - 7,937]
-_ Sun 3 Oct _
+_ Sun Oct 3 _
 Coventry       1-2 Ipswich [Suffo 77; Bowditch 70,Mills og 87 - 12,608]
 Millwall       1-0 Notts Forest [Livermore 45 - 11,233]
 
-_ Fri 15 Oct _
+_ Fri Oct 15 _
 Notts Forest   1-0 Wolves [Reid 42 - 21,865]
-_ Sat 16 Oct _
+_ Sat Oct 16 _
 Cardiff        2-0 Rotherham [Thorne 56,75 -
 Coventry       1-1 Leicester [Makin og 80; Dublin 70 - 18,054]
 Crewe          3-1 Brighton [Lunt 9,White 34,Higdon 69; Jarrett 79 - 6,811]
@@ -1654,10 +1654,10 @@ Plymouth       1-2 Wigan [Crawford 78; Roberts 54,69 - 14,443]
 QPR            1-0 West Ham [Rose 22 - 18,363]
 Stoke          0-1 Reading [Shorey 41 - 15,574]
 Sunderland     1-0 Millwall [Muscat og 72 - 23,839]
-_ Sun 17 Oct _
+_ Sun Oct 17 _
 Gillingham     1-3 Sheff Utd [Bromby og 75; Shaw 9,59,Tonge 71 - 6,964]
 
-_ Tue 19 Oct _
+_ Tue Oct 19 _
 Brighton       1-1 Cardiff [Knight 10; Bullock 81 - 6,112]
 Burnley        2-2 Coventry [Blake 65p,Branch 73; Johnson 62,Barrett 70 - 10,919]
 Leicester      2-2 Ipswich [Connolly 34,Heath 60; Westlake 2,Heath og 89 - 22,497]
@@ -1671,9 +1671,9 @@ West Ham       2-0 Stoke [Harewood 31,Sheringham 59 - 29,808]
 Wigan          4-1 Crewe [McCulloch 18,Ellington 25,48,Bullard 84; S Jones 56 - 7,547]
 Wolves         2-0 Derby [Cooper 19p,50 - 26,465]
 
-_ Fri 22 Oct _
+_ Fri Oct 22 _
 Burnley        0-2 Derby [Tudgay 57,Reich 63 - 13,703]
-_ Sat 23 Oct _
+_ Sat Oct 23 _
 Brighton       1-0 Leeds [Carlisle og 58 - 6,716]
 Leicester      1-1 Stoke [Halls og 21; Asaba 37 - 22,882]
 Millwall       2-2 Cardiff [Tessem 47,Harris 74; O'Neil 40,Lee 68 - 10,476]
@@ -1684,12 +1684,12 @@ Watford        2-2 Ipswich [Helguson 67,Bouazza 73; Westlake 50,Bent 63 - 15,894
 West Ham       3-1 Gillingham [Zamora 18,Harewood 25,Mullins 39; Byfield 45 - 25,247]
 Wigan          4-1 Coventry [Mahon 15,Graham 53,Ellington 63,Flynn 90; Johnson 32 - 9,632]
 Wolves         2-1 QPR [Cort 22,70; Gallen 90 - 27,070]
-_ Mon 25 Oct _
+_ Mon Oct 25 _
 Rotherham      0-1 Sunderland [Whitehead 61 - 6,026]
 
-_ Fri 29 Oct _
+_ Fri Oct 29 _
 Crewe          2-3 Sheff Utd [Foster 24,Thirlwell og 90; Harley 5,Gray 10,Cadamerteri 12 - 7,131]
-_ Sat 30 Oct _
+_ Sat Oct 30 _
 Cardiff        0-0 Leicester [13,759]
 Coventry       3-2 Reading [John 14p,Morrell 51,Johnson 66; Owusu 11,Kitson 71 - 13,663]
 Derby          3-2 Rotherham [Rasiak 39,Peschisolido 58,Vincent 66; Swailes 8,Scott 34 - 25,096]
@@ -1700,10 +1700,10 @@ Plymouth       1-1 West Ham [Wotton 76; Lomas 43 - 20,220]
 QPR            3-0 Burnley [Gallen 13p,Santos 16,Furlong 24 - 15,638]
 Stoke          1-0 Millwall [Greenacre 86 - 14,125]
 Sunderland     2-0 Brighton [Arca 64,Lawrence 82p - 25,532]
-_ Sun 31 Oct _
+_ Sun Oct 31 _
 Leeds          0-2 Wigan [Mahon 46,Bullard 52 - 27,432]
 
-_ Tue 2 Nov _
+_ Tue Nov 2 _
 Cardiff        4-1 West Ham [Lee 3,Ledley 16,Parry 54,McAnuff 77; Harewood 69p - 14,222]
 Crewe          2-2 Leicester [Rivers 49,Otsemobor 61; Nalis 45,Gudjonsson 53 - 6,849]
 Gillingham     0-0 Watford [7,009]
@@ -1712,15 +1712,15 @@ Plymouth       2-2 Reading [Ingimarsson og 18,Crawford 41; Coughlan og 51,Kitson
 QPR            1-1 Millwall [Furlong 87; Hayles 51 - 16,685]
 Stoke          0-1 Wigan [McCulloch 87 - 15,882]
 Sunderland     3-1 Wolves [Lawrence 57,80,Elliott 68; Miller 18 - 23,925]
-_ Wed 3 Nov _
+_ Wed Nov 3 _
 Coventry       1-1 Preston [Suffo 49p; Lewis 68 - 12,478]
 Derby          3-0 Brighton [Smith 9, Rasiak 49,80 - 22,480]
 Leeds          1-2 Burnley [Wright 1; Roche 10,Duffy 31 - 27,490]
 Notts Forest   2-2 Rotherham [Johnson 52,King 63p; Sedgwick 19,Junior 27 - 21,619]
 
-_ Fri 5 Nov _
+_ Fri Nov 5 _
 Millwall       2-0 Sunderland [Wise 33p,Livermore 45 - 10,513]
-_ Sat 6 Nov _
+_ Sat Nov 6 _
 Brighton       1-3 Crewe [Reid 85; Ashton 40,59,Rivers 50 - 6,163]
 Burnley        0-2 Ipswich [Bent 15,65 - 11,969]
 Preston        2-4 Leeds [Cresswell 54,83; Deane 13,Healy 15,44,Walton 72 - 18,531]
@@ -1731,10 +1731,10 @@ Watford        2-2 Derby [Helguson 41,Gunnarsson 82; Taylor 58,Peschisolido 73 -
 West Ham       2-1 QPR [Harewood 36p,64; McLeod 72 - 31,365]
 Wigan          0-2 Plymouth [Wotton 40,Crawford 69 - 10,294]
 Wolves         2-1 Notts Forest [Cooper 19p,Bischoff 43; Johnson 25 - 27,605]
-_ Mon 8 Nov _
+_ Mon Nov 8 _
 Leicester      3-0 Coventry [Nalis 26,Tiatto 45,Heath 72 - 22,479]
 
-_ Sat 13 Nov _
+_ Sat Nov 13 _
 Burnley        1-0 Notts Forest [Blake 6 - 11,622]
 Coventry       2-1 Plymouth [Hughes 9,Barrett 15; Evans 48 - 15,314]
 Gillingham     0-2 Derby [Rasiak 42,Taylor 90 - 8,015]
@@ -1748,9 +1748,9 @@ Sheff Utd      1-1 Watford [Quinn 30; Gunnarsson 65 - 18,454]
 Stoke          1-0 Crewe [Noel-Williams 64 - 17,640]
 West Ham       0-1 Brighton [Butters 68 - 29,514]
 
-_ Fri 19 Nov _
+_ Fri Nov 19 _
 Cardiff        0-1 Preston [Mawene 14 - 10,950]
-_ Sat 20 Nov _
+_ Sat Nov 20 _
 Brighton       0-1 Burnley [Blake 70 - 6,109]
 Crewe          4-1 Gillingham [Vaughan 35,Ashton 71,80,S Jones 89; Henderson 73 - 6,128]
 Derby          0-1 Sheff Utd [Quinn 61 - 25,725]
@@ -1760,14 +1760,14 @@ Plymouth       0-0 Stoke [15,264]
 Watford        0-0 Rotherham [17,780]
 Wigan          0-0 Leicester [10,924]
 Wolves         0-1 Coventry [McSheffrey 61 - 26,291]
-_ Sun 21 Nov _
+_ Sun Nov 21 _
 Millwall       1-0 West Ham [Dichio 78 - 15,025]
 Sunderland     2-0 Ipswich [Elliott 60,Brown 75 - 31,723]
 
-_ Wed 24 Nov _
+_ Wed Nov 24 _
 Leeds          2-2 Watford [Wright 21,Carlisle 86; Dyer 9,71 - 24,585]
 
-_ Sat 27 Nov _
+_ Sat Nov 27 _
 Burnley        1-0 Millwall [Blake 61p - 11,471]
 Coventry       0-1 Crewe [Ashton 26p - 12,823]
 Gillingham     2-1 Notts Forest [Henderson 76p,Johnson 82; Taylor 14 - 8,784]
@@ -1779,13 +1779,13 @@ Reading        1-1 Wigan [Owusu 42; Mahon 26 - 22,114]
 Sheff Utd      3-3 Wolves [Bromby 28,Thirlwell 53,Shaw 72; Olofinjana 7,Cort 50,Lescott 87 - 18,946]
 Stoke          0-1 Sunderland [Bridges 83 - 16,980]
 West Ham       3-2 Watford [Reo-Coker 28,D Powell 30,Rebrov 58; Gunnarsson 5,Dyer 21 - 24,541]
-_ Mon 29 Nov _
+_ Mon Nov 29 _
 Rotherham      1-0 Leeds [McIntosh 77 - 8,860]
 
-_ Tue 30 Nov _
+_ Tue Nov 30 _
 Crewe          2-1 Millwall [Ashton 1,Varney 76; Ifill 71 - 5,409]
 
-_ Sat 4 Dec _
+_ Sat Dec 4 _
 Brighton       1-0 Rotherham [Harding 82 - 6,076]
 Cardiff        3-1 Gillingham [Jerome 13,Thorne 41p,55; Johnson 33 - 10,623]
 Crewe          2-2 Ipswich [Ashton 24,27; Naylor 55,Bent 59 - 7,236]
@@ -1797,15 +1797,15 @@ Plymouth       1-0 Burnley [Wotton 90p - 13,308]
 Sunderland     0-2 West Ham [Harewood 59,Sheringham 90 - 29,510]
 Watford        0-1 Stoke [Noel-Williams 24 - 12,169]
 Wolves         4-1 Reading [Cameron 31,Olofinjana 45,Clarke 77,90; Morgan 47 - 25,572]
-_ Sun 5 Dec _
+_ Sun Dec 5 _
 Wigan          5-0 Preston [McCulloch 27,Mahon 52,Ellington 57,72,Roberts 79p - 10,565]
 
-_ Tue 7 Dec _
+_ Tue Dec 7 _
 Wolves         1-2 Millwall [Cooper 57p; Dobie 9,Dichio 72 - 24,748]
 
-_ Fri 10 Dec _
+_ Fri Dec 10 _
 West Ham       1-1 Leeds [Chadwick 50; Healy 90p - 30,684]
-_ Sat 11 Dec _
+_ Sat Dec 11 _
 Burnley        2-0 Preston [Blake 45,85 - 15,318]
 Cardiff        0-2 Sunderland [Whitehead 67,Lawrence 77 - 12,528]
 Crewe          3-0 Plymouth [Lunt 42,Ashton 57,Doumbe og 80 - 6,823]
@@ -1818,10 +1818,10 @@ Stoke          1-0 Coventry [Akinbiyi 21 - 15,744]
 Watford        1-1 Wolves [Helguson 4; Olofinjana 35 - 14,605]
 Wigan          2-0 Gillingham [Ellington 17,McCulloch 88 - 8,451]
 
-_ Fri 17 Dec _
+_ Fri Dec 17 _
 Brighton       0-1 Stoke [Akinbiyi 85 - 6,028]
 Notts Forest   1-1 Leicester [Dawson 57; Connolly 90 - 21,415]
-_ Sat 18 Dec _
+_ Sat Dec 18 _
 Coventry       1-0 Watford [McSheffrey 45 - 14,493]
 Gillingham     3-1 Rotherham [Hope 70,Jarvis 80,Vernazza og 90; Hoskins 89 - 8,576]
 Plymouth       0-2 Derby [Coughlan og 9,Peschisolido 62 - 15,335]
@@ -1830,12 +1830,12 @@ Reading        1-0 QPR [Shorey 64 - 20,272]
 Sheff Utd      2-1 Cardiff [Liddell 69,Gray 79; Harris 41 - 18,240]
 Sunderland     2-1 Burnley [Arca 35,Larence 52; Branch 36 - 27,102]
 Wolves         1-1 Crewe [Cort 90; Lescott og 38 - 25,340]
-_ Sun 19 Dec _
+_ Sun Dec 19 _
 Leeds          1-1 Millwall [Oster 43; Morris 86p - 26,265]
-_ Tue 21 Dec _
+_ Tue Dec 21 _
 Ipswich        2-1 Wigan [Naylor 66,Bent 89; Baines 57 - 28,286]
 
-_ Sun 26 Dec _
+_ Sun Dec 26 _
 Brighton       2-1 Gillingham [Carpenter 79,Virgo 88; Crofts 34 - 6,420]
 Cardiff        1-1 Wolves [Jerome 17; Miller 75 - 16,699]
 Coventry       1-2 Sheff Utd [John 19; Morgan 33,Gray 40 - 21,146]
@@ -1849,7 +1849,7 @@ Sunderland     2-3 Leeds [Lawrence 43p,Arca 90; Lennon 30,Deane 61,Joachim 85 - 
 West Ham       3-2 Nottm Forest [Etherington 17,Sheringham 39,82; Johnson 65,68 - 32,270]
 Wigan          1-2 Derby [Roberts 27; Rasiak 64,Smith 82 - 12,420]
 
-_ Tue 28 Dec _
+_ Tue Dec 28 _
 Burnley        1-0 Wigan [Branch 24 - 16,485]
 Derby          0-3 Millwall [Hayles 18,51,58 - 27,725]
 Gillingham     3-1 Coventry [Byfield 15,Cox 48,49; Adebola 37 - 8,734]
@@ -1863,7 +1863,7 @@ Sheff Utd      2-0 Leicester [Gray 52,Quinn 65 - 22,100]
 Watford        0-0 Cardiff [13,409]
 Wolves         1-1 Brighton [Miller 33; Hart 4 - 28,516]
 
-_ Sat 1 Jan _
+_ Sat Jan 1 _
 Burnley        A-A Leicester [Abandoned after 19 mins (0-0) due to a waterlogged pitch]
 Derby          0-1 Cardiff [Thorne 27 - 22,800]
 Gillingham     0-0 Reading [8,570]
@@ -1877,7 +1877,7 @@ Sheff Utd      0-2 Wigan [McCulloch 7,Ellington 73 - 21,869]
 Watford        1-0 Millwall [Helguson 75 - 13,158]
 Wolves         1-1 Plymouth [Seol 24; Friio 58 - 27,564]
 
-_ Mon 3 Jan _
+_ Mon Jan 3 _
 Brighton       2-1 Watford [Mayo 15,Knight 69; Helguson 11 - 6,335]
 Cardiff        3-0 Nottm Forest [Thorne 55p,86,Kavanagh 90 - 13,545]
 Coventry       1-2 Leeds [McSheffrey 82; Blake 28,Healy 65 - 19,084]
@@ -1889,12 +1889,12 @@ Reading        0-1 Derby [Smith 45 - 15,491]
 Stoke          0-1 Burnley [Cahill 79 - 15,689]
 Sunderland     1-1 Gillingham [Brown 19; Henderson 15 - 27,147]
 West Ham       0-2 Sheff Utd [Repka og 40,Bromby 60 - 27,424]
-_ Tue 4 Jan _
+_ Tue Jan 4 _
 Wigan          2-0 Wolves [Ellington 17,26p - 10,135]
 
-_ Fri 14 Jan _
+_ Fri Jan 14 _
 QPR            1-0 Stoke [Cook 17 - 13,559]
-_ Sat 15 Jan _
+_ Sat Jan 15 _
 Burnley        0-0 Reading [11,392]
 Gillingham     1-0 Plymouth [Crofts 61 - 8,451]
 Ipswich        3-2 Coventry  [Bent 45,59,Kuqi 77; John 12,McSheffrey 61p - 23,670]
@@ -1905,10 +1905,10 @@ Rotherham      0-2 Wigan [Teale 69,Roberts 90 - 9,050]
 Sheff Utd      1-2 Brighton [Mayo og 59; Carpenter 45,Knight 90 - 21,482]
 Watford        3-1 Crewe [Helguson 9,29,Demerit 46; Varney 68 - 11,223]
 Wolves         4-2 West Ham [Miller 29,54,Ince 72,Cort 75; Zamora 36,57 - 28,411]
-_ Sun 16 Jan _
+_ Sun Jan 16 _
 Derby          0-2 Sunderland [Elliott 51,Whitehead 66 - 22,995]
 
-_ Sat 22 Jan _
+_ Sat Jan 22 _
 Brighton       0-0 Nottingham Forest [6,704]
 Cardiff        2-0 Burnley [Langley 13,Kavanagh 74 - 11,562]
 Coventry       1-2 QPR [Williams 59; Cureton 13,Santos 90 - 16,595]
@@ -1920,18 +1920,18 @@ Reading        1-1 Ipswich [Ingimarsson 90(2); Bent 90(1) - 23,203]
 Stoke          0-1 Leeds [Thomas og 72 - 18,372]
 Sunderland     1-0 Sheffield United [Stewart 44 - 27,337]
 Wigan          2-2 Watford [McCulloch 25,52; Dyer 13,Webber 27 - 9,008]
-_ Sun 23 Jan _
+_ Sun Jan 23 _
 West Ham       1-2 Derby [Fletcher 26; Rasiak 10,63 - 30,347]
 
-_ Wed 26 Jan _
+_ Wed Jan 26 _
 Derby          2-0 Leeds [Smith 64,Bolder 90 - 25,648]
 
-_ Sat 29 Jan _
+_ Sat Jan 29 _
 Leeds          1-1 Brighton [Carlisle 43; Butters 81 - 27,033]
 
-_ Fri 4 Feb _
+_ Fri Feb 4 _
 Wolves         1-1 Sunderland [Seol 13; Elliott 12 - 26,968]
-_ Sat 5 Feb _
+_ Sat Feb 5 _
 Burnley        0-1 Leeds [Einarsson 66 - 17,789]
 Brighton       2-3 Derby [McCammon 14,60; Bisgaard 13,Tudgay 43,72 - 6,587]
 Leicester      1-1 Crewe [Gillespie 58; White 36 - 27,011]
@@ -1942,10 +1942,10 @@ Rotherham      0-0 Nottm Forest [8,448]
 Sheff Utd      0-2 Ipswich [Unsworth 20,Kuqi 61 - 20,680]
 Watford        2-0 Gillingham [Ashby og 23,Eagles 90 - 15,188]
 Wigan          0-1 Stoke [Noel-Williams 39 - 9,938]
-_ Sun 6 Feb _
+_ Sun Feb 6 _
 West Ham       1-0 Cardiff [Fletcher 89 - 23,716]
 
-_ Sat 12 Feb _
+_ Sat Feb 12 _
 Cardiff        2-0 Brighton [Thorne 16p,Collins 19 - 11,435]
 Coventry       0-2 Burnley [Oster 64,Moore 69 - 13,236]
 Crewe          1-3 Wigan [White 45; Roberts 3,76,Ellington 68p - 7,981]
@@ -1957,12 +1957,12 @@ QPR            1-2 Preston [Furlong 26; Nugent 67,Lucketti 75 - 15,620]
 Sunderland     4-2 Watford [Stewart 18,33p,51,Brown 73; Dyer 76,90 - 24,948]
 (other games postponed due to FA Cup replays)
 
-_ Tue 15 Feb _
+_ Tue Feb 15 _
 Crewe          1-1 Burnley [Jones 18; Grant 53 - 7,718]
 
-_ Fri 18 Feb _
+_ Fri Feb 18 _
 Preston        1-1 Ipswich [Nugent 36,Miller 69 - 14,418]
-_ Sat 19 Feb _
+_ Sat Feb 19 _
 Brighton       2-1 Sunderland [Carpenter 26,McCammon 43; Arca 80 - 6,647]
 Millwall       0-1 Stoke [Jones 15 - 11,036]
 Reading        1-2 Coventry [Ferdinand 8; McSheffrey 63,John 72 - 15,904]
@@ -1972,7 +1972,7 @@ Wigan          3-0 Leeds [Ellington 10,Roberts 56,Mahon 75 - 17,177]
 Wolves         2-2 Gillingham [Miller 60,Clarke 90(2); Henderson 55,Flynn 90(1) - 24,949]
 (Other games postponed due to FA Cup)
 
-_ Tue 22 Feb _
+_ Tue Feb 22 _
 Cardiff        0-1 Millwall [Dichio 20p - 11,424]
 Crewe          1-1 Reading [Varney 12; Kitson 70 - 5,703]
 Gillingham     0-1 West Ham [Harewood 13 - 9,510]
@@ -1981,12 +1981,12 @@ Plymouth       3-0 Sheff Utd [Coughlan 3,Wotton 47,Blackstock 88 - 13,953]
 QPR            1-1 Wolves [Gallen 11; Cort 85 - 15,029]
 Stoke          3-2 Leicester [Brammer 24,Noel-Williams 34,Taggart 59; Williams 15,Gudjonsson 86 - 14,076]
 Sunderland     4-1 Rotherham [Whitehead 13,Thornton 36,73,Breen 49; Monkhouse 77 - 22,267]
-_ Wed 23 Feb _
+_ Wed Feb 23 _
 Coventry       1-2 Wigan [McSheffrey 22p; Teale 9,Ellington 68 - 12,130]
 Derby          1-1 Burnley [Peschisolido 70; Valois 34 - 23,701]
 Nottm Forest   2-0 Preston [Evans 77,Commons 82 - 19,209]
 
-_ Sat 26 Feb _
+_ Sat Feb 26 _
 Brighton       1-0 Millwall [Hart 90 - 6,608]
 Coventry       0-0 Stoke [13,871]
 Gillingham     2-1 Wigan [Henderson 53,65; Ellington 55 - 7,209]
@@ -2000,12 +2000,12 @@ Sheff Utd      1-0 Rotherham [Shaw 51 - 18,431]
 Sunderland     2-1 Cardiff [Breen 4,Stewart 42; Vidmar 85 - 32,788]
 Wolves         0-0 Watford [25,060]
 
-_ Wed 2 Mar _
+_ Wed Mar 2 _
 Derby          3-3 Wolves [Idiakez 9,77p,Reich 90(2); Miller 12,Lescott 72,Cort 90(1) - 24,109]
 
-_ Fri 4 Mar _
+_ Fri Mar 4 _
 Burnley        0-2 Sunderland [Stewart 26,Lawrence 89 - 12,103]
-_ Sat 5 Mar _
+_ Sat Mar 5 _
 Cardiff        1-0 Sheff Utd [Ledley 75 - 12,250]
 Crewe          1-4 Wolves [Lunt 11p; Cort 13,45,Miller 35p,60 - 8,212]
 Derby          1-0 Plymouth [Idiakez 24 - 27,581]
@@ -2016,15 +2016,15 @@ Stoke          2-0 Brighton [Noel-Williams 39p,44p - 14,908]
 Watford        2-3 Coventry [Dyer 32,Webber 84; Benjamin 14,Jorgensen 54,Doyle 78 - 13,794]
 West Ham       1-2 Preston [Zamora 87; Nugent 17,Agyemang 81 - 26,442]
 Wigan          1-0 Ipswich [Ellington 43p - 16,744]
-_ Sun 6 Mar _
+_ Sun Mar 6 _
 Millwall       1-1 Leeds [Robinson 17; Hulse 78 - 11,510]
 
-_ Tue 8 Mar _
+_ Tue Mar 8 _
 Burnley        0-0 Leicester [10,933]
 Sheff Utd      4-0 Crewe [Kabba 14,66,Gray 39,75 - 16,079]
 Watford        0-2 Nottm Forest [Commons 45,79 - 12,118]
 
-_ Sat 12 Mar _
+_ Sat Mar 12 _
 Burnley        2-1 Rotherham [Grant 11,Sinclair 14; Gilchrist 4 - 10,539]
 Coventry       1-1 Cardiff [John 16; Bullock 19 - 17,059]
 Crewe          0-1 Sunderland [Elliott 58 - 7,949]
@@ -2037,7 +2037,7 @@ Reading        3-1 West Ham [Kitson 13,27,57; Sheringham 82 - 22,268]
 Stoke          2-0 Sheff Utd [Noel-Williams 57,59 - 17,019]
 Wigan          2-0 Millwall [Ellington 58p,Roberts 82 - 9,614]
 
-_ Tue 15 Mar _
+_ Tue Mar 15 _
 Brighton       2-4 Wigan [Virgo 36,Hammond 83; Bullard 2,McCulloch 4,Teale 17,Roberts 34 - 6,306]
 Cardiff        0-1 Ipswich [Miller 62p - 11,768]
 Gillingham     2-1 Stoke [McEveley 2,Smith 70; Jones 54 - 7,766]
@@ -2048,13 +2048,13 @@ Sunderland     5-1 Plymouth [Whitehead 31,Arca 40,Stewart 45p,Caldwell 75,Thornt
 Watford        2-2 Leicester [DeMerit 40,Webber 44p; Connolly 56,Hughes 72 - 11,084]
 West Ham       1-1 Crewe [Sheringham 76; Jones 90 - 26,593]
 Wolves         2-0 Burnley [Miller 38,Ince 60 - 24,336]
-_ Wed 16 Mar _
+_ Wed Mar 16 _
 Derby          0-0 QPR [24,486]
 Nottm Forest   0-0 Leeds [25,101]
 
-_ Fri 18 Mar _
+_ Fri Mar 18 _
 West Ham       2-2 Leicester [Sheringham 28,62; Connolly 25p,Gillespie 44 - 22,031]
-_ Sat 19 Mar _
+_ Sat Mar 19 _
 Cardiff        1-1 Crewe [Gabbidon 21; Vaughan 57 - 10,007]
 Gillingham     0-0 Ipswich [9,311]
 Nottm Forest   1-1 Wigan [Taylor 85; McCulloch 46 - 24,008]
@@ -2063,12 +2063,12 @@ Sheff Utd      2-1 Burnley [Quinn 29,Gray 49; Akinbiyi 84 - 19,374]
 Sunderland     1-0 Coventry [Brown 76 - 29,424]
 Watford        0-2 Preston [Nugent 60,McKenna 71 - 19,649]
 Wolves         1-1 Stoke [Cort 90; Noel-Williams 41 - 28,103]
-_ Sun 20 Mar _
+_ Sun Mar 20 _
 Millwall       3-0 Plymouth [Sweeney 15,Hayles 56,Dichio 63 - 11,465]
-_ Mon 21 Mar _
+_ Mon Mar 21 _
 Brighton       0-1 Reading [Forster 64 - 6,108]
 
-_ Sat 2 Apr _
+_ Sat Apr 2 _
 Burnley        3-1 Watford [Bowditch 20,O'Connor 43,Valois 90; Blizzard 77 - 11,507]
 Coventry       2-1 Brighton [McSheffrey 47p,Staunton 84; Virgo 62 - 18,606]
 Crewe          1-1 Nottm Forest [Sorvel 71; Dobie 37 - 8,458]
@@ -2082,7 +2082,7 @@ Reading        0-0 Sheff Utd [18,899]
 Stoke          1-2 Rotherham [Noel-Williams 83; Butler 23,Noel-Williams og 90 - 16,552]
 Wigan          1-2 West Ham [Roberts 51; Sheringham 55,Harewood 67 - 12,993]
 
-_ Tue 5 Apr _
+_ Tue Apr 5 _
 Burnley        0-1 West Ham [Sheringham 83 - 12,209]
 Crewe          1-2 Derby [Vaughan 90; Rasiak 16,Smith 74 - 8,026]
 Ipswich        4-3 Rotherham [Westlake 6,Bent 25,57,Magilton 60; Thorpe 26,Butler 67,McIntosh 79 - 26,017]
@@ -2094,10 +2094,10 @@ QPR            1-1 Gillingham [Furlong 54; Flynn 17 - 16,431]
 Reading        2-1 Millwall [Kitson 73,Forster 83; Dichio 39 - 14,379]
 Stoke          1-3 Cardiff [Hill 40; Jerome 26,58,Thorne 60p - 12,785]
 Wigan          0-1 Sunderland [Stewart 3 - 20,745]
-_ Wed 6 Apr _
+_ Wed Apr 6 _
 Coventry       2-0 Nottm Forest [McSheffrey 24p,Adebola 41 - 22,221]
 
-_ Sat 9 Apr _
+_ Sat Apr 9 _
 Brighton       1-1 Leicester [Reid 80; Connolly 34p - 6,638]
 Cardiff        0-2 Wigan [Roberts 51,Mahon 86 - 16,858]
 Derby          3-1 Stoke [Rasiak 8,Bisgaard 45,Idiakez 79; Taggart 7 - 27,640]
@@ -2109,15 +2109,15 @@ Sheff Utd      3-2 QPR [Webber 43,53,Gray 90p; Rowlands 26,Gallen 66 - 20,426]
 Sunderland     1-2 Reading [Arca 52; Kitson 76,82p - 34,237]
 Watford        1-2 Leeds [Helguson 41; Hulse 28,Carlisle 67 - 16,306]
 West Ham       3-0 Coventry [Shaw og 76,Sheringham 89p,Zamora 90 - 26,839]
-_ Mon 11 Apr _
+_ Mon Apr 11 _
 Wolves         2-0 Ipswich [Cameron 5,Cort 22 - 25,882]
 
-_ Tue 12 Apr _
+_ Tue Apr 12 _
 Nottm Forest   1-1 Sheff Utd [Commons 47; Quinn 71 - 21,903]
 
-_ Fri 15 Apr _
+_ Fri Apr 15 _
 Sheff Utd      0-1 Derby [Bisgaard 74 - 20,794]
-_ Sat 16 Apr _
+_ Sat Apr 16 _
 Burnley        1-1 Brighton [Akinbiyi 23; Hammond 52 - 11,611]
 Coventry       2-2 Wolves [McSheffrey 19p,John 90; Clarke 15,Naylor 79 - 19,412]
 Gillingham     1-1 Crewe [Southall 80; Vaughan 73 - 10,315]
@@ -2128,15 +2128,15 @@ Reading        1-0 Nottm Forest [Harper 74 - 17,905]
 Rotherham      0-1 Watford [Helguson 32 - 5,438]
 Stoke          2-0 Plymouth [Jones 28,Russell 41 - 13,017]
 West Ham       1-1 Millwall [Harewood 35; Haykes 12 - 28,221]
-_ Sun 17 Apr _
+_ Sun Apr 17 _
 Ipswich        2-2 Sunderland [Naylor 66; Bent 89 - Elliott 71,Robinson 84 - 29,230]
 
-_ Tue 19 Apr _
+_ Tue Apr 19 _
 Burnley        2-0 QPR [Akinbiyi 43,81 - 10,396]
 Leicester      1-1 Cardiff [Connolly 33; Ardley 58 - 21,336]
 Stoke          0-1 West Ham [Zamora 78 - 14,534]
 
-_ Sat 23 Apr _
+_ Sat Apr 23 _
 Brighton       2-2 West Ham [Hammond 54,90; Reo-Coker 8,Harewood 55 - 6,819]
 Cardiff        2-0 Reading [Thorne 12,Jerome 30 - 14,821]
 Crewe          0-2 Stoke [Neal 79,Noel-Williams 89 - 9,166]
@@ -2148,15 +2148,15 @@ Sunderland     2-1 Leicester [Stewart 23,Caldwell 60; Maybury 5 - 34,815]
 Watford        0-0 Sheff Utd [17,138]
 Wigan          0-0 QPR [12,007]
 Wolves         2-0 Rotherham [Miller 55,90 - 25,177]
-_ Sun 24 Apr _
+_ Sun Apr 24 _
 Millwall       2-1 Preston [Sweeney 9,Hayles 76; Nugent 58 - 11,417]
 
-_ Tue 26 Apr _
+_ Tue Apr 26 _
 Leicester      1-0 Derby [Connolly 50 - 25,762]
 
-_ Fri 29 Apr _
+_ Fri Apr 29 _
 West Ham       1-2 Sunderland [Harewood 43; Arca 52,Elliott 87 - 33,482]
-_ Sat 30 Apr _
+_ Sat Apr 30 _
 Burnley        2-0 Plymouth [Valois 87p,O'Connor 90 - 12,893]
 Coventry       6-2 Derby [McSheffrey 20,29p,Adebola 37,John 40,55,Whing 68; Bolder 51,Peschisolido 63 - 22,728]
 Gillingham     1-1 Cardiff [Jarvis 72; Parry 85 - 10,810]
@@ -2167,10 +2167,10 @@ Reading        1-2 Wolves [Forster 8; Clarke 53,Ricketts 84 - 20,495]
 Rotherham      0-1 Brighton [McLaren og 19 - 6,549]
 Sheff Utd      0-1 Millwall [Morris 5 - 19,797]
 Stoke          0-1 Watford [Helguson 51 - 15,229]
-_ Sun 1 May _
+_ Sun May 1 _
 Leicester      2-0 Leeds [Dublin 6,Connolly 39 - 26,593]
 
-_ Sun 8 May _
+_ Sun May 8 _
 Brighton       1-1 Ipswich [Virgo 10; Kuqi 4 - 6,848]
 Cardiff        1-0 QPR [McAnuff 27 - 15,722]
 Crewe          2-1 Coventry [Higdon 54,S Jones 72; Adebola 23 - 9,269]
@@ -2193,15 +2193,15 @@ Promotion Play Offs
 Semi Finals [no away goals rule]
 
 1st Legs
-_ Sat 14 May _
+_ Sat May 14 _
 West Ham       2-2 Ipswich [Harewood 7,Zamora 13; Walker og 45,Kuqi 74 - 33,723]
-_ Sun 15 May _
+_ Sun May 15 _
 Preston        2-0 Derby [Nugent 38,Cresswell 90 - 20,315]
 
 2nd Legs
-_ Wed 18 May _
+_ Wed May 18 _
 Ipswich        0-2 West Ham [Zamora 61,72 - 30,010, 2-4 aggregate]
-_ Thu 19 May _
+_ Thu May 19 _
 Derby          0-0 Preston [31,310, 0-2 aggregate]
 
 Final [Mon May 30 - at Millennium Stadium, Cardiff]
@@ -2231,7 +2231,7 @@ Hartlepool United       2-1 Bradford City
   (Boyd 75pen, Robertson 81; Windass 54)
 Hull                    1-0 Bournemouth
   (Green 3pen)
-  (red card: Young (B) 60)
+  [red card: Young (B) 60]
   [Green (H) miss pen]
 Luton Town              2-1 Oldham Athletic
   (Howard 19, Underwood 65; Haining 10)
@@ -2245,7 +2245,7 @@ Stockport County        2-3 Huddersfield Town
   (Beckett 57, Feeney 68; Carss 45, Booth 87, Abbott 90)
 Walsall                 3-2 Port Vale
   (Fryatt 12pen, Williams 82, Taylor 86; Paynter 61, Matthews 90)
-  (red cards: Roper (W) 67, Paynter (P) 61)
+  [red cards: Roper (W) 67, Paynter (P) 61]
 Wrexham                 2-1 Swindon Town
   (Lawrence 24, Armstrong 73pen; Caton 90)
 
@@ -2272,10 +2272,10 @@ Port Vale               3-2 MK Dons
   (Brooker 43, Armstrong 46, 64; Harding 19, 75)
 Torquay                 0-3 Hull
   (Green 9, Elliott 19, 57)
-  (red cards: Taylor (T) 84, Wilbraham (H) 84)
+  [red cards: Taylor (T) 84, Wilbraham (H) 84]
 Tranmere Rovers         2-1 Hartlepool United
   (Taylor 27pen, Dagnall 68; Robertson 23)
-  (red card: Dagnall (T) 68)
+  [red card: Dagnall (T) 68]
 _ Aug 11 _
 Swindon Town            2-3 Luton Town
   (Parkin 45, Reeves 65; Nicholls 24pen, Fallon 37og, Howard 51)
@@ -2290,7 +2290,7 @@ Bournemouth             2-2 Bristol City
   (Fletcher 38, Hayter 88; Lita 77, Smith 90)
 Bradford City           2-0 Doncaster
   (Bower 8, Crooks 45)
-  (red card: Rigoglioso (D) 90)
+  [red card: Rigoglioso (D) 90]
 Brentford               1-0 Wrexham
   (O'Connor 85)
 Colchester United       2-1 Peterborough United
@@ -2363,7 +2363,7 @@ Port Vale               3-0 Bristol City
 Swindon Town            3-0 Hartlepool United
   (Henderson 17, Parkin 37, Nelson 40og)
 Torquay                 0-0 Walsall
-  (red card: Roper (W) 39)
+  [red card: Roper (W) 39]
 
 ▪ Round 6 ▪
 _ Aug 30 _
@@ -2389,7 +2389,7 @@ Wrexham                 2-1 Barnsley
 _ Aug 31 _
 Chesterfield            1-0 Port Vale
   (N'Toya 53)
-  (red card: Dean Smith (P) 57)
+  [red card: Dean Smith (P) 57]
 Hull                    0-1 Bradford City
   (Holloway 77)
 
@@ -2399,7 +2399,7 @@ Bradford City           0-2 Port Vale
   (Paynter 40, Smith 49)
 Brentford               2-1 Bournemouth
   (Talbot 32, Rankin 47; Holmes 50)
-  (red card: Neil Young (B) 65)
+  [red card: Neil Young (B) 65]
 Chesterfield            2-2 MK Dons
   (N'Toya 31, Downes 48; McLeod 64, Small 88)
 Colchester United       0-1 Swindon Town
@@ -2408,7 +2408,7 @@ Doncaster               3-1 Walsall
   (Fenton 20, McIndoe 50, Blundell 88; Fryatt 73)
 Hartlepool United       1-1 Barnsley
   (Boyd 77; Chopra 38)
-  (red card: Vaughan (B) 63)
+  [red card: Vaughan (B) 63]
 Peterborough United     0-1 Bristol City
   (Lita 72)
 Sheffield Wednesday     0-0 Luton Town
@@ -2434,7 +2434,7 @@ Hull                    2-1 Blackpool
   (Green 14, Elliott 57; Taylor 37)
 Luton Town              1-0 Chesterfield
   (Vine 49)
-  (red card: Blatherwick (C) 75, Nicholson (C) 90)
+  [red card: Blatherwick (C) 75, Nicholson (C) 90]
 MK Dons                 0-1 Doncaster
   (Albrighton 68)
 Oldham Athletic         3-2 Hartlepool United
@@ -2449,7 +2449,7 @@ Walsall                 1-1 Sheffield Wednesday
   (Standing 39; Whelan 18)
 Wrexham                 1-0 Bradford City
   (Lawrence 2)
-  (red card: Crooks (B) 66)
+  [red card: Crooks (B) 66]
 
 ▪ Round 9 ▪  Sep 18
 Blackpool               1-1 Swindon Town
@@ -2458,7 +2458,7 @@ Bradford City           4-1 Bristol City
   (Schmacher 30, Roberts 38, Wetherall 61, Adebola 80; Murray 88)
 Brentford               1-0 Port Vale
   (Salako 25pen)
-  (red card: Pilkington (P) 24)
+  [red card: Pilkington (P) 24]
 Chesterfield            1-0 Walsall
   (Hudson 21)
 Colchester United       0-1 MK Dons
@@ -2469,7 +2469,7 @@ Hartlepool United       4-1 Torquay
   (Porter 6, Sweeney 64, Tinkler 73, Humphreys 83; Gritton 10)
 Huddersfield Town       0-2 Barnsley
   (Conlon 10, Mirfin 21og)
-  (red card: E.Sodje (H) 90)
+  [red card: E.Sodje (H) 90]
 Peterborough United     2-3 Hull
   (Wilcock 2, Clarke 90; Elliott 22, 65, Cort 53)
 Sheffield Wednesday     0-1 Bournemouth
@@ -2478,12 +2478,12 @@ Stockport County        1-3 Luton Town
   (Lambert 80; Robinson 33, Vine 35, Brkovic 54)
 Tranmere Rovers         1-1 Wrexham
   (Roberts 59; Armstrong 38)
-  (red cards: Jackson (T), Armstrong (W) 80)
+  [red cards: Jackson (T), Armstrong (W) 80]
 
 ▪ Round 10 ▪  Sep 25
 Barnsley                1-0 Chesterfield
   (Kay 87)
-  (red card: Innes (C) 66)
+  [red card: Innes (C) 66]
 Bournemouth             5-0 Doncaster
   (Rodrigues 3, Hayter 5, 70, Howe 19, O'Connor 25)
 Bristol City            3-3 Huddersfield Town
@@ -2493,14 +2493,14 @@ Luton Town              2-1 Peterborough United
   (Vine 31, Underwood 57; Woodhouse 48)
 MK Dons                 4-2 Hartlepool United
   (McLeod 31, 57, Small 48, Smith 50pen; Boyd 20, 87)
-  (red card: McLeod (D) 74, Sweeney (H) 75)
+  [red card: McLeod (D) 74, Sweeney (H) 75]
 Oldham Athletic         1-1 Colchester United
   (Eyers 22; Halford 58)
 Port Vale               0-3 Blackpool
   (Taylor 6, Vernon 27, 47)
 Swindon Town            1-0 Bradford City
   (Igoe 87)
-  (red card: Parkin (S) 83)
+  [red card: Parkin (S) 83]
 Torquay                 1-2 Tranmere Rovers
   (Russell 55; Hume 2, 87)
 Walsall                 0-1 Brentford
@@ -2517,7 +2517,7 @@ Brentford               2-0 Oldham Athletic
   (Rankin 45, Tabb 47)
 Chesterfield            2-2 Bristol City
   (Nicholson 33pen, Bailey 88; Murray 47, Coles 54)
-  (red card: Smith (B) 42)
+  [red card: Smith (B) 42]
 Colchester United       2-1 Port Vale
   (Danns 10, 19; Matthews 84)
 Doncaster               0-0 Wrexham
@@ -2553,7 +2553,7 @@ Walsall                 2-1 Colchester United
 _ Oct 10 _
 Hull                    1-0 Chesterfield
   (Green 64)
-  (red card: Ashbee (H) 62)
+  [red card: Ashbee (H) 62]
 Oldham Athletic         1-2 Blackpool
   (Haining 39; Murphy 43, Wellens 68)
 _ Oct 26 _
@@ -2625,7 +2625,7 @@ Hull                    3-2 MK Dons
 _ Oct 23 _
 Barnsley                2-2 Swindon Town
   (Chopra 41, Reid 66; Igoe 28, Roberts 82)
-  (red card: Shuker (B) 84)
+  [red card: Shuker (B) 84]
 Bradford City           3-1 Sheffield Wednesday
   (Symes 59, 78, Windass 62; Bullen 73)
 Brentford               0-3 Blackpool
@@ -2637,14 +2637,14 @@ Huddersfield Town       3-1 MK Dons
   (Abbott 33, 45pen, Mendes 45; Chorley 86pen)
 Hull                    3-0 Luton Town
   (Elliott 11, 33, Facey 22)
-  (red card: Nicholls (L) 61)
+  [red card: Nicholls (L) 61]
 Oldham Athletic         1-2 Bournemouth
   (Vernon 3pen; Hayter 59, 76)
 Peterborough United     3-0 Hartlepool United
   (Kennedy 15, Willock 18, Legg 55)
-  (red card: Plummer (P) 70)
+  [red card: Plummer (P) 70]
 Port Vale               0-0 Stockport County
-  (red cards: Walsh (P), Adams (S) 45)
+  [red cards: Walsh (P), Adams (S) 45]
 Walsall                 1-2 Bristol City
   (Fryatt 49pen; Lita 64, 90)
 _ Nov 23 _
@@ -2659,7 +2659,7 @@ Bournemouth             1-3 Barnsley
 Bristol City            0-0 Colchester United
 Doncaster               2-1 Peterborough United
   (McIndoe 4, Green 87; Platt 27)
-  (red card: Doolan (D) 40)
+  [red card: Doolan (D) 40]
 Hartlepool United       1-0 Port Vale
   (Williams 24)
 Luton Town              4-0 Bradford City
@@ -2711,7 +2711,7 @@ Blackpool               0-1 Tranmere Rovers
 Bournemouth             0-0 Chesterfield
 Brentford               1-2 Bradford City
   (Rhodes 90; Abbey 2, Forrest 78)
-  (red cards: Burton (Btf), Abbey (Bdf) 24)
+  [red cards: Burton (Btf), Abbey (Bdf) 24]
 Colchester United       0-0 Huddersfield Town
 Doncaster               3-1 Stockport County
   (Blundell 9, 67, Ryan 65; Feeney 50)
@@ -2735,7 +2735,7 @@ Barnsley                1-0 Blackpool
   (Burns 75)
 Bradford City           1-3 Oldham Athletic
   (Windass 27; Kilkenny 12, 82, Killen 63)
-  (red card: Summerbee (B) 61)
+  [red card: Summerbee (B) 61]
 Bristol City            1-4 Sheffield Wednesday
   (Murray 56; Proudlock 15, 63, Brunt 61, Collins 84)
 Chesterfield            1-0 Swindon Town
@@ -2744,12 +2744,12 @@ Hartlepool United       3-2 Bournemouth
   (Westwood 23, Nelson 88, Appleby 90; Holmes 34, Stock 45)
 Huddersfield Town       1-2 Wrexham
   (Schofield 41; Holt 9, Armstrong 50pen)
-  (red card: Sam (W) 84)
+  [red card: Sam (W) 84]
 Hull                    2-0 Brentford
   (Elliott 32, 82)
 Luton Town              1-1 Doncaster
   (Nicholls 60; Roberts 82)
-  (red card: Coles (BC?) 51)
+  [red card: Coles (BC?) 51]
 Peterborough United     4-0 Port Vale
   (Purser 36, Farrell 62, Boucaud 69, Woodhouse 83pen)
 Stockport County        0-1 Walsall
@@ -2763,15 +2763,15 @@ Tranmere Rovers         2-0 MK Dons
 _ Dec 7 _
 Blackpool               4-0 Torquay
   (Taylor 20, Parker 67, 86, 90)
-  (red card: Taylor (T) 37)
+  [red card: Taylor (T) 37]
 Bournemouth             2-0 Bradford City
   (Broadhurst 12, Connell 18)
 Brentford               2-0 Luton Town
   (Burton 41, May 62)
-  (red card: Howard (L) 17)
+  [red card: Howard (L) 17]
 Colchester United       0-2 Barnsley
   (Kay 34, 54)
-  (red card: Fagan (C) 90)
+  [red card: Fagan (C) 90]
 Doncaster               1-1 Bristol City
   (Roberts 34; Brooker 45)
 MK Dons                 1-1 Peterborough United
@@ -2814,7 +2814,7 @@ Peterborough United     1-2 Chesterfield
   (Woodhouse 76; Downes 24, Evatt 54)
 Sheffield Wednesday     1-2 Brentford
   (MacLean 22pen; Rhodes 81, Burton 82)
-  (red card: Turner (B) 20)
+  [red card: Turner (B) 20]
 Swindon Town            1-1 Doncaster
   (Parkin 72; Blundell 39)
 Torquay                 0-1 Barnsley
@@ -2988,7 +2988,7 @@ Hartlepool United       2-3 Luton Town
 ▪ Round 29 ▪  Jan 15
 Barnsley                4-2 Huddersfield Town
   (Chopra 9, 87pen, Hassell 24, Boulding 38; Abbott 55pen, Booth 70)
-  (red card: Turnbull (B) 50)
+  [red card: Turnbull (B) 50]
 Bournemouth             1-1 Sheffield Wednesday
   (O'Connor 11; Heckingbottom 90)
 Bristol City            0-0 Bradford City
@@ -3027,14 +3027,14 @@ Chesterfield            2-4 Wrexham
 Colchester United       0-0 Luton Town
 Doncaster               1-0 Hull
   (McIndoe 59)
-  (red card: Ashbee (H) 77)
+  [red card: Ashbee (H) 77]
 Hartlepool United       2-1 Bristol City
   (Boyd 16pen, Sweeney 71; Brooker 26)
 Huddersfield Town       3-2 Bournemouth
   (Abbott 8pen, Beckett 35, 45; Hayter 45, 62)
 Peterborough United     1-2 Oldham Athletic
   (Legg 20; Betsy 7, 63)
-  (red card: Legg (P) 40)
+  [red card: Legg (P) 40]
 Stockport County        2-2 Barnsley
   (Briggs 5, Feeney 90pen; Boulding 31, Vaughan 63)
 Tranmere Rovers         2-1 Walsall
@@ -3074,12 +3074,12 @@ Oldham Ath              0-2 Brentford
 Barnsley                0-0 Sheffield Wednesday
 Bradford City           1-1 Tranmere Rovers
   (Windass 77; Hume 1)
-  (red card: Roberts (T) 81)
+  [red card: Roberts (T) 81]
 Brentford               1-0 MK Dons
   (Hunt 78pen)
 Chesterfield            0-1 Hartlepool United
   (Boyd 55)
-  (red card: Fowler (C) 46)
+  [red card: Fowler (C) 46]
 Colchester United       0-1 Blackpool
   (Grayson 75)
 Huddersfield Town       1-1 Luton Town
@@ -3123,7 +3123,7 @@ Wrexham                 1-1 Torquay
 _ Mar 22 _
 Blackpool               2-1 Brentford
   (Southern 7, 15; Pratley 84)
-  (red card: Burton (B) 85)
+  [red card: Burton (B) 85]
 _ Apr 5 _
 Hartlepool United       2-2 Peterborough United
   (Porter 22, Sweeney 36; Logan 49, Willock 56)
@@ -3140,7 +3140,7 @@ Colchester United       0-2 Bristol City
   (Brooker 51, Lita 71)
 Huddersfield Town       1-0 Blackpool
   (Beckett 2)
-  (red card: Brandon (H) 57)
+  [red card: Brandon (H) 57]
 Hull                    2-1 Wrexham
   (Allsopp 35, 58; Sam 75)
 Oldham Athletic         1-2 Stockport County
@@ -3166,7 +3166,7 @@ Bristol City            5-1 Oldham Athletic
   (Lita 8, 23, Wilkshire 45, Brooker 52, Branston 87og; Haining 57)
 Doncaster               4-0 Barnsley
   (Blundell 16, 31, Doolan 69, Green 84)
-  (red card: Vaughan (B) 39)
+  [red card: Vaughan (B) 39]
 Hartlepool United       3-1 Brentford
   (Boyd 54pen, Williams 74, Sweeney 87)
 Luton Town              1-0 Walsall
@@ -3196,7 +3196,7 @@ Bristol City            1-1 Blackpool
   (Brooker 21; Wellens 90)
 Chesterfield            1-3 Peterborough United
   (Davies 24; Logan 12, Purser 14, 62)
-  (red card: Folan (C) 64)
+  [red card: Folan (C) 64]
 Doncaster               1-1 Swindon Town
   (Roberts 30; Holmes 5)
 Huddersfield Town       2-1 Oldham Athletic
@@ -3215,7 +3215,7 @@ Wrexham                 0-0 MK Dons
 _ Mar 5 _
 Blackpool               2-0 Walsall
   (Murphy 57, Southern 70)
-  (red cards: Wellens (B) 46, Murphy (W) 46)
+  [red cards: Wellens (B) 46, Murphy (W) 46]
 Bradford City           2-0 Huddersfield Town
   (Cooke 44, Windass 54)
 Colchester United       0-1 Brentford
@@ -3227,7 +3227,7 @@ Luton Town              5-0 Bristol City
   (Brkovic 10, 79, Nicholls 26pen, Davis 45, Holmes 61)
 MK Dons                 2-1 Stockport County
   (Lewington 34, Edds 59; Briggs 74)
-  (red card: Hardiker (S) 80)
+  [red card: Hardiker (S) 80]
 Oldham Athletic         3-0 Port Vale
   (Haining 27, Cooper 52, 74)
 Peterborough United     1-3 Barnsley
@@ -3275,10 +3275,10 @@ Barnsley                1-1 MK Dons
   (Nardiello 45; Pensee-Bilong 55)
 Blackpool               1-1 Doncaster
   (Murphy 53; Ryan 40)
-  (red card: Wellens (B) 14)
+  [red card: Wellens (B) 14]
 Bournemouth             0-4 Hull
   (Fagan 26, Elliott 31, 58, Delaney 84)
-  (red card: Maher (B) 53)
+  [red card: Maher (B) 53]
 Bradford City           1-2 Hartlepool United
   (Bower 60; Williams 42, Porter 73)
 Brentford               2-2 Chesterfield
@@ -3368,7 +3368,7 @@ Blackpool               0-1 Peterborough United
   (Willock 42)
 Bournemouth             0-1 Luton Town
   (Showunmi 84)
-  (red card: Perrett (L) 23)
+  [red card: Perrett (L) 23]
 Brentford               1-0 Bristol City
   (Sodje 12)
 Colchester United       1-1 Hartlepool United
@@ -3377,7 +3377,7 @@ Huddersfield Town       3-1 Doncaster
   (Abbott 1, Booth 43, Brandon 56; Fortune-West 15)
 Oldham Athletic         1-1 Sheffield Wednesday
   (Beckett 18; Whelan 54)
-  (red card: Whelan (S) 90)
+  [red card: Whelan (S) 90]
 Port Vale               1-0 Chesterfield
   (Matthews 49)
 Swindon Town            1-2 Walsall
@@ -3449,14 +3449,14 @@ Bradford City           4-2 Bournemouth
   (Windass 19, 75, 90, Schumacher 38; Hayter 61, Mills 63)
 Bristol City            2-2 Doncaster
   (Brooker 62, 90; Fortune-West 34, 88)
-  (red card: Ravenhill (D) 73)
+  [red card: Ravenhill (D) 73]
 Chesterfield            1-0 Oldham Athletic
   (Evatt 69)
 Hartlepool United       1-3 Walsall
   (Boyd 77pen; Westwood 10og, Joachim 14, Surman 42)
 Huddersfield Town       4-0 Swindon Town
   (Abbott 62, 80 Booth 79, Edwards 85)
-  (red cards: Duke (S) 45, Fallon (S) 45)
+  [red cards: Duke (S) 45, Fallon (S) 45]
 Hull                    1-2 Sheffield Wednesday
   (Elliott 60pen; Talbot 19, Quinn 90)
 Luton Town              4-2 Brentford
@@ -3487,7 +3487,7 @@ Port Vale               1-0 Peterborough United
   (Dinning 63)
 Sheffield Wednesday     2-3 Bristol City
   (McGovern 52, Wood 61; Brooker 25, 45, Wilkshire 81pen)
-  (red card: Gallacher (S) 79)
+  [red card: Gallacher (S) 79]
 Swindon Town            1-1 Chesterfield
   (Parkin 13; N'Toya 21)
 Walsall                 3-0 Stockport County
@@ -3560,13 +3560,13 @@ Swansea City            0-2 Northampton Town
   (McGleish 3, Ricketts 82og)
 Wycombe Wand            2-1 Cambridge United
   (Tyson 55, 81; Easter 70)
-  (red card: Latte-Yedo (C) 77)
+  [red card: Latte-Yedo (C) 77]
 
 ▪ Round 2 ▪
 _ Aug 10 _
 Bristol Rovers          2-2 Bury
   (Forrester 43pen, Anderson 50; Mattis 7, Barry-Murphy 68)
-  (red card: Woodthorpe (B) 65)
+  [red card: Woodthorpe (B) 65]
 Cambridge United        1-1 Leyton Orient
   (Walker 53; Scott 41)
 Cheltenham Town         0-2 Scunthorpe United
@@ -3589,14 +3589,14 @@ Yeovil                  1-1 Darlington
 _ Aug 11 _
 Oxford United           1-0 Mansfield Town
   (Mooney 36)
-  (red card: Roget (O) 49, Williamson (M) 76)
+  [red card: Roget (O) 49, Williamson (M) 76]
 
 ▪ Round 3 ▪  Aug 14
 Bristol Rovers          2-1 Notts County
   (Edwards 62, Agogo 81; Hurst 66)
 Cambridge United        1-0 Shrewsbury Town
   (Chillingworth 53)
-  (red card: Tolley (S) 82)
+  [red card: Tolley (S) 82]
 Cheltenham Town         1-2 Leyton Orient
   (Devaney 75; Scott 35, Ibehre 68)
 Chester City            0-3 Mansfield Town
@@ -3605,22 +3605,22 @@ Grimsby Town            5-1 Bury
   (Mansaram 17, Sestanovich 49, Pinault 64, 73, Reddy 78; Barry Murphy 2)
 Kidderminster Harr      1-0 Darlington
   (Foster 51pen)
-  (red card: Brown (K) 61)
+  [red card: Brown (K) 61]
 Lincoln City            1-3 Rushden and D
   (Taylor-Fletcher 55; Braniff 39, Hay 68, Dove 89)
 Macclesfield Town       1-0 Swansea City
   (Parkin 17)
 Northampton Town        1-1 Wycombe Wand
   (Richards 46; Stonebridge 42)
-  (red card: Murray (N) 59)
+  [red card: Murray (N) 59]
 Oxford United           1-1 Scunthorpe United
   (Mooney 54; Hayes 38)
 Rochdale                2-0 Southend United
   (Jones 3,60pen)
-  (red card: Bertos (R) 54)
+  [red card: Bertos (R) 54]
 Yeovil                  2-0 Boston United
   (Jevons 49, Tarachulski 65)
-  (red card: Greaves (B) 63)
+  [red card: Greaves (B) 63]
 
 ▪ Round 4 ▪  Aug 21
 Boston United           1-1 Macclesfield Town
@@ -3680,7 +3680,7 @@ Boston United           3-1 Chester City
   (Thomas 3, Abbey 45, Pitt 73pen; Branch 84pen)
 Bury                    4-0 Kidderminster Harr
   (Nugent 33, Porter 45, 64, Flitcroft 60)
-  (red cards: Flitcroft (B) 77, Mellon (K) 89)
+  [red cards: Flitcroft (B) 77, Mellon (K) 89]
 Darlington              1-1 Cambridge United
   (Valentine 76; Chillingworth 58)
 Leyton Orient           2-1 Rochdale
@@ -3722,10 +3722,10 @@ Kidderminster Harr      1-2 Leyton Orient
 Notts County            0-0 Cheltenham Town
 Rushden and D           1-4 Southend United
   (Burgess 50; Dudfield 19, 54pen, Bramble 70, Barrett 90)
-  (red card: Gier (R) 55)
+  [red card: Gier (R) 55]
 Yeovil                  1-0 Swansea City
   (Williams 85pen)
-  (red card: Monk (S) 84)
+  [red card: Monk (S) 84]
 _ Sep 5 _
 Mansfield Town          4-1 Northampton Town
   (Asamoah 12, Corden 44, 86, Larkin 55; Sabin 37)
@@ -3747,10 +3747,10 @@ Rochdale                1-0 Darlington
   (Holt 30)
 Scunthorpe United       1-2 Chester City
   (Butler 76; Ellison 24, Bolland 31)
-  (red card: Belle (C) 81)
+  [red card: Belle (C) 81]
 Shrewsbury Town         2-2 Bury
   (Moss 70, Challinor 76og; Mattis 16, Nugent 54)
-  (red card: Aiston (S) 79)
+  [red card: Aiston (S) 79]
 Southend United         1-2 Wycombe Wand
   (Bentley 42; Tyson 60, Senda 82)
 Swansea City            3-0 Kidderminster Harr
@@ -3769,7 +3769,7 @@ Grimsby Town            2-0 Leyton Orient
   (Crowe 57, Pinault 90pen)
 Kidderminster Harr      1-0 Macclesfield Town
   (Appleby 80pen)
-  (red card: Potter (M) 78)
+  [red card: Potter (M) 78]
 Mansfield Town          1-0 Rochdale
   (Larkin 85)
 Notts County            1-2 Southend United
@@ -3788,15 +3788,15 @@ Cambridge United        0-2 Grimsby Town
 Cheltenham Town         1-1 Wycombe Wand
   (Victory 37; Ryan 74)
 Leyton Orient           0-0 Boston United
-  (red card: White (L) 90)
+  [red card: White (L) 90]
 Lincoln City            1-1 Chester City
   (Green 27; Ellison 36)
-  (red card: Richardson (L) 90)
+  [red card: Richardson (L) 90]
 Macclesfield Town       1-0 Darlington
   (Bailey 47)
 Northampton Town        2-1 Bristol Rovers
   (McGleish 4, 23; Savage 81)
-  (red card: Hunt (B) 25)
+  [red card: Hunt (B) 25]
 Oxford United           3-1 Bury
   (Basham 40, Scott 62og, Mooney 72; Nugent 70)
 Rochdale                0-3 Notts County
@@ -3807,7 +3807,7 @@ Shrewsbury Town         1-2 Yeovil
   (Rodgers 40; Johnson 69, Tarachulski 72)
 Southend United         1-0 Kidderminster Harr
   (Gower 27)
-  (red card: Sall (K) 43)
+  [red card: Sall (K) 43]
 Swansea City            1-0 Rushden and D
   (Nugent 36)
 
@@ -3851,7 +3851,7 @@ Shrewsbury Town         0-1 Rushden and D
   (Dove 45)
 Southend United         2-1 Boston United
   (Gower 15, Gray 22; Kirk 49)
-  (red card: Flahavan (S) 45)
+  [red card: Flahavan (S) 45]
 Swansea City            1-0 Mansfield Town
   (Forbes 89)
 _ Oct 9 _
@@ -3921,7 +3921,7 @@ Wycombe Wand            1-1 Rushden and D
 _ Oct 26 _
 Chester City            3-0 Kidderminster Harr
   (Branch 28, Ellison 52, Davies 64)
-  (red card: Hatswell (K) 51)
+  [red card: Hatswell (K) 51]
 
 ▪ Round 15 ▪
 _ Oct 23 _
@@ -3964,7 +3964,7 @@ Kidderminster Harr      0-1 Shrewsbury Town
   (Lowe 82)
 Leyton Orient           1-1 Scunthorpe United
   (Scott 51; Torpey 52)
-  (red card: Stanton (S) 54)
+  [red card: Stanton (S) 54]
 Mansfield Town          0-0 Bury
 Oxford United           1-0 Cheltenham Town
   (Mooney 45)
@@ -3990,18 +3990,18 @@ Mansfield Town          0-1 Macclesfield Town
   (Sheron 41)
 Notts County            3-0 Shrewsbury Town
   (Bolland 39, Hurst 70, Palmer 90)
-  (red card: Moss (S) 75)
+  [red card: Moss (S) 75]
 Rochdale                2-1 Cambridge United
   (Holt 31, 83; Konte 47)
-  (red cards: Burgess (R) 34, Walker (C) 89)
+  [red cards: Burgess (R) 34, Walker (C) 89]
 Rushden and D           1-2 Darlington
   (Mulligan 85; Hignett 21, 82)
 Scunthorpe United       2-0 Grimsby Town
   (Hayes 16, 69)
-  (red card: Daly (G) 37)
+  [red card: Daly (G) 37]
 Southend United         4-0 Oxford United
   (Gower 47, Eastwood 75, Barrett 81, Dudfield 90pen)
-  (red card: Ashton (O) 90)
+  [red card: Ashton (O) 90]
 Swansea City            1-0 Bristol Rovers
   (Trundle 88pen)
 Wycombe Wand            0-1 Yeovil
@@ -4012,7 +4012,7 @@ _ Nov 19 _
 Northampton Town        1-1 Chester City
 _ Nov 20 _
 Boston United           0-0 Mansfield Town
-  (red card: Beevers (B) 37)
+  [red card: Beevers (B) 37]
 Bristol Rovers          0-3 Scunthorpe United
   (Hayes 18, 53, Torpey 20)
 Bury                    1-0 Notts County
@@ -4025,17 +4025,17 @@ Grimsby Town            2-1 Kidderminster Harriers
   (Gordon 9, Pinault 24; Martin 71)
 Leyton Orient           1-2 Wycombe Wanderers
   (Carlisle 29; Tyson 49, Johnson 67)
-  (red card: Hunt (L) 74)
+  [red card: Hunt (L) 74]
 Macclesfield Town       0-2 Cheltenham Town
   (Guinan 60, McCann 71)
 Oxford United           0-1 Rochdale
   (Tardiff 90og)
 Shrewsbury Town         2-0 Swansea City
   (Sedgemore 21, Walton 81)
-  (red card: Monk (S) 43)
+  [red card: Monk (S) 43]
 Yeovil Town             3-1 Southend United
   (Jevons 43, Guyett 83, Tarachulski 85; Barrett 62)
-  (red card: Maher (S) 82)
+  [red card: Maher (S) 82]
 
 ▪ Round 19 ▪
 _ Nov 26 _
@@ -4050,7 +4050,7 @@ Kidderminster Harriers  0-2 Northampton Town
   (McGleish 16, Alsop 76)
 Lincoln City            3-1 Yeovil Town
   (Richardson 30, 78, Taylor-Fletcher 45; Skiverton 81)
-  (red cards: Futcher (L) 59, Williams (Y) 45)
+  [red cards: Futcher (L) 59, Williams (Y) 45]
 Mansfield Town          0-1 Leyton Orient
   (Scott 51)
 Notts County            2-1 Cambridge United
@@ -4061,7 +4061,7 @@ Rushden & Diamonds      0-2 Macclesfield Town
   (Potter 44, Parkin 89)
 Scunthorpe United       3-1 Shrewsbury Town
   (Beargrie 32pen, Hayes 71, Taylor 76; Tolley 70)
-  (red card: Walton (Sh) 30)
+  [red card: Walton (Sh) 30]
 Swansea City            1-3 Bury
   (Nugent 2; Nugent 3, Mattis 7, Barry-Murphy 83)
 Wycombe Wanderers       1-0 Bristol Rovers
@@ -4075,7 +4075,7 @@ Bury                    2-2 Wycombe Wanderers
   (Nugent 8, 66; Tyson 61, 79)
 Cambridge United        1-2 Scunthorpe United
   (Hodgson 35; Torpey 88, Taylor 90)
-  (red card: Goodhind (C) 72)
+  [red card: Goodhind (C) 72]
 Darlington              2-1 Mansfield Town
   (Wijnhard 63, Hignett 74; Barker 36)
 Grimsby Town            3-2 Notts County
@@ -4095,7 +4095,7 @@ Boston United           1-0 Rushden & Diamonds
   (Thomas 27)
 Oxford United           0-1 Swansea City
   (Goodfellow 61)
-  (red card: Ashton (O) 60)
+  [red card: Ashton (O) 60]
 
 ▪ Round 21 ▪
 _ Dec 11 _
@@ -4104,7 +4104,7 @@ Bury                    0-1 Southend United
   (Gray 27pen)
 Chester City            1-1 Shrewsbury Town
   (Branch 90pen; Langmead 62)
-  (red cards: Ellison (C) 19, Moss (S) 14, O'Connor (S) 90)
+  [red cards: Ellison (C) 19, Moss (S) 14, O'Connor (S) 90]
 Darlington              3-0 Leyton Orient
   (White 5og, Wijnhard 59, Armstrong 74)
 Kidderminster Harriers  2-1 Rochdale
@@ -4133,10 +4133,10 @@ Boston United           3-1 Darlington
   (Kirk 20pen, Clare 41, Thomas 45; Hignett 57pen)
 Cambridge United        1-1 Bury
   (Konte 64; Nugent 49)
-  (red card: Swailes (B) 57)
+  [red card: Swailes (B) 57]
 Cheltenham Town         2-0 Kidderminster Harriers
   (Guinan 53, Bennett 90og)
-  (red card: Hatswell (K) 79)
+  [red card: Hatswell (K) 79]
 Leyton Orient           2-3 Yeovil Town
   (Echanomi 67, Chillingworth 74; Tarachulski 26, Terry 45, Davies 77)
 Macclesfield Town       1-3 Northampton Town
@@ -4258,7 +4258,7 @@ Rushden & Diamonds      0-0 Shrewsbury Town
 _ Jan 11 _
 Grimsby Town            1-2 Northampton Town
   (Reddy 22; McGleish 49, Benjamin 55)
-  (red card: Sestanovich (G) 83)
+  [red card: Sestanovich (G) 83]
 _ Jan 12 _
 Boston United           2-0 Southend United
   (Kirk 65, 84)
@@ -4268,12 +4268,12 @@ Boston United           2-3 Swansea City
   (Kirk 15, Rusk 72; Trundle 52, 90pen, Robinson 62)
 Bristol Rovers          1-1 Cheltenham Town
   (Thorpe 45; Gillespie 38)
-  (red card: McCann (C) 77)
+  [red card: McCann (C) 77]
 Bury                    2-0 Northampton Town
   (Newby 42, Keogh 58)
-  (red card: Benjamin (N) 62)
+  [red card: Benjamin (N) 62]
 Chester City            0-0 Rochdale
-  (red cards: Carden (C) 70, Belle (C) 83)
+  [red cards: Carden (C) 70, Belle (C) 83]
 Darlington              3-0 Shrewsbury Town
   (Wainwright 28, Hignett 67, 74)
 Grimsby Town            2-4 Lincoln City
@@ -4298,12 +4298,12 @@ Cheltenham Town         2-3 Grimsby Town
 _ Jan 29 _
 Cambridge United        1-3 Kidderminster Harriers
   (Tudor 16; Beardsley 30, Mullins 61, Birch 86)
-  (red card: Bennett (K) 25)
+  [red card: Bennett (K) 25]
 Leyton Orient           2-0 Notts County
   (Youngs 56, Barnard 85)
 Lincoln City            2-0 Mansfield Town
   (Toner 54, Yeo 82)
-  (red card: Dimech (M) 65)
+  [red card: Dimech (M) 65]
 Macclesfield Town       2-1 Bury
   (Welch 48, Parkin 89; Unsworth 14)
 Oxford United           3-2 Bristol Rovers
@@ -4338,7 +4338,7 @@ Bury                    0-1 Darlington
   (Petta 29)
 Cheltenham Town         2-0 Rochdale
   (Devaney 20, 89pen)
-  (red card: Evans (R) 89)
+  [red card: Evans (R) 89]
 Chester City            3-1 Rushden & Diamonds
   (Atieno 15, Hessey 38, O'Neill 74; Sharp 86)
 Lincoln City            3-0 Oxford United
@@ -4381,7 +4381,7 @@ Oxford United           1-2 Northampton Town
   (Mooney 58; Sabin 64, McGleish 70)
 Rochdale                3-1 Lincoln City
   (Holt 7, Heald 59, Goodall 74; Yeo 24pen)
-  (red card: Cooksey (R) 23)
+  [red card: Cooksey (R) 23]
 Rushden & Diamonds      1-2 Wycombe Wanderers
   (Allen 50; Bloomfield 74, Tyson 90)
 Yeovil Town             4-2 Bristol Rovers
@@ -4396,7 +4396,7 @@ Cheltenham Town         0-1 Oxford United
   (Mooney 90)
 Chester City            0-2 Yeovil Town
   (Davies 12, Jevons 32pen)
-  (red card: Edmondson (C) 80)
+  [red card: Edmondson (C) 80]
 Lincoln City            2-1 Cambridge United
   (Yeo 17, Taylor-Fletcher 26; Webb 52)
 Macclesfield Town       3-0 Rochdale
@@ -4407,7 +4407,7 @@ Notts County            1-1 Rushden & Diamonds
   (Baudet 54pen; Sharp 52)
 Scunthorpe United       1-0 Leyton Orient
   (Keogh 68)
-  (red card: Alexander (L) 84)
+  [red card: Alexander (L) 84]
 Shrewsbury Town         4-2 Kidderminster Harriers
   (Moss 33, 40, Langmead 45, Rodgers 56; Beardsley 13, Sturrock 27)
 Swansea City            0-0 Grimsby Town
@@ -4463,7 +4463,7 @@ Southend United         1-0 Bury
   (Eastwood 42)
 Swansea City            2-1 Scunthorpe United
   (Trundle 25, 60pen; Butler 33)
-  (red card: Angus (Sc) 58)
+  [red card: Angus (Sc) 58]
 Wycombe Wanderers       1-2 Notts County
   (Stonebridge 14; Wilson 13, Oakes 71)
 
@@ -4491,7 +4491,7 @@ Scunthorpe United       1-0 Rushden & Diamonds
   (Beagrie 90)
 Yeovil Town             1-0 Leyton Orient
   (Jevons 9pen)
-  (red card: Echanoni (L) 78)
+  [red card: Echanoni (L) 78]
 
 ▪ Round 37 ▪  Mar 12
 Boston United           1-1 Grimsby Town
@@ -4593,7 +4593,7 @@ Macclesfield Town       1-1 Boston United
   (Bailey 84; Noble 15pen)
 Northampton Town        2-0 Shrewsbury Town
   (Smith 16, Westwood 38)
-  (red card: Whitehead (S) 90)
+  [red card: Whitehead (S) 90]
 Oxford United           2-2 Leyton Orient
   (Basham 17, Mooney 54; Steele 1, Simpson 72)
 Rochdale                1-1 Wycombe Wanderers
@@ -4666,7 +4666,7 @@ Southend United         0-1 Leyton Orient
   (Mackle 22)
 Swansea City            1-0 Oxford United
   (O'Leary 44)
-  (red card: Corbo (O) 70)
+  [red card: Corbo (O) 70]
 _ Apr 16 _
 Cheltenham Town         1-0 Northampton Town
   (Spencer 22)
@@ -4684,7 +4684,7 @@ Rochdale                1-1 Shrewsbury Town
   (Lambert 40; Sheron 6pen)
 Rushden & Diamonds      4-2 Boston United
   (Broughton 27, Sharp 54, 65, 84; Clare 13pen, Maylett 34)
-  (red card: Gier (R) 80)
+  [red card: Gier (R) 80]
 Scunthorpe United       4-0 Cambridge United
   (Kell 34, Crosby 63, Taylor 81, 83)
 Wycombe Wanderers       1-2 Bury

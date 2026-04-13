@@ -1208,13 +1208,13 @@ Stoke City    0-2 Chelsea [Hasselbaink 52,Gronkjaer 76 - 26,615]
 Wolverhampton    3-1 Rochdale [Ndah 32,Miller 79,Proudlock 90; Melaugh 52 - 23,921]
 
 5th Rnd Replay
-_ Wed 26 Feb _
+_ Wed Feb 26 _
 Burnley      3-0 Fulham [Taylor 27,I Moore 35,Diallo 52 - 11,635]
 
 ▪ Quarter Finals ▪
-_ Sat 8 Mar _
+_ Sat Mar 8 _
 Arsenal      2-2 Chelsea [Jeffers 37,Henry 45; Terry 3,Lampard 84 - 38,104]
-_ Sun 9 Mar _
+_ Sun Mar 9 _
 Sheffield Utd    1-0 Leeds [Kabba 78 - 24,633]
 Watford      2-0 Burnley [Marsden 56,Butler og 81 - 31,715]
 Southampton    2-0 Wolves [Smith 74,Glass 80 - 20,336]
@@ -1224,7 +1224,7 @@ _ Tue Mar 25 _
 Chelsea                1-3 Arsenal [Terry 79; Terry og 25,Wiltord 33,Lauren 82 - 41,456]
 
 ▪ Semi Finals ▪
-_ Sun 13 Apr _
+_ Sun Apr 13 _
 Sheffield Utd          0-1 Arsenal [Ljungberg 34 - 59,170; at Old Trafford]
 Southampton            2-1 Watford [Ormerod 43,Robinson og 80; Gayle 88 - 42,603; at Villa Park]
 
@@ -1688,7 +1688,7 @@ Wolverhampton       3-0 Burnley [Nathan Blake 2, Denis Irwin 49, Kevin Cooper 88
 _ Sun Aug 18 _
 Ipswich             6-1 Leicester [Matthew Holland 45(1), 57, Darren Ambrose 69, Finidi George 75, Pablo Gonzales Counago 85, 90; Jon Stevenson 45(2) - 27,374]
 
-Round 4 [Sat Aug 24]
+▪ Round 4 ▪  Sat Aug 24
 Bradford            0-0 Grimsby [10,914]
 Burnley             0-1 Sheff United [Iffy Onuora 35 - 12,868]
 Coventry            1-0 Crystal Palace [Lee Hughes 5p - 15,526]
@@ -1869,7 +1869,7 @@ Wimbledon           2-2 Crystal Palace [Neil Shipperley 77, Patrick Agyemang 79;
 _ Sun Oct 20 _
 Derby               0-0 Nottm Forest [30,547]
 
-Round 15 [Sat Oct 26]
+▪ Round 15 ▪  Sat Oct 26
 Bradford            2-1 Norwich [Paul Reid 41, 55; Zema Abbey 70 - 12,888]
 Burnley             0-3 Portsmouth [Nigel Quashie 21, Svetoslav Todorov 58, Kevin Harper 86 - 15,788]
 Coventry            0-0 Walsall [14,544]
@@ -1965,7 +1965,7 @@ Wolverhampton       2-1 Nottm Forest [Kenny Miller 76, Dean Sturridge 80; Marlon
 _ Mon Nov 25 _
 Derby               3-2 Wimbledon [Steve Elliott 17, Deon Burton 48, Lee Morris 80; Neil Shipperley 8, David Connolly 88 - 25,597]
 
-Round 21 [Sat Nov 30]
+▪ Round 21 ▪  Sat Nov 30
 Brighton            0-1 Reading [John Salako 22 - 6,817]
 Coventry            1-2 Preston [Calum Davenport 80; Richard Cresswell 7, Eddie Lewis 88 - 13,313]
 Gillingham          1-1 Stoke [Paul Shaw 52; Clive Clarke 56 - 8,150]
@@ -1979,7 +1979,7 @@ Sheff United        2-1 Crystal Palace [Dean Windass 45, Wayne Allison 89; Aki R
 Watford             2-1 Burnley [Heidar Helguson 40, Tommy Smith 72p; Gareth Taylor 76 - 13,977]
 Wimbledon           3-0 Sheff Wednesday [Lionel Morgan 42, David Connolly 63, Neil Shipperley 89 - 2,131]
 
-Round 22 [Sat Dec 7]
+▪ Round 22 ▪  Sat Dec 7
 Bradford            1-3 Gillingham [Andy Gray 42; Marlon King 59p, 74, Rod Wallace 90 - 10,711]
 Burnley             1-0 Nottm Forest [Lee Briscoe 28 - 13,869]
 Crystal Palace      1-0 Millwall [Danny Granville 73 - 19,301]
@@ -1993,7 +1993,7 @@ Stoke               1-2 Coventry [Peter Hoekstra 35; Jay Bothroyd 16, 21 - 12,76
 Walsall             3-1 Grimsby [Junior 27, Jorge Leitao 66, Darren Wrack 87; Steve Livingstone 38 - 5,888]
 Wolverhampton       1-0 Norwich [Carlton Cole 37 - 25,753]
 
-Round 23 [Sat Dec 14]
+▪ Round 23 ▪  Sat Dec 14
 Bradford            1-0 Nottm Forest [Robert Molenaar 42 - 12,245]
 Burnley             2-6 Rotherham [Stephen Davis 67, 78; Alan Lee 12, 59, John Mullin 27, 30, Darren Byfield 84, 89 - 14,121]
 Crystal Palace      2-0 Norwich [Dele Adebola 6, Tommy Black 27 - 16,791]
@@ -2024,7 +2024,7 @@ Wimbledon           1-1 Stoke [David Connolly 82; Chris Iwelumo 88 - 1,697]
 _ Sun Dec 22 _
 Rotherham           1-3 Crystal Palace [Darren Byfield 69; Tommy Black 12, 51, Julian Gray 45 - 6,829]
 
-Round 25 [Thu Dec 26]
+▪ Round 25 ▪  Thu Dec 26
 Bradford            4-2 Stoke [Andy Gray 20p, 89, Peter Handyside og 67, Claus Jørgensen 70; Petur Marteinsson 9, Karl Henry 23 - 14,575]
 Burnley             2-1 Wolverhampton [Gareth Taylor 24, Dean West 32; Paul Butler 85 - 18,641]
 Coventry            2-0 Reading [Craig Hignett 39, Ritchie Partridge 52 - 19,526]
@@ -2110,7 +2110,7 @@ Wolverhampton       1-1 Wimbledon [Kenny Miller 43; Damien Francis 46 - 23,716]
 _ Sun Jan 19 _
 Watford             2-1 Norwich [Allan Nielsen 45, Heidar Helguson 90; Neil Cox og 53 - 13,338]
 
-Round 30 [Sat Feb 1]
+▪ Round 30 ▪  Sat Feb 1
 Bradford            2-0 Ipswich [Claus Jørgensen 62, Danny Forrest 68 - 12,080]
 Burnley             2-5 Reading [Ian Moore 55, Dean West 90; Steve Sidwell 37, 79, John Salako 45, 52, Darius Henderson 90 - 14,420]
 Coventry            0-1 Watford [Micah Hyde 60 - 17,393]
@@ -2162,7 +2162,7 @@ Burnley             2-0 Preston [Dimitrios Papadopoulos 42, Robert Blake 61 - 12
 _ Tue Apr 15 _
 Sheff United        1-0 Nottm Forest [Carl Asaba 62 - 23,317]
 
-Round 33 [Sat Feb 22]
+▪ Round 33 ▪  Sat Feb 22
 Brighton            1-0 Millwall [Tony Rougier 65 - 6,751]
 Burnley             2-0 Derby [Ian Moore 8, Gareth Taylor 23 - 15,063]
 Coventry            0-2 Bradford [Andy Gray 22, Claus Jørgensen 83 - 12,525]
@@ -2228,7 +2228,7 @@ Sheff United        2-2 Gillingham [Steve Kabba 44, Paul Peschisolido 81; Simon 
 _ Tue Apr 8 _
 Crystal Palace      0-1 Watford [David Hunt og 45 - 14,051]
 
-Round 37 [Sat Mar 15]
+▪ Round 37 ▪  Sat Mar 15
 Brighton            1-0 Nottm Forest [Paul Brooker 16 - 6,830]
 Derby               1-2 Bradford [Lee Morris 28; Claus Jørgensen 14, Jamie Lawrence 90 - 23,735]
 Gillingham          1-1 Rotherham [Rod Wallace 22; Paul Warne 12 - 7,284]
@@ -2258,7 +2258,7 @@ _ Wed Mar 19 _
 Coventry            0-4 Portsmouth [Gary Caldwell og 14, Steve Stone 17, Kevin Harper 23, Paul Merson 68 - 13,922]
 Nottm Forest        3-0 Derby [Marlon Harewood 13, 49p, Darren Huckerby 15 - 29,725]
 
-Round 39 [Sat Mar 22]
+▪ Round 39 ▪  Sat Mar 22
 Bradford            0-1 Reading [Nicky Forster 66 - 11,385]
 Burnley             1-1 Grimsby [Alan Moore 52; Stuart Campbell 43 - 13,445]
 Coventry            1-2 Leicester [Matt Jansen 71; Billy McKinlay 48, James Scowcroft 68 - 16,610]
@@ -2343,7 +2343,7 @@ Stoke               2-1 Wimbledon [Brynjar Gunnarsson 29, Ade Akinbiyi 45; Neil 
 Walsall             0-0 Norwich [7,018]
 Wolverhampton       3-0 Millwall [Shaun Newton 5, 80, Colin Cameron 78 - 27,015]
 
-Round 44 [Mon Apr 21]
+▪ Round 44 ▪  Mon Apr 21
 Brighton            1-1 Sheff Wednesday [Bobby Zamora 57p; Grant Holt 16 - 6,928]
 Coventry            0-1 Stoke [Gary Montgomery og 57 - 12,675]
 Gillingham          1-0 Bradford [Paul Shaw 29 - 6,281]
@@ -2373,7 +2373,7 @@ _ Sun Apr 27 _
 Leicester           1-1 Norwich [Trevor Benjamin 20; Mark Rivers 74 - 31,639]
 Portsmouth          3-2 Rotherham [Paul Merson 11p, Svetoslav Todorov 22, 45; Guy Branston 16, Chris Swailes 29 - 19,420]
 
-Round 46 [Sun May 4]
+▪ Round 46 ▪  Sun May 4
 Bradford            0-5 Portsmouth [Gianluca Festa 20, Svetoslav Todorov 48, 50, 58p, Steve Stone 67 - 19,088]
 Derby               1-4 Ipswich [Robert Lee 22; Pablo Counago 32, Darren Bent 37, Jim Magilton 41, Matthew Holland 90 - 28,785]
 Gillingham          2-1 Crystal Palace [Nayron Nosworthy 3, 5; Dougie Freedman 30p - 9,315]
@@ -2843,12 +2843,12 @@ Port Vale      0-0 Barnsley [4,033]
 QPR            1-2 Tranmere [Palmer 60; M Robinson 80,Haworth 90 - 12,249]
 Swindon        2-1 Wigan [Invincibile 24,Gurney 35; McCulloch 55 - 5,238]
 
-_ Tue 28 Jan _
+_ Tue Jan 28 _
 Mansfield      1-2 Wigan [Christie 50; Ellington 39,Liddell 43 - 5,524]
 
-_ Fri 31 Jan _
+_ Fri Jan 31 _
 Cardiff         1-1 Oldham [Bowen 35; Eyres 87 - 12,579]
-_ Sat 1 Feb _
+_ Sat Feb 1 _
 Barnsley       1-1 Swindon [Fallon 14; Invincibile 34 - 8,661]
 Blackpool      0-0 Bristol C [7,290]
 Brentford      P-P Huddersfield [safety concerns arising from bad weather, played 25/2]
@@ -2859,17 +2859,17 @@ Stockport      1-1 Colchester [Beckett 36; Keith 68 - 4,011]
 Tranmere       1-0 Port Vale [McClare og 31 - 7,461]
 Wigan          0-0 Cheltenham [6,171]
 Wycombe        3-1 Notts C [Harris 15,18,Roberts 59; Stallard 70 - 5,690]
-_ Sun 2 Feb _
+_ Sun Feb 2 _
 Chesterfield   2-4 QPR [Hurst 11,Brandon 90; Pacquette 13,Shittu 22,Furlong 83,Thomson 89 - 4,395]
 
-_ Tue 4 Feb _
+_ Tue Feb 4 _
 Cheltenham     3-1 Tranmere [Brown 8,Naylor 64,Devaney 72; Sharps 50 - 3,936]
 Huddersfield   1-0 Plymouth [Smith 82p - 7,294]
 Mansfield      0-0 Brentford [3,735]
 Northampton    0-1 Cardiff [Earnshaw 58 - 4,553]
 Notts C        2-2 Crewe [Caskey 61p,Allsopp 87; Jones 2,Hulse 13 - 3,875]
 
-_ Sat 8 Feb _
+_ Sat Feb 8 _
 Brentford      1-2 Crewe [Hunt 11; Lunt 52,64p - 5,424]
 Bristol C      1-2 Colchester [Fagan 51; McGleish 12,Pinault 82 - 11,107]
 Cardiff        1-1 Barnsley [Gordon 90; Dyer 52p - 12,759]
@@ -2883,14 +2883,14 @@ Tranmere       0-1 Swindon [Gurney 50 - 7,181]
 Wigan          1-1 Blackpool [Liddell 1; Taylor 85 - 10,546]
 Wycombe        0-0 Huddersfield [5,886]
 
-_ Tue 11 Feb _
+_ Tue Feb 11 _
 Bristol C      0-0 Brentford [9,048]
 Luton          1-3 Blackpool [Thorpe 48; Murphy 10,52,72 - 6,563]
 Port Vale      5-2 Chesterfield [McPhee 2,Boyd 10,66,Armstrong 14,Brooker 18; Edwards 34,Ebdon 45 - 3,039]
 
-_ Fri 14 Feb _
+_ Fri Feb 14 _
 Colchester     1-0 Mansfield [McGleish 88 - 3,247]
-_ Sat 15 Feb _
+_ Sat Feb 15 _
 Barnsley       2-1 Chesterfield [Fallon 20,Dyer 33; Brandon 18 - 9,373]
 Blackpool      1-0 Brentford [Murphy 27 - 6,203]
 Huddersfield   3-3 Cheltenham [Irons 54,Smith 56,59; McCann 37,71,Alsop 40 - 9,309]
@@ -2902,13 +2902,13 @@ Stockport      1-2 Oldham [Daly 46; Murray 9,Eyres 89 - 8,168]
 Swindon        0-3 Wycombe [Ryan 25,Bulman 57,Faulconbridge 73 - 6,239]
 (other games postponed due to frozen pitches)
 
-_ Tue 18 Feb _
+_ Tue Feb 18 _
 Brentford      A-A Colchester [abandoned at HT due to weather, played 11/3 - 4,080]
 Cheltenham     1-3 Barnsley [Naylor 2; Sheron 18,Dyer 63,Jones 90 - 3,568]
 
-_ Fri 21 Feb _
+_ Fri Feb 21 _
 Cardiff        1-1 Plymouth [Earnshaw 42,Wotton 86 - 14,006]
-_ Sat 22 Feb _
+_ Sat Feb 22 _
 Barnsley       0-1 Huddersfield [Booth 26 - 12,474]
 Cheltenham     1-1 Colchester [Alsop 2; Williams 44 - 3,607]
 Chesterfield   0-2 Crewe [Wright 33,Jack 85 - 3,956]
@@ -2921,13 +2921,13 @@ QPR            2-2 Mansfield [Furlong 20,Gallen 90; Christie 25,50 - 11,942]
 Tranmere       2-1 Blackpool [Hume 14,70; Evans 59 - 9,111]
 Wycombe        0-2 Wigan [McCulloch 9,Liddell 89p - 6,052]
 
-_ Tue 25 Feb _
+_ Tue Feb 25 _
 Brentford      1-0 Huddersfield [McCammon 56 - 4,366]
 Crewe          0-1 Wigan [Ellington 38 - 8,917]
 Luton          1-0 Plymouth [Thorpe 50 - 7,589]
 Port Vale      0-2 Cardiff [Gordon 35,Thorne 64 - 3,831]
 
-_ Sat 1 Mar _
+_ Sat Mar 1 _
 Blackpool      1-0 Wycombe [Murphy 20 - 7,266]
 Brentford      1-2 Tranmere [Sonko 90; Hume 20,Sharps 48 - 5,396]
 Bristol C      3-1 Cheltenham [Robins 2,Brown 20,Rosenior 90; McCann 45 - 11,711]
@@ -2941,7 +2941,7 @@ Stockport      1-1 Cardiff [Clark 26; Thorne 81 - 5,385]
 Swindon        3-1 QPR [Robinson 18,Parkin 64,Heywood 68; Shittu 15 - 7,716]
 Wigan          3-1 Chesterfield [Teale 25,Dinning 40,Liddell 74p; Reeves 66p - 6,384]
 
-_ Tue 4 Mar _
+_ Tue Mar 4 _
 Blackpool      1-2 Barnsley [Murphy 56; Sheron 41,62 - 6,827]
 Brentford      0-2 Cardiff [Young 52,Earnshaw 78 - 5,727]
 Bristol C      2-0 Oldham [Murray 54,Roberts 90 - 11,194]
@@ -2953,10 +2953,10 @@ Notts C        1-0 Port Vale [Stallard 59 - 6,302]
 Plymouth       6-1 Peterborough [Keith 9,Burton og 25,Gill og 42,Wotton 45,Friio 62,Bent 72; McKenzie 70 - 6,931]
 Stockport      2-1 Chesterfield [Beckett 40,Daly 84; Reeves 6 - 4,428]
 Wigan          0-0 Tranmere [9,021]
-_ Wed 5 Mar _
+_ Wed Mar 5 _
 Swindon        P-P Cheltenham [waterlogged pitch, played 12/3]
 
-_ Sat 8 Mar _
+_ Sat Mar 8 _
 Barnsley       1-0 Stockport [Dyer 10 - 9,177]
 Cardiff        0-2 Notts C [Stallard 62p,80 - 11,389]
 Cheltenham     3-1 Mansfield [Devaney 2,Brown 38,Spencer 90; Lawrence 83 - 3,881]
@@ -2970,14 +2970,14 @@ QPR            1-0 Bristol C [Gallen 19p - 14,681]
 Tranmere       2-1 Crewe [Price 43,Sharps 88; Hulse 47 - 8,670]
 Wycombe        4-0 Brentford [Dixon 16,Senda 17,Holligan 80,Currie 87 - 5,930]
 
-_ Tue 11 Mar _
+_ Tue Mar 11 _
 Brentford      1-1 Colchester [McCammon 37; Keith 84p - 3,990]
-_ Wed 12 Mar _
+_ Wed Mar 12 _
 Swindon        0-3 Cheltenham [Devaney 32,Brough 40,Spencer 90 - 5,583]
 
-_ Fri 14 Mar _
+_ Fri Mar 14 _
 Tranmere       3-3 Cardiff [Haworth 47,Hurne 78,Jones 89; Earnshaw 35,68,90 - 9,637]
-_ Sat 15 Mar _
+_ Sat Mar 15 _
 Blackpool      1-1 Plymouth [Taylor 40; Keith 29 - 8,772]
 Brentford      1-2 Stockport [Antoine-Curier 39; Beckett 51,54 - 4,790]
 Bristol C      1-0 Peterborough [Robins 12 - 11.231]
@@ -2990,7 +2990,7 @@ Oldham         0-0 QPR [7,242]
 Wigan          1-1 Luton [Roberts 75; Howard 57 - 7,087]
 Wycombe        2-2 Barnsley [McSporran 34,Johnson 82; Sheron 76,Dyer 86 - 5,931]
 
-_ Tue 18 Mar _
+_ Tue Mar 18 _
 Barnsley       1-1 Tranmere [Dyer 8; Nicholson 49p - 8,786]
 Cardiff        2-1 Blackpool [Earnshaw 44,Mahon 51; Taylor 37 - 11,788]
 Chesterfield   0-4 Colchester [Izzet 43,Williams 48,Payne og 68,Morgan 81 - 3,226]
@@ -3002,12 +3002,12 @@ Plymouth       1-3 Crewe [Stonebridge 47; Jack 4,Ashton 13,68 - 7,777]
 Port Vale      1-0 Brentford [Collins 36 - 3,241]
 QPR            4-1 Cheltenham [Gallen 40,Duff og 45,Cook 55,Furlong 63; Devaney 5 - 11,370]
 Stockport      1-1 Wigan [Welsh 70; De Vos 63 - 6,719]
-_ Wed 19 Mar _
+_ Wed Mar 19 _
 Swindon        1-1 Bristol C [Parkin 66; Robins 48 - 8,629]
 
-_ Fri 21 Mar _
+_ Fri Mar 21 _
 Cardiff        1-0 Mansfield [Earnshaw 62 - 13,009]
-_ Sat 22 Mar _
+_ Sat Mar 22 _
 Barnsley       1-1 Colchester [Betsy 36; McGleish 38 - 9,154]
 Chesterfield   4-0 Wycombe [Close 28,Reeves 53,Brandon 67,Hudson 86 - 3,081]
 Huddersfield   1-2 Bristol C [Smith 20p; Hill 17,Peacock 36 - 9,477]
@@ -3020,7 +3020,7 @@ QPR            0-1 Wigan [Ellington 47 - 14,703]
 Stockport      2-2 Blackpool [Lambert 45,Beckett 77; Murphy 32,Grayson 42 - 6,599]
 Swindon        5-0 Notts C [Parkin 43,61,89,Gurney 59,Duke 69 - 4,246]
 
-_ Sat 29 Mar _
+_ Sat Mar 29 _
 Blackpool      1-3 QPR [Taylor 90; Langley 35,65,85 - 8,162]
 Brentford      3-0 Northampton [Somner 52,Rowlands 77,Hunt 90 - 5,354]
 Bristol C      2-0 Barnsley [Murray 6,Roberts 63 - 10,232]
@@ -3034,9 +3034,9 @@ Tranmere       2-1 Chesterfield [Anderson 30,Hume 51; Reeves 78 - 8,238]
 Wigan          0-1 Plymouth [Keith 35 - 7,203]
 Wycombe        P-P Cardiff [due to Cardiff international call-ups; played 8/4]
 
-_ Fri 4 Apr _
+_ Fri Apr 4 _
 Northampton    0-2 Wigan [Ellington 9,Liddell 43p - 5,822]
-_ Sat 5 Apr _
+_ Sat Apr 5 _
 Brentford      2-2 Cheltenham [Dobson 63,O'Connor 78; McCann 23p,Devaney 29 - 5,011]
 Cardiff        1-2 QPR [Thorne 78; Furlong 64,Langley 89 - 15,245]
 Crewe          P-P Bristol C [due to LDV Trophy Final, played 15/4]
@@ -3049,11 +3049,11 @@ Peterborough   1-1 Swindon [Shields 35; Invincibile 71 - 4,310]
 Plymouth       0-0 Colchester [7,122]
 Wycombe        1-4 Stockport [Simpson 65; Beckett 78,Greer 85,Wilbraham 88,90 - 5,632]
 
-_ Tue 8 Apr _
+_ Tue Apr 8 _
 Cheltenham     2-2 Luton [McCann 27p,Alsop 81; Hughes 12,Forbes 38 - 3,762]
 Wycombe        0-4 Cardiff [Thorne 5,81,Mahon 68,Legg 84 - 5,889]
 
-_ Sat 12 Apr _
+_ Sat Apr 12 _
 Barnsley       1-2 Peterborough [Dyer 15p; Arber 60p,Crooks og 77 - 8,862]
 Blackpool      0-1 Crewe [Lunt 69 - 7,623]
 Bristol C      5-2 Mansfield [Peacock 13,Murray 32,51,80,Carey 70; Disley 37,Butler og 61 - 12,013]
@@ -3065,17 +3065,17 @@ Stockport      2-1 Plymouth [Wilbraham 40,Daly 86p; Keith 72 - 5,484]
 Swindon        0-1 Huddersfield [Smith 87 - 4,760]
 Tranmere       1-0 Wycombe [Jones 90 - 6,814]
 Wigan          2-0 Brentford [Ellington 57,McCulloch 90 - 7,204]
-_ Sun 13 Apr _
+_ Sun Apr 13 _
 Chesterfield   0-3 Cardiff [Kavanagh 24,Thorne 35,82 - 4,398]
 
-_ Tue 15 Apr _
+_ Tue Apr 15 _
 Crewe          1-1 Bristol C [Lunt 15p; Roberts 62 - 7,901]
-_ Wed 16 Apr _
+_ Wed Apr 16 _
 Peterborough   2-0 Cardiff [Gill 38,McKenzie 70 - 4,984]
 
-_ Fri 18 Apr _
+_ Fri Apr 18 _
 Northampton    0-3 Stockport [Wilbraham 7,24,Goodwin 14 - 5,873]
-_ Sat 19 Apr _
+_ Sat Apr 19 _
 Brentford      1-2 QPR [Peters 81; Shittu 8,Bircham 90 - 9,168]
 Cardiff        0-3 Colchester [Duguid 4,Izzet 61,Morgan 73 - 12,633]
 Crewe          0-1 Swindon [Miglioranzi 75 - 6,384]
@@ -3088,7 +3088,7 @@ Peterborough   1-0 Blackpool [Farrell 12 - 4,587]
 Plymouth       3-0 Port Vale [Coughlan 56,Norris 67,Wotton 77 - 7,775]
 Wycombe        1-1 Cheltenham [Brown 4p; Naylor 89 - 6,070]
 
-_ Mon 21 Apr _
+_ Mon Apr 21 _
 Barnsley       1-2 Crewe [Ince og 33; Sorvel 34,Hulse 62 - 9,396]
 Blackpool      3-3 Mansfield [Blinkhorn 30,43,Taylor 90; Clarke 13,Larkin 46,White 86 - 6,173]
 Cheltenham     1-1 Peterborough [Duff 86; Clarke 64 - 4,809]
@@ -3099,12 +3099,12 @@ QPR            2-0 Notts C [Furlong 16,Langley 90 - 13,585]
 Stockport      2-1 Huddersfield [Daly 79,Wilbraham 81; Booth 3 - 7,159]
 Tranmere       4-0 Northampton [Nicholson 59p,Haworth 60,Hay 90,Anderson 90 - 7,348]
 Wigan          3-1 Oldham [Roberts 9,80,Bullard 71; Andrews 1 - 12,783]
-_ Tue 22 Apr _
+_ Tue Apr 22 _
 Bristol C      2-0 Cardiff [Tinnion 55p,Roberts 73 - 15,615]
-_ Wed 23 Apr _
+_ Wed Apr 23 _
 Swindon        2-0 Plymouth [Invincibile 38,Parkin 68 - 5,057]
 
-_ Sat 26 Apr _
+_ Sat Apr 26 _
 Barnsley       1-0 Brentford [Rankin 90 - 9,065]
 Cardiff        0-0 Wigan [14,702]
 Cheltenham     3-0 Blackpool [Victory 37,M Duff 40,Naylor 65 - 5,150]
@@ -3119,10 +3119,10 @@ Tranmere       A-A Mansfield [abandoned at HT on police advice resulting from sa
  climbed onto the floodlight/roof - Hume 16,Haworth 31; 7,000+, played 29/4]
 Wycombe        0-0 Colchester [6,283]
 
-_ Tue 29 Apr _
+_ Tue Apr 29 _
 Tranmere       3-1 Mansfield [Jones 15,Haworth 81,Price 90; Lawrence 54p - 10,418]
 
-_ Sat 3 May _
+_ Sat May 3 _
 Blackpool      1-1 Chesterfield [Taylor 64; Douglas 39 - 7,999]
 Brentford      1-1 Peterborough [Evans 67; A Clarke 57 - 6,687]
 Bristol C      2-0 Port Vale [Murray 31,Peacock 43 - 12,410]
@@ -3173,14 +3173,14 @@ Promotion Play Offs
 ▪ Semi Finals ▪
 
 1st Legs
-_ Sat 10 May _
+_ Sat May 10 _
 Cardiff        1-0 Bristol C [Thorne 74 - 19,146]
 Oldham         1-1 QPR [Eyres 28; Langley 47 - 12,152]
 
 2nd Legs
-_ Tue 13 May _
+_ Tue May 13 _
 Bristol C      0-0 Cardiff [16,307, Cardiff win 1-0 on agg]
-_ Wed 14 May _
+_ Wed May 14 _
 QPR            1-0 Oldham [Furlong 82 - 17,201, QPR win 2-1 on agg]
 
 ▪ Final ▪
@@ -3200,7 +3200,7 @@ Nationwide Football League Division 3
 Top 3 promoted to Division 2; 3-7 into Play-Offs, winner also promoted
 Bottom 2 relegated to Conference
 
-Round 1 [Sat Aug 10]
+▪ Round 1 ▪  Sat Aug 10
 Boston              2-2 Bournemouth [Neil Young og 52, James Gould 54; Shaun Maher 9, Brian Stock 54 - 4,184]
 Cambridge Utd       1-2 Darlington [Dave Kitson 6; Ian Clark 44, Ashley Nicholls 77 - 4,079]
 Carlisle            1-3 Hartlepool [Brian Wake 80; Mark Tinkler 44, 71, Ritchie Humphreys 47 - 10,684]
@@ -3214,7 +3214,7 @@ Shrewsbury          1-0 Exeter [Luke Rodgers 44 - 3,781]
 Swansea             2-2 Rushden & Diamonds [James Thomas 15, Paul Reid 64; Onandi Lowe 13, Paul Underwood 90 - 6,327]
 Torquay             2-1 Bristol Rovers [Martin Gritton 45, Alex Russell 74p; Giuliano Grazioli 5 - 4,937]
 
-Round 2 [Tue Aug 13]
+▪ Round 2 ▪  Tue Aug 13
 Bournemouth         0-0 Kidderminster [4,771]
 Bristol Rovers      1-1 Hull [Giuliano Grazioli 30; Simon Johnson 85 - 7,501]
 Bury                0-1 Cambridge Utd [Omer Riza 53 - 2,650]
@@ -3228,7 +3228,7 @@ Southend            0-1 Carlisle [William McDonagh 85 - 3,881]
 Wrexham             1-0 Oxford Utd [Hector Sam 88 - 3,591]
 York                2-1 Shrewsbury [Peter Duffield 47, Jonathan Parkin 73; Darren Moss 13 - 3,463]
 
-Round 3 [Sat Aug 17]
+▪ Round 3 ▪  Sat Aug 17
 Bournemouth         1-1 Cambridge Utd [Warren Feeney 65; Terry Fleming 35 - 4,315]
 Bristol Rovers      1-2 Rochdale [Simon Bryant 45; Clive Platt 36, Paul Simpson 78 - 6,478]
 Bury                3-2 Swansea [George Clegg 10, Jon Newby 37, Danny Swailes 80; James Thomas 64, Danny Swailes og 78 - 2,348]
@@ -3242,7 +3242,7 @@ Southend            2-3 Shrewsbury [Neil Jenkins 9, Tesfaye Bramble 81p; Luke Ro
 Wrexham             1-1 Boston [Lee Trundle 27; Simon Rusk 63 - 3,293]
 York                4-3 Torquay [Peter Duffield 15, Lee Nogan 49, Jonathan Parkin 53, 73; Sean Hankin 56, Marcus Richardson 64, Matthew Hockley 65 - 3,203]
 
-Round 4 [Sat Aug 24]
+▪ Round 4 ▪  Sat Aug 24
 Boston              2-0 Lincoln City [Simon Weatherstone 30, Daryl Clare 89 - 5,159]
 Cambridge Utd       2-1 Leyton Orient [Dave Kitson 6, 55; Jamal Campbell-Ryce 50 - 4,807]
 Carlisle            0-0 Bristol Rovers [6,475]
@@ -3272,7 +3272,7 @@ Bournemouth         1-1 Oxford Utd [Derek Holmes 42; Steve Basham 47 - 4,842]
 Bristol Rovers      3-1 Swansea [Giuliano Grazioli 33, Paul Tait 52, Vitalijs Astafjevs 84; David Moss 80 - 6,644]
 Darlington          2-0 Carlisle [Glenn Naylor 56, 81 - 5,163]
 
-Round 6 [Sat Aug 31]
+▪ Round 6 ▪  Sat Aug 31
 Boston              1-1 Bury [Simon Weatherstone 90; Jon Newby 48 - 2,790]
 Cambridge Utd       4-1 Rushden & Diamonds [Tom Youngs 21, 77, Omer Riza 63, Dave Kitson 90; Stuart Wardley 83 - 4,598]
 Carlisle            0-2 Exeter [Don Goodman 42, Santos Gaia 45 - 4,806]
@@ -3304,7 +3304,7 @@ Macclesfield        2-1 Bristol Rovers [Matthew Tipton 10p, Chris Byrne 17; Wayn
 _ Tue Sep 24 _
 Darlington          0-1 Wrexham [Andrew Morrell 36 - 2,573]
 
-Round 8 [Sat Sep 14]
+▪ Round 8 ▪  Sat Sep 14
 Boston              1-3 Oxford Utd [Neil Redfearn 55; Paul Powell 16, Andrew Scott 24, 36 - 2,685]
 Bournemouth         1-2 Bury [Gareth O'Connor 71; Martyn Forrest 45p, Lee Unsworth 56 - 4,851]
 Bristol Rovers      1-1 Exeter [Paul Tait 39; Steve Flack 27 - 6,498]
@@ -3334,7 +3334,7 @@ York                1-0 Darlington [Jonathan Parkin 73 - 4,128]
 _ Wed Sep 18 _
 Boston              1-0 Swansea [Simon Weatherstone 36 - 2,209]
 
-Round 10 [Sat Sep 21]
+▪ Round 10 ▪  Sat Sep 21
 Bury                1-1 Hartlepool [Pawel Abbott 20; Adam Boyd 82 - 3,547]
 Cambridge Utd       3-0 York [Dave Kitson 13, Adam Tann 82, David Bridges 84 - 4,204]
 Carlisle            4-2 Boston [Brian Wake 14, 34, 45, Richie Foran 22p; Jamie Cook 41, Stuart Douglas 69 - 3,623]
@@ -3348,7 +3348,7 @@ Rushden & Diamonds  2-2 Wrexham [Paul Hall 43, 80; Carlos Edwards 10, Andrew Mor
 Shrewsbury          2-5 Bristol Rovers [Karl Murray 47, Luke Rodgers 72; Giuliano Grazioli 35, 53, 65, Vitalijs Astafjevs 56, Wayne Carlisle 80 - 3,510]
 Swansea             0-1 Torquay [David Graham 31 - 3,872]
 
-Round 11 [Sat Sep 28]
+▪ Round 11 ▪  Sat Sep 28
 Boston              1-3 Cambridge Utd [Simon Weatherstone 43; Dave Kitson 2, 90, Neil Redfearn og 24 - 3,090]
 Bournemouth         3-1 Carlisle [Jason Tindall 62, Alan Connell 77p, Brian Stock 86; Peter Murphy 90 - 5,103]
 Bristol Rovers      1-2 Kidderminster [Paul Tait 74; John Melligan 27, Bo Henriksen 75 - 9,447]
@@ -3362,7 +3362,7 @@ Torquay             0-0 Lincoln City [3,428]
 Wrexham             2-2 Bury [Andrew Morrell 22, 25p; Jon Newby 31, 59 - 3,941]
 York                0-1 Oxford Utd [Gavin Gordon 61 - 3,962]
 
-Round 12 [Sat Oct 5]
+▪ Round 12 ▪  Sat Oct 5
 Bury                1-3 Southend [Michael Nelson 3; Graeme Jones 67, Neil Jenkins 79, Tesfaye Bramble 84 - 3,301]
 Cambridge Utd       2-2 Wrexham [Tom Youngs 84, Omer Riza 85; Jim Whitley 26, Craig Morgan 90 - 6,044]
 Carlisle            1-2 Torquay [Craig Farrell 30; David Graham 2, Martin Gritton 90 - 4,014]
@@ -3392,7 +3392,7 @@ Wrexham             0-0 Leyton Orient [3,495]
 _ Sun Oct 13 _
 Bournemouth         2-1 Hartlepool [Wade Elliott 61, Tommy Widdrington og 85; Eifion Williams 17 - 5,998]
 
-Round 14 [Sat Oct 19]
+▪ Round 14 ▪  Sat Oct 19
 Cambridge Utd       1-1 Oxford Utd [Shane Tudor 28; Andrew Scott 81 - 4,621]
 Darlington          2-3 Boston [Ian Clark 85, Barry Conlon 87; Lee Thompson 25, 67, 80 - 3,033]
 Hartlepool          4-3 Wrexham [Mark Tinkler 14, 41, 52, Marcus Richardson 19; Lee Jones 21, Lee Trundle 68, Hector Sam 88p - 4,506]
@@ -3422,7 +3422,7 @@ Oxford Utd          2-2 Shrewsbury [Andrew Scott 7, Jefferson Louis 16; Ian Woan
 Scunthorpe          5-1 Torquay [Martin Carruthers 39, Steve Torpey 45, 82, 90, Jamie McCombe 73; David Graham 30 - 2,911]
 Wrexham             0-2 Lincoln City [Dean Cropper 48, Paul Smith 77 - 3,312]
 
-Round 16 [Tue Oct 29]
+▪ Round 16 ▪  Tue Oct 29
 Cambridge Utd       2-1 Carlisle [Shane Tudor 25, 63; John Sutton 20 - 3,334]
 Darlington          1-1 Scunthorpe [Ian Clark 28p; Martin Carruthers 5 - 3,059]
 Hartlepool          2-0 Bristol Rovers [Paul Arnison 41, Eifion Williams 64 - 3,889]
@@ -3453,7 +3453,7 @@ Southend            0-1 Wrexham [Stephen Thomas 41 - 3,727]
 _ Tue Nov 19 _
 Torquay             2-2 Kidderminster [Alex Russell 23, Martin Gritton 32; Bo Henriksen 61, Andy Bishop 72 - 2,629]
 
-Round 18 [Sat Nov 9]
+▪ Round 18 ▪  Sat Nov 9
 Bristol Rovers      0-1 Southend [Tesfaye Bramble 78 - 5,691]
 Bury                0-1 Torquay [David Graham 57 - 3,210]
 Exeter              1-2 Hartlepool [Reinier Moor 49; Mark Tinkler 63, Marcus Richardson 66 - 2,778]
@@ -3483,7 +3483,7 @@ Southend            0-1 Bournemouth [Gareth O'Connor 71p - 4,221]
 _ Tue Jan 28 _
 Kidderminster       1-3 Oxford Utd [Sean Parrish 52; Steve Basham 21, Craig Hinton og 29, Andrew Scott 61 - 2,991]
 
-Round 20 [Sat Nov 30]
+▪ Round 20 ▪  Sat Nov 30
 Boston              0-1 Leyton Orient [Chris Tate 5 - 2,616]
 Bournemouth         2-1 Scunthorpe [Karl Broadhurst 59, James Hayter 66; Steve Torpey 25 - 6,527]
 Bury                1-0 Exeter [Liam George 82 - 2,039]
@@ -3497,7 +3497,7 @@ Torquay             2-2 Rochdale [Martin Gritton 52, Reuben Hazell 90; Paul Conn
 Wrexham             0-0 Hull [4,412]
 York                2-1 Carlisle [Michael Reddy 44, Peter Duffield 79; Paul Robinson 73 - 4,335]
 
-Round 21 [Sat Dec 14]
+▪ Round 21 ▪  Sat Dec 14
 Bristol Rovers      0-2 Oxford Utd [Matthew Robinson 12, Jefferson Louis 49 - 5,864]
 Carlisle            1-2 Wrexham [Richie Foran 5; Lee Jones 33, Hector Sam 87 - 4,480]
 Exeter              1-0 Swansea [Andrew Roscoe 73 - 2,625]
@@ -3620,7 +3620,7 @@ Boston              3-3 Wrexham [Peter Duffield 27, 62, Neil Redfearn 49p; Lee T
 _ Tue Apr 8 _
 Rochdale            1-1 Bristol Rovers [Paul Connor 21; Vitalijs Astafjevs 44 - 1,658]
 
-Round 28 [Sat Jan 18]
+▪ Round 28 ▪  Sat Jan 18
 Bournemouth         2-2 Macclesfield [Wade Elliott 68, James Hayter 73; Danny Whittaker 27, Chris Priest 43 - 5,840]
 Bristol Rovers      2-1 Scunthorpe [Vitalijs Astafjevs 85, Wayne Carlisle 88; Martin Carruthers 64 - 6,617]
 Bury                0-0 Boston [3,024]
@@ -3670,7 +3670,7 @@ _ Tue Mar 25 _
 Bury                1-1 Oxford Utd [Pawel Abbott 23; Scott McNiven 35 - 2,578]
 Lincoln City        1-0 Kidderminster [Shayne Bradley 15 - 4,092]
 
-Round 31 [Sat Feb 8]
+▪ Round 31 ▪  Sat Feb 8
 Boston              1-0 Scunthorpe [Richard Logan 90 - 3,358]
 Bournemouth         2-0 Wrexham [Warren Feeney 52, 55 - 5,445]
 Cambridge Utd       5-0 Shrewsbury [Dave Kitson 4, 59, Omer Riza 45, Tom Youngs 47, 81 - 3,755]
@@ -3718,7 +3718,7 @@ York                1-1 Bury [Jonathan Parkin 53p; George Clegg 60 - 4,115]
 _ Sun Feb 23 _
 Wrexham             0-0 Darlington [4,079]
 
-Round 34 [Sat Mar 1]
+▪ Round 34 ▪  Sat Mar 1
 Bury                2-1 Bournemouth [Steve Redmond 33, Colin Cramb 84; Warren Feeney 12 - 2,914]
 Cambridge Utd       0-1 Torquay [Jo Kuffour 4 - 4,280]
 Carlisle            1-5 Hull [Craig Farrell 90; Jonathan Walters 20, 67, Stuart Elliott 39, 48, Jamie Forrester 45 - 4,678]
@@ -3766,7 +3766,7 @@ York                3-1 Cambridge Utd [Jonathan Parkin 48, Lee Nogan 49, Anthony
 _ Tue Apr 15 _
 Rochdale            0-1 Kidderminster [Sam Shilton 83 - 1,810]
 
-Round 37 [Sat Mar 15]
+▪ Round 37 ▪  Sat Mar 15
 Cambridge Utd       0-2 Kidderminster [John Melligan 66, Wes Morgan 73 - 3,705]
 Darlington          2-2 Exeter [Danny Mellanby 47, 52; Carl Pettefer 19, Sean Devine 70 - 2,476]
 Hartlepool          2-1 Southend [Ritchie Humphreys 36, 49; Daryl Sutch 74 - 4,868]
@@ -3796,7 +3796,7 @@ Wrexham             2-0 Hartlepool [Scott Green 3, 66 - 4,658]
 _ Wed Mar 19 _
 Boston              1-0 Darlington [Mark Greaves 5 - 2,186]
 
-Round 39 [Sat Mar 22]
+▪ Round 39 ▪  Sat Mar 22
 Boston              1-1 Rushden & Diamonds [Graeme Jones 67; Duane Darby 79 - 3,504]
 Bournemouth         1-1 Torquay [Simon Clist og 90; Tony Bedeau 68 - 7,181]
 Bristol Rovers      1-0 Hartlepool [Graham Hyde 7 - 6,557]
@@ -3843,7 +3843,7 @@ Southend            2-0 Darlington [Kevin Maher 40, Neil Jenkins 42 - 3,053]
 _ Tue Apr 15 _
 Carlisle            1-1 York [Darren Kelly 79; Anthony Shandran 75 - 4,935]
 
-Round 42 [Sat Apr 12]
+▪ Round 42 ▪  Sat Apr 12
 Boston              0-1 Hull [Stuart Elliott 73 - 3,782]
 Bournemouth         1-0 Southend [Stephen Purches 9 - 6,767]
 Bury                1-1 Carlisle [David Nugent 33; Richie Foran 80 - 3,384]
@@ -3889,7 +3889,7 @@ York                0-0 Kidderminster [4,069]
 _ Tue Apr 22 _
 Cambridge Utd       0-0 Lincoln City [4,013]
 
-Round 45 [Sat Apr 26]
+▪ Round 45 ▪  Sat Apr 26
 Boston              2-1 Macclesfield [Peter Duffield 20p, Matthew Hocking 51; Colin Little 61 - 3,825]
 Bournemouth         0-1 Lincoln City [Richard Butcher 28 - 7,578]
 Bristol Rovers      2-1 Darlington [Andy Rammell 23, Wayne Carlisle 75; Clark Keltie 67 - 9,835]
@@ -3903,7 +3903,7 @@ Torquay             2-3 Carlisle [Peter Murphy og 69, Jo Kuffour 77; Craig Russe
 Wrexham             5-0 Cambridge Utd [Paul Barrett 16, Brian Carey 20, Stephen Roberts 23, Paul Edwards 60, Lee Jones 62 - 9,960]
 York                0-2 Exeter [Steve Flack 5, James Coppinger 55 - 4,840]
 
-Round 46 [Sat May 3]
+▪ Round 46 ▪  Sat May 3
 Bury                0-3 Wrexham [Carlos Edwards 7, Danny Swailes og 57, Darren Ferguson 61 - 5,186]
 Cambridge Utd       1-2 Boston [Omer Riza 72; Mark Angel 37, Simon Rusk 82 - 4,488]
 Carlisle            0-2 Bournemouth [James Hayter 86, 90 - 7,402]
@@ -3953,7 +3953,7 @@ Nationwide Football Conference
 Champions promoted to Division 3; 2-5 into Play-Offs, winner also promoted
 Bottom 3 relegated to feeder leagues
 
-Round 1 [Sat Aug 17]
+▪ Round 1 ▪  Sat Aug 17
 Burton Albion       1-1 Scarborough [Steve Evans 67; Karl Rose 39 - 1,821]
 Chester             0-0 Kettering [2,367]
 Dag & Red           3-1 Leigh RMI [Mark Stein 4, 58, Steve McGavin 7; Tony Black 33 - 1,305]
@@ -3981,7 +3981,7 @@ Northwich           1-3 Burton Albion [Greg Rioch 31; Christian Moore 4, 15, Dal
 Nuneaton            1-1 Woking [Andy Thackeray 36; Ben Abbey 19 - 1,241]
 Scarborough         2-2 Southport [Paul Shepherd 3, Keith Scott 5; Mark Lloyd-Williams 36, Peter Thomson 74 - 1,346]
 
-Round 3 [Sat Aug 24]
+▪ Round 3 ▪  Sat Aug 24
 Barnet              0-3 Chester [Ryan Sugden 67, Michael Twiss 87, Mark Beesley 90 - 1,347]
 Farnborough         3-0 Halifax [Lenny Piper 55, Dean Green 66, Ken Charlery 90 - 626]
 Forest Green        0-2 Southport [Neil Grayson og 15, Gary Bauress 89 - 602]
@@ -3994,7 +3994,7 @@ Nuneaton            3-0 Stevenage [Mark Quayle 32, 55, 81 - 1,206]
 Scarborough         0-1 Dag & Red [Mark Hotte og 35 - 1,192]
 Telford             4-4 Doncaster [Paul Moore 49, Mark Foran 60, Peter Smith 84, David Brown 90; David Morley 12, Francis Tierney 22, 32, Dean Barrick 27 - 1,170]
 
-Round 4 [Mon Aug 26]
+▪ Round 4 ▪  Mon Aug 26
 Burton Albion       0-3 Barnet [Mark Arber 26, Junior Agogo 33, Mark Gower 54 - 1,948]
 Chester             0-0 Scarborough [2,292]
 Dag & Red           1-1 Telford [Danny Hill 35; Mark Foran 45 - 1,711]
@@ -4007,7 +4007,7 @@ Stevenage           1-0 Gravesend [Jean-Michel Sigere 83 - 1,849]
 Woking              3-0 Leigh RMI [Grant Payne 63, Ben Abbey 71, Warren Patmore 82 - 2,160]
 Yeovil              3-2 Nuneaton [Michael McIndoe 34, Gavin Williams 35, Adam Lockwood 70; Gary Jones 32, Mark Quayle 90 - 2,504]
 
-Round 5 [Sat Aug 31]
+▪ Round 5 ▪  Sat Aug 31
 Barnet              0-0 Halifax [1,316]
 Farnborough         1-0 Dag & Red [Tony Taggart 69 - 998]
 Forest Green        0-2 Chester [Mark Beesley 32p, 45 - 812]
@@ -4083,7 +4083,7 @@ Woking              1-5 Margate [Ben Abbey 83; Leon Braithwaite 3, 13, 13, Steve
 _ Wed Sep 18 _
 Northwich           3-2 Morecambe [Gregg Blundell 15, Kevin Street 49, Jonathan Allan 88; Wayne Curtis 51p, Ryan Black 56 - 645]
 
-Round 10 [Sat Sep 21]
+▪ Round 10 ▪  Sat Sep 21
 Chester             5-2 Dag & Red [Ryan Sugden 7, 90, James Kelly 22p, Phil Bolland 81, Scott Guyett 81; Paul Terry 1, Paul Bruce 35 - 2,231]
 Farnborough         1-0 Leigh RMI [Gary Holloway 72 - 595]
 Gravesend           0-2 Telford [David Brown 48, Gary Fitzpatrick 64 - 1,096]
@@ -4111,7 +4111,7 @@ Scarborough         2-0 Leigh RMI [Bimbo Fatokun 32, Mohammed Sillah 76 - 950]
 Southport           2-0 Halifax [Steve Pickford 2, Steve Soley 61 - 1,008]
 Yeovil              4-0 Woking [Abdoulai Demba 39, Michael McIndoe 41, Terry Skiverton 44, Howard Forinton 59 - 4,003]
 
-Round 12 [Sat Sep 28]
+▪ Round 12 ▪  Sat Sep 28
 Barnet              1-1 Morecambe [John Doolan 31; Lee Elam 15 - 1,250]
 Burton Albion       0-1 Margate [Leon Braithwaite 90p - 1,604]
 Dag & Red           0-3 Southport [Steve Soley 45p, 79, Peter Thomson 84 - 1,341]
@@ -4124,7 +4124,7 @@ Northwich           1-2 Gravesend [Gregg Blundell 70; Liam Hatch 41, Tim Cole 45
 Telford             0-2 Farnborough [Lenny Piper 45, Ken Charlery 89 - 762]
 Woking              1-5 Stevenage [Grant Payne 65; Martin Williams 11, Charlie MacDonald 33, 48, Michael Blackwood 37, Kirk Jackson 68 - 1,768]
 
-Round 13 [Sat Oct 5]
+▪ Round 13 ▪  Sat Oct 5
 Forest Green        4-4 Barnet [Jon Richardson 32, Kayode Odejayi 45, Alex Meechan 71, 85; Jason Soloman 13, Junior Agogo 27, Ben Strevens 57, Mark Gower 67 - 871]
 Gravesend           5-2 Scarborough [Liam Hatch 8, 29, Che Stadhart 47p, Mark Hotte og 69, Jimmy Jackson 90; Keith Scott 43, 73 - 1,259]
 Hereford            2-1 Dag & Red [Stephen Guinan 55, Daniel Williams 58; Steve West 41 - 1,761]
@@ -4168,7 +4168,7 @@ Chester             1-1 Gravesend [Ryan Sugden 40; Paul Booth 34 - 2,210]
 Scarborough         4-1 Northwich [Neil Campbell 21, 29, Keith Scott 47, David Pounder 90; Gregg Blundell 71 - 1,156]
 Telford             0-5 Yeovil [Nick Crittenden 22p, Adam Lockwood 23, Andy Lindegaard 32, Howard Forinton 40, Gavin Williams 84 - 1,509]
 
-Round 16 [Sat Oct 19]
+▪ Round 16 ▪  Sat Oct 19
 Forest Green        0-0 Scarborough [751]
 Gravesend           1-3 Leigh RMI [Che Stadhart 80p; Ian Monk 48, Dino Maamria 52, 90p - 1,246]
 Hereford            1-1 Halifax [Jamie Pitman 27; Ryan Mallon 6 - 1,699]
@@ -4182,7 +4182,7 @@ Woking              1-0 Chester [Ben Abbey 84p - 2,019]
 Yeovil              1-1 Doncaster [Gavin Williams 15; Danny Hudson 2 - 6,674]
 
 
-Round 17 [Sat Nov 2]
+▪ Round 17 ▪  Sat Nov 2
 Barnet              3-4 Northwich [Junior Agogo 33, 67, Ben Strevens 84; Jonathan Allan 20, 62, Gregg Blundell 42, John Doolan og 84 - 1,093]
 Burton Albion       1-4 Morecambe [Dale Anderson 55p; Danny Carlton 29, 66, Lee Elam 32, David McKearney 73 - 1,688]
 Chester             2-2 Yeovil [Daryl Clare 23, 90; Nick Crittenden 51, Howard Forinton 55 - 3,821]
@@ -4195,7 +4195,7 @@ Scarborough         3-2 Margate [Anthony Ormerod 24, David Pounder 45, Thomas Ra
 Southport           3-2 Stevenage [Ian Nolan 14, Steve Pickford 37, Peter Thomson 73; Richard Paquette 23, Jack Midson 90 - 966]
 Telford             1-0 Woking [Martin Barlow 44 - 743]
 
-Round 18 [Sat Nov 9]
+▪ Round 18 ▪  Sat Nov 9
 Forest Green        0-2 Halifax [Brian Quailey 21, Ryan Mallon 80 - 753]
 Gravesend           0-0 Farnborough [1,070]
 Hereford            0-2 Southport [Steve Soley 51, Peter Thomson 90 - 1,646]
@@ -4208,7 +4208,7 @@ Stevenage           0-1 Chester [Daryl Clare 45 - 1,716]
 Woking              0-0 Barnet [1,761]
 Yeovil              2-2 Dag & Red [Michael McIndoe 16, Mark Smith og 54; Junior McDougald 57p, Gary Fletcher 80 - 4,289]
 
-Round 19 [Sat Nov 23]
+▪ Round 19 ▪  Sat Nov 23
 Barnet              2-0 Forest Green [Mark Gower 6, Junior Agogo 88 - 1,144]
 Burton Albion       0-2 Woking [Warren Patmore 66, 68p - 1,558]
 Chester             5-0 Margate [Ryan Sugden 6, Daryl Clare 13, 18, 65, Wayne Hatswell 31 - 1,920]
@@ -4256,7 +4256,7 @@ Barnet              3-1 Southport [Neil Midgley 14, 90, Wayne Purser 51; Paul Wh
 _ Tue Apr 15 _
 Chester             0-2 Farnborough [Rocky Baptiste 17, 25 - 1,869]
 
-Round 22 [Sat Dec 14]
+▪ Round 22 ▪  Sat Dec 14
 Dag & Red           3-3 Doncaster [John McGrath 44, Steve West 52, 70; Paul Barnes 11, 51, Robert Gill 75 - 1,739]
 Farnborough         2-1 Southport [Joff Vansittart 85, Rocky Baptiste 90; Chris Lane 61 - 591]
 Forest Green        1-0 Morecambe [Alex Sykes 64 - 623]
@@ -4300,7 +4300,7 @@ Telford             0-1 Hereford [Stephen Guinan 20 - 2,047]
 _ Tue Jan 21 _
 Gravesend           1-2 Margate [Chris Giles 30; Sam Sodje 22, Robert Owen og 63 - 1,041]
 
-Round 25 [Sat Dec 28]
+▪ Round 25 ▪  Sat Dec 28
 Burton Albion       1-1 Northwich [Glenn Kirkwood 90; James Quinn 67 - 1,833]
 Chester             4-1 Telford [Ben Davies 21, Daryl Clare 55, 78p, Mark Beesley 74; David Brown 71 - 2,594]
 Dag & Red           4-0 Gravesend [John McGrath 13p, Steve West 55, 87, Mark Stein 78 - 1,849]
@@ -4349,7 +4349,7 @@ Morecambe           3-0 Margate [Jim Bentley 28, Lee Elam 45, Ryan Black 90 - 1,
 _ Mon Apr 7 _
 Leigh RMI           1-3 Dag & Red [Ian Monk 39; Steve West 45, 52, 87 - 403]
 
-Round 28 [Sat Jan 18]
+▪ Round 28 ▪  Sat Jan 18
 Burton Albion       0-1 Leigh RMI [Dino Maamria 13 - 1,393]
 Chester             1-1 Barnet [Daryl Clare 71; Greg Heald 4 - 1,944]
 Dag & Red           1-0 Scarborough [Steve West 79 - 1,566]
@@ -4378,7 +4378,7 @@ Telford             1-2 Dag & Red [Mark Foran 6; Paul Terry 1, Junior McDougald 
 _ Tue Feb 25 _
 Farnborough         0-0 Doncaster [947]
 
-Round 30 [Sat Feb 8]
+▪ Round 30 ▪  Sat Feb 8
 Burton Albion       4-7 Telford [Darren Stride 24, Craig Dudley 45p, Christian Moore 53, 61; Kevin Davies 16, Martin Barlow 17, Mark Foran 33, Gareth Hanmer 39, Paul Moore 66, 85, Jordan King 90 - 1,516]
 Chester             0-1 Forest Green [Alex Meechan 18 - 2,245]
 Dag & Red           1-0 Farnborough [Junior McDougald 86p - 1,542]
@@ -4423,7 +4423,7 @@ Burton Albion       1-0 Southport [Christian Moore 67 - 1,402]
 Doncaster           3-1 Margate [Jason Blunt 15, Paul Barnes 27, 84; Jean-Michel Sigere 75 - 2,888]
 Forest Green        6-1 Nuneaton [Alex Meechan 23, 45, 54, Neil Grayson 65p, 90, Alex Sykes 73; Steve Brodie 11 - 679]
 
-Round 33 [Sat Mar 1]
+▪ Round 33 ▪  Sat Mar 1
 Chester             2-0 Halifax [Daryl Clare 9, Mark Quayle 53 - 2,928]
 Farnborough         2-2 Barnet [Geoff Pitcher 48, Rocky Baptiste 59; Ishmail Yakabu 51, Ben Wiper 85 - 886]
 Gravesend           3-2 Burton Albion [Mark Bentley 14, 76, Jimmy Jackson 17; Stuart Reddington 55, Darren Stride 77 - 1,140]
@@ -4436,7 +4436,7 @@ Southport           0-4 Doncaster [Paul Green 25, 85, Robert Gill 52, Paul Barne
 Stevenage           0-0 Forest Green [1,834]
 Yeovil              4-0 Hereford [Adam Lockwood 24, Kevin Gall 77, Kirk Jackson 78, Michael McIndoe 90p - 6,487]
 
-Round 34 [Sat Mar 8]
+▪ Round 34 ▪  Sat Mar 8
 Barnet              0-2 Stevenage [Dino Maamria 82, 85 - 1,909]
 Burton Albion       2-0 Chester [Andrew Ducros 8, Andy Sinton 70 - 2,183]
 Dag & Red           3-0 Margate [Danny Hill 40, Mark Janney 77, Steve West 86 - 1,901]
@@ -4467,7 +4467,7 @@ Farnborough         2-2 Telford [Lenny Piper 73, Joff Vansittart 90; David Brown
 _ Tue Apr 8 _
 Kettering           2-3 Forest Green [Craig Norman 38p, Niall Inman 90; Steven Cowe 19, 49, Alex Meechan 59p - 422]
 
-Round 36 [Sat Mar 22]
+▪ Round 36 ▪  Sat Mar 22
 Barnet              2-1 Hereford [Neil Midgley 5, Junior Agogo 68; Paul Parry 20 - 1,588]
 Burton Albion       2-0 Farnborough [Christian Moore 43, Jonathan Howard 73 - 1,548]
 Chester             2-0 Southport [Chris Lane og 73, Paul Carden 86 - 2,292]
@@ -4511,7 +4511,7 @@ Stevenage           3-1 Leigh RMI [Anthony Elding 52, 54, 69; Wayne Maden 10 - 2
 Woking              1-1 Southport [Raphael Nade 61; Peter Thompson 78 - 1,815]
 Yeovil              3-0 Telford [Michael McIndoe 28, 84, Kirk Jackson 44 - 7,558]
 
-Round 39 [Sat Apr 12]
+▪ Round 39 ▪  Sat Apr 12
 Barnet              0-2 Kettering [Matthew Langston og 26, Lee Clarke 69 - 1,198]
 Burton Albion       1-2 Stevenage [Aaron Webster 90; Tony Battersby 57, Danny Carroll 74 - 1,523]
 Chester             2-2 Woking [Carl Ruffer 87, Michael Twiss 89; Amos Foyewa 30, 74 - 2,165]
@@ -4524,7 +4524,7 @@ Scarborough         3-0 Forest Green [David Pounder 1, 6, Cleveland Taylor 50 - 
 Southport           0-2 Margate [Jay Saunders 58, John Keister 90 - 768]
 Telford             1-2 Nuneaton [Steve Palmer 69; Gez Murphy 38, Lee Mansell 40 - 987]
 
-Round 40 [Sat Apr 19]
+▪ Round 40 ▪  Sat Apr 19
 Forest Green        1-1 Telford [Neil Grayson 49; Paul Moore 15 - 801]
 Gravesend           2-2 Barnet [Liam Hatch 27, Francis Duku 45; Neil Midgley 1, Craig Pope 69 - 1,358]
 Hereford            0-1 Leigh RMI [Phillip Salt 38 - 1,690]
@@ -4537,7 +4537,7 @@ Stevenage           2-3 Doncaster [Dino Maamria 2, Simon Wormull 37; Francis Tie
 Woking              0-0 Dag & Red [2,159]
 Yeovil              6-1 Burton Albion [Kevin Gall 6, 24, 74, 81, Gavin Williams 45, Chris Giles 71; Sean Gummer 17 - 5,691]
 
-Round 41 [Mon Apr 21]
+▪ Round 41 ▪  Mon Apr 21
 Barnet              0-0 Woking [1,617]
 Burton Albion       2-0 Kettering [Jonathan Howard 66, Dale Anderson 75 - 1,570]
 Chester             2-0 Stevenage [Daryl Clare 72p, Jon Brady 78 - 1,745]
@@ -4550,7 +4550,7 @@ Scarborough         4-1 Nuneaton [Mohammed Sillah 21, Keith Gilroy 53p, Ross Wea
 Southport           1-2 Hereford [Steve Pickford 59; Daniel Williams 53, Albano Correia 87 - 1,103]
 Telford             1-0 Margate [Jordan King 81 - 1,016]
 
-Round 42 [Sat Apr 26]
+▪ Round 42 ▪  Sat Apr 26
 Forest Green        5-2 Dag & Red [Neil Grayson 26, 55, Jon Richardson 41, Kayode Odejayi 58, Steven Cowe 62; Steve West 45, Paul Terry 46 - 1,020]
 Gravesend           1-0 Halifax [Liam Hatch 73 - 1,950]
 Hereford            2-4 Doncaster [Daniel Williams 38, Albano Correia 77; Andy Watson 63, Tristram Whitman 79, Paul Barnes 85, Gregg Blundell 88 - 2,449]

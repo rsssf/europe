@@ -496,7 +496,7 @@ Chelsea           2-2 Fulham
 Bolton Wanderers  3-2 Portsmouth
 Blackburn Rovers  2-1 Middlesbrough
 Sheffield United  1-0 Arsenal
-(Feb 21, replay)
+_ Feb 21 _, replay
 Watford           1-1 Wigan Athletic
 
 ▪ Round 22 ▪
@@ -1078,9 +1078,9 @@ Tottenham Hotspur          1-2 Chelsea
   (Keane 79pen; Shevchenko 55, Wright-Phillips 61)
 
 ▪ Semifinals ▪
-[Apr 14, Villa Park]
+_ Apr 14 _, Villa Park
 Watford                    1-4 Manchester United
-(Apr 15, Old Trafford)
+_ Apr 15 _, Old Trafford
 Blackburn Rovers           1-2 Chelsea           (aet)
 
 ▪ Final ▪  May 19, Wembley
@@ -1092,7 +1092,7 @@ Manchester United          0-1 Chelsea           (aet)
 Community Shield 2007 [Aug 5, Wembley]
 Chelsea                    1-1 Manchester United (0-3 pen)
   (Malouda 45; Giggs 35)
-  (Ref: Mark Halsey; att: 80,731)
+  [Ref: Mark Halsey; att: 80,731]
 Chelsea: Cech, Johnson (Sidwell 78), Carvalho, Ben Haim, Ashley Cole (Diarra 67), Wright-Phillips,
   Essien, Mikel, Lampard, Malouda (Pizarro 51), Joe Cole (Sinclair 82).
   Subs Not Used: Cudicini, Hilario, Worley.
@@ -2725,7 +2725,7 @@ Northampton Town        abd Millwall              [abandoned at 0-1 in 90']
 Nottingham Forest       1-1 Tranmere Rovers
 Rotherham United        2-2 Leyton Orient
 Scunthorpe United       3-2 AFC Bournemouth
-(Jan 23, replay)
+_ Jan 23 _, replay
 Northampton Town        3-0 Millwall
 
 ▪ Round 26 ▪

@@ -729,7 +729,7 @@ P ... Premier League
 3 ... Third Division
 
 ▪ Third Round ▪
-_ Oct 27,28 _
+_ Oct 27 & 28 _
 Barnsley (1) - Bournemouth (2)        2-1
 Birmingham (1) - Wimbledon (P)        1-2
 Charlton (P) - Leichester (P)         1-2
@@ -748,7 +748,7 @@ Sunderland (1) - Grimsby (1)          2-1 (aet)
 Tranmere (1) - Newcastle (P)          0-1
 
 ▪ Fourth Round ▪
-_ Nov 10,11 _
+_ Nov 10 & 11 _
 Arsenal - Chelsea                     0-5
 Bolton - Wimbledon                    1-2
 Everton - Sunderland                  1-1 (aet, pen 4-5)
@@ -759,17 +759,17 @@ Manchester United - Nottingham        2-1
 Newcastle - Blackburn                 1-1 (aet, pen 2-4)
 
 ▪ Quarter Finals ▪
-_ Dec 1,2 _
+_ Dec 1 & 2 _
 Leichester - Blackburn                1-0
 Sunderland - Luton                    3-0
 Tottenham - Manchester United         3-1
 Wimbledon - Chelsea                   2-1
 
 ▪ Semi Finals ▪
-▪ First Leg ▪  Jan 26,27
+▪ First Leg ▪  Jan 26 & 27
 Sunderland - Leichester               1-2
 Tottenham - Wimbledon                 0-0
-▪ Second Leg ▪  Feb 16,17
+▪ Second Leg ▪  Feb 16 & 17
 Leichester - Sunderland               1-1
 Wimbledon - Tottenham                 0-1
 

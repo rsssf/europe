@@ -785,7 +785,7 @@ Manchester United       2-0 Arsenal
   (Rooney 54, Park 78)
 Middlesbrough           1-2 Newcastle United
   (Boateng 79; Boateng 29og, Ameobi 44)
-(May 4, replay)
+_ May 4 _, replay
 Sunderland              2-1 Fulham
   (Le Tallac 32, Brown 57; Radzinski 76)
 
@@ -1662,10 +1662,10 @@ Middlesbrough           4-2 Charlton Ath
    Southgate 76og)
 
 ▪ Semifinals ▪
-[Apr 22, Old Trafford, Manchester]
+_ Apr 22 _, Old Trafford, Manchester
 Chelsea                 1-2 Liverpool
   (Drogba 70; Riise 20, Luis Garcia 53)
-(Apr 23, Villa Park, Birmingham)
+_ Apr 23 _, Villa Park, Birmingham
 Middlesbrough           0-1 West Ham
   (Harewood 78)
 
@@ -2217,7 +2217,7 @@ Plymouth Argyle            abd Leicester City          [abandoned at 1-0 at half
 _ Nov 2 _
 Coventry City              1-2 Stoke
 Derby County               3-3 Ipswich Town
-(Jan 24, replay)
+_ Jan 24 _, replay
 Plymouth Argyle            1-0 Leicester City
 [tba]
 Southampton                0-0 Crystal Palace

@@ -15,7 +15,7 @@ Premiership
 _ Aug 16 _
 Arsenal                 2-1 Everton
   (Henry 35pen, Pires 58; Radzinski 84)
-  (red card: Campbell (A) 25, Li Tie (E) 87)
+  [red card: Campbell (A) 25, Li Tie (E) 87]
 Birmingham City         1-0 Tottenham Hotspur
   (Dunn 36pen)
 Blackburn Rovers        5-1 Wolverhampton Wanderers
@@ -30,11 +30,11 @@ Manchester United       4-0 Bolton Wanderers
   (Van Nistelrooij (M) 72 miss pen)
 Portsmouth              2-1 Aston Villa
   (Sheringham 42, Berger 63; Barry 84pen)
-  (red card: Barry (A) 87 mins)
+  [red card: Barry (A) 87 mins]
 _ Aug 17 _
 Charlton Athletic       0-3 Manchester City
   (Anelka 13pen, Sibierski 23, Jihai 83)
-  (red card: Fish (C) 71 mins)
+  [red card: Fish (C) 71 mins]
 Leeds United            2-2 Newcastle United
   (Viduka 24, Smith 57; Shearer 20pen, 88)
 Liverpool               1-2 Chelsea
@@ -44,10 +44,10 @@ Liverpool               1-2 Chelsea
 _ Aug 23 _
 Bolton Wanderers        2-2 Blackburn Rovers
   (Djorkaeff 3pen, Davies 25; Jansen 50, Yorke 90)
-  (red card: Reid (BR) 88)
+  [red card: Reid (BR) 88]
 Chelsea                 2-1 Leicester City
   (Nalis 3og, Mutu 45; Scowcroft 40)
-  (red card: Geremi (C) 67, Rogers (L) 84, Scimeca (L) 88)
+  [red card: Geremi (C) 67, Rogers (L) 84, Scimeca (L) 88]
 Everton                 3-1 Fulham
   (Naysmith 7, Unsworth 20, Watson 35; Hayles 59)
 Manchester City         1-1 Portsmouth
@@ -59,7 +59,7 @@ Tottenham Hotspur       2-1 Leeds United
   (Taricco 41, Kanoute 71; Smith 5)
 Wolverhampton Wanderers 0-4 Charlton Athletic
   (Euell 5, Jansen 15, Bartlett 25, 33)
-  (red card: Parker (C) 71)
+  [red card: Parker (C) 71]
 _ Aug 24 _
 Aston Villa             0-0 Liverpool
 Middlesbrough           0-4 Arsenal
@@ -92,7 +92,7 @@ Fulham                  2-3 Newcastle United
 _ Aug 30 _
 Aston Villa             3-1 Leicester City
   (Thatcher 8og, Angel 10, 16; Izzet 53)
-  (red card: Ferdinand (L) 40)
+  [red card: Ferdinand (L) 40]
 Bolton Wanderers        0-0 Charlton Athletic
 Chelsea                 2-2 Blackburn Rovers
   (Mutu 45, Hasselbaink 63pen; Cole 1, 58)
@@ -117,23 +117,23 @@ Arsenal                 1-1 Portsmouth
   (Henry 40pen; Sheringham 26)
 Blackburn Rovers        1-3 Liverpool
   (Jansen 8; Owen 12pen, 68, Kewell 90)
-  (red card: Neill (B) 13)
+  [red card: Neill (B) 13]
 Bolton Wanderers        2-0 Middlesbrough
   (Davies 23, N'Gotty 81)
 Charlton Athletic       0-2 Manchester United
   (Van Nistelrooij 62, 81)
-  (red card: Euell (C) 65)
+  [red card: Euell (C) 65]
 Chelsea                 4-2 Tottenham Hotspur
   (Lampard 35, Mutu 37, 75, Hasselbaink 90; Kanoute 25, 87)
 Everton                 2-2 Newcastle United
   (Radzinski 67, Ferguson 88pen; Shearer 59pen, 82pen)
-  (red card: Robert (N) 40, Naysmith (E) 58)
+  [red card: Robert (N) 40, Naysmith (E) 58]
 Southampton             2-0 Wolverhampton Wanderers
   (Beattie 37pen, 52)
 _ Sep 14 _
 Birmingham City         2-2 Fulham
   (Forssell 45, 82; Saha 1, Boa Morte 78)
-  (red card: Purse (B) 82; Legwinski (F) 60)
+  [red card: Purse (B) 82; Legwinski (F) 60]
 Manchester City         4-1 Aston Villa
   (Anelka 48pen, 68pen, 83, Tarnat 50; Angel 31)
 _ Sep 15 _
@@ -159,8 +159,8 @@ Wolverhampton Wanderers 0-5 Chelsea
   (Lampard 17, Hasselbaink 36, Duff 52, Crespo 67, 90)
 _ Sep 21 _
 Manchester United       0-0 Arsenal
-  (red card: Vieira (A) 81)
-  (Van Nistelrooij (M) 90 miss pen)
+  [red card: Vieira (A) 81]
+  [Van Nistelrooij (M) 90 miss pen]
 Middlesbrough           1-0 Everton
   (Job 6)
 
@@ -179,7 +179,7 @@ Leicester City          1-4 Manchester United
   (Sinclair 73; Keane 15, Van Nistelrooij 16, 45, 52)
 Southampton             0-1 Middlesbrough
   (Christie 13)
-  (red card: Phillips (S) 90)
+  [red card: Phillips (S) 90]
 _ Sep 28 _
 Blackburn Rovers        0-2 Fulham
   (Boa Morte 5, Saha 56)
@@ -200,7 +200,7 @@ Liverpool               1-2 Arsenal
   (Kewell 14; Hyypiä 31og, Pires 68)
 Manchester United       3-0 Birmingham City
   (Van Nistelrooij 36pen, Scholes 57, Giggs 82)
-  (red card: Taylor (B) 34)
+  [red card: Taylor (B) 34]
 Newcastle United        1-0 Southampton
   (Shearer 44)
 Portsmouth              1-2 Charlton Athletic
@@ -254,7 +254,7 @@ Newcastle United        3-0 Portsmouth
   (Speed 12, Shearer 28pen, Ameobi 61)
 Southampton             2-0 Blackburn Rovers
   (Beattie 59, Griffit 87)
-  (red card: Cole (B) 65)
+  [red card: Cole (B) 65]
 Wolverhampton Wanderers 4-3 Leicester City
   (Cameron 52, 60pen, Rae 68, Camara 86; Ferdinand 12, 15, Scimeca 35)
 _ Oct 26 _
@@ -272,10 +272,10 @@ Manchester United       3-0 Portsmouth
   (Forlan 37, Ronaldo 80, Keane 82)
 Middlesbrough           2-0 Wolverhampton Wanderers
   (Mendieta 73, Juninho 83)
-  (red card: Rae (W) 89)
+  [red card: Rae (W) 89]
 Newcastle United        1-1 Aston Villa
   (Robert 45; Dublin 11)
-  (red card: McCann (A) 70; Shearer (N) miss pen 81)
+  [red card: McCann (A) 70; Shearer (N) miss pen 81]
 Southampton             0-2 Manchester City
   (Fowler 4, Wanchope 85)
 Tottenham Hotspur       0-1 Bolton Wanderers
@@ -283,7 +283,7 @@ Tottenham Hotspur       0-1 Bolton Wanderers
 _ Nov 2 _
 Fulham                  1-2 Liverpool
   (Saha 40; Heskey 17, Murphy 89pen)
-  (red card: Boa Morte (F) 90)
+  [red card: Boa Morte (F) 90]
 Leicester City          2-0 Blackburn Rovers
   (Bent 75, Howey 82)
 _ Nov 3 _
@@ -297,7 +297,7 @@ Arsenal                 2-1 Tottenham Hotspur
 Aston Villa             0-2 Middlesbrough
   (Zenden 30, Ricketts 49pen)
 Bolton Wanderers        0-0 Southampton
-  (red card: M Svensson (S) 86)
+  [red card: M Svensson (S) 86]
 Charlton Athletic       3-1 Fulham
   (Stuart 10, Johansson 69, 76; Davis 89)
 Portsmouth              6-1 Leeds United
@@ -307,7 +307,7 @@ Wolverhampton Wanderers 1-1 Birmingham City
 _ Nov 9 _
 Chelsea                 5-0 Newcastle United
   (Johnson 25, Crespo 40, Lampard 42pen, Duff 78, Gudjohnsen 84)
-  (red card: O'Brien (N) 41)
+  [red card: O'Brien (N) 41]
 Liverpool               1-2 Manchester United
   (Kewell 76; Giggs 59, 70)
 Manchester City         0-3 Leicester City
@@ -339,7 +339,7 @@ Tottenham Hotspur       2-1 Aston Villa
 _ Nov 24 _
 Fulham                  2-0 Portsmouth
   (Saha 30,33)
-  (red card: Berger (P) 82)
+  [red card: Berger (P) 82]
 
 ▪ Round 14 ▪
 _ Nov 29 _
@@ -368,18 +368,18 @@ Manchester City         0-1 Middlesbrough
 _ Dec 6 _
 Birmingham City         0-4 Blackburn Rovers
   (Ferguson 66, Neill 68, Tugay 82, Gallagher 88)
-  (red card: Dugarry (BC) 72)
+  [red card: Dugarry (BC) 72]
 Fulham                  2-1 Bolton Wanderers
   (Davis 75, Sava 76; Davies 53)
 Leeds United            1-1 Chelsea
   (Pennant 18; Duff 70)
 Leicester City          1-1 Arsenal
   (Hignett 90; Gilberto 60)
-  (red card: Cole (A) 73)
+  [red card: Cole (A) 73]
 Manchester United       4-0 Aston Villa
   (Van Nistelrooy 16, 45, Forlan 90, 90)
 Middlesbrough           0-0 Portsmouth
-  (red card: Stone (P) 78)
+  [red card: Stone (P) 78]
 Newcastle United        1-1 Liverpool
   (Shearer 63penM Murphy 6)
 Tottenham Hotspur       5-2 Wolverhampton Wanderers
@@ -395,7 +395,7 @@ Chelsea                 1-2 Bolton Wanderers
   (Crespo 22; N'Gotty 39, Terry 90og)
 Leicester City          0-2 Birmingham City
   (Morrison 42, Forssell 66)
-  (red card: Elliott (L) 38, Walker (L) 61)
+  [red card: Elliott (L) 38, Walker (L) 61]
 Liverpool               1-2 Southampton
   (Heskey 75; Ormerod 2, M.Svensson 64)
 Manchester United       3-1 Manchester City
@@ -438,7 +438,7 @@ Wolverhampton Wanderers 1-1 Liverpool
 _ Mar 3 _
 Birmingham City         3-1 Middlesbrough
   (Martin Taylor 23, Savage 57, Forssell 79; Nemeth 75)
-  (red card: Zenden (M) 90)
+  [red card: Zenden (M) 90]
 
 ▪ Round 18 ▪  Dec 26
 Arsenal                 3-0 Wolverhampton Wanderers
@@ -476,14 +476,14 @@ Manchester City         2-2 Liverpool
   (Anelka 30pen, Fowler 90; Smicer 66, Hamann 80)
 Middlesbrough           0-1 Manchester United
   (Mills 14og)
-  (red card: Fletcher (MU) 65)
+  [red card: Fletcher (MU) 65]
 Newcastle United        0-1 Blackburn Rovers
   (Gallagher 72)
 Tottenham Hotspur       0-1 Charlton Athletic
   (Cole 69)
 Wolverhampton Wanderers 3-1 Leeds United
   (Smith 18og, Iversen 48, 90: Duberry 3)
-  (red card: Matteo (L) 76)
+  [red card: Matteo (L) 76]
 _ Dec 29 _
 Southampton             0-1 Arsenal
   (Pires 35)
@@ -497,7 +497,7 @@ Bolton Wanderers        1-2 Manchester United
   (G.Neville 89og; Scholes 24, Van Nistelrooij 39)
 Chelsea                 0-1 Liverpool
   (Cheyrou 38)
-  (red card: Diouf (L) 85)
+  [red card: Diouf (L) 85]
 Everton                 1-1 Arsenal
   (Radzinski 75; Kanu 29)
 Manchester City         1-1 Charlton Athletic
@@ -518,7 +518,7 @@ Arsenal                 4-1 Middlesbrough
   (Henry 38pen, Queudrue 45og, Pires 57, Ljungberg 68; Maccarone 86pen)
 Birmingham City         2-1 Southampton
   (Clemence 16, Kenna 67; Ormerod 6)
-  (red card: Prutton (S) 69)
+  [red card: Prutton (S) 69]
 Blackburn Rovers        3-4 Bolton Wanderers
   (Gresko 3, Yorke 24, Cole 34; Nolan 1, 78, Djorkaeff 49,
    Giannakopoulos 73)
@@ -541,7 +541,7 @@ Manchester United       0-0 Newcastle United
 _ Jan 17 _
 Bolton Wanderers        1-0 Portsmouth
   (Davies 53)
-  (red card: Stefanovic (P) 90)
+  [red card: Stefanovic (P) 90]
 Everton                 0-1 Charlton Athletic
   (Stuart 41)
 Manchester City         1-1 Blackburn Rovers
@@ -572,7 +572,7 @@ Fulham                  2-1 Tottenham Hotspur
   (Malbranque 45pen, McBride 47; Keane 18pen)
 Leeds United            0-3 Middlesbrough
   (Zenden 53, Job 77, Ricketts 89pen)
-  (red card: Robinson (L) 88)
+  [red card: Robinson (L) 88]
 Leicester City          0-5 Aston Villa
   (Vassell 50, 60, Crouch 57, 68, Dublin 64)
 Liverpool               0-0 Everton
@@ -582,7 +582,7 @@ Portsmouth              0-0 Wolverhampton Wanderers
 _ Feb 1 _
 Arsenal                 2-1 Manchester City
   (Tamat 39og, Henry 83; Anelka 89)
-  (red card: Anelka (M) 90)
+  [red card: Anelka (M) 90]
 Blackburn Rovers        2-3 Chelsea
   (Flitcroft 3, Gallagher 87; Lampard 25, 35m Johnson 88)
 
@@ -626,7 +626,7 @@ Charlton Athletic       2-4 Tottenham Hotspur
   (Stuart 51, Perry 81; Davies 10, Defoe 43, King 46, Jackson 85)
 Fulham                  1-2 Aston Villa
   (Boa Morte 1; Angel 13, Vassell 32)
-  (red card: Bocanegra (F) 75)
+  [red card: Bocanegra (F) 75]
 Liverpool               2-1 Manchester City
   (Owen 3, Gerrard 51; Wright-Phillips 50)
 Manchester United       2-3 Middlesbrough
@@ -642,7 +642,7 @@ Charlton Athletic       3-2 Blackburn Rovers
   (Cole 10, Euell 36, Jensen 90; Cole 74, Friedel 90)
 Chelsea                 1-2 Arsenal
   (Gudjohnsen 1; Vieira 15, Edu 21)
-  (red card: Gudjohnsen (C) 60)
+  [red card: Gudjohnsen (C) 60]
 Manchester United       1-1 Leeds United
   (Scholes 64; Smith 67)
 Newcastle United        2-1 Middlesbrough
@@ -721,7 +721,7 @@ Chelsea                 2-1 Fulham
   (Gudjohnsen 7, Duff 30; Pembridge 19)
 Leicester City          1-1 Everton
   (Bent 90; Rooney 75)
-  (red card: Ferguson (E) 41)
+  [red card: Ferguson (E) 41]
 Liverpool               1-0 Wolverhampton Wanderers
   (Hyypia 90)
 Manchester United       3-0 Tottenham Hotspur
@@ -737,7 +737,7 @@ Portsmouth              1-0 Southampton
 _ Mar 22 _
 Leeds United            2-1 Manchester City
   (McPhail 23, Viduka 76pen; Anelka 44)
-  (red card: Van Buyten (M) 75)
+  [red card: Van Buyten (M) 75]
 
 ▪ Round 30 ▪
 _ Mar 27 _
@@ -781,7 +781,7 @@ Liverpool               4-0 Blackburn Rovers
 _ Apr 5 _
 Leeds United            3-2 Leicester City
   (Duberry 11, Viduka 13, Smith 86; Dickov 77, Izzet 79)
-  (red card: Viduka (L) 90)
+  [red card: Viduka (L) 90]
 _ Apr 20 _
 Manchester United       2-0 Charlton Athletic
   (Saha 28, Gary Neville 65)
@@ -795,7 +795,7 @@ Arsenal                 4-2 Liverpool
   (Henry 31, 50, 78, Pires 49; Hyypiä 5, Owen 42)
 Everton                 3-1 Tottenham Hotspur
   (Unsworth 17, Naysmith 24, Yobo 40; Carr 75)
-  (red card: Carr (T) 77)
+  [red card: Carr (T) 77]
 _ Apr 10 _
 Birmingham City         1-2 Manchester United
   (Grainger 39; Ronaldo 60, Saha 78)
@@ -829,7 +829,7 @@ Middlesbrough           3-1 Southampton
   (Juninho 23, Nemeth 32, Maccarone 49; Beattie 70)
 Portsmouth              3-1 Birmingham City
   (Stefanovic 45, Lua Lua 62, Yakubu 73pen; John 67)
-  (red card: Maik Taylor (B) 45)
+  [red card: Maik Taylor (B) 45]
 Tottenham Hotspur       1-1 Manchester City
   (Defoe 52; Anelka 25)
 Wolverhampton Wanderers 1-2 Bolton Wanderers
@@ -861,7 +861,7 @@ Wolverhampton Wanderers 2-0 Middlesbrough
   (Cort 28, Camara 62)
 _ Apr 18 _
 Aston Villa             0-0 Newcastle United
-  (red card: O'Brien (N) 10)
+  [red card: O'Brien (N) 10]
 
 ▪ Round 35 ▪
 _ Apr 24 _
@@ -876,7 +876,7 @@ Manchester United       0-1 Liverpool
   (Murphy 63pen)
 Middlesbrough           1-2 Aston Villa
   (Job 41; Barry 45, Crouch 89)
-  (red card: Solano (A) 57)
+  [red card: Solano (A) 57]
 Southampton             1-2 Bolton Wanderers
   (Pahars 21; Nolan 77, Davies 78)
 _ Apr 25 _
@@ -896,7 +896,7 @@ Blackburn Rovers        1-0 Manchester United
   (Stead 85)
 Charlton Athletic       2-2 Leicester City
   (Fortune 53, Di Canio 76pen; Bent 5, Ferdinand 88)
-  (red card: Dabizas (L) 74)
+  [red card: Dabizas (L) 74]
 Chelsea                 4-0 Southampton
   (Cranie 59og, Lampard 75, 83, Johnson 85)
 Manchester City         1-0 Newcastle United
@@ -910,7 +910,7 @@ Aston Villa             1-0 Tottenham Hotspur
   (Angel 5)
 Bolton Wanderers        4-1 Leeds United
   (Djorkaeff 47, 53, Harte 55, Nolan 78; Viduka 27pen)
-  (red card: Viduka (L) 33)
+  [red card: Viduka (L) 33]
 Liverpool               2-0 Middlesbrough
   (Murphy 50pen, Heskey 53)
 
@@ -918,7 +918,7 @@ Liverpool               2-0 Middlesbrough
 _ May 8 _
 Birmingham City         0-3 Liverpool
   (Owen 29, Heskey 51, Gerrard 86)
-  (red card: Cunningham (B) 64)
+  [red card: Cunningham (B) 64]
 Everton                 1-2 Bolton Wanderers
   (Ferguson 68; Djorkaeff 14, 87)
 Leeds United            3-3 Charlton Athletic
@@ -927,7 +927,7 @@ Leicester City          3-1 Portsmouth
   (Taylor 6og, Dickov 27, Scowcroft 71; Quashie 66)
 Manchester United       1-1 Chelsea
   (Van Nistelrooy 77; Gronkjaer 19)
-  (red card: Huth (C) 73)
+  [red card: Huth (C) 73]
 Middlesbrough           2-1 Manchester City
   (Maccarone 8, Nemeth 32; Wanchope 35)
 Southampton             1-1 Aston Villa
@@ -946,7 +946,7 @@ Arsenal                 2-1 Leicester City
   (Henry 47pen, Vieira 68; Dickov 26)
 Aston Villa             0-2 Manchester United
   (Ronaldo 4, Van Nistelrooy 10)
-  (red cards: Fletcher (M) 75, Ronaldo (M) 85)
+  [red cards: Fletcher (M) 75, Ronaldo (M) 85]
 Blackburn Rovers        1-1 Birmingham City
   (Cole 24; John 83)
 Bolton Wanderers        0-2 Fulham
@@ -963,7 +963,7 @@ Portsmouth              5-1 Middlesbrough
   (Yakubu 4, 14pen, 31, 83, Sheringham 80; Zenden 27)
 Wolverhampton Wanderers 0-2 Tottenham Hotspur
   (Keane 34, Defoe 57)
-  (red card: Ince (W) 67)
+  [red card: Ince (W) 67]
 
 <!-- $table2$ -->
 
@@ -1210,24 +1210,24 @@ Barnsley           1-2 Blackpool
   (Gorre 63pen; Taylor 5, 22)
 Bradford           0-0 Darlington               (aet, 3-5 pen)
 Bristol Rovers     0-1 Brighton
-  (Sent Off: Jones (BHA) 45)
+  [Sent Off: Jones (BHA) 45]
 Cambridge Utd      1-2 Gillingham
   (Walker 28; Hills 73, Nosworthy 86)
-  (Sent Off: Johnson (G) 84)
+  [Sent Off: Johnson (G) 84]
 Cardiff City       4-1 Leyton Orient
   (Earnshaw 39, 40, 55. Campbell 56; Ibehre 75)
 Cheltenham         1-2 QPR
   (McCann 4; Ainsworth 16, Langley 86)
-  (Sent Off: Furlong (Q) 21)
+  [Sent Off: Furlong (Q) 21]
 Chesterfield       0-0 Burnley                  (aet, 2-3 pen)
 Colchester Utd     2-1 Plymouth Arg
   (Fagan 22, Pinault 40; Evans 24)
 Crewe Alex         2-0 Wrexham
   (Ashton 54pen, Jones 88)
-  (Sent Off: Carey (W) 90)
+  [Sent Off: Carey (W) 90]
 Doncaster Rov      3-2 Grimsby Town
   (Fortune-West 76, Barnes 81pen, Blundell 90; Campbell 38, Anderson 67pen)
-  (Sent Off: Hamilton (G) 63, Cas (G) 79)
+  [Sent Off: Hamilton (G) 63, Cas (G) 79]
 Huddersfield       2-1 Derby Co
   (Stead 59, Thorrington 70; Taylor 41)
 Lincoln City       0-1 Stockport Co
@@ -1241,20 +1241,20 @@ Millwall           0-1 Oxford Utd
 Northampton        1-0 Norwich
   (Low 8)
 Port Vale          0-0 Nottm Forest             (aet, 1-3 pen)
-  (Sent Off: Stewart (N) 57)
-  (Bridge-Wilkinson (P) miss pen 44)
+  [Sent Off: Stewart (N) 57]
+  [Bridge-Wilkinson (P) miss pen 44]
 Preston            0-0 Notts Co                 (aet, 6-7 pen)
 Rotherham          2-1 York
   (Swailes 2, Sedgwick 43; Merris 33)
   (Lee (R) miss pen 39)
 Scunthorpe         2-1 Oldham
   (Hayes 51, 57; Antoine-Curier 61)
-  (Sent Off: Sparrow (S) 44, Sheridan (O) 44, Boshell (O) 45)
+  [Sent Off: Sparrow (S) 44, Sheridan (O) 44, Boshell (O) 45]
 Southend           2-3 Swindon
   (Maher 11, Broughton 38; Parkin 34, 48, Mooney 73)
 Torquay            1-1 Crystal Palace           (aet, 1-3 pen)
   (Graham 61; Freedman 29)
-  (Sent Off: Popovic (CP) 74)
+  [Sent Off: Popovic (CP) 74]
 Tranmere           1-0 Bury
   (Dadi 89)
 Walsall            2-1 Carlisle
@@ -1263,7 +1263,7 @@ Watford            1-0 Bournemouth              (aet)
   (Fitzgerald 108)
 West Brom          4-0 Brentford
   (Hulse 18, 75, Haas 74, Doble 90)
-  (Sent Off: P Smith (B) 43)
+  [Sent Off: P Smith (B) 43]
 Wigan Ath          2-0 Hull City
   (McCulloch 7, Jarrett 87)
 Wycombe            2-0 Wimbledon
@@ -1273,7 +1273,7 @@ Boston             1-3 Reading
   (Redfearn 69pen; Forster 16, 87, Sidwell 83)
 Bristol City       4-1 Swansea                  (aet)
   (Peacock 14, 108, Bell 96pen, Coles 103; Connolly 18)
-  (Sent Off: Maylett (S) 90)
+  [Sent Off: Maylett (S) 90]
 Coventry           2-0 Peterborough
   (Barrett 63, Adebola 67)
 Ipswich            1-0 Kidderminster            (aet)
@@ -1336,7 +1336,7 @@ Everton            3-0 Stockport
   (Ferguson 26pen, 56, Chadwick 44)
 Leeds              2-2 Swindon                  (aet, 4-3 pen)
   (Harte 77, Robinson 90; Gurney 44, Parkin 74)
-  (Sent Off: Griemink (S) 86)
+  [Sent Off: Griemink (S) 86]
 Middlesbro         1-0 Brighton                 (aet)
   (Christie 94)
 Oxford Utd         1-3 Reading
@@ -1348,7 +1348,7 @@ Arsenal            1-1 Rotherham                (aet, 9-8 pen)
   (Aliadere 11; Byfield 90)
 Blackpool          1-3 Crystal Palace
   (Murphy 88; Johnson 24, 87, Freedman 62pen)
-  (Sent Off: Barnes (B) 14)
+  [Sent Off: Barnes (B) 14]
 Bolton             2-0 Gillingham
   (Giannakopoulos 25, Pedersen 66)
 Bristol City       0-3 Southampton
@@ -1386,7 +1386,7 @@ Arsenal            5-1 Wolverhampton W
   (Aliadere 24, 71, Kanu 68, Wilford 79, Fabregas 88; Rae 61)
 Southampton        2-0 Portsmouth
   (Beattie 33, 90)
-  (Sent Off: De Zeeuw (P) 89)
+  [Sent Off: De Zeeuw (P) 89]
 _ Dec 3 _
 Aston Villa        3-0 Crystal Palace
   (Symons 22og, McCann 70, Angus 79)
@@ -1430,7 +1430,7 @@ Aston Villa        2-0 Bolton Wand
 _ Feb 3 _
 Middlesbrough      2-1 Arsenal
   (Zenden 69, Reyes 85og; Edu 77)
-  (Sent Off: Keown (A) 45)
+  [Sent Off: Keown (A) 45]
 
 ▪ Final ▪  Feb 29
 Bolton Wanderers   1-2 Middlesbrough
@@ -3767,7 +3767,7 @@ Mansfield       1-1 Leyton Orient
    (Dimech 13 - Alexander 90)
 Oxford          2-1 Hull City
    (Basham 23,28 - Allsopp 77)
-   (Sent Off: Alsop 66 mins)
+   [Sent Off: Alsop 66 mins]
 Torquay         1-0 Lincoln City
    (Hockley 89)
 Yeovil          3-0 Carlisle
@@ -5095,7 +5095,7 @@ Woking              3-2 Gravesend [Jefferson Louis 33p, 34, Amos Foyewa 72; Jame
 _ Wed Aug 13 _
 Accrington          4-1 Leigh RMI [Lutel James 42, 45, Paul Mullin 46, Rory Prendercast 71; David McNiven 88 - 2,003]
 
-Round 3 [Sat Aug 16]
+▪ Round 3 ▪  Sat Aug 16
 Accrington          0-1 Shrewsbury [Colin Cramb 81 - 3,143]
 Burton Albion       1-1 Stevenage [Dale Anderson 49; Anthony Elding 74 - 1,572]
 Chester             1-0 Forest Green [Ben Davies 90 - 1,881]
@@ -5108,7 +5108,7 @@ Northwich           1-0 Tamworth [Mark Devlin 10 - 712]
 Telford             2-5 Aldershot [Scott Green 5, John Grant 87; Aaron McClean 45, 84, Jon Challinor 60, Tim Sills 63, Fiston Manuella 79 - 2,206]
 Woking              2-1 Scarborough [Jefferson Louis 35, Amos Foyewa 38; Nick Henry 59 - 1,901]
 
-Round 4 [Sat Aug 23]
+▪ Round 4 ▪  Sat Aug 23
 Aldershot           2-1 Woking [Jon Challinor 44, Roscoe D'Sane 45; Scott Canham 62 - 4,637]
 Barnet              1-1 Hereford [Ian Hendon 84; Tony James 78p - 1,475]
 Exeter              2-1 Chester [James Coppinger 29, Renier Moor 61; Ian Foster 20p - 3,030]
@@ -5136,7 +5136,7 @@ Woking              1-0 Exeter [Jefferson Louis 7 - 2,556]
 _ Tue Aug 26 _
 Chester             2-1 Shrewsbury [Darryn Stamp 23, Phil Bolland 89; Jamie Tolley 53 - 4,665]
 
-Round 6 [Sat Aug 30]
+▪ Round 6 ▪  Sat Aug 30
 Aldershot           4-3 Northwich [Jon Challinor 14, 26, Roscoe D'Sane 32, Tim Sills 76; Chris Ward 80, Mark Devlin 85, Steve Garvey 87 - 2,801]
 Barnet              4-1 Halifax [Giuliano Grazioli 9, 51, 69, Christopher Plummer 45; Craig Midgley 15 - 1,341]
 Exeter              1-1 Farnborough [Steve Flack 61; Leroy Griffiths 88p - 2,672]
@@ -5164,7 +5164,7 @@ Scarborough         2-0 Gravesend [Mark Quayle 63p, Chris Senior 78 - 1,249]
 _ Sun Sep 7 _
 Shrewsbury          3-1 Tamworth [Luke Rodgers 64, 90, 90; Greg Rioch og 89 - 3,882]
 
-Round 8 [Sat Sep 13]
+▪ Round 8 ▪  Sat Sep 13
 Accrington          3-2 Margate [Lutel James 17, 55, John Durnin 63; Emmanuel Omoyinmi 27, Greg Oates 31 - 1,718]
 Aldershot           1-1 Shrewsbury [Lee Charles 18; Colin Cramb 24 - 3,329]
 Chester             2-0 Halifax [Wayne Hatswell 19, Darryn Stamp 51 - 2,628]

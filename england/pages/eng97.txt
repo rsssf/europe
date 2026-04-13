@@ -15,7 +15,7 @@ Premiership
 [*] Middlesbrough 3 points deducted.
 
 Premier League Results, 1996/97
-Aug 17
+_ Aug 17 _
 Arsenal         2 West Ham U       0    Hartson 27, Bergkamp 40p 38,056
 Blackburn R     0 Tottenham H      2    Armstrong 33,67    26,960
 Coventry C      0 Nottm Forest     3    Campbell 13,36,47       19,459
@@ -32,11 +32,11 @@ Wimbledon       0 Man. Utd.        3    Cantona 25, Irwin 58, Beckham 90
                                         25,786
 Southampton     0 Chelsea          0    15,186
 
-Aug 19
+_ Aug 19 _
 Liverpool       2 Arsenal          0    McManaman 68,74   38,103
 Leeds U         0 Sheff. Wed.      2    Humphreys 14, Booth 90    31,008
 
-Aug  21
+_ Aug 21 _
 Aston Villa     1 Blackburn R      0    Southgate 64      32,457
 Chelsea         1 Middlesbro       0    Di Matteo 86      28,272
 Leicester C     2 Southampton      1    Haskey 6,42 - Le Tissier 68p  17,562
@@ -48,7 +48,7 @@ Nottm Forest    1 Sunderland       4    Haaland 27 - Gray 8, Quinn 17,31, Ord
 Tottenham H     1 Derby Co.        1    Sheringham 34 - Dailly 90      28,219
 West Ham U      1 Coventry C       1    Rieper 74 - McAlister 12  21,580
 
-Aug 24
+_ Aug 24 _
 Aston Villa     2 Derby Co.        0    Joachim 19, Johnson 47p   34,646
 Chelsea         2 Coventry C       0    Leboeuf 29, Vialli 74   25,024
 Leicester C     0 Arsenal          2    Bergkamp 27p, Wright 90    20,429
@@ -59,16 +59,16 @@ Nottm Forest    1 Middlesbro       1    Pearce 68 - Juninho 49    24,705
 Tottenham H     0 Everton          0    29,669
 West Ham U      2 Southampton      1    Hughes 73, Dicks 81p - Heaney 19
                                         21,227
-Aug 25
+_ Aug 25 _
 Man. Utd.       2 Blackburn R      2    Cruyff 39, Solskjaer 70 - Warhurst 34,
                                         Bohinen 51      54,178
-Aug 26
+_ Aug 26 _
 Leeds U         1 Wimbledon        0    Sharpe 58         25,860
 
-Sept 02
+_ Sep 2 _
 Sheff. Wed.     2 Leicester C      1    Humphreys 25, Booth 51 - Claridge 28
                                         17,657
-Sept 04
+_ Sep 4 _
 Arsenal         3 Chelsea          3    Merson 44, Keown 64, Wright 77 -
                                         Leboeuf 6p, Vialli 30, Wise 90  38,132
 Blackburn R     0 Leeds U          1    Harte 40        23,226
@@ -83,7 +83,7 @@ Sunderland      1 Newcastle U      2    Scott 19p - Beardsley 52, Ferdinand
                                         62   20,943
 Wimbledon       1 Tottenham H      0    Earle 3     17,306
 
-Sept 07
+_ Sep 7 _
 Aston Villa     2 Arsenal          2    Milosevic 39,63 - Merson 70, Linighan
                                         90      37,944
 Leeds U         0 Man. Utd.        4    Martyn (og 3), Butt 49, Poborsky 77,
@@ -96,13 +96,13 @@ Sheff. Wed.     0 Chelsea          2    Burley 28, Myers 83   30,983
 Tottenham H     1 Newcastle U      2    Allen 28 - Ferdinand 37,61    32,594
 Wimbledon       4 Everton          0    Ardley 33, Gayle 46, Earle 59, Ekoku
                                         73 13,684
-Sept 08
+_ Sep 8 _
 Sunderland      0 West Ham U       0    18,581
 
-Sept 09
+_ Sep 9 _
 Blackburn R     1 Derby Co.        2    Sutton 11 - Willems 1, Flynn 85
                                         19,214
-Sept 14
+_ Sep 14 _
 Coventry C      2 Leeds U          1    Salako 57, Whelan 65 - Couzens 1
                                         17,298
 Derby Co.       1 Sunderland       0    Asanovic 84p    17,692
@@ -115,14 +115,14 @@ Newcastle U     2 Blackburn R      1    Shearer 45p, Ferdinand 61 - Sutton 85
 Southampton     0 Tottenham H      1    Armstrong 66p    15,251
 West Ham U      0 Wimbledon        2    Clarke 59, Ekoku 86   21,924
 
-Sept 15
+_ Sep 15 _
 Chelsea         1 Aston Villa      1    Leboeuf 45 - Townsend 18  27,729
 Leicester C     0 Liverpool        3    Berger 58,77 Thomas 61  20,987
 
-Sept 16
+_ Sep 16 _
 Arsenal         4 Sheff. Wed.      1    Platt 57, Wright 61p,78,89 - Booth 25
                                         33,461
-Sept 21
+_ Sep 21 _
 Aston Villa     0 Man. Utd.        0    39,339
 Blackburn R     1 Everton          1    Donis 32 - Unsworth 37   27,091
 Leeds U         0 Newcastle U      1    Shearer 59      36,070
@@ -133,13 +133,13 @@ Nottm Forest    0 West Ham U       2    Bowen 45, Hughes 54   23,352
 Sheff. Wed.     0 Derby Co.        0    23,487
 Sunderland      1 Coventry C       0    Agnew 51     19,340
 
-Sept 22
+_ Sep 22 _
 Tottenham H     1 Leicester C      2    Wilson 64p - Claridge 22, Marshall 86
                                         24,159
-Sept 23
+_ Sep 23 _
 Wimbledon       3 Southampton      1    Gayle 12, Ekoku 35,72 - Oakley 77
                                         8,572
-Sept 28
+_ Sep 28 _
 Arsenal         2 Sunderland       0    Hartson 73, Parlour 88  38,016
 Chelsea         1 Nottm Forest     1    Vialli 51 - Lee 90   26,996
 Coventry C      0 Blackburn R      0    17,032
@@ -148,14 +148,14 @@ Everton         2 Sheff. Wed.      0    Kanchelskis 16, Stuart 60   34,160
 Leicester C     1 Leeds U          0    Heskey 60       20,359
 Southampton     4 Middlesbro       0    Oakley 11, Le Tissier 28,48, Watson 82
                                         15,230
-Sept 29
+_ Sep 29 _
 Man. Utd.       2 Tottenham H      0    Solskjaer 38,58   54,943
 West Ham U      1 Liverpool        2    Bilic 15 - Collymore 3, Thomas 55
                                         25,064
-Sept 30
+_ Sep 30 _
 Newcastle U     4 Aston Villa      3    Ferdinand 5,22, Shearer 38, Howey 67
                                         - Yorke 4,59,69   36,400
-Oct 12
+_ Oct 12 _
 Blackburn R     0 Arsenal          2    Wright 3,51     24,303
 Derby Co.       0 Newcastle U      1    Shearer 76      18,092
 Everton         2 West Ham U       1    Stuart 14, Speed 78 - Dicks 86p
@@ -167,13 +167,13 @@ Man. Utd.       1 Liverpool        0    Beckham 23      55,128
 Tottenham H     1 Aston Villa      0    Nielsen 61    32,840
 Wimbledon       4 Sheff. Wed.      2    Ekoku 2, Earle 31, Leonhardsen 67,
                                         Jones 86 - Booth 3, Hyde 72  10,512
-Oct 13
+_ Oct 13 _
 Coventry C      1 Southampton      1    Sdublin 90 - Le Tissier 17   15,477
 
-Oct 14
+_ Oct 14 _
 Sunderland      2 Middlesbro       2    Rae 21p, Russell 61 - Emerson 18,
                                         Ravanelli 53    20,841
-Oct 19
+_ Oct 19 _
 Arsenal         0 Coventry C       0    38,141
 Aston Villa     2 Leeds U          0    Yorke 58, Johnson 65    39,051
 Chelsea         2 Wimbledon        4    Minto 9, Vialli 84p - Earle 4, Ardley
@@ -185,10 +185,10 @@ Southampton     3 Sunderland       0    Dodd 38, Le Tissier 53p, Shipperley 89
                                         15,225
 West Ham U      1 Leicester C      0    Moncur 78   22,285
 
-Oct 20
+_ Oct 20 _
 Newcastle U     5 Man. Utd.        0    Peacock 12, Ginola 30, Ferdinand 63,
                                         Shearer 75, Albert 83   35,579
-Oct 26
+_ Oct 26 _
 Arsenal         3 Leeds U          0    Dixon 1, Bergkamp 5 Wright 55  38,076
 Chelsea         3 Tottenham H      1    Gullit 27, Lee 52p, Di Matteo 89 -
                                         Armstrong 41     28,318
@@ -201,13 +201,13 @@ Southampton     6 Man. Utd.        3    Berkovic 6,83, Le Tissier 34,
 Sunderland      1 Aston Villa      0    Stewart 25   31,032
 West Ham U      2 Blackburn R      1    Porfirio 77, Berg (og 85) - Berg 9
                                         23,947
-Oct 27
+_ Oct 27 _
 Liverpool       2 Derby Co.        1    Fowler 47,51 -  Ward 89    39,515
 
-Oct 28
+_ Oct 28 _
 Nottm Forest    0 Everton          1    Short 5   19,892
 
-Nov 02
+_ Nov 2 _
 Aston Villa     2 Nottm Forest     0    Tiler 20, Yorke 64    35,310
 Derby Co.       2 Leicester C      0    Ward 56, Whitlow (og 89)   18,010
 Leeds U         3 Sunderland       0    Ford 27, Sharpe 62, Deane 68  31,450
@@ -216,14 +216,14 @@ Sheff. Wed.     1 Southampton      1    Newsome 14 - Le Tissier 50p   20,106
 Tottenham H     1 West Ham U       0    Armstrong 67    32,975
 Wimbledon       2 Arsenal          2    Jones 44, Gayle 67 - Wright 6 ,
                                         Merson 64   25,521
-Nov 03
+_ Nov 3 _
 Blackburn R     3 Liverpool        0    Sutton 3p,55, Wilcox 24   29,598
 Newcastle U     3 Middlesbro       1    Beardsley 40p,69 Lee 74 - Beck 88
                                         36,577
-Nov 04
+_ Nov 4 _
 Everton         1 Coventry C       1    Stuart 45p - McAlister 68   31,477
 
-Nov 16
+_ Nov 16 _
 Aston Villa     1 Leicester C      3    Yorke 15 - Claridge 8, Parker 43p,
                                         Izzet 85    36,193
 Blackburn R     1 Chelsea          1    Gallacher 56 - Petrescu 82   27,229
@@ -236,16 +236,16 @@ Newcastle U     1 West Ham U       1    Beardsley 83 - Rowland 23   36,552
 Tottenham H     2 Sunderland       0    Sinton 13, Sheringham 82    31,867
 Wimbledon       2 Coventry C       2    Earle 45, Gayle 54 - Whelan 56,
                                         Dublin 70       10,307
-Nov 17
+_ Nov 17 _
 Derby Co.       2 Middlesbro       1    Asanovic 15, Vickers (og 47) -
                                         Ravanelli 73    17,350
-Nov 18
+_ Nov 18 _
 Sheff. Wed.     2 Nottm Forest     0    Trustfull 63, Carbone 85    16,390
 
-Nov 20
+_ Nov 20 _
 Liverpool       1 Everton          1    Fowler 30 - Speed 82   40,751
 
-Nov 23
+_ Nov 23 _
 Chelsea         1 Newcastle U      1    Vialli 24 - Shearer 41   29,056
 Coventry C      1 Aston Villa      2    Dublin 75 - Joachim 29, Staunton 85
                                         21,335
@@ -258,13 +258,13 @@ Southampton     0 Leeds U          2    Kelly 82, Sharpe 89     15,241
 Sunderland      1 Sheff. Wed.      1    Melville 68 - Oakes 66   20,617
 West Ham U      1 Derby Co.        1    Bishop 17 - Sturridge 43   24,576
 
-Nov 24
+_ Nov 24 _
 Arsenal         3 Tottenham H      1    Wright 28p, Adams 88, Bergkamp 90 -
                                         Sinton 57       38,264
-Nov 25
+_ Nov 25 _
 Nottm Forest    2 Blackburn R      2    Pearce 45p, Cooper 90 - Gallacher 54,
                                         Wilcox 57  17,525
-Nov 30
+_ Nov 30 _
 Aston Villa     1 Middlesbro       0    Yorke 39p    39,053
 Blackburn R     2 Southampton      1    Sherwood 27, Sutton 87 - Ostenstad 61
                                         23,018
@@ -279,21 +279,21 @@ Newcastle U     1 Arsenal          2    Shearer 21 - Dixon 11, Wright 60
 Sheff. Wed.     0 West Ham U       0    22,321
 Wimbledon       1 Nottm Forest     0    Earle 37    12,608
 
-Dec 01
+_ Dec 1 _
 Leeds U         2 Chelsea          0    Deane 8, Rush 10    32,596
 
-Dec 02
+_ Dec 2 _
 Tottenham H     0 Liverpool        2    Thomas 45, McManaman 49   32,899
 
-Dec 03
+_ Dec 3 _
 Middlesbro      0 Leicester C      2    Claridge 45, Izzet 46   29,709
 
-Dec 04
+_ Dec 4 _
 Arsenal         3 Southampton      1    Merson 43, Wright 57p, Shaw 89 -
                                         Berkovic 81     38,033
 West Ham U      0 Aston Villa      2    Ehiogu 38, Yorke 74    19,105
 
-Dec 07
+_ Dec 7 _
 Arsenal         2 Derby Co.        2    Adams 45, Vieira 90 - Sturridge 62,
                                         Powell D 71     38,018
 Chelsea         2 Everton          2    Zola 12, Vialli 55 - Branch 17,
@@ -306,32 +306,32 @@ Middlesbro      0 Leeds U          0    30,018
 Southampton     0 Aston Villa      1    Townsend 34     15,232
 Sunderland      1 Wimbledon        3    Melville 83 - Ekoku 8,29, Holdsworth
                                         89     19,617
-Dec 08
+_ Dec 8 _
 West Ham U      2 Man. Utd.        2    Raducioiu 78, Dicks 80p - Solskjaer
                                         54, Beckham 75   25,045
-Dec 09
+_ Dec 9 _
 Nottm Forest    0 Newcastle U      0    25,762
 
-Dec 14
+_ Dec 14 _
 Leeds U         0 Tottenham H      0    33,783
 Liverpool       5 Middlesbro       1    Fowler 1,28,77,85, Bjornebye 45 -
                                         Thomas (og 75)   39,491
 Wimbledon       1 Blackburn R      0    Holdsworth 85   13,246
 
-Dec 15
+_ Dec 15 _
 Sunderland      3 Chelsea          0    Duberry (og 30), Ball 47, Russell 67
                                         19,617
-Dec 16
+_ Dec 16 _
 Derby Co.       0 Everton          1    Barmby 86       17,252
 
-Dec 17
+_ Dec 17 _
 Coventry C      2 Newcastle U      1    Huckerby 6, McAlister 31 - Shearer 61
                                         22,092
 Liverpool       4 Nottm Forest     2    Collymore 6,63, Fowler 27, Lyttle (og
 Dec 18                                  51) - Campbell 34, Pearce 60   36,126
 Sheff. Wed.     1 Man. Utd.        1    Carbone 57 - Scholes 61 37,671
 
-Dec 21
+_ Dec 21 _
 Chelsea         3 West Ham U       1    Hughes M 6,35, Zola 10 - Porfiro 11
                                         27,012
 Everton         0 Leeds U          0    36,954
@@ -343,13 +343,13 @@ Southampton     3 Derby Co.        1    Watson 9, Oakley 13, Magilton 89p -
                                         Dailly 8    14,901
 Tottenham H     1 Sheff. Wed.      1    Nielsen 29 - Nolan 16   30,996
 
-Dec 22
+_ Dec 22 _
 Aston Villa     5 Wimbledon        0    Yorke 38,86, Milosovic 42, Taylor 61,
                                         Blackwell (og 75)   28,875
-Dec 23
+_ Dec 23 _
 Newcastle U     1 Liverpool        1    Shearer 28 - Fowler 45    36,570
 
-Dec 26
+_ Dec 26 _
 Aston Villa     0 Chelsea          2    Zola 66,60      39,339
 Blackburn R     1 Newcastle U      0    Gallacher 75    30,398
 Leeds U         1 Coventry C       3    Deane 9 - Huckerby 30, Dublin 38,
@@ -364,7 +364,7 @@ Sunderland      2 Derby Co.        0    Ord 73, Russell 87      22,512
 Tottenham H     3 Southampton      1    Iversen 1,30, Nielsen 64 - Le Tissier
                                         40      30,549
 
-Dec 28
+_ Dec 28 _
 Arsenal         2 Aston Villa      2    Wright 12, Merson 73 - Milosevic 68,
                                         Yorke 74    38,130
 Chelsea         2 Sheff. Wed.      2    Zola 9, Hughes M 23 - Pembridge 24,
@@ -383,10 +383,10 @@ Newcastle U     7 Tottenham H      1    Shearer 20,82, Ferdinand 22,59, Lee
                                         61,88, Albert 79 - Nielsen 89   36,308
 West Ham U      2 Sunderland       0    Bilic 34, Raducioiu 90    24,077
 
-Dec 29
+_ Dec 29 _
 Southampton     0 Liverpool        1    Barnes 76   15,222
 
-_ Jan 01 1997 _
+_ Jan 1 1997 _
 Arsenal         2 Middlesbro       0    Bergkamp 15, Wright 44   37,573
 Chelsea         1 Liverpool        0    Di Matteo 43 - 27,291
 Coventry C      2 Sunderland       2    Dublin 10, Diash 28 - Bridges 6,
@@ -396,7 +396,7 @@ Man. Utd.       0 Aston Villa      0    55,133
 Newcastle U     3 Leeds U          0    Shearer 4,77, Ferdinand 87   36,489
 West Ham U      0 Nottm Forest     1    Campbell 38     22,358
 
-Jan 11
+_ Jan 11 _
 Aston Villa     2 Newcastle U      2    Yorke 30, Milosevic 52 - Shearer 16,
                                         Clark 21    39,339
 Blackburn R     4 Coventry C       0    Sutton 17,34, Gallacher 30, Donis 78
@@ -410,10 +410,10 @@ Sheff. Wed.     2 Everton          1    Pembridge 22, Hirst 50 - Ferguson 63
 Sunderland      1 Arsenal          0    Adams (og 66)   21,074
 Wimbledon       1 Derby Co.        1    Gayle 60 - Willems 84   11,467
 
-Jan 12
+_ Jan 12 _
 Tottenham H     1 Man. Utd.        2    Allen 44 - Solskjaer 23, Beckham 76
                                         33,026
-Jan 18
+_ Jan 18 _
 Chelsea         3 Derby Co.        1    Wise 36, Leboeuf 44p, Hughes P 85 -
                                         Asanovic 25     27,639
 Coventry C      0 Man. Utd.        2    Giggs 60, Solskjaer 79    23,080
@@ -427,15 +427,15 @@ Southampton     2 Newcastle U      2    Maddison 88, Le Tissier 89 -
                                         Ferdinand 14, Clark 82    15,251
 Sunderland      0 Blackburn R      0    20,794
 
-Jan 19
+_ Jan 19 _
 Arsenal         3 Everton          1    Bergkamp 55, Vieira 57, Merson 69 -
                                         Ferguson 90    38,095
 Nottm Forest    2 Tottenham H      1    Roy 47,62 - Sinton 2   27,303
 
-Jan 20
+_ Jan 20 _
 West Ham U      0 Leeds U          2    Kelly 53, Bowyer 70     19,441
 
-Jan 29
+_ Jan 29 _
 Aston Villa     0 Sheff. Wed.      1    Booth 69        26,726
 Leeds U         0 Derby Co.        0    27,523
 Leicester C     1 Sunderland       1    Parker 32p - Williams 18  17,883
@@ -447,7 +447,7 @@ Tottenham H     2 Blackburn R      1    Iversen 41, Sinton 83 - Hendry 57
                                         22,943
 West Ham U      1 Arsenal          2    Rose (og 63) - Parlour 8, Wright 67
                                         24,382
-Feb 01
+_ Feb 1 _
 Aston Villa     1 Sunderland       0    Milosevic 37    32,491
 Blackburn R     2 West Ham U       1    Gallacher 36,Sutton 39 - Ferdinand 64
                                         21,994
@@ -461,15 +461,15 @@ Tottenham H     1 Chelsea          2    Howells 83 - Campbell (og 1),
                                         Di Matteo 53    33,027
 Wimbledon       1 Middlesbro       1    Cox (og 22) - Mustoe 75   15,046
 
-Feb 02
+_ Feb 2 _
 Newcastle U     4 Leicester C      3    Elliott 3, Shearer 77,83,90 -
                                         Elliott 55, Claridge 60, Heskey 68
                                         36,396
-Feb 15
+_ Feb 15 _
 Derby Co.       1 West Ham U       0    Asanovic 53p    18,057
 Tottenham H     0 Arsenal          0    33.039
 
-Feb 19
+_ Feb 19 _
 Arsenal         1 Man. Utd.        2    Bergkamp 69 - Cole 18, Solksjaer 32
                                         38,172
 Aston Villa     2 Coventry C       1    Yorke 43,75 - Staunton (og 78)
@@ -478,7 +478,7 @@ Derby Co.       2 Sheff. Wed.      2    Sturridge 34, Stimac 71 - Collins 9,
                                         Hirst 76        18,060
 Liverpool       4 Leeds U          0    Fowler 21, Collymore 36,37, Redknapp
                                         87      38,597
-Feb 22
+_ Feb 22 _
 Chelsea         1 Man. Utd.        1    Zola 2 - Beckham 68
 Coventry C      0 Everton          0    19,452
 Leicester C     4 Derby Co.        2    Marshall 7,24,27, Claridge 59 -
@@ -490,17 +490,17 @@ Southampton     2 Sheff. Wed.      3    Ostenstad 28, Le Tissier 33p, -
                                         Hirst 49,55, Booth 78   15,062
 Sunderland      0 Leeds U          1    Bowyer 49       21,846
 
-23 Feb
+_ Feb 23 _
 Arsenal         0 Wimbledon        1    Jones 21    37,854
 
-24 Feb
+_ Feb 24 _
 West Ham U      4 Tottenham H      3    Dicks 21,72p, Kitson 22, Hartson 38 -
                                         Sheringham 8, Anderton 29, Howells 53
                                         23,998
-26 Feb
+_ Feb 26 _
 Southampton     0 Wimbledon        0    14,318
 
-Mar 01
+_ Mar 1 _
 Blackburn R     1 Sunderland       0    Gallacher 84    24,208
 Derby Co.       3 Chelsea          2    Minto (og 51), Asanovic 62p, Ward 90
                                         - Minto 16, Leboeuf 54    18,039
@@ -514,16 +514,16 @@ Sheff. Wed.     3 Middlesbro       1    Booth 21, Hyde 43, Pembridge 90p -
 Tottenham H     0 Nottm Forest     1    Saunders 18     32,805
 Wimbledon       1 Leicester C      3    Holdsworth 66 - Elliott 17,27, Robins
                                         32      11,487
-Mar 02
+_ Mar 2 _
 Aston Villa     1 Liverpool        0    Taylor 83   39,339
 
-Mar 03
+_ Mar 3 _
 Coventry C      1 Wimbledon        1    Dublin 37 - Ekoku 32     15,266
 
-Mar 04
+_ Mar 4 _
 Sunderland      0 Tottenham H      4    Iversen 2,9,62, Nielsen 26   20,729
 
-Mar 05
+_ Mar 5 _
 Chelsea         1 Blackburn R      1    Minto 63 - Pedersen 62   25,784
 Leicester C     1 Aston Villa      0    Claridge 66     20,626
 Middlesbro      6 Derby Co.        1    Kinder 24, Ravanelli 54,82,86,
@@ -532,26 +532,26 @@ Middlesbro      6 Derby Co.        1    Kinder 24, Ravanelli 54,82,86,
 Nottm Forest    0 Sheff. Wed.      3    Carbone 52,87, Blinker 58    21,485
 Southampton     2 Everton          2    Slater 59, Short (og 61) - Ferguson
                                         11, Speed 27    15,134
-Mar 08
+_ Mar 8 _
 Arsenal         2 Nottm Forest     0    Bergkamp 50,79p   38,206
 Coventry C      0 Leicester C      0    19,199
 Leeds U         1 Everton          0    Molenaar 28     32,055
 Sunderland      2 Man. Utd.        1    Gray 52, Mullin 76 - Melville (og 78)
                                         22,204
-Mar 10
+_ Mar 10 _
 Liverpool       4 Newcastle U      3    McManaman 29, Berger 30, Fowler 42,90
                                         - Gillespie 71, Asprilla 81, Barton 88
                                         40,751
-Mar 11
+_ Mar 11 _
 Blackburn R     1 Nottm Forest     1    Gallacher 64 - Haaland 18   20,485
 
-Mar 12
+_ Mar 12 _
 Leeds U         0 Southampton      0    25,913
 Sheff. Wed.     2 Sunderland       1    Hirst 42, Stefanovic 63 - Ball 28
                                         20,296
 West Ham U      3 Chelsea          2    Dicks 55p, Kitson 68,90 - Vialli 26
                                         Hughes M 87     24,502
-Mar 15
+_ Mar 15 _
 Aston Villa     0 West Ham U       0    35,992
 Blackburn R     3 Wimbledon        1    Gallacher 7,26,58 - Ekoku 39   23,333
 Everton         1 Derby Co.        0    Watson 79    32,140
@@ -564,14 +564,14 @@ Nottm Forest    1 Liverpool        1    Woan 30 - Fowler 4      29,181
 Southampton     0 Arsenal          2    Hughes 41, Shaw 72      15,144
 Tottenham H     1 Leeds U          0    Anderton 26     33,040
 
-Mar 16
+_ Mar 16 _
 Chelsea         6 Sunderland       2    Zola 38, Sinclair 43, Petrescu 51
                                         Hughes M 78,89, Di Matteo 90 -
                                         Stewart 58, Rae 60      22,762
-Mar 18
+_ Mar 18 _
 Wimbledon       1 West Ham U       1    Harford 19 - Lazaridis 89   15,771
 
-Mar 19
+_ Mar 19 _
 Chelsea         1 Southampton      0    Zola 22   26,235
 
 
@@ -579,7 +579,7 @@ Chelsea         1 Southampton      0    Zola 22   26,235
 Leicester C     1 Tottenham H      1    Claridge 74 - Sheringham 90   20,593
 Middlesbro      2 Blackburn R      1    Juninho 44, Ravanelli 61 - Sutton 68
                                         29,891
-Mar 22
+_ Mar 22 _
 Blackburn R     0 Aston Villa      2    Johnson 64, Yorke 79   24,274
 Coventry C      1 West Ham U       3    Rieper (og 9) - Hartson 27,49,
                                         Ferdinand 34    22,290
@@ -594,15 +594,15 @@ Southampton     2 Leicester C      2    Ostenstad 32, Van Gobbel 48 -
                                         Heskey 46, Dryden (og 70)    15,044
 Sunderland      1 Nottm Forest     1    Ball 61 - Lyttle 86     21,988
 
-Mar 23
+_ Mar 23 _
 Wimbledon       1 Newcastle U      1    Leonhardsen 28 - Asprilla 53   23,343
 
-Mar 24
+_ Mar 24 _
 Arsenal         1 Liverpool        2    Wright 78 - Collymore 50, McAteer 65
                                         38,068
 Middlesbro      1 Nottm Forest     1    Beck 56 - Haaland 4     29,888
 
-Apr 05
+_ Apr 5 _
 Aston Villa     3 Everton          1    Milosevic 41, Staunton 50, Yorke 54
                                         Unsworth 14     39,339
 Chelsea         0 Arsenal          3    Wright 22,Platt 53,Bergkamp 80
@@ -614,13 +614,13 @@ Nottm Forest    1 Southampton      3    Pearce 88p - magilton 8, Evans 87,89
                                         25,134
 Tottenham H     1 Wimbledon        0    Dozzell 81      32,654
 
-Apr 06
+_ Apr 6 _
 Liverpool       1 Coventry C       2    Fowler 52 - Whelan 65, Dublin 90
                                         40,079
-Apr 07
+_ Apr 7 _
 Leeds U         0 Blackburn R      0    27,322
 
-Apr 09
+_ Apr 9 _
 Coventry C      3 Chelsea          1    Dublin 49, Williams 51, Whelan 58 -
                                         Hughes P 43   19,889
 Derby Co.       1 Southampton      1    Ward 66 - Powell D (og 89)  17,839
@@ -630,7 +630,7 @@ Sheff. Wed.     2 Tottenham H      1    Atherton 18, Booth 70 - Neilsen 43
 West Ham U      0 Middlesbro       0    23,988
 Wimbledon       0 Aston Villa      2    Milosevic 26, Wright 78   9,015
 
-Apr 12
+_ Apr 12 _
 Arsenal         2 Leicester C      0    Adams 35, Platt 66  38,044
 Blackburn R     2 Man. Utd.        3    Mckinlay 34, Warhurst 88 - Cole 32
                                         Scholes 43, Cantona 80   30,476
@@ -639,17 +639,17 @@ Derby Co.       2 Aston Villa      1    Rowett 21, Van der Laan 36 - Joachim
 Everton         1 Tottenham H      0    Speed 11     36,380
 Southampton     2 West Ham U       0    Evans 13, Berkovic 36   15,245
 
-Apr 13
+_ Apr 13 _
 Sheff. Wed.     1 Newcastle U      1    Pembridge 57 - Elliott 35    33,798
 Sunderland      1 Liverpool        2    Stewart 53 - Fowler 33, McManaman 47
                                         21,889
-Apr 16
+_ Apr 16 _
 Everton         1 Liverpool        1    Ferguson 65 - Thomsen (og 26)  40,177
 Newcastle U     3 Chelsea          1    Shearer 12,35,Asprilla 30 - Burley 62
                                         36,320
 Wimbledon       2 Leeds U          0    Holdsworth 19, Castledine 74   7,979
 
-Apr 19
+_ Apr 19 _
 Arsenal         1 Blackburn R      1    Platt 18 - Flitcroft 89   38,086
 Aston Villa     1 Tottenham H      1    Yorke 81 - Vega 54      39,339
 Chelsea         2 Leicester C      1    Minto 13, Hughes M 73 - Sinclair
@@ -666,24 +666,24 @@ Southampton     2 Coventry C       2    Evans 27, Ostenstad 47 - Ndlovu 62,
                                         Whelan 74     15,251
 West Ham U      2 Everton          2    Kitson 10,32 - Branch 78, Ferguson 90
                                         24.525
-Apr 21
+_ Apr 21 _
 Coventry C      1 Arsenal          1    Dublin 2 - Wright 19p   20,004
 
-Apr 22
+_ Apr 22 _
 Blackburn R     4 Sheff. Wed.      1    Berg, Sherwood 23, Le Saux 39,
                                         Flitcroft 58 - Carbone 83p   20,845
 Leeds U         0 Aston Villa      0    26,884
 Sunderland      0 Southampton      1    Ostenstad 22    21,477
 Wimbledon       0 Chelsea          1    Petrescu 14     14,601
 
-Apr 23
+_ Apr 23 _
 Derby Co.       0 Nottm Forest     0    18,087
 Leicester C     0 West Ham U       1    Moncur 75    20,327
 
-Apr 24
+_ Apr 24 _
 Tottenham H     1 Middlesbro       0    Sinton 71    29,940
 
-May 03
+_ May 3 _
 Arsenal         0 Newcastle U      1    Elliott 44      38,179
 Chelsea         0 Leeds U          0    27,135
 Coventry C      1 Derby Co.        2    McAlister 59p - Burrows (og 49),
@@ -700,22 +700,22 @@ Sunderland      3 Everton          0    Stewart 36p, Waddle 57, Johnston 68
                                         22,052
 West Ham U      5 Sheff. Wed.      1    Kitson 5,13,89, Hartson 30,67 -
                                         Carbone 82    24,960
-May 05
+_ May 5 _
 Man. Utd.       3 Middlesbro       3    Keane 34, Neville G 42, Solskjaer 67
                                         Juninho 15, Emerson 37, Hignett 40
                                         54,489
-May 06
+_ May 6 _
 West Ham U      0 Newcastle U      0    24,617
 Wimbledon       2 Liverpool        1    Euell 43, Holdsworth 55 - Owen 74
                                         20,194
-May 07
+_ May 7 _
 Leicester C     1 Sheff. Wed.      0    Elliott 86    20,793
 
-May 08
+_ May 8 _
 Blackburn R     0 Middlesbro       0    27,411
 Man. Utd.       0 Newcastle U      0    55,236
 
-May 11
+_ May 11 _
 Aston Villa     1 Southampton      0    Dryden (og 12)    39,339
 Blackburn R     2 Leicester C      4    Flitcroft 25, Fenton 66 - Heskey
                                         13,56, Claridge 55, Wilson 81  25,881
