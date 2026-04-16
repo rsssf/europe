@@ -496,7 +496,7 @@ Chelsea           2-2 Fulham
 Bolton Wanderers  3-2 Portsmouth
 Blackburn Rovers  2-1 Middlesbrough
 Sheffield United  1-0 Arsenal
-_ Feb 21 _, replay
+▪ Replay ▪  _ Feb 21 _
 Watford           1-1 Wigan Athletic
 
 ▪ Round 22 ▪
@@ -1071,19 +1071,19 @@ Chelsea                    3-3 Tottenham Hotspur
 Plymouth Argyle            0-1 Watford
   (Bouazza 21)
 
-Quarterfinal Replays [Mar 19]
+▪ Quarterfinal Replays ▪  Mar 19
 Manchester United          1-0 Middlesbrough
   (Ronaldo 76pen)
 Tottenham Hotspur          1-2 Chelsea
   (Keane 79pen; Shevchenko 55, Wright-Phillips 61)
 
 ▪ Semifinals ▪
-_ Apr 14 _, Villa Park
+_ Apr 14 _ @ Villa Park
 Watford                    1-4 Manchester United
-_ Apr 15 _, Old Trafford
+_ Apr 15 _ @ Old Trafford
 Blackburn Rovers           1-2 Chelsea           (aet)
 
-▪ Final ▪  May 19, Wembley
+▪ Final ▪  May 19 @ Wembley
 Manchester United          0-1 Chelsea           (aet)
   (Drogba 116)
 
@@ -2278,7 +2278,7 @@ Preston North End          1-0 Birmingham City
 
 NB: Leeds United 10 points deducted for financial problems
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -2725,7 +2725,7 @@ Northampton Town        abd Millwall              [abandoned at 0-1 in 90']
 Nottingham Forest       1-1 Tranmere Rovers
 Rotherham United        2-2 Leyton Orient
 Scunthorpe United       3-2 AFC Bournemouth
-_ Jan 23 _, replay
+▪ Replay ▪  _ Jan 23 _
 Northampton Town        3-0 Millwall
 
 ▪ Round 26 ▪
@@ -3074,7 +3074,7 @@ Doncaster Rovers        2-2 Northampton Town
 
 NB: Rotherham United 10 points deducted for financial problems
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -3868,7 +3868,7 @@ Bury                    1-1 Mansfield Town
 <!-- $table8$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -3900,7 +3900,7 @@ Conference (Fifth Level)
 NB: Crawley Town 10 points deducted for financial problems
     Gravesend & Northfleet to change name to Ebbsfleet United for 2007/08
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -3928,7 +3928,7 @@ Conference North
 
 NB: Scarborough and Lancaster City 10 points deducted for financial problems
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -3950,7 +3950,7 @@ Conference South
 
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 

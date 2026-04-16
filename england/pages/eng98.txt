@@ -644,7 +644,7 @@ Wimbledon               1-1 Wolverhampton Wanderers
 Arsenal                 0-0 Crystal Palace
 Manchester United       1-1 Barnsley
 
-1/8 Finals Replays [Feb 25]
+▪ 1/8 Finals Replays ▪  Feb 25
 Barnsley                3-2 Manchester United
 Blackburn Rovers        1-1 West Ham United       (aet, 4-5 pen)
 Crystal Palace          1-2 Arsenal
@@ -656,7 +656,7 @@ Leeds United            0-1 Wolverhampton Wanderers
 Arsenal                 1-1 West Ham United
 Newcastle United        3-1 Barnsley
 
-Quarterfinal Replays [Mar 17]
+▪ Quarterfinal Replays ▪  Mar 17
 West Ham United         1-1 Arsenal               (aet, 3-4 pen)
 Sheffield United        1-1 Coventry City         (aet, 3-1 pen)
 
@@ -681,7 +681,7 @@ Semifinals [Jan 27/28; Feb 17/18]
 Liverpool               2-1 0-2 Middlesbrough
 Arsenal                 2-1 1-3 Chelsea
 
-▪ Final ▪  Mar 29, Wembley
+▪ Final ▪  Mar 29 @ Wembley
 Chelsea                 2-0 Middlesbrough      (aet)
   95' Sinclair 1-0  107' Di Matteo 2-0
 
@@ -716,7 +716,7 @@ First Division (2nd level)
 23.Stoke City              46  11 13 22  44-74  46  Relegated
 24.Reading                 46  11  9 26  39-78  42  Relegated
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -738,7 +738,7 @@ Second Division (3rd level)
 <!-- $table1$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -761,7 +761,7 @@ Third Division (4th level)
 
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 

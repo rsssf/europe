@@ -959,7 +959,7 @@ Bolton Wanderers           1-1 Tottenham Hotspur
 Crystal Palace             2-2 Aston Villa
 Fulham                     4-0 Notts County
 
-1/8 Finals Replays [Feb 24]
+▪ 1/8 Finals Replays ▪  Feb 24
 Aston Villa                3-1 Crystal Palace
 Stoke City                 3-1 Manchester City            (aet)
 Tottenham Hotspur          4-0 Bolton Wanderers
@@ -976,19 +976,19 @@ Chelsea                    2-0 Stoke City
   (Lampard 35, Terry 67)
 Reading                    2-4 Aston Villa
 
-Quarterfinal Replay [Mar 24]
+▪ Quarterfinal Replay ▪  Mar 24
 Tottenham Hotspur          3-1 Fulham
   (Bentley 47, Pavlyuchenko 60, Gudjohnsen 66; Zamora 17)
 
 ▪ Semifinals ▪
-_ Apr 10 _, Wembley
+_ Apr 10 _ @ Wembley
 Aston Villa                0-3 Chelsea
   (Drogba 68, Malouda 89, Lampard 95)
-_ Apr 11 _, Wembley
+_ Apr 11 _ @ Wembley
 Tottenham Hotspur          0-2 Portsmouth                 (aet)
   (Piquionne 99, Boateng 117pen)
 
-▪ Final ▪  May 15, Wembley
+▪ Final ▪  May 15 @ Wembley
 Chelsea                    1-0 Portsmouth
 
 League Cup  ‹§leaguecup›
@@ -1156,7 +1156,7 @@ Aston Villa   6-4 Blackburn
 _ Jan 27 _
 Manchester U  3-1 Manchester C
 
-▪ Final ▪  Feb 28, Wembley; att: 88,596; ref: Dowd
+▪ Final ▪  Feb 28 @ Wembley; att: 88,596; ref: Dowd
 Aston Villa   1-2 Manchester U
   (Milner 5pen; Owen 12, Rooney 74)
 Aston Villa: Friedel, Dunne, Cuellar (Carew 80), Warnock, Collins,
@@ -2046,7 +2046,7 @@ WBA           1-1 Barnsley
 
 NB: Crystal Palace 10 points deducted for financial reasons
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -2822,7 +2822,7 @@ Wycombe       3-0 Gillingham
 
 NB: Southampton 10 points deducted for financial reasons
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -3582,7 +3582,7 @@ Torquay       0-0 Notts C
 <!-- $table8$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -3899,7 +3899,7 @@ Oxford        1-0 Altrincham
 Salisbury     0-1 Gateshead
 Tamworth      0-2 Hayes & Y
 
-Moved Match [Nov 10]
+▪ Moved Match ▪  Nov 10
 York          3-2 Chester       [annulled]
 
 ▪ Round 19 ▪  Nov 14
@@ -4271,7 +4271,7 @@ _ Apr 20 _
 Salisbury     4-1 Altrincham
 Cambridge     bye
 
-Moved Matches [Mar 16]
+▪ Moved Matches ▪  Mar 16
 Cambridge     3-1 Salisbury
 Luton         3-1 Kidderminster
 
@@ -4292,7 +4292,7 @@ Barrow        4-1 Crawley
 _ Apr 20 _
 Gateshead     0-1 Stevenage
 
-Moved Match [Mar 23]
+▪ Moved Match ▪  Mar 23
 Grays         1-2 Stevenage
 
 ▪ Round 41 ▪  Mar 27
@@ -4394,7 +4394,7 @@ NB: Chester City 25 points deducted for financial reasons; they
     Gateshead 1 point deducted for abandonment round 8
 
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

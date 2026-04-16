@@ -777,7 +777,7 @@ Chelsea                 5-1 Manchester City
 _ Feb 22 _
 Shrewsbury Town         0-3 Manchester United
 
-1/8 Final Replay [Mar 8]
+▪ 1/8 Final Replay ▪  Mar 8
 Hull City               0-4 Arsenal
 
 ▪ Quarterfinals ▪
@@ -789,7 +789,7 @@ _ Mar 13 _
 Arsenal                 1-2 Watford
 Manchester United       1-1 West Ham United
 
-Quarterfinal Replay [Apr 13]
+▪ Quarterfinal Replay ▪  Apr 13
 West Ham United         1-2 Manchester United
 
 Semifinals [both in London]
@@ -798,7 +798,7 @@ Everton                 1-2 Manchester United
 _ Apr 24 _
 Crystal Palace          2-1 Watford
 
-▪ Final ▪  May 21, London
+▪ Final ▪  May 21 @ London
 Crystal Palace          1-2 Manchester United       (aet)
 
 League Cup  ‹§leaguecup›
@@ -926,7 +926,7 @@ Liverpool               0-1 Stoke City              (aet, 6-5 pen)
 _ Jan 27 _
 Manchester City         3-1 Everton
 
-▪ Final ▪  Feb 28, London
+▪ Final ▪  Feb 28 @ London
 Liverpool               1-1 Manchester City         (aet, 1-3 pen)
 
 
@@ -943,7 +943,7 @@ Liverpool               1-1 Manchester City         (aet, 1-3 pen)
 <!-- $table4$ -->
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -976,7 +976,7 @@ Hull          1-0 Sheffield W
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1011,7 +1011,7 @@ Millwall      1-3 Barnsley
 
 Matches P: played,  W: won,  D: drawn,  L: lost,  Pts: points
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1046,7 +1046,7 @@ Plymouth      0-2 Wimbledon
 
 Promoted: Solihull Moors, North Ferriby United, Sutton United, Maidstone United
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

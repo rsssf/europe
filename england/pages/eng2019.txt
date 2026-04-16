@@ -804,7 +804,7 @@ Manchester City         1-0 Brighton & Hove Albion
 _ Apr 7 _
 Watford                 3-2 Wolverhampton Wanderers (aet)
 
-▪ Final ▪  May 18, London
+▪ Final ▪  May 18 @ London
 Manchester City         6-0 Watford
 
 League Cup  ‹§leaguecup›
@@ -934,7 +934,7 @@ Burton Albion           0-1 Manchester City
 _ Jan 24 _
 Chelsea                 2-1 Tottenham Hotspur       (4-2 pen)
 
-▪ Final ▪  Feb 24, London
+▪ Final ▪  Feb 24 @ London
 Manchester City         0-0 Chelsea                 (aet, 4-3 pen)
 
 
@@ -953,7 +953,7 @@ Manchester City         0-0 Chelsea                 (aet, 4-3 pen)
 
 NB: Birmingham City 9 points deducted for financial reasons
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -984,7 +984,7 @@ Aston Villa   2-1 Derby
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1017,7 +1017,7 @@ Charlton      2-1 Sunderland
 <!-- $table6$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1055,7 +1055,7 @@ NB: Gateshead 9 points deducted for financial reasons and later demoted;
 
 Promoted: Stockport County, Torquay United, Chorley, Woking
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Round 1 ▪
 

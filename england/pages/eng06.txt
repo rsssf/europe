@@ -785,7 +785,7 @@ Manchester United       2-0 Arsenal
   (Rooney 54, Park 78)
 Middlesbrough           1-2 Newcastle United
   (Boateng 79; Boateng 29og, Ameobi 44)
-_ May 4 _, replay
+▪ Replay ▪  _ May 4 _
 Sunderland              2-1 Fulham
   (Le Tallac 32, Brown 57; Radzinski 76)
 
@@ -1656,20 +1656,20 @@ Chelsea                 1-0 Newcastle Utd
 _ Mar 23 _
 Charlton Ath            0-0 Middlesbrough
 
-Quarterfinal Replay [Apr 12]
+▪ Quarterfinal Replay ▪  Apr 12
 Middlesbrough           4-2 Charlton Ath
   (Rochemback 11, Morrison 26, Hasselbaink 73, Viduka 77; Hughes 13,
    Southgate 76og)
 
 ▪ Semifinals ▪
-_ Apr 22 _, Old Trafford, Manchester
+_ Apr 22 _ @ Old Trafford, Manchester
 Chelsea                 1-2 Liverpool
   (Drogba 70; Riise 20, Luis Garcia 53)
-_ Apr 23 _, Villa Park, Birmingham
+_ Apr 23 _ @ Villa Park, Birmingham
 Middlesbrough           0-1 West Ham
   (Harewood 78)
 
-▪ Final ▪  May 13, Millennium Stadium, Cardiff
+▪ Final ▪  May 13 @ Millennium Stadium, Cardiff
 Liverpool               3-3 West Ham United     (aet, 3-1 pen)
 
 
@@ -2217,7 +2217,7 @@ Plymouth Argyle            abd Leicester City          [abandoned at 1-0 at half
 _ Nov 2 _
 Coventry City              1-2 Stoke
 Derby County               3-3 Ipswich Town
-_ Jan 24 _, replay
+▪ Replay ▪  _ Jan 24 _
 Plymouth Argyle            1-0 Leicester City
 [tba]
 Southampton                0-0 Crystal Palace
@@ -2691,7 +2691,7 @@ Watford         0-0 Hull City
 <!-- $table4$ -->
 
 
-Promotion Playoff
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -3129,7 +3129,7 @@ Yeovil Town    0-0 Colchester United
 <!-- $table6$ -->
 
 
-Promotion Playoff
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -3872,7 +3872,7 @@ Torquay United          0-0 Boston United
 <!-- $table7$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -3897,7 +3897,7 @@ NB: Altrincham had 18 points deducted for fielding an ineligible player;
     and Scarborough (who would have stayed up in place of Canvey Island)
     were demoted for financial problems
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 

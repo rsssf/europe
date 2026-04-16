@@ -691,7 +691,7 @@ Newcastle United        4-1 Everton
 _ Mar 16 _
 Barnsley                0-1 Tottenham Hotspur
 
-Quarterfinal Replay
+▪ Quarterfinal Replay ▪
 _ Mar 10 _
 Chelsea                 0-2 Manchester United
 
@@ -699,7 +699,7 @@ Chelsea                 0-2 Manchester United
 Manchester United       0-0 Arsenal               (aet) [Villa Park]
 Newcastle United        2-0 Tottenham Hotspur     (aet) [Old Trafford]
 
-Semifinal Replay [Apr 14]
+▪ Semifinal Replay ▪  Apr 14
 Manchester United       2-1 Arsenal               (aet) [Villa Park]
 
 Final [Wembley, May 22, att: 79101]
@@ -742,8 +742,8 @@ Luton (2) - Coventry (P)              2-0
 Manchester United (P) - Bury (1)      2-0 (aet)
 Middlesbrough (P) - Everton (P)       2-3
 Northampton (2) - Tottenham (P)       1-3
-Norwich (1) - Bolton (1)              1-1 (aet, pen 1-3)
-Nottingham (P) - Cambridge (3)        3-3 (aet, pen 4-3)
+Norwich (1) - Bolton (1)              1-1 (aet, 1-3 pen)
+Nottingham (P) - Cambridge (3)        3-3 (aet, 4-3 pen)
 Sunderland (1) - Grimsby (1)          2-1 (aet)
 Tranmere (1) - Newcastle (P)          0-1
 
@@ -751,12 +751,12 @@ Tranmere (1) - Newcastle (P)          0-1
 _ Nov 10 & 11 _
 Arsenal - Chelsea                     0-5
 Bolton - Wimbledon                    1-2
-Everton - Sunderland                  1-1 (aet, pen 4-5)
+Everton - Sunderland                  1-1 (aet, 4-5 pen)
 Leichester - Leeds                    2-1
 Liverpool - Tottenham                 1-3
 Luton - Barnsley                      1-0
 Manchester United - Nottingham        2-1
-Newcastle - Blackburn                 1-1 (aet, pen 2-4)
+Newcastle - Blackburn                 1-1 (aet, 2-4 pen)
 
 ▪ Quarter Finals ▪
 _ Dec 1 & 2 _
@@ -787,7 +787,7 @@ First Division (second level)
 <!-- $table3$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -799,7 +799,7 @@ Watford          1-0 Birmingham City
 _ May 19 _
 Ipswich Town     4-3 Bolton Wanderers      (aet)
 _ May 20 _
-Birmingham City  1-0 Watford               (aet, 6-7pen)
+Birmingham City  1-0 Watford               (aet, 6-7 pen)
 
 ▪ Final ▪  May 31
 Bolton Wanderers 0-2 Watford
@@ -811,7 +811,7 @@ Second Division (third level)
 <!-- $table4$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -835,7 +835,7 @@ Third Division (fourth level)
 <!-- $table5$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 

@@ -810,7 +810,7 @@ Preston North End       0-1 Portsmouth
   (Carter 90og)
 Sheffield United        0-0 Middlesbrough
 
-1/8 Final Replay [Feb 27]
+▪ 1/8 Final Replay ▪  Feb 27
 Middlesbrough           1-0 Sheffield United   (aet)
   (Kenny 114og)
 
@@ -827,14 +827,14 @@ Middlesbrough           0-2 Cardiff City
   (Whittingham 9, Johnson 23)
 
 ▪ Semifinals ▪
-_ Apr 5 _, Wembley Stadium, London
+_ Apr 5 _ @ Wembley Stadium, London
 West Bromwich Albion    0-1 Portsmouth
   (Kanu 54)
-_ Apr 6 _, Wembley Stadium, London
+_ Apr 6 _ @ Wembley Stadium, London
 Barnsley                0-1 Cardiff City
   (Ledley 9)
 
-▪ Final ▪  May 17, Wembley Stadium, London
+▪ Final ▪  May 17 @ Wembley Stadium, London
 Portsmouth              1-0 Cardiff City
   (Kanu 37)
 
@@ -1961,7 +1961,7 @@ Wolverhampton Wanderers 1-0 Plymouth Argyle
 <!-- $table4$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -2730,7 +2730,7 @@ NB: Leeds United 15 points deducted for financial problems;
     Luton Town and AFC Bournemouth 10 points deducted for
     financial problems
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -3492,7 +3492,7 @@ Wycombe Wanderers    2-1 Bradford City
 
 NB: Rotherham United 10 points deducted for financial problems
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -4323,7 +4323,7 @@ NB: Boston United not admitted due to financial problems; due
     into liquidation
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -4361,7 +4361,7 @@ NB: Hucknall Town and Vauxhall Motors eventually remained at sixth
     level due to withdrawal of other clubs, including Boston United
     and Nuneaton Borough
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -4373,7 +4373,7 @@ Southport               1-0 Stalybridge Celtic
 AFC Telford United      0-2 Barrow
 Stalybridge Celtic      2-1 Southport             (5-3 pen)
 
-▪ Final ▪  May 9, Pirelli Stadium, Burton
+▪ Final ▪  May 9 @ Pirelli Stadium, Burton
 Stalybridge Celtic      0-1 Barrow
 
 NB: Barrow promoted to fifth level
@@ -4394,7 +4394,7 @@ NB: Farnborough Town were relegated two levels and were reformed
     as Farnborough FC; due to this (and the merger of Hayes and
     Yeading), Weston-super-Mare remained in the league for 2007/08.
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -4406,7 +4406,7 @@ Fisher Athletic         1-1 Hampton & Richmond Borough
 Eastbourne Borough      3-0 Braintree Town
 Hampton & Richmond B.   0-0 Fisher Athletic       (4-2 pen)
 
-▪ Final ▪  May 8, Broadhall Way, Stevenage
+▪ Final ▪  May 8 @ Broadhall Way, Stevenage
 Eastbourne Borough      2-0 Hampton & Richmond Borough
 
 NB: Eastbourne Borough promoted to fifth level

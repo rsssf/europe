@@ -632,7 +632,7 @@ Norwich       0-5 Tottenham
 <!-- $table3$ -->
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -664,7 +664,7 @@ Huddersfield  0-1 Nottingham
 <!-- $table4$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -697,7 +697,7 @@ Wycombe       0-2 Sunderland
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -732,7 +732,7 @@ Mansfield     0-3 Port Vale
 
 Promoted: Gateshead, Maidstone United, York City, Dorking Wanderers
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Round 1 ▪
 

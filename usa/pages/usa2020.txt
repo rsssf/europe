@@ -558,7 +558,7 @@ NB: the Canadian MLS clubs play each other three times; the club with the best
 NB: the playoffs are expanded to 18 clubs (all but the bottom-4 of both
     conferences) instead of 14; start Nov 20
 
-Preliminary Round [Nov 20]  ‹§inplay›
+▪ Preliminary Round ▪  Nov 20
 New England Revolution 2-1 Montreal Impact
 Nashville SC           3-0 Inter Miami CF
 
@@ -721,7 +721,7 @@ Los Angeles FC         2-2 Portland Timbers
 <!-- $table6$ -->
 
 
-Knock-Out Stage  ‹§backko›
+▪ Knock-Out Stage ▪
 
 NB: contested by the top-2 of each group and the four best third placed teams;
     no extra time played in case a match if drawn after 90 minutes

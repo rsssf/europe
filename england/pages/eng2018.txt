@@ -782,7 +782,7 @@ Rochdale                2-2 Tottenham Hotspur
 _ Feb 19 _
 Wigan Athletic          1-0 Manchester City
 
-1/8 Final Replays
+▪ 1/8 Final Replays ▪
 _ Feb 27 _
 Swansea City            2-0 Sheffield Wednesday
 _ Feb 28 _
@@ -802,7 +802,7 @@ Manchester United       2-1 Tottenham Hotspur
 _ Apr 22 _
 Chelsea                 2-0 Southampton
 
-▪ Final ▪  May 19, London
+▪ Final ▪  May 19 @ London
 Chelsea                 1-0 Manchester United
 
 League Cup  ‹§leaguecup›
@@ -932,7 +932,7 @@ Bristol City            2-3 Manchester City
 _ Jan 24 _
 Arsenal                 2-1 Chelsea
 
-▪ Final ▪  Feb 25, London
+▪ Final ▪  Feb 25 @ London
 Manchester City         3-0 Arsenal
 
 
@@ -949,7 +949,7 @@ Manchester City         3-0 Arsenal
 <!-- $table3$ -->
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -982,7 +982,7 @@ Fulham        1-0 Aston Villa
 <!-- $table4$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1015,7 +1015,7 @@ Shrewsbury    1-2 Rotherham     (aet)
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1048,7 +1048,7 @@ Exeter        1-3 Coventry
 
 Promoted: Salford City, Havant & Waterlooville, Harrogate Town, Braintree Town
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Round 1 ▪
 

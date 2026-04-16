@@ -917,7 +917,7 @@ West Ham United         0-3 Manchester City
 _ Jan 22 _
 Manchester United       2-1 Sunderland              (aet, 1-2 pen)
 
-▪ Final ▪  Mar 2, London
+▪ Final ▪  Mar 2 @ London
 Manchester City         3-1 Sunderland
   (Yaya Touré 55, Nasri 56, Jesús Navas 90; Borini 10)
 
@@ -934,7 +934,7 @@ Manchester City         3-1 Sunderland
 <!-- $table3$ -->
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -967,7 +967,7 @@ Derby         0-1 QPR
 <!-- $table4$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -998,7 +998,7 @@ Leyton        2-2 Rotherham     (aet, 3-4 pen)
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1038,7 +1038,7 @@ NB: at the end of the season, both Hereford United and Salisbury City were
 
 Promoted: AFC Telford United, Altrincham, Eastleigh, Dover Athletic
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

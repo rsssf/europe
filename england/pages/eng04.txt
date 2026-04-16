@@ -1180,7 +1180,7 @@ _ Sun Mar 7 _
 Millwall               0-0 Tranmere [16,404]
 Sunderland             1-0 Sheff Utd [Smith 15 - 37,115]
 
-Quarter Final Replay
+▪ Quarter Final Replay ▪
 _ Tue Mar 16 _
 Tranmere               1-2 Millwall [Jones 41; Cahill 11,Harris 16 - 15,510]
 
@@ -1191,7 +1191,7 @@ _ Sun Apr 4 _
 Sunderland             0-1 Millwall [Cahill 26 - 56,112; at Old Trafford]
 
 ▪ Final ▪
-[Sat May 22 - at Millennium Stadium, Cardiff]
+_ Sat May 22 _ @ Millennium Stadium, Cardiff
 Manchester Utd         3-0 Millwall [Ronaldo 44,van Nistelrooy 65p,81 - 71,350]
 
 Man Utd - Howard (Carroll 84), Silvestre, G Neville, Brown, O'Shea, Scholes, Fletcher (Butt 84), Ronaldo
@@ -1601,7 +1601,7 @@ Southend             1-1 Colchester
   (Broughton 45; Izzet 3)
 
 
-▪ Final ▪  Mar 21, Cardiff
+▪ Final ▪  Mar 21 @ Cardiff
 Blackpool            2-0 Southend
   (Murphy 2, Cold 55)
 
@@ -2343,20 +2343,20 @@ Promotion Play Offs
 
 Semi Finals [no away goals rule]
 
-1st Legs
+▪ 1st Legs ▪
 _ Fri May 14 _
 C Palace       3-2 Sunderland [Shipperley 52,Butterfield 64,Johnson 87; Stewart 51p,Kyle 85 - 25,287]
 _ Sat May 15 _
 Ipswich        1-0 West Ham [Bent 57 - 28,435]
 
-2nd Legs
+▪ 2nd Legs ▪
 _ Mon May 17 _
 Sunderland     2-1 C Palace [aet 4-5 pens: Kyle 42,Stewart 45; Powell 90 - 34,536, 4-4 on aggregate]
 _ Tue May 18 _
 West Ham       2-0 Ipswich [Etherington 50,Dailly 71 - 34,002, 2-1 on aggregate]
 
 ▪ Final ▪
-[Sat May 29 - at Millennium Stadium, Cardiff]
+_ Sat May 29 _ @ Millennium Stadium, Cardiff
 Crystal Palace 1-0 West Ham [Shipperley 62 - 72,523]
 Crystal Palace promoted to Premiership
 
@@ -3689,7 +3689,7 @@ Wrexham                 0-2 Brighton
 
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -3706,7 +3706,7 @@ _ May 20 _
 Brighton & Hove Albion  1-2 Swindown Town            (aet, 4-3 pen)
 
 
-▪ Final ▪  May 30, Cardiff
+▪ Final ▪  May 30 @ Cardiff
 Bristol City            0-1 Brighton & Hove Albion
   (Leon Knight 84pen)
 
@@ -5031,7 +5031,7 @@ Swansea         0-0 York
 
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -5048,7 +5048,7 @@ _ May 20 _
 Mansfield       1-3 Northampton        (aet, 5-4 pen)
 
 
-▪ Final ▪  May 31, Cardiff
+▪ Final ▪  May 31 @ Cardiff
 Huddersfield    0-0 Mansfield          (aet, 4-1 pen)
 
 
@@ -5922,7 +5922,7 @@ Bottom 3 relegated to feeder leagues
 NB: Burton Albion deducted 1 point on 26 november 2003 for fielding an
     ineligible player.
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -5934,7 +5934,7 @@ Barnet                      2-1 Shrewsbury Town
 Hereford United             0-0 Aldershot Town           (aet, 2-4 pen)
 Shrewsbury Town             1-0 Barnet                   (aet, 4-3 pen)
 
-▪ Final ▪  May 16, Britannia Stadium
+▪ Final ▪  May 16 @ Britannia Stadium
 Shrewsbury Town             1-1 Aldershot Town           (aet, 3-0 pen)
 
 

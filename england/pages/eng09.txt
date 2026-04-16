@@ -1233,7 +1233,7 @@ Everton                 3-1 Aston Villa
 _ Mar 8 _
 Arsenal                 3-0 Burnley
 
-1/8 Finals Replays
+▪ 1/8 Finals Replays ▪
 _ Feb 24 _
 Coventry City           1-0 Blackburn Rovers
   (Best 59)
@@ -1260,13 +1260,13 @@ Arsenal                 2-1 Hull City
   (Van Persie 74, Gallas 84; Barmby 13)
 
 ▪ Semifinals ▪
-_ Apr 18 _, Wembley
+_ Apr 18 _ @ Wembley
 Chelsea                 2-1 Arsenal
   (Malouda 33, Drogba 84; Walcott 18)
-_ Apr 19 _, Wembley
+_ Apr 19 _ @ Wembley
 Everton                 0-0 Manchester United      (aet, 4-2 pen)
 
-▪ Final ▪  May 30, Wembley
+▪ Final ▪  May 30 @ Wembley
 Everton                 1-2 Chelsea
   (Saha 1; Drogba 21, Lampard 72)
 Chelsea: Cech, Bosingwa, Alex, Terry, Ashley Cole, Essien
@@ -1459,7 +1459,7 @@ _ Jan 21 _
 Burnley                 3-2 Tottenham Hotspur       (aet)
   (Blake 34, McCann 73, Rodriguez 88; Pavlyuchenko 118, Defoe 120)
 
-▪ Final ▪  Mar 1, Wembley
+▪ Final ▪  Mar 1 @ Wembley
 Manchester United       0-0 Tottenham Hotspur       (aet, 4-1 pen)
 
 Att: 88,217. Ref: Chris Foy.
@@ -2542,7 +2542,7 @@ Wolverhampton 1-0 Doncaster
     rounds before the end of the season; the penalty will become
     effective in 2009/10
 
-Promotion Playoff
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -3321,7 +3321,7 @@ Yeovil        0-2 Colchester
 NB: Stockport 10 points deducted for entering administration
 
 
-Promotion Playoff
+▪ Promotion Playoff ▪
 
 ▪ First Legs ▪
 _ May 8 _
@@ -4092,7 +4092,7 @@ NB: Darlington 10 points deducted for entering administration,
     Luton 30 points deducted for financial reasons
 
 
-Promotion Playoff
+▪ Promotion Playoff ▪
 
 ▪ First Legs ▪  May 7
 Rochdale      0-0 Gillingham
@@ -4930,7 +4930,7 @@ NB: Crawley Town 1 point deducted for fielding an unregistered player;
     Boston 2007)
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -4965,7 +4965,7 @@ Conference North
 <!-- $table11$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -4986,7 +4986,7 @@ Conference South
 <!-- $table12$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -5013,7 +5013,7 @@ Premier League (7th level)
 <!-- $table13$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪  Apr 28
 Tonbridge     2-3 Carshalton
@@ -5027,7 +5027,7 @@ Division One North (Eighth Level)
 <!-- $table14$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪  Apr 28
 Brentwood     1-4 Waltham
@@ -5041,7 +5041,7 @@ Division One South (Eighth Level)
 <!-- $table15$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪  Apr 28
 Fleet         0-1 Met Police
@@ -5058,7 +5058,7 @@ Premier League (7th level)
 <!-- $table16$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪  Apr 28
 Ilkeston      4-3 Kendal        (aet)
@@ -5072,7 +5072,7 @@ First Division North (Eighth Level)
 <!-- $table17$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 _ Apr 28 _
@@ -5088,7 +5088,7 @@ First Division South (Eighth Level)
 <!-- $table18$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪  Apr 28
 Belper        1-0 Rushall
@@ -5105,7 +5105,7 @@ Premier League (7th level)
 <!-- $table19$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪  Apr 28
 Farnborough   0-0 H. Hempstead  (aet, 4-3 pen)
@@ -5119,7 +5119,7 @@ Division One Midlands (Eighth Level)
 <!-- $table20$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪  Apr 28
 Atherstone    0-5 Chasetown
@@ -5133,7 +5133,7 @@ Division One South & West (Eighth Level)
 <!-- $table21$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪  Apr 28
 AFC Totton    2-1 Beaconsfield

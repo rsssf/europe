@@ -1219,7 +1219,7 @@ Sheffield Utd    1-0 Leeds [Kabba 78 - 24,633]
 Watford      2-0 Burnley [Marsden 56,Butler og 81 - 31,715]
 Southampton    2-0 Wolves [Smith 74,Glass 80 - 20,336]
 
-Quarter Final Replay
+▪ Quarter Final Replay ▪
 _ Tue Mar 25 _
 Chelsea                1-3 Arsenal [Terry 79; Terry og 25,Wiltord 33,Lauren 82 - 41,456]
 
@@ -1229,7 +1229,7 @@ Sheffield Utd          0-1 Arsenal [Ljungberg 34 - 59,170; at Old Trafford]
 Southampton            2-1 Watford [Ormerod 43,Robinson og 80; Gayle 88 - 42,603; at Villa Park]
 
 ▪ Final ▪
-[Sat May 17 - at Millennium Stadium, Cardiff]
+_ Sat May 17 _ @ Millennium Stadium, Cardiff
 Arsenal                1-0 Southampton [Pires 38 - 73,726]
 
 Arsenal - Seaman, Keown, Luzhny, Cole, Lauren, Pires, Ljungberg, Parlour, Gilberto, Bergkamp (Wiltord 77), Henry;
@@ -1344,7 +1344,7 @@ Manchester City   3-2 Crewe Alexandra
    (Berkovic 69, Walker 84og, Huckerby 87 - Jack 1, Hulse 86)
 Portsmouth        1-3 Wimbledon
    (Pericard 6; McAnuff 7, Leigenwood 16, Shipperley 59)
-Rotherham Utd     4-4 Wolverhampton Wand          [aet; 4-2 pen]
+Rotherham Utd     4-4 Wolverhampton Wand          (aet, 4-2 pen)
    (Monkhouse 5, Robin  79pen, Swailes 86, Barker 93; Newton 45pen,
     Miller 58, Rae 70, Scott 120og)
 Sheffield Utd     4-1 Wycombe Wand
@@ -1390,7 +1390,7 @@ Wimbledon         1-3 Rotherham
 _ Nov 6 _
 Arsenal           2-3 Sunderland
    (Pires 12, Jeffers 32; Kyle 56, Stewart 70, Williams 72)
-Blackburn Rov     2-2 Walsall                     [aet; 5-4 pen]
+Blackburn Rov     2-2 Walsall                     (aet, 5-4 pen)
    (Grabbi 45pen, Roper 105og; Aranaide 67pen, Zdrillic 98)
 Burnley           2-1 Tottenham Hot
    (Blake 57, Davis 61; Poyet 17)
@@ -1404,7 +1404,7 @@ Ipswich Town      3-1 Middlesbrough
    (Gaardsoe 2, Clapham 40, Bent 44; Queudrue 88)
 Liverpool         3-1 Southampton
    (Berger 45, Diouf 57, Baros 60: Delgado 55)
-Newcastle Utd     3-3 Everton                     [aet; 2-3 pen]
+Newcastle Utd     3-3 Everton                     (aet, 2-3 pen)
    (Dyer 77, 78, Pistone 100og; Campbell 11, Watson 85, Unsworth 112pen)
 Oxford Utd        0-3 Aston Villa
    (Taylor 74, Barry 77, Dublin 86)
@@ -1428,7 +1428,7 @@ Blackburn Rov     4-0 Rotherham
    (Yorke 12, 39, Cole 18, Duff 43)
 Chelsea           4-1 Everton
    (Hasselbaink 26, 71, Petit 44, Stanic 69; Naysmith 80)
-Liverpool         1-1 Ipswich Town                [aet; 5-4 pen]
+Liverpool         1-1 Ipswich Town                (aet, 5-4 pen)
    (Diouf 54pen; Miller 14)
 Wigan Ath         2-1 Fulham
    (Ellington 20, 28; Boa Morte 86)
@@ -2393,15 +2393,15 @@ Wolverhampton       1-1 Leicester [Kenny Miller 57; Trevor Benjamin 86p - 28,190
 Top 2 promoted to Premiership; 3-6 into Play-Offs, winner also promoted
 Bottom 3 relegated to Division 2
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semi-Finals ▪
 
-1st Legs [Sat May 10]
+▪ 1st Legs ▪  Sat May 10
 Nottm Forest        1-1 Sheffield United [David Johnson 55; Michael Brown 58p - 29,064]
 Wolverhampton       2-1 Reading [Graeme Murty og 75, Lee Naylor 84; Nicky Forster 25 - 27,678]
 
-2nd Legs
+▪ 2nd Legs ▪
 _ Wed May 14 _
 Reading             0-1 Wolverhampton [Alex Rae 81 - 24,060]
 _ Thu May 15 _
@@ -3172,19 +3172,19 @@ Promotion Play Offs
 
 ▪ Semi Finals ▪
 
-1st Legs
+▪ 1st Legs ▪
 _ Sat May 10 _
 Cardiff        1-0 Bristol C [Thorne 74 - 19,146]
 Oldham         1-1 QPR [Eyres 28; Langley 47 - 12,152]
 
-2nd Legs
+▪ 2nd Legs ▪
 _ Tue May 13 _
 Bristol C      0-0 Cardiff [16,307, Cardiff win 1-0 on agg]
 _ Wed May 14 _
 QPR            1-0 Oldham [Furlong 82 - 17,201, QPR win 2-1 on agg]
 
 ▪ Final ▪
-[Sun May 25 - at Millennium Stadium, Cardiff]
+_ Sun May 25 _ @ Millennium Stadium, Cardiff
 Cardiff        1-0 QPR [aet: Campbell 114 - 66,096]
 
 Cardiff promoted to Division 1
@@ -3925,15 +3925,15 @@ Swansea             4-2 Hull [James Thomas 8p, 45p, 57, Lenny Johnrose 57; Stuar
 Top 3 promoted to Division 2; 3-7 into Play-Offs, winner also promoted
 Bottom 2 relegated to Conference
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semi-Finals ▪
 
-1st Legs [Sat May 10]
+▪ 1st Legs ▪  Sat May 10
 Bury                0-0 Bournemouth [5,782]
 Lincoln City        5-3 Scunthorpe [Simon Weaver 15, Paul Mayo 18, Paul Smith 55, Simon Yeo 82, 90; Alex Calvo-Garcia 26, 69, Nathan Stanton 70 - 8,902]
 
-2nd Legs
+▪ 2nd Legs ▪
 _ Tue May 13 _
 Bournemouth         3-1 Bury [Gareth O'Connor 21, James Hayter 38, 60; Andrew Preece 67 - 7,945]
 _ Wed May 14 _
@@ -4573,11 +4573,11 @@ Nuneaton Borough relegated to Ryman League
 Kettering Town relegated to Dr. Martens League
 Southport relegated to UniBond League
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semi-Finals ▪
 
-1st Legs [Thu May 1]
+▪ 1st Legs ▪  Thu May 1
 Dag & Red           2-1 Morecambe [Mark Stein 7, 66p; Lee Godwin og 29 - 3,447]
 Doncaster           1-1 Chester [Tristram Whitman 90; Kevin McIntyre 37 - 6857]
 

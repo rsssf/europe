@@ -792,19 +792,19 @@ _ Mar 10 _
 Millwall                0-0 Blackburn Rovers
 Manchester United       2-2 Chelsea
 
-Quarterfinal Replays
+▪ Quarterfinal Replays ▪
 _ Mar 13 _
 Blackburn Rovers        0-1 Millwall
 _ Apr 1 _
 Chelsea                 1-0 Manchester United
 
 ▪ Semifinals ▪
-_ Apr 13 _, London
+_ Apr 13 _ @ London
 Millwall                0-2 Wigan Athletic
-_ Apr 14 _, London
+_ Apr 14 _ @ London
 Chelsea                 1-2 Manchester City
 
-▪ Final ▪  May 11, London
+▪ Final ▪  May 11 @ London
 Manchester City         0-1 Wigan Athletic
 
 League Cup  ‹§leaguecup›
@@ -935,7 +935,7 @@ Aston Villa             2-1 Bradford City
 _ Jan 23 _
 Swansea City            0-0 Chelsea
 
-▪ Final ▪  Feb 24, London
+▪ Final ▪  Feb 24 @ London
 Bradford City           0-5 Swansea City
 
 
@@ -951,7 +951,7 @@ Bradford City           0-5 Swansea City
 <!-- $table3$ -->
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -985,7 +985,7 @@ NB: Crystal Palace promoted
 <!-- $table4$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1017,7 +1017,7 @@ NB: Yeovil Town promoted
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1050,7 +1050,7 @@ NB: Bradford City promoted
 
 Promoted: Chester, Halifax Town, Welling United, Salisbury City
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

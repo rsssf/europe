@@ -1430,7 +1430,7 @@ _ Jan 26 _
 Manchester Utd       1-2 Chelsea
   (Giggs 67; Lampard 29, Duff 85)
 
-▪ Final ▪  Feb 27, Millennium Stadium, Cardiff; att: 78,000
+▪ Final ▪  Feb 27 @ Millennium Stadium, Cardiff; att: 78,000
 Chelsea              3-2 Liverpool            (aet)
   (Gerrard 79og, Drogba 107, Kezman 112; Riise 1, Nunez 113)
   [Chelsea: Cech, Ferreira, Carvalho, Terry, Gallas (Kezman 74), Jarosik
@@ -2192,13 +2192,13 @@ Promotion Play Offs
 
 Semi Finals [no away goals rule]
 
-1st Legs
+▪ 1st Legs ▪
 _ Sat May 14 _
 West Ham       2-2 Ipswich [Harewood 7,Zamora 13; Walker og 45,Kuqi 74 - 33,723]
 _ Sun May 15 _
 Preston        2-0 Derby [Nugent 38,Cresswell 90 - 20,315]
 
-2nd Legs
+▪ 2nd Legs ▪
 _ Wed May 18 _
 Ipswich        0-2 West Ham [Zamora 61,72 - 30,010, 2-4 aggregate]
 _ Thu May 19 _
@@ -3501,7 +3501,7 @@ Wrexham                 0-1 Huddersfield Town
 NB: Wrexham had 10 points deducted for going into administration.
 
 
-Promotion Playoff
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -3521,7 +3521,7 @@ _ May 17 _
 Tranmere Rovers         2-0 Hartlepool United       (aet, 5-6 pen)
   (Taylor 70, Beresford 87)
 
-▪ Final ▪  May 29, Millennium Stadium, Cardiff
+▪ Final ▪  May 29 @ Millennium Stadium, Cardiff
 Sheffield Wednesday     4-2 Hartlepool United       (aet)
   (Williams 47, Daly 71; McGovern 45, MacLean 82pen, Whelan 94, Talbot 120)
 
@@ -4321,7 +4321,7 @@ Swansea City            3-0 Chester City
 [tba]
 Northampton              -  Yeovil
 
-Moved Match [Feb 1]
+▪ Moved Match ▪  Feb 1
 Chester City            0-3 Cheltenham Town
   (Wilson 14, Gillespie 55, 90pen)
 
@@ -4354,7 +4354,7 @@ Shrewsbury Town         4-1 Leyton Orient
 Wycombe Wanderers       1-2 Boston United
   (Dixon 39pen; Kirk 4, 85)
 
-Moved Match [Feb 8]
+▪ Moved Match ▪  Feb 8
 Mansfield Town          1-0 Swansea City
   (Barker 45)
   [red cards: Brown (M), Monk (S)]
@@ -4629,7 +4629,7 @@ Swansea City            3-0 Cambridge United
 Wycombe Wanderers       3-0 Kidderminster Harriers
   (Tyson 25, 36, 67)
 
-Moved Match [Apr 6]
+▪ Moved Match ▪  Apr 6
 Oxford United           1-1 Macclesfield Town
 
 ▪ Round 42 ▪
@@ -4719,7 +4719,7 @@ Yeovil Town             3-0 Lincoln City
 
 NB: Cambridge United 10 points deducted
 
-Promotion Playoff
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -4736,7 +4736,7 @@ Macclesfield Town       1-1 Lincoln City
 Southend United         1-0 Northampton Town
   (Eastwood 49pen)
 
-▪ Final ▪  May 28, Millennium Stadium, Cardiff
+▪ Final ▪  May 28 @ Millennium Stadium, Cardiff
 Southend United         2-0 Lincoln City            (aet)
   (Eastwood 105, Jupp 110)
 
@@ -5339,12 +5339,12 @@ Aldershot Town             1-0 Carlisle United
 Stevenage Borough          1-1 Hereford United
 
 ▪ Second Legs ▪  May 6
-Carlisle United            2-1 Aldershot Town       (aet, 5-4pen)
+Carlisle United            2-1 Aldershot Town       (aet, 5-4 pen)
   (Livesey 13, Billy 35; Slabber 90)
 Hereford United            0-1 Stevenage Borough
   (Maamria 69)
 
-▪ Final ▪  May 14, Britannia Stadium, Stoke
+▪ Final ▪  May 14 @ Britannia Stadium, Stoke
 Carlisle United            1-0 Stevenage Borough
   (Murphy 23)
 

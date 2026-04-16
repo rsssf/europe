@@ -780,7 +780,7 @@ Liverpool               0-0 Blackburn Rovers
 _ Mar 9 _
 Manchester United       1-2 Arsenal
 
-Quarterfinal Replays
+▪ Quarterfinal Replays ▪
 _ Mar 16 _
 Reading                 3-0 Bradford City
 _ Apr 8 _
@@ -792,7 +792,7 @@ Reading                 1-2 Arsenal                 (aet)
 _ Apr 19 _
 Aston Villa             2-1 Liverpool
 
-▪ Final ▪  May 30, London
+▪ Final ▪  May 30 @ London
 Arsenal                 4-0 Aston Villa
 
 League Cup  ‹§leaguecup›
@@ -920,7 +920,7 @@ Chelsea                 1-0 Liverpool               (aet)
 _ Jan 28 _
 Sheffield United        2-2 Tottenham Hotspur
 
-▪ Final ▪  Mar 1, London
+▪ Final ▪  Mar 1 @ London
 Chelsea                 2-0 Tottenham Hotspur
 
 
@@ -937,7 +937,7 @@ Chelsea                 2-0 Tottenham Hotspur
 <!-- $table3$ -->
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -970,7 +970,7 @@ Norwich       2-0 Middlesbrough
 <!-- $table4$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1001,7 +1001,7 @@ Preston       4-0 Swindon
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1034,7 +1034,7 @@ Wycombe       1-1 Southend      (aet, 6-7 pen)
 
 Promoted: Barrow, Bromley, Guiseley, Boreham Wood
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

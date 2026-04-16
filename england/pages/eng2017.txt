@@ -790,7 +790,7 @@ Blackburn Rovers        1-2 Manchester United
 _ Feb 20 _
 Sutton United           0-2 Arsenal
 
-1/8 Final Replay [Mar 1]
+▪ 1/8 Final Replay ▪  Mar 1
 Manchester City         5-1 Huddersfield Town
 
 ▪ Quarterfinals ▪
@@ -808,7 +808,7 @@ Chelsea                 4-2 Tottenham Hotspur
 _ Apr 23 _
 Arsenal                 2-1 Manchester City         (aet)
 
-▪ Final ▪  May 27, London
+▪ Final ▪  May 27 @ London
 Arsenal                 2-1 Chelsea
 
 League Cup  ‹§leaguecup›
@@ -936,7 +936,7 @@ Liverpool               0-1 Southampton
 _ Jan 26 _
 Hull City               2-1 Manchester United
 
-▪ Final ▪  Feb 26, London
+▪ Final ▪  Feb 26 @ London
 Manchester United       3-2 Southampton
 
 
@@ -952,7 +952,7 @@ Manchester United       3-2 Southampton
 <!-- $table4$ -->
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -985,7 +985,7 @@ Reading       0-0 Huddersfield  (aet, 3-4 pen)
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1014,7 +1014,7 @@ Bradford      0-1 Millwall
 <!-- $table6$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -1045,7 +1045,7 @@ Exeter        1-2 Blackpool
 
 Promoted: AFC Fylde, FC Halifax Town, Maidenhead United, Ebbsfleet United
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

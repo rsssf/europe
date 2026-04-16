@@ -223,16 +223,16 @@ Liverpool               2-1 Stoke City
 _ Mar 27 _
 Tottenham Hotspur       3-1 Bolton Wanderers
 
-Quarterfinal Replay [Mar 27]
+▪ Quarterfinal Replay ▪  Mar 27
 Sunderland              0-2 Everton
 
 ▪ Semifinals ▪
-_ Apr 14 _, London
+_ Apr 14 _ @ London
 Liverpool               2-1 Everton
-_ Apr 15 _, London
+_ Apr 15 _ @ London
 Tottenham Hotspur       1-5 Chelsea
 
-▪ Final ▪  May 5, London
+▪ Final ▪  May 5 @ London
 Chelsea                 2-1 Liverpool
 
 League Cup  ‹§leaguecup›
@@ -367,7 +367,7 @@ Cardiff City            1-0 Crystal Palace          (aet, 3-1 pen)
 _ Jan 25 _
 Liverpool               2-2 Manchester City
 
-▪ Final ▪  Feb 26, London
+▪ Final ▪  Feb 26 @ London
 Cardiff City            2-2 Liverpool               (aet, 2-3 pen)
 
 
@@ -385,7 +385,7 @@ Cardiff City            2-2 Liverpool               (aet, 2-3 pen)
 
 NB: Portsmouth 10 points deducted for entering administration
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -419,7 +419,7 @@ NB: West Ham United promoted
 <!-- $table3$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -455,7 +455,7 @@ NB: Huddersfield Town promoted
 
 NB: Port Vale 10 points deducted for entering administration
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -494,7 +494,7 @@ NB: Darlington 10 points deducted for entering administration; they were relegat
     Kettering Town 3 points deducted for failing to pay creditors; they were relegated 2
       levels at the end of the season.
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 

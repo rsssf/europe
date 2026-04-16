@@ -1207,7 +1207,7 @@ West Brom              0-1 Fulham [Marlet 47 - 24,811]
 Tottenham              0-4 Chelsea [Gallas 12,Gudjohnsen 49,66,Le Saux 54 - 32,896]
 Middlesbrough          3-0 Everton [Whelan 35,Nemeth 37,Ince 42 - 26,950]
 
-Quarter Final Replay
+▪ Quarter Final Replay ▪
 _ Sat Mar 23 _
 Arsenal                3-0 Newcastle [Pires 2,Bergkamp 9,Campbell 50 - 38,073]
 
@@ -2157,7 +2157,7 @@ Wimbledon        0-1 Barnsley
 
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ First Legs ▪  Apr 28
 Birmingham       1-1 Millwall
@@ -2169,7 +2169,7 @@ Wolverhampton    1-0 Norwich
 _ May 2 _
 Millwall         0-1 Birmingham
 
-▪ Final ▪  May 12, Cardiff, Millennium Stadium
+▪ Final ▪  May 12 @ Cardiff, Millennium Stadium
 Birmingham City  1-1 Norwich City           (aet, 4-2 pen)
   (Horsfield 102; Roberts 91)
 
@@ -2934,11 +2934,11 @@ Play Offs
 
 ▪ Semi-Finals ▪
 
-1st Legs [Sun 28 Apr]
+▪ 1st Legs ▪  Sun Apr 28
 Huddersfield   0-0 Brentford [16,523]
 Stoke          1-2 Cardiff [Burton 84; Earnshaw 12,Fortune-West 59 - 21,245]
 
-2nd Legs [Wed 1 May]
+▪ 2nd Legs ▪  Wed May 1
 Brentford      2-1 Huddersfield [2-1 agg - Powell 14,Owusu 46; Booth 2 - 11,191]
 Cardiff        0-2 Stoke [aet 2-3 agg - O'Connor 90,Oulare 115 - 19,367]
 
@@ -2954,7 +2954,7 @@ Third Division
 
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ First Legs ▪  Apr 27
 Hartlepool           1-1 Cheltenham
@@ -2964,7 +2964,7 @@ Rushden/Diamonds     2-2 Rochdale
 Cheltenham           1-1 Hartlepool          (aet, 5-4 pen)
 Rochdale             1-2 Rushden/Diamonds
 
-▪ Final ▪  May 6, Cardiff, Millennium Stadium
+▪ Final ▪  May 6 @ Cardiff, Millennium Stadium
 Cheltenham Town      3-1  Rushden and Diamonds
   (Martin Devaney 27, Julian Alsop 49, John Finnigan 80; Paul Hall 28)
 

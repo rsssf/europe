@@ -786,7 +786,7 @@ Torquay United          0-1    Luton Town
 Wisbech Town            1-2    St Albans City
 Woking                  2-2    Millwall
 
-Replays
+▪ Replays ▪
 Barnet                  1-0    Farnborough Town
 Brighton & Hove Albion  1-1    Sudbury Town             (aet, 3-4 pen)
 Bristol City            1-0    Swansea City
@@ -823,7 +823,7 @@ Walsall                 1-1    Burnley                    5,031
 Watford                 5-0    Ashford Town               7,590
 Wrexham                 2-2    Scunthorpe United          3,780
 
-Replays
+▪ Replays ▪
 Burnley                 1-1    Walsall                    5,799  (aet, 4-2 pen)
 Peterborough United     4-1    Enfield                    3,997
 Scunthorpe United       2-3    Wrexham                    3,976  (aet)
@@ -862,7 +862,7 @@ Wolverhampton Wanderers 1-2    Portsmouth                23,626
 Wrexham                 1-1    West Ham United            9,747
 Wycombe Wanderers       0-2    Bradford City              5,173
 
-Replays
+▪ Replays ▪
 Aston Villa             3-0    Notts County              25,0 6.
 Bolton Wanderers        6-2    Luton Town                 9,713
 Hednesford Town         1-O    York City                  2,684
@@ -1013,7 +1013,7 @@ Stoke City              1-1 Arsenal
 Tottenham Hotspur       2-1 Sunderland
 West Ham United         4-1 Nottingham Forest
 
-Replays
+▪ Replays ▪
 _ Nov 5 _
 Oxford United           2-0 Port Vale
 _ Nov 12 _
@@ -1036,7 +1036,7 @@ Liverpool               4-2 Arsenal
 Middlesbrough           3-1 Newcastle United
 West Ham United         1-1 Stockport County
 
-Replays
+▪ Replays ▪
 _ Dec 18 _
 Southampton             3-2 Oxford United
 Stockport County        2-1 West Ham United
@@ -1068,10 +1068,10 @@ Wimbledon               1-1 Leicester City
 _ Mar 12 _
 Middlesbrough           0-1 Stockport County
 
-▪ Final ▪  Apr 6, London
+▪ Final ▪  Apr 6 @ London
 Leicester City          1-1 Middlesbrough            (aet)
 
-▪ Replay ▪  Apr 16, Sheffield
+▪ Replay ▪  Apr 16 @ Sheffield
 Leicester City          1-0 Middlesbrough            (aet)
 
 
@@ -1106,7 +1106,7 @@ Second Level (Division One)
 23.Oldham Athletic         46  10 13 23  51-66  43
 24.Southend United         46   8 15 23  42-86  39
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 Crystal Palace    3-1 1-2 Wolverhampton Wanderers
@@ -1145,7 +1145,7 @@ Third Level (Division Two)
 23.Rotherham United        46   7 14 25  39-70  35
 24.Notts County            46   7 14 25  33-59  35
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 Bristol City      1-2 1-2 Brentford
@@ -1186,7 +1186,7 @@ Fourth Level (Division Three)
 
 [*] Brighton 2 points deducted.
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 Cardiff City      0-1 2-3 Northampton Town

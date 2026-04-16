@@ -1171,7 +1171,7 @@ Arsenal              2-1 Tottenham Hotspur
 Wycombe Wanderers    1-2 Liverpool
   (Keith Ryan 88; Emile Heskey 78, Robbie Fowler 83)
 
-▪ Final ▪  May 12, Millennium Stadium, Cardiff; att: 72,500
+▪ Final ▪  May 12 @ Millennium Stadium, Cardiff; att: 72,500
 Arsenal              1-2 Liverpool
   (Fredrik Ljungberg 72; Michael Owen 83, 88)
 Teams:
@@ -1328,8 +1328,8 @@ Birmingham City             4-1  Ipswich Town         (aet)
 Birmingham City win 4-2 on aggregate
 
 
-▪ Final ▪  Feb 25, Millennium Stadium, Cardiff
-Liverpool                   1-1 Birmingham City       (aet, 5-4pen)
+▪ Final ▪  Feb 25 @ Millennium Stadium, Cardiff
+Liverpool                   1-1 Birmingham City       (aet, 5-4 pen)
   (Robbie Fowler 30; Darren Purse 90pen)
   [Liverpool: 1-Sander Westerveld; 23-Jamie Carragher, 12-Sami Hyppia,
      2-Stephane Henchoz, 6-Markus Babbel; 16-Dietmar Hamann, 7-Vladimir Smicer
@@ -2119,7 +2119,7 @@ Wolverhampton           1-1 Queens Park Rangers
 <!-- $table4$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -2129,7 +2129,7 @@ Birmingham City         1-0 Preston North End
 
 ▪ Second Legs ▪  May 17
 Bolton Wanderers        3-0 West Bronwich Albion
-Preston North End       2-1 Birmingham City               (aet, 4-2pen)
+Preston North End       2-1 Birmingham City               (aet, 4-2 pen)
   NB: Birmingham consider lodging a protest on the side on which the penalty
       shootout was taken (in front of the home fans rather than the neutral
       end)
@@ -2146,7 +2146,7 @@ Second Division
 <!-- $table5$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -2173,7 +2173,7 @@ Third Division
 
 [*] Chesterfield deducted 9 points for financial irregularities
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ Semifinals ▪
 
@@ -2185,7 +2185,7 @@ Hull City               1-0 Leyton Orient
 Hartlepool United       1-3 Blackpool
 Leyton Orient           2-0 Hull City
 
-▪ Final ▪  May 26, Cardiff
+▪ Final ▪  May 26 @ Cardiff
 Leyton Orient           2-4 Blackpool
   (Chris Tate 1, Scott Houghton 37; Ian Hughes 35, Brian Reid 45,
    Paul Simpson 77, Brett Ormerod 88)

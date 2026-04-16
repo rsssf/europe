@@ -607,7 +607,7 @@ Southampton   4-4 Liverpool
 <!-- $table3$ -->
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -640,7 +640,7 @@ Luton         1-1 Coventry      (aet, 6-5 pen)
 <!-- $table4$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -673,7 +673,7 @@ Sheffield W   1-0 Barnsley      (aet)
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -706,7 +706,7 @@ Stockport     1-1 Carlisle      (aet, 4-5 pen)
 
 Promoted: AFC Fylde, Ebbsfleet United, Kidderminster Harriers, Oxford City
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Round 1 ▪
 

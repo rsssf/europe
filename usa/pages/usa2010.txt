@@ -508,7 +508,7 @@ Colorado Rapids        2-1 FC Dallas              (aet)
 
 ==== US Open Cup  ‹§open›
 
-Qualification MLS
+▪ Qualification MLS ▪
 
 ▪ First Round ▪
 _ Apr 14 _
@@ -535,9 +535,9 @@ DC United              2-1 Real Salt Lake         (aet)
   [Luciano Emillio 75 pen], Najar 107; Johnson 81pen]
 
 NB: DC United and New York Red Bulls qualified for 1/8 Finals of
-    tournament proper
+▪ tournament proper ▪
 
-Tournament Proper
+▪ Tournament Proper ▪
 
 ▪ 1/8 Finals ▪
 _ Jun 29 _
@@ -590,10 +590,10 @@ St. Louis Athletica         6   2   1   3    9   8    9
 ▪ Round 1 ▪  Sep 19
 Philadelphia Independence 1-0 Washington Freedom        (aet)
 
-Super Semifinal [Sep 23]
+▪ Super Semifinal ▪  Sep 23
 Boston Breakers           1-2 Phladelphia Independence  (aet)
 
-Final [Sep 26, Hayward, Calif.; att: 5.528]
+▪ Final ▪  Sep 26 @ Hayward, Calif.; att: 5.528
 FC Gold Pride             4-0 Philadelphia Independence
   (Sinclair 16, 53, Wilson 28, Marta 90)
 
@@ -792,13 +792,13 @@ Champions: Charleston Battery
 
 ▪ Conference Semifinals ▪
 Portland U23   2-1 Hollywood
-Kitsap         1-1 Ventura County  [5-3 PK]
+Kitsap         1-1 Ventura County  (5-3 pen)
 Ottawa         2-0 Newark
 Reading        2-1 Portland P
 Thunder Bay    1-0 Forest City
 Michigan       2-0 Rochester T
-Baton Rouge    1-1 Laredo          [6-5 PK]
-Houston L      2-2 Mississippi     [6-5 PK]
+Baton Rouge    1-1 Laredo          (6-5 pen)
+Houston L      2-2 Mississippi     (6-5 pen)
 
 ▪ Conference Finals ▪
 Portland U23   2-1 Kitsap
@@ -811,9 +811,9 @@ Portland U23   2-1 Reading
 Thunder Bay    2-1 Baton Rouge
 
 ▪ Third Place Match ▪
-Baton Rouge    2-2 Reading         [4-2 PK]
+Baton Rouge    2-2 Reading         (4-2 pen)
 
-Championship Final
+▪ Championship Final ▪
 Portland U23   4-1 Thunder Bay
 
 Champions: Portland Timbers U23's
@@ -871,7 +871,7 @@ Divisional Playoffs
 Sacramento     6-3 Bay Area
 San Diego Boca 4-0 San Jose
 
-Divisional Finals
+▪ Divisional Finals ▪
 Lehigh Valley  bt  New York Red Bull
 Sacramento     bt  San Diego Boca
 
@@ -882,7 +882,7 @@ Chattanooga    2-0 Madison
 ▪ Third Place Playoff ▪
 Lehigh Valley  3-1 Madison
 
-Championship Final
+▪ Championship Final ▪
 Sacramento     3-1 Chattanooga
 
 Champions: Sacramento Gold

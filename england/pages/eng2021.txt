@@ -794,12 +794,12 @@ Chelsea                 2-0 Shefffield United
 Leicester City          3-1 Manchester United
 
 ▪ Semifinals ▪
-_ Apr 17 _, London
+_ Apr 17 _ @ London
 Chelsea                 1-0 Manchester City
-_ Apr 18 _, London
+_ Apr 18 _ @ London
 Leicester City          1-0 Southampton
 
-▪ Final ▪  May 15, London
+▪ Final ▪  May 15 @ London
 Chelsea                 0-1 Leicester City
 
 
@@ -816,7 +816,7 @@ Chelsea                 0-1 Leicester City
 <!-- $table3$ -->
 
 
-Promotion Playoff  ‹§2prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -850,7 +850,7 @@ Brentford     2-0 Swansea
 <!-- $table4$ -->
 
 
-Promotion Playoff  ‹§3prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -883,7 +883,7 @@ Blackpool     2-1 Lincoln
 <!-- $table5$ -->
 
 
-Promotion Playoff  ‹§4prom›
+▪ Promotion Playoff ▪
 
 ▪ Semifinals ▪
 
@@ -901,7 +901,7 @@ Forest Green  4-3 Newport       (aet)
 Morecambe     1-1 Tranmere
   (Wildig 9; Vaughan 53)
 
-▪ Final ▪  May 31, Wembey; att: 9,083
+▪ Final ▪  May 31 @ Wembey; att: 9,083
 Morecambe     1-0 Newport       (aet)
   (Mendes Gomes 107pen)
 
@@ -922,7 +922,7 @@ Morecambe     1-0 Newport       (aet)
 NB: King's Lynn Town and Barnet reprieved from relegation as no clubs were
     promoted from the sixth level (where the season was abandoned and voided)
 
-Promotion Playoff  ‹§5prom›
+▪ Promotion Playoff ▪
 
 ▪ Round 1 ▪
 
@@ -941,7 +941,7 @@ _ Jun 13 _
 Torquay       4-2 Notts County  (aet)
   (Wright 1, 48, Hall 102, Money 105pen; Rodrigues 39, Chicksen 51)
 
-▪ Final ▪  Jun 20, Ashton Gate, Bristol; att: 6,606
+▪ Final ▪  Jun 20 @ Ashton Gate, Bristol; att: 6,606
 Torquay       1-1 Hartlepool    (aet, 4-5 pen)
   (Covolan Cauagnari 90+5; Armstrong 35)
 

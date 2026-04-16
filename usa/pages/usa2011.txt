@@ -52,7 +52,7 @@ NB: top-3 of both conferences qualified for conference semifinals; and 4 next be
 
 ▪ Championship Playoff ▪
 
-Wild Card Games  ‹§wcard›
+▪ Wild Card Games ▪
 _ Oct 26 _
 FC Dallas              0-2 New York Red Bulls
 _ Oct 27 _
@@ -61,7 +61,7 @@ Colorado Rapids        1-0 Columbus Crew
 NB: New York Red Bulls enter ‹Western Semifinals, see §wsemi›;
     Colorado Rapids enter ‹Eastern Semifinals, see §esemi›
 
-Eastern Semifinals  ‹§esemi›
+▪ Eastern Semifinals ▪
 
 ▪ First Legs ▪  Oct 30
 Philadelphia Union     1-2 Houston Dynamo
@@ -73,14 +73,14 @@ Sporting Kansas City   2-0 Colorado Rapids
 _ Nov 3 _
 Houston Dynamo         1-0 Philadelphia Union
 
-Eastern Conference Final   ‹§efinal›
+▪ Eastern Conference Final ▪
 
 _ Nov 6 _
 Sporting Kansas City   0-2 Houston Dynamo
 
 NB: Houston Dynamo to ‹MLS Cup 2011, see §mlscup›
 
-Western Semifinals  ‹§wsemi›
+▪ Western Semifinals ▪
 
 ▪ First Legs ▪
 _ Oct 29 _
@@ -94,7 +94,7 @@ Seattle Sounders       2-0 Real Salt Lake
 _ Nov 3 _
 Los Angeles Galaxy     2-1 New York Red Bulls
 
-Western Conference Final   ‹§wfinal›
+▪ Western Conference Final ▪
 
 _ Nov 6 _
 Los Angeles Galaxy     3-1 Real Salt Lake
@@ -102,7 +102,7 @@ Los Angeles Galaxy     3-1 Real Salt Lake
 NB: Los Angeles Galaxy to ‹MLS Cup 2011, see §mlscup›
 
 
-MLS Cup 2011  ‹§mlscup›
+▪ MLS Cup 2011 ▪
 
 _ Nov 20 _ @ Home Depot Center, Carson City, California
 Los Angeles Galaxy     1-0 Houston Dynamo

@@ -1163,9 +1163,9 @@ Tranmere Rovers          2-3 Newcastle United
    Ferguson 59)
 
 ▪ Semifinals ▪
-_ Apr 2 _, Wembley
+_ Apr 2 _ @ Wembley
 Bolton Wanderers         0-0 Aston Villa              (aet, 1-4 pen)
-_ Apr 9 _, Wembley
+_ Apr 9 _ @ Wembley
 Newcastle United         1-2 Chelsea
   (Robert Lee 66; Gustavo Poyet 17, 72)
 
@@ -1349,7 +1349,7 @@ Leicester City          1-0  Aston Villa
   (Matt Elliott 45)
 
 
-▪ Final ▪  Feb 27, London
+▪ Final ▪  Feb 27 @ London
 Leicester City          2-1 Tranmere Rovers
   (Matt Elliott 29, 81; David Kelly 78)
   [red card: Clint Hill (Tranmere) 64]
@@ -2268,7 +2268,7 @@ West Bromwich Albion      2-0   Charlton Athletic
 
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ First Legs ▪
 _ May 13 _
@@ -3133,7 +3133,7 @@ Wrexham             1-0   Gillingham
 <!-- $table6$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ First Legs ▪  May 13
 Stoke City          3-2   Gillingham
@@ -3959,7 +3959,7 @@ Torquay United             1-2   Northampton Town
 <!-- $table8$ -->
 
 
-Promotion Playoffs
+▪ Promotion Playoffs ▪
 
 ▪ First Legs ▪  May 13
 Hartlepool United          0-2   Darlington
