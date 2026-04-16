@@ -1,0 +1,800 @@
+  <!--
+     source: https://rsssf.org/tablesi/ital2022.html
+    -->
+  
+
+
+== Italy 2021/22
+
+
+
+
+
+==== Serie A  ‹§seriea›
+
+<!-- $table1$ -->
+
+
+▪ Round 1 ▪
+_ Aug 21 _
+Inter           4-0 Genoa
+Hellas Verona   2-3 Sassuolo
+Torino          1-2 Atalanta
+Empoli          1-3 Lazio
+_ Aug 22 _
+Udinese         2-2 Juventus
+Bologna         3-2 Salernitana
+Roma            3-1 Fiorentina
+Napoli          2-0 Venezia
+_ Aug 23 _
+Cagliari        2-2 Spezia
+Sampdoria       0-1 Milan
+
+▪ Round 2 ▪
+_ Aug 27 _
+Udinese         3-0 Venezia
+Hellas Verona   1-3 Inter
+_ Aug 28 _
+Atalanta        0-0 Bologna
+Lazio           6-1 Spezia
+Fiorentina      2-1 Torino
+Juventus        0-1 Empoli
+_ Aug 29 _
+Sassuolo        0-0 Sampdoria
+Genoa           1-2 Napoli
+Salernitana     0-4 Roma
+Milan           4-1 Cagliari
+
+▪ Round 3 ▪
+_ Sep 11 _
+Empoli          1-2 Venezia
+Napoli          2-1 Juventus
+Atalanta        1-2 Fiorentina
+_ Sep 12 _
+Sampdoria       2-2 Inter
+Spezia          0-1 Udinese
+Cagliari        2-3 Genoa
+Torino          4-0 Salernitana
+Milan           2-0 Lazio
+Roma            2-1 Sassuolo
+_ Sep 13 _
+Bologna         1-0 Hellas Verona
+
+▪ Round 4 ▪
+_ Sep 17 _
+Sassuolo        0-1 Torino
+_ Sep 18 _
+Genoa           1-2 Fiorentina
+Inter           6-1 Bologna
+Salernitana     0-1 Atalanta
+_ Sep 19 _
+Empoli          0-3 Sampdoria
+Venezia         1-2 Spezia
+Hellas Verona   3-2 Roma
+Lazio           2-2 Cagliari
+Juventus        1-1 Milan
+_ Sep 20 _
+Udinese         0-4 Napoli
+
+▪ Round 5 ▪
+_ Sep 21 _
+Bologna         2-2 Genoa
+Atalanta        2-1 Sassuolo
+Fiorentina      1-3 Inter
+_ Sep 22 _
+Salernitana     2-2 Hellas Verona
+Spezia          2-3 Juventus
+Milan           2-0 Venezia
+Cagliari        0-2 Empoli
+_ Sep 23 _
+Sampdoria       0-4 Napoli
+Torino          1-1 Lazio
+Roma            1-0 Udinese
+
+▪ Round 6 ▪
+_ Sep 25 _
+Spezia          1-2 Milan
+Inter           2-2 Atalanta
+Genoa           3-3 Hellas Verona
+_ Sep 26 _
+Juventus        3-2 Sampdoria
+Empoli          4-2 Bologna
+Sassuolo        1-0 Salernitana
+Udinese         0-1 Fiorentina
+Lazio           3-2 Roma
+Napoli          2-0 Cagliari
+_ Sep 27 _
+Venezia         1-1 Torino
+
+▪ Round 7 ▪
+_ Oct 1 _
+Cagliari        1-1 Venezia
+_ Oct 2 _
+Salernitana     1-0 Genoa
+Torino          0-1 Juventus
+Sassuolo        1-2 Inter
+_ Oct 3 _
+Bologna         3-0 Lazio
+Hellas Verona   4-0 Spezia
+Sampdoria       3-3 Udinese
+Roma            2-0 Empoli
+Fiorentina      1-2 Napoli
+Atalanta        2-3 Milan
+
+▪ Round 8 ▪
+_ Oct 16 _
+Spezia          2-1 Salernitana
+Lazio           3-1 Inter
+Milan           3-2 Hellas Verona
+_ Oct 17 _
+Cagliari        3-1 Sampdoria
+Empoli          1-4 Atalanta
+Genoa           2-2 Sassuolo
+Udinese         1-1 Bologna
+Napoli          1-0 Torino
+Juventus        1-0 Roma
+_ Oct 18 _
+Venezia         1-0 Fiorentina
+
+▪ Round 9 ▪
+_ Oct 22 _
+Torino          3-2 Genoa
+Sampdoria       2-1 Spezia
+_ Oct 23 _
+Salernitana     2-4 Empoli
+Sassuolo        3-1 Venezia
+Bologna         2-4 Milan
+_ Oct 24 _
+Atalanta        1-1 Udinese
+Fiorentina      3-0 Cagliari
+Hellas Verona   4-1 Lazio
+Roma            0-0 Napoli
+Inter           1-1 Juventus
+
+▪ Round 10 ▪
+_ Oct 26 _
+Spezia          1-1 Genoa
+Venezia         1-2 Salernitana
+Milan           1-0 Torino
+_ Oct 27 _
+Juventus        1-2 Sassuolo
+Sampdoria       1-3 Atalanta
+Udinese         1-1 Hellas Verona
+Cagliari        1-2 Roma
+Empoli          0-2 Inter
+Lazio           1-0 Fiorentina
+_ Oct 28 _
+Napoli          3-0 Bologna
+
+▪ Round 11 ▪
+_ Oct 30 _
+Atalanta        2-2 Lazio
+Hellas Verona   2-1 Juventus
+Torino          3-0 Sampdoria
+_ Oct 31 _
+Inter           2-0 Udinese
+Fiorentina      3-0 Spezia
+Genoa           0-0 Venezia
+Sassuolo        1-2 Empoli
+Salernitana     0-1 Napoli
+Roma            1-2 Milan
+_ Nov 1 _
+Bologna         2-0 Cagliari
+
+▪ Round 12 ▪
+_ Nov 5 _
+Empoli          2-2 Genoa
+_ Nov 6 _
+Spezia          1-0 Torino
+Juventus        1-0 Fiorentina
+Cagliari        1-2 Atalanta
+_ Nov 7 _
+Venezia         3-2 Roma
+Sampdoria       1-2 Bologna
+Udinese         3-2 Sassuolo
+Napoli          1-1 Hellas Verona
+Lazio           3-0 Salernitana
+Milan           1-1 Inter
+
+▪ Round 13 ▪
+_ Nov 20 _
+Atalanta        5-2 Spezia
+Lazio           0-2 Juventus
+Fiorentina      4-3 Milan
+_ Nov 21 _
+Sassuolo        2-2 Cagliari
+Bologna         0-1 Venezia
+Salernitana     0-2 Sampdoria
+Inter           3-2 Napoli
+Genoa           0-2 Roma
+_ Nov 22 _
+Hellas Verona   2-1 Empoli
+Torino          2-1 Udinese
+
+▪ Round 14 ▪
+_ Nov 26 _
+Cagliari        1-1 Salernitana
+_ Nov 27 _
+Sampdoria       3-1 Hellas Verona
+Empoli          2-1 Fiorentina
+Juventus        0-1 Atalanta
+Venezia         0-2 Inter
+_ Nov 28 _
+Udinese         0-0 Genoa
+Milan           1-3 Sassuolo
+Spezia          0-1 Bologna
+Roma            1-0 Torino
+Napoli          4-0 Lazio
+
+▪ Round 15 ▪
+_ Nov 30 _
+Fiorentina      3-1 Sampdoria
+Atalanta        4-0 Venezia
+Hellas Verona   0-0 Cagliari
+Salernitana     0-2 Juventus
+_ Dec 1 _
+Inter           2-0 Spezia
+Bologna         1-0 Roma
+Genoa           0-3 Milan
+Sassuolo        2-2 Napoli
+_ Dec 2 _
+Torino          2-2 Empoli
+Lazio           4-4 Udinese
+
+▪ Round 16 ▪
+_ Dec 4 _
+Milan           2-0 Salernitana
+Roma            0-3 Inter
+Napoli          2-3 Atalanta
+_ Dec 5 _
+Bologna         2-3 Fiorentina
+Venezia         3-4 Hellas Verona
+Spezia          2-2 Sassuolo
+Sampdoria       1-3 Lazio
+Juventus        2-0 Genoa
+_ Dec 6 _
+Empoli          3-1 Udinese
+Cagliari        1-1 Torino
+
+▪ Round 17 ▪
+_ Dec 10 _
+Genoa           1-3 Sampdoria
+_ Dec 11 _
+Fiorentina      4-0 Salernitana
+Venezia         1-1 Juventus
+Udinese         1-1 Milan
+_ Dec 12 _
+Torino          2-1 Bologna
+Hellas Verona   1-2 Atalanta
+Sassuolo        2-1 Lazio
+Napoli          0-1 Empoli
+Inter           4-0 Cagliari
+_ Dec 13 _
+Roma            2-0 Spezia
+
+▪ Round 18 ▪
+_ Dec 17 _
+Lazio           3-1 Genoa
+Salernitana     0-5 Inter
+_ Dec 18 _
+Atalanta        1-4 Roma
+Bologna         0-2 Juventus
+Cagliari        0-4 Udinese
+_ Dec 19 _
+Fiorentina      2-2 Sassuolo
+Spezia          1-1 Empoli
+Sampdoria       1-1 Venezia
+Torino          1-0 Hellas Verona
+Milan           0-1 Napoli
+
+▪ Round 19 ▪
+_ Dec 21 _
+Genoa           0-0 Atalanta
+Juventus        2-0 Cagliari
+_ Dec 22 _
+Sassuolo        0-3 Bologna
+Venezia         1-3 Lazio
+Roma            1-1 Sampdoria
+Hellas Verona   1-1 Fiorentina
+Inter           1-0 Torino
+Empoli          2-4 Milan
+Napoli          0-1 Spezia
+_ Apr 20 _
+Udinese         0-1 Salernitana
+
+▪ Round 20 ▪
+_ Jan 6 _
+Sampdoria       1-2 Cagliari
+Spezia          1-2 Hellas Verona
+Lazio           3-3 Empoli
+Sassuolo        1-1 Genoa
+Milan           3-1 Roma
+Juventus        1-1 Napoli
+_ Apr 27 _
+Fiorentina      0-4 Udinese
+Atalanta        4-4 Torino
+Bologna         2-1 Inter
+_ May 5 _
+Salernitana     2-1 Venezia
+
+▪ Round 21 ▪
+_ Jan 9 _
+Venezia         0-3 Milan
+Empoli          1-5 Sassuolo
+Udinese         2-6 Atalanta
+Napoli          1-0 Sampdoria
+Genoa           0-1 Spezia
+Roma            3-4 Juventus
+Hellas Verona   1-2 Salernitana
+Inter           2-1 Lazio
+_ Jan 10 _
+Torino          4-0 Fiorentina
+_ Jan 11 _
+Cagliari        2-1 Bologna
+
+▪ Round 22 ▪
+_ Jan 15 _
+Sampdoria       1-2 Torino
+Salernitana     0-3 Lazio
+Juventus        2-0 Udinese
+_ Jan 16 _
+Sassuolo        2-4 Hellas Verona
+Venezia         1-1 Empoli
+Roma            1-0 Cagliari
+Atalanta        0-0 Inter
+_ Jan 17 _
+Milan           1-2 Spezia
+Bologna         0-2 Napoli
+Fiorentina      6-0 Genoa
+
+▪ Round 23 ▪
+_ Jan 21 _
+Hellas Verona   2-1 Bologna
+_ Jan 22 _
+Genoa           0-0 Udinese
+Inter           2-1 Venezia
+Lazio           0-0 Atalanta
+_ Jan 23 _
+Cagliari        1-1 Fiorentina
+Napoli          4-1 Salernitana
+Spezia          1-0 Sampdoria
+Torino          1-1 Sassuolo
+Empoli          2-4 Roma
+Milan           0-0 Juventus
+
+▪ Round 24 ▪
+_ Feb 5 _
+Roma            0-0 Genoa
+Inter           1-2 Milan
+Fiorentina      0-3 Lazio
+_ Feb 6 _
+Atalanta        1-2 Cagliari
+Venezia         0-2 Napoli
+Sampdoria       4-0 Sassuolo
+Bologna         0-0 Empoli
+Udinese         2-0 Torino
+Juventus        2-0 Hellas Verona
+_ Feb 7 _
+Salernitana     2-2 Spezia
+
+▪ Round 25 ▪
+_ Feb 12 _
+Lazio           3-0 Bologna
+Napoli          1-1 Inter
+Torino          1-2 Venezia
+_ Feb 13 _
+Milan           1-0 Sampdoria
+Hellas Verona   4-0 Udinese
+Genoa           1-1 Salernitana
+Empoli          1-1 Cagliari
+Sassuolo        2-2 Roma
+Atalanta        1-1 Juventus
+_ Feb 14 _
+Spezia          1-2 Fiorentina
+
+▪ Round 26 ▪
+_ Feb 18 _
+Juventus        1-1 Torino
+_ Feb 19 _
+Sampdoria       2-0 Empoli
+Roma            2-2 Hellas Verona
+Salernitana     2-2 Milan
+_ Feb 20 _
+Fiorentina      1-0 Atalanta
+Venezia         1-1 Genoa
+Inter           0-2 Sassuolo
+Udinese         1-1 Lazio
+_ Feb 21 _
+Cagliari        1-1 Napoli
+Bologna         2-1 Spezia
+
+▪ Round 27 ▪
+_ Feb 25 _
+Milan           1-1 Udinese
+Genoa           0-0 Inter
+_ Feb 26 _
+Salernitana     1-1 Bologna
+Empoli          2-3 Juventus
+Sassuolo        2-1 Fiorentina
+_ Feb 27 _
+Torino          1-2 Cagliari
+Hellas Verona   3-1 Venezia
+Spezia          0-1 Roma
+Lazio           1-2 Napoli
+_ Feb 28 _
+Atalanta        4-0 Sampdoria
+
+▪ Round 28 ▪
+_ Mar 4 _
+Inter           5-0 Salernitana
+_ Mar 5 _
+Udinese         2-1 Sampdoria
+Roma            1-0 Atalanta
+Cagliari        0-3 Lazio
+_ Mar 6 _
+Genoa           0-0 Empoli
+Bologna         0-0 Torino
+Fiorentina      1-1 Hellas Verona
+Venezia         1-4 Sassuolo
+Juventus        1-0 Spezia
+Napoli          0-1 Milan
+
+▪ Round 29 ▪
+_ Mar 12 _
+Salernitana     2-2 Sassuolo
+Spezia          2-0 Cagliari
+Sampdoria       1-3 Juventus
+Milan           1-0 Empoli
+_ Mar 13 _
+Fiorentina      1-0 Bologna
+Hellas Verona   1-2 Napoli
+Atalanta        0-0 Genoa
+Udinese         1-1 Roma
+Torino          1-1 Inter
+_ Mar 14 _
+Lazio           1-0 Venezia
+
+▪ Round 30 ▪
+_ Mar 18 _
+Sassuolo        4-1 Spezia
+Genoa           1-0 Torino
+_ Mar 19 _
+Napoli          2-1 Udinese
+Inter           1-1 Fiorentina
+Cagliari        0-1 Milan
+_ Mar 20 _
+Venezia         0-2 Sampdoria
+Empoli          1-1 Hellas Verona
+Juventus        2-0 Salernitana
+Roma            3-0 Lazio
+Bologna         0-1 Atalanta
+
+▪ Round 31 ▪
+_ Apr 2 _
+Spezia          1-0 Venezia
+Lazio           2-1 Sassuolo
+Salernitana     0-1 Torino
+_ Apr 3 _
+Fiorentina      1-0 Empoli
+Atalanta        1-3 Napoli
+Udinese         5-1 Cagliari
+Sampdoria       0-1 Roma
+Juventus        0-1 Inter
+_ Apr 4 _
+Hellas Verona   1-0 Genoa
+Milan           0-0 Bologna
+
+▪ Round 32 ▪
+_ Apr 9 _
+Empoli          0-0 Spezia
+Inter           2-0 Hellas Verona
+Cagliari        1-2 Juventus
+_ Apr 10 _
+Genoa           1-4 Lazio
+Napoli          2-3 Fiorentina
+Sassuolo        2-1 Atalanta
+Venezia         1-2 Udinese
+Roma            2-1 Salernitana
+Torino          0-0 Milan
+_ Apr 11 _
+Bologna         2-0 Sampdoria
+
+▪ Round 33 ▪
+_ Apr 15 _
+Spezia          1-3 Inter
+Milan           2-0 Genoa
+_ Apr 16 _
+Cagliari        1-0 Sassuolo
+Sampdoria       1-2 Salernitana
+Udinese         4-1 Empoli
+Fiorentina      1-0 Venezia
+Juventus        1-1 Bologna
+Lazio           1-1 Torino
+_ Apr 18 _
+Napoli          1-1 Roma
+Atalanta        1-2 Hellas Verona
+
+▪ Round 34 ▪
+_ Apr 23 _
+Torino          2-1 Spezia
+Venezia         1-3 Atalanta
+Inter           3-1 Roma
+Hellas Verona   1-1 Sampdoria
+_ Apr 24 _
+Salernitana     2-1 Fiorentina
+Bologna         2-2 Udinese
+Empoli          3-2 Napoli
+Genoa           1-0 Cagliari
+Lazio           1-2 Milan
+_ Apr 25 _
+Sassuolo        1-2 Juventus
+
+▪ Round 35 ▪
+_ Apr 30 _
+Cagliari        1-2 Hellas Verona
+Napoli          6-1 Sassuolo
+Sampdoria       1-0 Genoa
+Spezia          3-4 Lazio
+_ May 1 _
+Juventus        2-1 Venezia
+Milan           1-0 Fiorentina
+Empoli          1-3 Torino
+Udinese         1-2 Inter
+Roma            0-0 Bologna
+_ May 2 _
+Atalanta        1-1 Salernitana
+
+▪ Round 36 ▪
+_ May 6 _
+Inter           4-2 Empoli
+Genoa           2-1 Juventus
+_ May 7 _
+Torino          0-1 Napoli
+Sassuolo        1-1 Udinese
+Lazio           2-0 Sampdoria
+_ May 8 _
+Spezia          1-3 Atalanta
+Venezia         4-3 Bologna
+Salernitana     1-1 Cagliari
+Hellas Verona   1-3 Milan
+_ May 9 _
+Fiorentina      2-0 Roma
+
+▪ Round 37 ▪
+_ May 14 _
+Empoli          1-1 Salernitana
+Hellas Verona   0-1 Torino
+Udinese         2-3 Spezia
+Roma            1-1 Venezia
+_ May 15 _
+Bologna         1-3 Sassuolo
+Napoli          3-0 Genoa
+Milan           2-0 Atalanta
+Cagliari        1-3 Inter
+_ May 16 _
+Sampdoria       4-1 Fiorentina
+Juventus        2-2 Lazio
+
+▪ Round 38 ▪
+_ May 20 _
+Torino          0-3 Roma
+_ May 21 _
+Genoa           0-1 Bologna
+Atalanta        0-1 Empoli
+Fiorentina      2-0 Juventus
+Lazio           3-3 Hellas Verona
+_ May 22 _
+Spezia          0-3 Napoli
+Inter           3-0 Sampdoria
+Sassuolo        0-3 Milan
+Salernitana     0-4 Udinese
+Venezia         0-0 Cagliari
+
+<!-- $table2$ -->
+
+
+
+
+
+
+
+==== Coppa Italia  ‹§coppa›
+
+▪ Preliminary Round ▪
+_ Aug 7 _
+Como            2-2 Catanzaro       (aet, 3-4 pen)
+  (Chajia 32, 56; Carlini 52, Verna 88)
+_ Aug 8 _
+Ternana         1-1 Avellino        (aet, 4-3 pen)
+  (Falletti 63; D'Angelo)
+Perugia         1-0 Südtirol
+  (Carretta 47)
+Padova          0-2 Alessandria     (aet)
+  (Corazza 102, Orlando 106)
+
+▪ Round 1 ▪
+_ Aug 13 _
+Pordenone       1-3 Spezia
+  (Folorunsho 51pen; Erlic 39, Nikolaou 45+3, Colley 83pen)
+Genoa           3-2 Perugia
+  (Criscito 26pen, Chichizola 41og, Kallon 88; Carretta 2, Lisi 10)
+Udinese         3-1 Ascoli
+  (Pereyra 11, 55, Molina 53; D'Orazio 90+2)
+Fiorentina      4-0 Cosenza
+  (Vlahovic 4, 45+4, Gonzalez 37, Venuti 51)
+_ Aug 14 _
+Benevento       2-1 Spal            (aet)
+  (Improta 32, Moncini 120+5pen; Moncini 90+5og)
+Cittadella      2-1 Monza
+  (Okwonkwo 8, Tounkara 40; Carlos Augusto 26)
+Verona          3-0 Catanzaro
+  (Gunter 23, Fazio 33og, Lazovic 42)
+Cagliari        3-1 Pisa
+  (Marin 28, Caracciolo 36og, Deiola 45+3; Masucci 67)
+_ Aug 15 _
+Empoli          4-2 Vicenza
+  (Bajrami 11, Haas 30, Mancuso 37, Crociata 88; Dalmonte 39, Lanzafame 56)
+Parma           1-3 Lecce
+  (Brunetta 7; Coda 9, 76, Tuia 40)
+Venezia         1-1 Frosinone       (aet, 8-7 pen)
+  (Di Mariano 101pen; Gori 93)
+Torino          0-0 Cremonese       (aet, 4-1 pen)
+_ Aug 16 _
+Crotone         2-2 Brescia         (aet, 4-2 pen)
+  (Vulic 26, Mulattieri 77; Van de Looi 46, Bajic 67)
+Bologna         4-5 Ternana
+  (Dominguez 38, Arnautovic 56, Soriano 58, Orsolini 76pen; Agazzi 6,
+   Donnarumma 21, Peralta 40, 54, Falletti 50pen)
+Salernitana     2-0 Reggina
+  (Bonazzoli 45+2, 55)
+Sampdoria       3-2 Alessandria
+  (Quagliarella 28, Gabbiadini 47, Thorsby 52; Chiarello 8, Corazza 45pen)
+
+▪ Round 2 ▪
+_ Dec 14 _
+Venezia         3-1 Ternana
+  (Heymans 49, Crnigoj 66, Forte 81; Pettinari 53)
+Udinese         4-0 Crotone
+  (Pussetto 20, 62, De Maio 28, Success 41pen)
+Genoa           1-0 Salerniatana
+  (Ekuban 76)
+_ Dec 15 _
+Verona          3-4 Empoli
+  (Cancellieri 18, Ilic 86, Ragusa 88; La Mantia 15, Mancuso 66pen, 70,
+   Bajrami 74)
+Cagliari        3-1 Cittadella
+  (Deiola 16, Ceter Valencia 40, Gaston Pereiro 64; Donnarumma 85)
+Fiorentina      2-1 Benevento
+  (Milenkovic 19, Sottil 47; Moncini 51)
+_ Dec 16 _
+Spezia          0-2 Lecce
+  (Listkowski 43, Calabresi 55)
+Sampdoria       2-1 Torino
+  (Quagliarella 16pen, Verre 60; Mandragora 54pen)
+
+▪ Round 3 ▪
+_ Jan 12 _
+Atalanta        2-0 Venezia
+  (Muriel 12, Maehle 88)
+_ Jan 13 _
+Napoli          2-5 Fiorentina      (aet)
+  (Mertens 44, Petagna 90+5; Vlahovic 41, Biraghi 57, Venuti 105, Piatek 108,
+   Maleh 119)
+Milan           3-1 Genoa           (aet)
+  (Giroud 74, Rafael Leao 102, Saelemaekers 112; Ostigard 17)
+_ Jan 18 _
+Lazio           1-0 Udinese         (aet)
+  (Immobile 106)
+Juventus        4-1 Sampdoria
+  (Cuadrado 25, Rugani 52, Dybala 67, Morata 77pen; Conti 63)
+_ Jan 19 _
+Sassuolo        1-0 Cagliari
+  (Harroui 18)
+Inter           3-2 Empoli          (aet)
+  (Alexis Sanchez 13, Ranocchia 90+1, Sensi 104; Bajrami 61, Radu 76og)
+_ Jan 20 _
+Roma            3-1 Lecce
+  (Kumbulla 40, Abraham 54, Shomurodov 81; Calabresi 14)
+
+▪ Quarterfinals ▪
+_ Feb 8 _
+Inter           2-0 Roma
+  (Dzeko 2, Alexis Sanchez 68)
+_ Feb 9 _
+Milan           4-0 Lazio
+  (Rafael Leao 24, Giroud 41, 45+1, Kessié 79)
+_ Feb 10 _
+Atalanta        2-3 Fiorentina
+  (Zappacosta 30, Boga 56, Piatek 9pen, 71, Milenkovic 90+4)
+Juventus        2-1 Sassuolo
+  (Dybala 3, Tressoldi 88og; Traorè 24)
+
+▪ Semifinals ▪
+
+▪ First Legs ▪
+_ Mar 1 _
+Milan           0-0 Inter
+_ Mar 2 _
+Fiorentina      0-1 Juventus
+  (Venuti 90+1og)
+
+▪ Second Legs ▪
+_ Apr 19 _
+Inter           3-0 Milan
+  (Lautaro Martinez 4, 40, Gosens 82)
+_ Apr 20 _
+Juventus        2-0 Fiorentina
+  (Bernardeschi 32, Danilo 90+4)
+
+▪ Final ▪  May 11 @ Roma
+Juventus        2-4 Inter           (aet)
+  (Alex Sandro 50, Vlahovic 52; Barella 7, Calhanoglu 80pen, Perisic 99pen, 102)
+
+Juventus: Perin, Danilo (41 Morata), De Ligt, Chiellini (84 Arthur), Alex Sandro (99 Pellegrini),
+  Rabiot, Zakaria (66 Locatelli), Cuadrado, Dybala (99 Kean), Bernardeschi (66 Bonucci), Vlahovic.
+  Tr.: Allegri
+Inter: Handanovic, Skriniar, De Vrij, D'Ambrosio (63 Dimarco), Darmian (63 Dumfries), Barella,
+  Brozovic, Calhanoglu (90 Vidal), Perisic, Lautaro (90 Sanchez), Dzeko (63 Correa). Tr.: Inzaghi S.
+
+
+
+
+
+
+==== Serie B  ‹§serieb›
+
+‹Regular Season, see §2reg› | ‹Promotion Playoff, see §2prom› | ‹Relegation Playoff, see §2releg›
+
+▪ Regular Season ▪
+
+<!-- $table3$ -->
+
+
+Promoted from Serie C: FC Südtirol (Bolzano), Modena FC 2018, SSC Bari, Palermo FC
+
+▪ Promotion Playoff ▪
+
+▪ Round 1 ▪
+_ May 13 _
+Ascoli          0-1 Benevento
+_ May 14 _
+Brescia         3-2 Perugia         (aet)
+
+▪ Semifinals ▪
+
+▪ First Legs ▪
+_ May 17 _
+Benevento       1-0 Pisa
+_ May 18 _
+Brescia         1-2 Monza
+
+▪ Second Legs ▪
+_ May 20 _
+Pisa            1-0 Benevento
+_ May 21 _
+Monza           2-1 Brescia
+
+NB: Pisa qualified on better record regular season
+
+▪ Final ▪
+
+▪ First Leg ▪  May 26
+Monza           2-1 Pisa
+
+▪ Second Leg ▪  May 29
+Pisa            3-4 Monza           (aet)
+
+▪ Relegation Playoff ▪
+
+▪ First Leg ▪  May 12
+Vicenza         1-0 Cosenza
+
+▪ Second Leg ▪  May 20
+Cosenza         2-0 Vicenza
+
+
+
+
+
+<!-- $about$ -->
+
