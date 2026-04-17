@@ -2150,7 +2150,52 @@ Liguilla de Ascenso
 
 ▪ First Round ▪  Nov 7-11
 Group 1
-<!-- $table47$ - CD Chetumal -->
+CD Chetumal                       1-1  4-0 FC Itzaes "B"
+Jaguares de la 48                 2-0  2-3 Delfines de la UNACAR
+Group 2
+CD Conejos de Tuxpam              2-0  2-2 Universidad del Golfo de Mexico
+Heroes de Veracruz                0-1  3-2 CD Cruz Azul Lagunas            (3-4pen)
+Group 3
+Real San Cosme FC                 1-0  4-0 Linces de Oaxaca
+Cañeros de CD Zacatepetl          0-1  1-1 Atletico Cuernavaca
+Group 4
+CD Venados                        1-0  1-1 Alamos FC
+CD Coyotes Neza                   1-0  3-2 Cobijeros de Chiconcuac AC
+Group 5
+Universidad del Fútbol "B"        3-3  1-0 Real Olmeca Sport
+Potros de Hierro FC               0-1  0-0 Santiago Tulantepec
+Group 6
+Teca Huixquilucan                 0-3  6-1 Delfines de la UGM
+Atletico UEFA                     2-0  2-2 Cruz Azul Xochimilco
+Group 7
+CD Mineros Real Hidalgo           1-1  3-1 Deportivo Tejupilco
+Deportivo Metepec                 2-0  1-1 Zitacuaro CF
+Group 8
+Atletico de Comonfort             1-1  1-1 Peces Blancos de Patzcuaro      (5-4pen)
+Group 9
+Real Cavadas AC                   2-2  1-1 Atletico San Francisco          (2-4pen)
+Atletico ECCA de León             0-4  1-1 Reboceritos de CF La Piedad
+Group 10
+CF Aves Blancas de Jalisco        1-2  2-1 CFS Manzanillo "B"              (8-7pen)
+FC Zapotlanejo                    1-1  4-2 Cañeros del Grullo
+Group 11
+Vaqueros de Ixtlan "B"            2-1  3-0 Cañeros de Xalisco
+Vaqueros Nayarit                  3-1  1-2 Cachorros Atotonilco
+Group 12
+Universidad de Monterrey          1-3  2-0 Halcones de Saltillo            (4-5pen)
+Durango Vizcaya FC                1-0  2-1 Durango "B"
+Group 13
+Heroes de Caborca                 2-5  3-1 Diablos Azules de Guasave
+Group 14
+Dorados Fuerzas Básicas           1-1  0-0 Calor de San Pedro              (7-8pen)
+Fifth and Third Place Group
+CD Tezonapa                       0-2  2-3 CD Cozumel
+CF Zapata                         2-1  1-1 CF Texcoco
+Estudiantes de Xalapa             0-0  2-0 CD Atletico Hidalgo
+Mapaches de Nueva Italia          1-1  3-1 Potros de la UAEM "B"
+Universidad Autónoma de Zacatecas 1-4  3-3 Tecos Sayula UAG
+Petroleros de CF Ciudad Madero    0-1  0-0 Cocula Santa Rosalia
+Bachilleres Chihuahua             1-2  1-1 Generales de Navojoa
 
 ▪ Second Round ▪  Nov 14-18
 Zone 1
@@ -2188,7 +2233,10 @@ Diablos Azules de Guasave         3-0  0-1 Reboceritos de CF La Piedad
 Zone 1 [Nov 28-Dec 1]
 Teca Huixquilucan                 2-2  1-4 Universidad del Fútbol "B"
 NB: Universidad del Fútbol "B" cannot qualify to semifinal for using ineligible player
-<!-- $table48$ -->
+Jaguares de la 48                 0-0  1-0 CD Chetumal
+Zone 2 [Nov 29-Dec 2]
+Mapaches de Nueva Italia          1-1  1-1 Atletico de Comonfort           (1-4pen)
+Diablos Azules de Guasave         1-2  1-0 Vaqueros de Ixtlan "B"          (5-4pen)
 
 ▪ Semifinals ▪
 Zone 1 [Dec 5-8]
@@ -2236,33 +2284,33 @@ CF América "C" champion Apertura 2007
 
 Clausura 2008
 
-<!-- $table49$ - Group 1 -->
+<!-- $table47$ - Group 1 -->
 
-<!-- $table50$ - Group 2 -->
+<!-- $table48$ - Group 2 -->
 
-<!-- $table51$ - Group 3 -->
+<!-- $table49$ - Group 3 -->
 
-<!-- $table52$ - Group 4 -->
+<!-- $table50$ - Group 4 -->
 
-<!-- $table53$ - Group 5 -->
+<!-- $table51$ - Group 5 -->
 
-<!-- $table54$ - Group 6 -->
+<!-- $table52$ - Group 6 -->
 
-<!-- $table55$ - Group 7 -->
+<!-- $table53$ - Group 7 -->
 
-<!-- $table56$ - Group 8 -->
+<!-- $table54$ - Group 8 -->
 
-<!-- $table57$ - Group 9 -->
+<!-- $table55$ - Group 9 -->
 
-<!-- $table58$ - Group 10 -->
+<!-- $table56$ - Group 10 -->
 
-<!-- $table59$ - Group 11 -->
+<!-- $table57$ - Group 11 -->
 
-<!-- $table60$ - Group 12 -->
+<!-- $table58$ - Group 12 -->
 
-<!-- $table61$ - Group 13 -->
+<!-- $table59$ - Group 13 -->
 
-<!-- $table62$ - Group 14 -->
+<!-- $table60$ - Group 14 -->
 
 [!] full name Deporticlub Soccer Halcones de Jiménez
 [*] full name Vencedores de Delicias-Dorados Fuerzas Básicas

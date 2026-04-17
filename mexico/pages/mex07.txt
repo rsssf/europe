@@ -2207,70 +2207,74 @@ CF América "C" champion Apertura 2006
 
 Liguilla de Grupo Promocional - Estado Chihuahua
 
-<!-- $table33$ - Final -->
+▪ Final ▪
+Gallos de Pelea de Canal 5      2-2  1-1 Vencedores de Delicias (3-2 pen)
+
+Gallos de Pelea de Canal 5 champion Apertura 2006
+"Grupo Promocional - Estado Chihuahua" cannot promote to Third Level
 
 
 Torneo Clausura 2007
 
-<!-- $table34$ - Group 1 -->
+<!-- $table33$ - Group 1 -->
 
 UNACAR: Universidad Autónoma del Carmen
 * Filial Teams
 
-<!-- $table35$ - Group 2 -->
+<!-- $table34$ - Group 2 -->
 
 UGM: Universidad del Golfo de Mexico
 * Filial Teams
 
-<!-- $table36$ - Group 3 -->
+<!-- $table35$ - Group 3 -->
 
 UAEM: Universidad Autónoma del Estado de Mexico
 CCH: Colegio de Ciencias y Humanidades
 CESU: Centro de Estudios Superiores Universitarios
 * Filial Teams
 
-<!-- $table37$ - Group 4 -->
+<!-- $table36$ - Group 4 -->
 
 * Filial Teams
 
-<!-- $table38$ - Group 5 -->
+<!-- $table37$ - Group 5 -->
 
 * Filial Teams
 
-<!-- $table39$ - Group 6 -->
+<!-- $table38$ - Group 6 -->
 
 BUAP: Benemérita Universidad Autónoma de Puebla
 * Filial Teams
 
-<!-- $table40$ - Group 7 -->
+<!-- $table39$ - Group 7 -->
 
 * Filial Teams
 
-<!-- $table41$ - Group 8 -->
+<!-- $table40$ - Group 8 -->
 
 ECCA: Educación Continua y Compartida de Adultos
 * Filial Teams
 
-<!-- $table42$ - Group 9 -->
+<!-- $table41$ - Group 9 -->
 
 UAG: Universidad Autónoma de Guadalajara
 * Filial Teams
 
-<!-- $table43$ - Group 10 -->
+<!-- $table42$ - Group 10 -->
 
 * Filial Teams
 
-<!-- $table44$ - Group 11 -->
+<!-- $table43$ - Group 11 -->
 
 UAT: Universidad Autónoma de Tamaulipas
 * Filial Teams
 
-<!-- $table45$ - Group 12 -->
+<!-- $table44$ - Group 12 -->
 
 NB: Buhos de Hermosillo, Apertura 2006 champions, play Clausura 2007 with "Filial" Team.
 * Filial Teams
 
-<!-- $table46$ - Grupo Promocional - Estado de Chihuahua -->
+<!-- $table45$ - Grupo Promocional - Estado de Chihuahua -->
 
 Top-5 of each group and 4 best 6th place qualify to Liguilla de Ascenso.
 Top-4 of Grupo Promocional - Estado de Chihuahua qualify to Fase Final.
@@ -2402,7 +2406,9 @@ Necaxa "C" champion Clausura 2007
 
 Liguilla de Grupo Promocional - Estado Chihuahua
 
-<!-- $table47$ - Semifinal -->
+▪ Semifinal ▪
+Gallos de Pelea de Canal 5      0-0  4-2 Bachilleres Chihuahua
+Coyotes del Parral              1-2  1-2 Vencedores de Delicias
 
 ▪ Final ▪  May 5-13
 Vencedores de Delicias          2-1  1-2 Gallos de Pelea de Canal 5 (6-7 pen)

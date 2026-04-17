@@ -1022,7 +1022,9 @@ Toluca            0-0 Santos            (aet, 4-3 pen)
 
 
 
-<!-- $table13$ - Tabla Anual 2009/10  ‹§1agg› -->
+Tabla Anual 2009/10  ‹§1agg›
+
+<!-- $table13$ -->
 
 
 
@@ -2099,7 +2101,8 @@ Group 13
 
 UVM: Universidad del Valle de México
 
-<!-- $table47$ - Group 15 - Promocional -->
+Group 15 - Promocional
+<!-- $table47$ -->
 
 UJED: Universidad Juárez del Estado de Durango
 
